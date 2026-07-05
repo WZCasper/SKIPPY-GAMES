@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-05T18:12:27Z",
+  "generated_at": "2026-07-05T19:25:49Z",
   "uah_to_rub_rate": 1.732343,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 53,
+  "count": 55,
   "games": [
     {
       "id": 4829180,
@@ -163,6 +163,22 @@
       "price_rub": 2800,
       "original_price_rub": null,
       "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 1671210,
+      "title": "DELTARUNE",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1671210/capsule_616x353.jpg",
+      "genres": [
+        "Экшен-РПГ (Action-RPG)",
+        "Японские ролевые игры (JRPG)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1191,
+      "original_price_rub": 1364,
+      "discount_percent": 20,
       "is_free": false
     },
     {
@@ -546,6 +562,24 @@
       "price_rub": 628,
       "original_price_rub": null,
       "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 1374490,
+      "title": "RuneScape: Dragonwilds",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/b6f9281032fa5b46f654e22fcc16566e434d7e00/header_alt_assets_2.jpg?t=1783074967",
+      "genres": [
+        "Песочницы (Sandbox)",
+        "Выживание (Survival)",
+        "Приключения",
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1470,
+      "original_price_rub": 1886,
+      "discount_percent": 30,
       "is_free": false
     },
     {
