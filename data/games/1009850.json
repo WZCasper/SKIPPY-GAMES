@@ -1,0 +1,60 @@
+{
+  "id": 1009850,
+  "title": "OVR Advanced Settings",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1009850/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1009850/library_hero.jpg",
+  "description": "Features• Space Drag: The ability to virtually move yourself in VR based upon your hand position\n\n• Space Turn: The ability to virtually turn yourself based on your controller orientation\n\n• Fix Floor: Ability to quickly set your floor height by placing your controller on the ground\n\n• Push-To-Talk/Push-To-Mute: ability to un-mute/mute your mic on a button press\n\n• Universal Snap/Smooth Turn: Add snap turning/smooth turning to ANY SteamVR game\n\n• Brightness Control: Ability to Simulate different levels of brightness inside your HMD\n\n• Lighthouse Device Pairing: Selectively pair your Lighthouse devices (index controllers, vive wands, vive trackers, tundra trackers, etc.) to your selected wireless Dongle\n\n• Per-App Control Bindings: Create SteamVR bindings for overlay applications to apply on a per-app basis\n\n• Player Height Toggle\n\n• Control audio devices, volumes and mirror devices\n\n• and much much more...\n\nCompatibility and DisclaimersDue to the wide-array of headsets and features, not every Feature will work with every headset.\n\nIf you encounter an issue please reach out via our , or the steam community pages.\n\nIntel ARC GPU users – Dashboard Rendering does not properly work, and you will need to use desktop mode.\n\nSome multi-GPU/Laptop systems will have problems rendering in the Dashboard, and you may have to run the overlay in Desktop Mode.\n\nTrailer Music:\n\"Astra\" By NAND\n\nО программеOVR Advanced Settings is a desktop overlay application for SteamVR, giving you a wide array of settings, and utilities all while in VR.",
+  "description_short": "OVR Advanced Settings is a Dashboard Application for VR, that allows you to access many settings. OVRAS also has a myriad of utility features such as: simulated movement, adding smooth/snap turn to any game, video controls for the headset such as brightness, per-app bindings and much more.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 324,
+  "markup_rub": 500,
+  "price_rub": 824,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009850/ss_e4de26f96c83cda463e8aa001f94c5f3e2d891cb.1920x1080.jpg?t=1715384916",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009850/ss_5989dadfc1653c599f9ba25dfe3c39efaea7691d.1920x1080.jpg?t=1715384916",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009850/ss_627cd73c8a6fa5d2af9eac67dd0224f7ae231a7b.1920x1080.jpg?t=1715384916",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009850/ss_b8334552e45b6d1c92e0b1f564514ca50a884cce.1920x1080.jpg?t=1715384916",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009850/ss_ae91ea63e5f1aefd596778344fe564ae3d7da2ef.1920x1080.jpg?t=1715384916",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009850/ss_e1bd797efda740245850e0d9f2e63190d5e80176.1920x1080.jpg?t=1715384916",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009850/ss_d4c7f057cb6c5f4c241ea80e2192e4dfa1d48125.1920x1080.jpg?t=1715384916",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1009850/ss_0fd5f62a222d6678fb749bd3e16a63192b8382b9.1920x1080.jpg?t=1715384916"
+  ],
+  "upsells": [
+    {
+      "id": 1342830,
+      "name": "OVR Advanced Settings: Small Donation",
+      "base_price_rub": 172,
+      "markup_rub": 500,
+      "price_rub": 672,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1342830/header.jpg?t=1591412317"
+    },
+    {
+      "id": 1342831,
+      "name": "OVR Advanced Settings: Medium Donation",
+      "base_price_rub": 293,
+      "markup_rub": 500,
+      "price_rub": 793,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1342831/header.jpg?t=1591412402"
+    },
+    {
+      "id": 1342840,
+      "name": "OVR Advanced Settings: Large Donation",
+      "base_price_rub": 484,
+      "markup_rub": 500,
+      "price_rub": 984,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1342840/header.jpg?t=1591412111"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-06T15:46:26Z"
+}
