@@ -1,0 +1,80 @@
+{
+  "id": 269950,
+  "title": "X-Plane 11",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/269950/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/269950/library_hero.jpg",
+  "description": "Вышло обновлениеX-Plane 11.51 update is now available. The update contains bug fixes and includes more custom airports. See the detailed list of new items here: \n\nАктуальноеLaminar Research releases X-Plane 11.50 final\n\nLaminar Research, creator of the X-Plane flight simulator franchise, is proud to announce the final Vulkan/Metal update of X-Plane 11. After many months of converting our graphics engine and beta testing, we are today announcing the final release of version 11.50 for the X-Plane desktop platform.\n\nVulkan (PC) and Metal (Mac) are rendering level APIs that change how X-Plane interacts with the graphics card. They are faster than OpenGL that X-Plane has used in the past. Overall, most users will see improved frame rates and reduced stutters when using Vulkan or Metal.\n\nIn X-Plane 11.50, there is a check-box in the graphics settings that enables Vulkan or Metal, and a restart of X-Plane is necessary for the change to take effect. If for some reason a user can’t use Vulkan or Metal, OpenGL is still available by simply unchecking the box.\n\nNumerous bug fixes, enhancements, and new airports are also included in this release.\n\nОб игреThe future of flight simulation is now.\nX-Plane 11 is the detailed, realistic, and modern simulator you’ve been waiting for.\n\nNew in X-Plane 11\nA completely redesigned, intuitive user interface that makes setting up and editing your flight a breeze.\nConsistently usable 3-D cockpits and stunningly high-resolution exterior models for all included aircraft.\nA new effects engine for lighting, sounds, and explosions.\nRealistic avionics: all planes are IFR-ready right out of the gate.\nBusy, “living” airports with pushback tugs and roaming fuel trucks, able to service both your aircraft and the simulator’s AI planes.\nNew buildings & roads to better simulate European cities\n…and more!",
+  "description_short": "The future of flight simulation is now! X-Plane 11 is the detailed, realistic, and modern simulator you’ve been waiting for. Intuitive user interface, 3-D cockpits, new effects, 3-D sound, living airports and world-wide scenery.",
+  "genres": [
+    "Технические симуляторы",
+    "Песочницы (Sandbox)",
+    "Шутеры от первого лица (FPS)",
+    "Приключения",
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 217,
+  "markup_rub": 500,
+  "price_rub": 717,
+  "original_price_rub": 1157,
+  "discount_percent": 67,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_38fa93e70789b0b4d68dccac1eb3a874da926613.1920x1080.jpg?t=1753867064",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_5bce5e0885835e7bd244edbc836edeb4ddba3f48.1920x1080.jpg?t=1753867064",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_5e226995e33b0690d190386f2923e5b29e440221.1920x1080.jpg?t=1753867064",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_8c1d11c8b55ce482a3cfe1e192636f0cd382d541.1920x1080.jpg?t=1753867064",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_023d61ada2eaec7cb07e71946506ee7a128a468b.1920x1080.jpg?t=1753867064",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_277dd15c5bd82f577d586d9b547b58e841d81bb3.1920x1080.jpg?t=1753867064",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_35a2520bad426346196ac6e2aa96883e96f84e59.1920x1080.jpg?t=1753867064",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269950/ss_601d1531046aa105ba009c0a3bea137cf0c002cd.1920x1080.jpg?t=1753867064"
+  ],
+  "upsells": [
+    {
+      "id": 1952480,
+      "name": "X-Plane 11 - Add-on: Aerosoft - SAM GroundService",
+      "base_price_rub": 850,
+      "markup_rub": 500,
+      "price_rub": 1350,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1952480/header.jpg?t=1726471090"
+    },
+    {
+      "id": 1317260,
+      "name": "X-Plane 11 - Add-on: SAM AirportVehicles",
+      "base_price_rub": 454,
+      "markup_rub": 500,
+      "price_rub": 954,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1317260/header.jpg?t=1726471047"
+    },
+    {
+      "id": 1203350,
+      "name": "X-Plane 11 - Add-on: SAM WorldJetways",
+      "base_price_rub": 503,
+      "markup_rub": 500,
+      "price_rub": 1003,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203350/header.jpg?t=1649157319"
+    },
+    {
+      "id": 1960120,
+      "name": "X-Plane 11 - Add-on: Aerosoft - ProCam",
+      "base_price_rub": 437,
+      "markup_rub": 500,
+      "price_rub": 937,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1960120/header.jpg?t=1652090598"
+    },
+    {
+      "id": 1565160,
+      "name": "X-Plane 11 - Add-on: Aerosoft - shadeX",
+      "base_price_rub": 394,
+      "markup_rub": 500,
+      "price_rub": 894,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1565160/header.jpg?t=1726470981"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-06T11:16:10Z"
+}

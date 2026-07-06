@@ -1,0 +1,52 @@
+{
+  "id": 1325860,
+  "title": "VTube Studio",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1325860/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1325860/library_hero.jpg",
+  "description": "VTube Studio is finally coming to Steam!\nVTube Studio is the tool of choice for any Live2D VTuber! With a wide variety of features, it has never been easier to connect with your viewers!! VTube Studio can be used directly with your webcam on any Windows PC or Mac. \n\nVTube Studio also supports other advanced tracking inputs to control your Live2D model, including audio-based lipsync (requires microphone). Details can be found in the documentation.\n\nVTube Studio on Steam is free to use with all its features!! An optional \"Remove Watermark\" DLC exists that will remove the (very cute) watermark that would otherwise be shown when the webcam tracking is active.\n\nUsing VTube Studio is really easy!! Load your own Live2D Cubism model, run the auto-setup (or do the setup manually), start the tracker and you're good to go. VTube Studio works well with OBS, Streamlabs or any other streaming software.\n\nVTube Studio comes with a few simple example models, but you obviously want to import your own models!! VTube Studio ONLY supports Live2D Cubism models, other formats like VRoid are not supported. No support for other formats is planned.\n\nIf you ever get stuck, there's a complete documentation available as well as an active Discord community that's happy to help out new users!\n\nWhat can VTube Studio do?\nVTube Studio comes with tons of fun features you can try out and use to have fun with your viewers. Future development of VTube Studio will focus on community/viewer interaction, so please look forward to that!!\n\nSome of the current features of VTube Studio:\n\n• Fast, high quality face tracking\n\n• Voice-based mouth tracking\n\n• High resolution, high quality, crisp Live2D model rendering\n\n• Hotkey-triggered animations, expression changes\n\n• Smoothly move model position/size/rotation per hotkeys\n\n• Mouse/Pen-tracking parameter\n\n• You can map any tracking parameter to any Live2D parameter of your model! Complete freedom!\n\n• Item-System!! You can pin your own PNG items directly to your model and they'll move with it.\n\n• iOS/Android app for network face tracking or directly rendering the model (free demo available)\n\n• Commercial usage is allowed (YouTube, Twitch, Superchats, ...) See license for more details.\n\n• ...and many more!! Got a cool feature you think people would like? Join our Discord and let us know, most features and improvements were suggested or inspired by user feedback.\nHow does the webcam-based face tracking work?\nThanks to Emiliana from VSeeFace, VTube Studio now directly supports webcam-based face tracking powered by OpenSeeFace!! It comes with various quality levels so it will even run on low-spec PCs or Macs. It's free to use but will show a watermark if you don't buy the \"Remove Watermark\" DLC, available now.\n\nWhere to get help?\nThe documentation, support email and active Discord community can be found on the website linked on this page. Please join, we're waiting for you!!\n\nSEE YOU THERE, FREN!!",
+  "description_short": "VTube Studio is all you'll ever need to become a Live2D VTuber, with innovative features such as pinning props to your model and many more still to come.",
+  "genres": [
+    "Хорроры на выживание (Survival Horror)"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 0,
+  "markup_rub": 0,
+  "price_rub": 0,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325860/ss_0c02b833b6db2bffb5efb87340bb95b72e208ced.1920x1080.jpg?t=1750309780",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325860/ss_a3d6d40ef299c4294677f2e53886e76d966cad73.1920x1080.jpg?t=1750309780",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325860/ss_3c2de7cfcaa4dc5aab0c5eedb208d14c103fc453.1920x1080.jpg?t=1750309780",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325860/ss_8a9dcf1a7174b53c02fcbc2a2efc689602947159.1920x1080.jpg?t=1750309780",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325860/ss_ebe851328a0d52cc8595537973e1e1b07659aeb2.1920x1080.jpg?t=1750309780",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325860/ss_9dc0f135fd69adabf47a6956f0ccc359f9ba88b4.1920x1080.jpg?t=1750309780",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325860/ss_08bc80379bf5411186ac4a443c209e4a7e76f659.1920x1080.jpg?t=1750309780",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325860/ss_2f2124d43f0c0c5c5a46697579750dd922484a8d.1920x1080.jpg?t=1750309780"
+  ],
+  "upsells": [
+    {
+      "id": 1520620,
+      "name": "VTube Studio - Remove Watermark",
+      "base_price_rub": 257,
+      "markup_rub": 500,
+      "price_rub": 757,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1520620/header.jpg?t=1644676113"
+    },
+    {
+      "id": 2384550,
+      "name": "VTube Studio - VNet Multiplayer Collab",
+      "base_price_rub": 467,
+      "markup_rub": 500,
+      "price_rub": 967,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2384550/header.jpg?t=1711836851"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-06T11:16:57Z"
+}

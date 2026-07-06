@@ -1,0 +1,33 @@
+{
+  "id": 400040,
+  "title": "ShareX",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/400040/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/400040/library_hero.jpg",
+  "description": "ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.\n\nShareX supports many ways to capture or record your screen. The main capture methods are:\n\n• Fullscreen\n\n• Active window\n\n• Active monitor\n\n• Window menu\n\n• Monitor menu\n\n• Region\n\n• Region (Light)\n\n• Region (Transparent)\n\n• Last region\n\n• Custom region\n\n• Screen recording\n\n• Screen recording (GIF)\n\n• Scrolling capture\n\n• Webpage capture\n\n• Text capture (OCR)\n\n• Auto capture\n\nThere are many configurable screen capture settings such as showing the cursor, transparent window capture, delayed capture, multiple region selection with different shapes, etc.\n\nAfter the capture the following automated tasks can be executed:\n\n• Show quick task menu\n\n• Show \"After capture\" window\n\n• Add image effects / watermark\n\n• Annotate image\n\n• Copy image to clipboard\n\n• Print image\n\n• Save image to file\n\n• Save image to file as...\n\n• Save thumbnail image to file\n\n• Perform actions\n\n• Copy file to clipboard\n\n• Copy file path to clipboard\n\n• Show file in explorer\n\n• Recognize text (OCR)\n\n• Show \"Before upload\" window\n\n• Upload image to host\n\n• Delete file locally\n\nFor example, the captured image can be opened in image editor and after that, the image can be automatically saved to the hard disk and uploaded to your destination of choice.\n\nShareX allows you to upload any type of files with these methods:\n\n• Upload file\n\n• Upload folder\n\n• Upload from clipboard\n\n• Upload from URL\n\n• Drag and drop upload\n\n• Upload from Windows shell context menu\n\n• Upload from Windows send to menu\n\n• Watch folder\n\nAfter the upload, any of the following automated tasks can be executed:\n\n• Show \"After upload\" window\n\n• Shorten URL\n\n• Share URL\n\n• Copy URL to clipboard\n\n• Open URL\n\n• Show QR code window\n\nFor example, the uploaded image URL can be automatically shortened using one of the 15 URL shortener services and the shortened URL can be copied to the clipboard.\n\nShareX also comes with a few simple productivity tools:\n\n• Color picker\n\n• Screen color picker\n\n• Annotate image\n\n• Image effects\n\n• Hash check\n\n• DNS changer\n\n• QR code\n\n• Ruler\n\n• Directory indexer\n\n• Image combiner\n\n• Image thumbnailer\n\n• Video thumbnailer\n\n• FTP client\n\n• Tweet message\n\n• Monitor test\n\nShareX has an advanced hotkey system which allows you to use any of these capture methods, upload options or tools with their own task settings. These are called \"Workflows\". Workflows allow each hotkey to have its own after capture tasks, after upload tasks, destination etc. For example, you can set your screen recording hotkey to upload to a specific destination, bypassing the default destination. This way, only videos will be uploaded to this configured file destination.",
+  "description_short": "ShareX is a free and open source program that can capture or record selected area from the screen with a single keypress, automatically save them to your hard disk/clipboard, and instantly upload them to an image/file hosting service and then can copy the URL to your clipboard.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 0,
+  "markup_rub": 0,
+  "price_rub": 0,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400040/ss_3bc7bdc028255eaf6c049511637bd0adbf5d0c6d.1920x1080.jpg?t=1736919331",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400040/ss_8bc9d7cb636ba0640822e4ccfc3aee4c78417f0e.1920x1080.jpg?t=1736919331",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400040/ss_3e634a24d9121b7248dbf3cbd9a5a55b82709cc1.1920x1080.jpg?t=1736919331",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400040/ss_db84471139185f86788355476497e94860957373.1920x1080.jpg?t=1736919331",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400040/ss_4cad5ce8ca6a10edb5fad49bf0e7046303f59abd.1920x1080.jpg?t=1736919331",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400040/ss_7983774f38b87cc8d3635d2fcdde5dd5178b5598.1920x1080.jpg?t=1736919331"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-06T11:01:48Z"
+}

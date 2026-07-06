@@ -1,0 +1,46 @@
+{
+  "id": 584400,
+  "title": "Sonic Mania",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/584400/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/584400/library_hero.jpg",
+  "description": "Прошлое и будущее встречаются в Sonic Mania — 2D-приключении Соника с потрясающей HD-графикой в стиле ретро. Бегите к цели, управляя неуловимым Соником, поднимайте в воздух Тейлза и справляйтесь с препятствиями с помощью силы Наклза. Проходите классические зоны, как в старые добрые времена, и бросайте вызов новым боссам. Играйте в режиме состязания или в совместном режиме. Игра Sonic Mania разработана Кристианом Уайтхэдом, Headcannon и PagodaWest Games совместно с Sonic Team.",
+  "description_short": "Встречайте Sonic Mania, совершенно новое приключение Соника, Тейлза и Наклза с необычными боссами, красочными 2D-пейзажами и увлекательным классическим геймплеем.",
+  "genres": [
+    "Платформеры",
+    "Приключения",
+    "Экшен",
+    "Казуальные игры",
+    "Аркадные гонки",
+    "Экшен-адвенчуры"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 50,
+  "markup_rub": 500,
+  "price_rub": 550,
+  "original_price_rub": 1019,
+  "discount_percent": 90,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584400/ss_27efb8f61892a9bd732952c76dae9dd7ad1b6748.1920x1080.jpg?t=1762751921",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584400/ss_93ee106db863c16e00989ad9d51bcbea4af91ab0.1920x1080.jpg?t=1762751921",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584400/ss_72b7374ba1d4978c2b5e7c74c2e56aecc33b0d3c.1920x1080.jpg?t=1762751921",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584400/ss_5168ae3cd4e0ccac9808325242ccb2e6760ee2f0.1920x1080.jpg?t=1762751921",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/584400/ss_1e19c5bd7aaada51a7811f8468f5fb71cf42f3f7.1920x1080.jpg?t=1762751921"
+  ],
+  "upsells": [
+    {
+      "id": 845640,
+      "name": "Sonic Mania - Encore DLC",
+      "base_price_rub": 42,
+      "markup_rub": 500,
+      "price_rub": 542,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/845640/header.jpg?t=1769149387"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-06T11:05:48Z"
+}
