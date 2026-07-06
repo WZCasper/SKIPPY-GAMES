@@ -1,0 +1,34 @@
+{
+  "id": 993090,
+  "title": "Lossless Scaling",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/993090/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/993090/library_hero.jpg",
+  "description": "Lossless Scaling is a powerful tool that enhances your gaming experience by making games smoother with LSFG frame generation and optionally improving quality or performance with various scaling algorithms and machine learning models like LS1. It's compatible with most games, even those that don't have built-in frame generation or scaling, as well as with other applications and a wide range of hardware.\n\nLSFG 3 Frame GenerationThis feature creates additional frames to make games look smoother. It’s perfect for games that lack a built-in solution or require new hardware, as well as for older games and emulators with a locked frame rate.\n\n• LSFG is a proprietary machine learning model developed from scratch specifically for Lossless Scaling and has received several significant updates.\n\n• It’s compatible with a wide range of hardware and has a separate performance model for low-power GPUs.\n\n• The Fixed mode allows you to multiply the original frame rate, while the Adaptive mode lets you specify a desired frame rate that may not be a multiple of the original.\n\nScalingScaling allows you to improve performance by lowering the original resolution and applying upscaling to recover some of the quality. It's also great for older games and pixel art games that don’t support modern resolutions or fullscreen mode.\n\n• LS1, FSR, NIS are well-suited for modern games.\n\n• Integer, XBR are ideal for pixel art games.\n\n• Anime4K is great for cartoons or anime.\n\nDual GPU SupportA great feature of Lossless Scaling is the ability to offload computations to a second GPU. This means applying frame generation or scaling won't affect the game's original frame rate and may reduce latency.\n\nCompatibility with Online GamesThe community has found Lossless Scaling to be safe to use with online games that have built-in anti-cheat systems. However, this cannot be guaranteed and should be used with user discretion.\n\nCustomizationLossless Scaling provides extensive configuration options through Game Profiles, allowing you to save per-game or grouped settings. Profiles eliminate the need for repetitive manual adjustments by automatically applying your chosen settings and scaling whenever the game executable is detected, ensuring consistent and automated operation.\n\nRequirements• Only windowed and borderless fullscreen modes are supported. Exclusive fullscreen mode may work only if the Lossless Scaling output is configured for a second display.\n\n• Free GPU resources are preferred, otherwise Lossless Scaling will affect the game's original frame rate.\n\n• Windows 10, version 2004 or newer.\n\nLinuxThe LSFG feature of Lossless Scaling is available on Linux as a community-driven port. For more details, check out the lsfg-vk project.",
+  "description_short": "All-in-one gaming utility for frame generation and scaling",
+  "genres": [
+    "Шутеры от первого лица (FPS)"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 111,
+  "markup_rub": 500,
+  "price_rub": 611,
+  "original_price_rub": 724,
+  "discount_percent": 50,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/993090/b1ab376a9effb952ed919ec750d13f991fe1db74/ss_b1ab376a9effb952ed919ec750d13f991fe1db74.1920x1080.jpg?t=1762179586",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/993090/ca48d35324ec4ea0516a082e3693cb2953f2f0f9/ss_ca48d35324ec4ea0516a082e3693cb2953f2f0f9.1920x1080.jpg?t=1762179586",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/993090/fa2e9bd1d48e66ab7b852cb74c668d88fcb32340/ss_fa2e9bd1d48e66ab7b852cb74c668d88fcb32340.1920x1080.jpg?t=1762179586",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/993090/5c0bc462a5781e2ea239233286f3fdde6d9cb580/ss_5c0bc462a5781e2ea239233286f3fdde6d9cb580.1920x1080.jpg?t=1762179586",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/993090/32685ee77883b2083b65660d8c5bccb45fc7e4b4/ss_32685ee77883b2083b65660d8c5bccb45fc7e4b4.1920x1080.jpg?t=1762179586",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/993090/8fdf5678ff284727254e36b23494e1c93307b5ea/ss_8fdf5678ff284727254e36b23494e1c93307b5ea.1920x1080.jpg?t=1762179586",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/993090/57c54bcbe570d4af6c628e26c2db2060fe66a4c6/ss_57c54bcbe570d4af6c628e26c2db2060fe66a4c6.1920x1080.jpg?t=1762179586"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-06T04:31:56Z"
+}

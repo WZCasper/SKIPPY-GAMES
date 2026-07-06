@@ -1,0 +1,57 @@
+{
+  "id": 10680,
+  "title": "Aliens vs. Predator™",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/10680/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/10680/library_hero.jpg",
+  "description": "Игра перенесет вас в легендарную войну между двумя известнейшими научно-популярными персонажами. В AvP присутствуют 3 невообразимые кампании и уникальная совместная игра, включающая 3 режима.\n\nНовые незабываемые впечатления и новый геймплей от первого лица на выживание. Устраивайте охоту в смертельных джунглях и на колонии, окруженной болотами.\n\n• Выбрав морпеха, вы обречете себя на страх и клаустрофобию. Свет — ваш друг, но его всегда мало. Однако, колония морской пехоты США — последняя линия обороны человечества, и вам доверены самые последние новинки огнестрельного оружия и взрывных устройств. \n\n• Выбрав Хищника, вы будете тихо подкрадываться из теней, лазать по деревьям и с высоты внезапно обрушиваться на противников. Ваш арсенал — мощное, экзотическое оружие и датчики. Но честь Хищников ставит ультиматум — при встрече с противником один на один, вы должны забрать трофей в честном бою. \n\n• Выбрав смертоноснейший вид во вселенной, вам дается возможность вжиться в шкуру твари из самых страшных кошмаров. Чужие — ими кишит темнота, их челюсти — стальные капканы, а когти — острейшие лезвия. \n\n• Сыграйте за любую сторону друг против друга в трех многопользовательских режимах. \nAvP использует Steam Cloud для сохранения игровой статистики и информации о навыках и умениях, с помощью которой подбирает подходящих соперников.",
+  "description_short": "Выживайте и охотьтесь за добычей в смертельных джунглях и болотах в новой и захватывающей игре от первого лица.",
+  "genres": [
+    "Экшен",
+    "Шутеры от первого лица (FPS)",
+    "Психологические хорроры",
+    "Стелс-экшен",
+    "Выживание (Survival)",
+    "Хорроры на выживание (Survival Horror)"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 99,
+  "markup_rub": 500,
+  "price_rub": 599,
+  "original_price_rub": 897,
+  "discount_percent": 75,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10680/ss_d4e772fe9f2e75353c26ccc6395086980e88fff1.1920x1080.jpg?t=1763676764",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10680/ss_1d11b280a15c9c416e211596560c3cb940ee4a26.1920x1080.jpg?t=1763676764",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10680/ss_99195a8f749c88466f24b2e42bad46915013c9ec.1920x1080.jpg?t=1763676764",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10680/ss_28333e820b19de40318c90d63e3f6337b1054392.1920x1080.jpg?t=1763676764",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10680/ss_d90c2e0af7cacc450a1b61e365bdb1f97d6b7634.1920x1080.jpg?t=1763676764",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10680/ss_73cc0614aa575b00980a0d9fe6d6f0a35d0c1dac.1920x1080.jpg?t=1763676764",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10680/ss_e644d56472d959809a4d3c53f80505ec20265373.1920x1080.jpg?t=1763676764",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10680/ss_ace1858cffbfe3bb901e0d03e2215c82cadc6e97.1920x1080.jpg?t=1763676764"
+  ],
+  "upsells": [
+    {
+      "id": 10695,
+      "name": "Aliens vs. Predator Swarm Map Pack",
+      "base_price_rub": 102,
+      "markup_rub": 500,
+      "price_rub": 602,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10695/header.jpg?t=1769188965"
+    },
+    {
+      "id": 10697,
+      "name": "Aliens vs Predator™ Bughunt Map Pack",
+      "base_price_rub": 102,
+      "markup_rub": 500,
+      "price_rub": 602,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10697/header.jpg?t=1769189039"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-06T04:53:41Z"
+}
