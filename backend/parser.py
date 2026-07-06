@@ -279,9 +279,18 @@ def load_custom_ids():
 
 
 def load_full_applist():
-    """Полный список appid+name всех приложений Steam (без деталей)."""
-    resp = http_get(STEAM_APPLIST_URL)
+    """Полный список appid+name всех приложений Steam (без деталей).
+
+    ВАЖНО: этот эндпоинт (api.steampowered.com/ISteamApps/GetAppList) на
+    практике нередко отдаёт 404/403 именно с IP-адресов облачных раннеров
+    (GitHub Actions, Azure, AWS и т.д.) — это ограничение на стороне Valve,
+    а не ошибка кода. Поэтому мы НЕ полагаемся только на этот источник:
+    см. load_search_term_appids() и load_steamspy_bulk_appids() ниже,
+    которые используют другие пути и не зависят от этой блокировки.
+    """
+    resp = http_get(STEAM_APPLIST_URL, retries=1)
     if resp is None:
+        log.info("GetAppList недоступен с этого IP (обычное дело для облачных раннеров) — пропускаем, используем другие источники")
         return []
     try:
         data = resp.json()
@@ -290,6 +299,87 @@ def load_full_applist():
     except (ValueError, KeyError) as exc:
         log.warning("Не удалось разобрать GetAppList: %s", exc)
         return []
+
+
+# Список поисковых запросов для обхода store.steampowered.com/api/storesearch.
+# Пустой запрос ("") у Steam возвращает лишь узкий список "популярного" и не
+# годится для широкого обхода каталога — а вот предметные запросы (буквы,
+# цифры, частые слова) индексируются полноценно и вместе дают куда более
+# широкое покрытие каталога через тот же самый (уже рабочий) эндпоинт.
+SEARCH_SWEEP_TERMS = (
+    list("abcdefghijklmnopqrstuvwxyz") +
+    list("0123456789") +
+    ["the", "of", "war", "world", "adventure", "simulator", "quest",
+     "story", "legend", "dark", "star", "hero", "battle", "dragon",
+     "knight", "puzzle", "island", "city", "empire", "kingdom", "space",
+     "zombie", "survival", "horror", "racing", "football", "chess",
+     "tank", "ninja", "pirate", "magic", "forest", "castle", "ghost"]
+)
+
+
+def load_search_term_appids(max_terms=40, pages_per_term=2):
+    """Собирает appid через множество поисковых запросов к тому же
+    storesearch API, который уже успешно работает (в отличие от GetAppList).
+    Один непустой запрос — это отдельный полноценный поиск по каталогу
+    Steam, а не просто "топ продаж", поэтому десятки разных запросов вместе
+    дают куда более широкое и разнообразное покрытие."""
+    collected = []
+    terms = SEARCH_SWEEP_TERMS[:max_terms]
+    for term in terms:
+        if time_budget_left() < 120:
+            log.info("Бюджет времени исчерпан на этапе поиска по терминам")
+            break
+        for page in range(pages_per_term):
+            params = {"term": term, "l": REGION_LANG, "cc": REGION_CC, "start": page * 50, "count": 50}
+            resp = http_get(STEAM_TOPSELLERS_SEARCH_URL, params=params, retries=1)
+            if resp is None:
+                break
+            try:
+                items = resp.json().get("items", [])
+            except ValueError:
+                break
+            if not items:
+                break
+            for item in items:
+                aid = item.get("id")
+                if aid:
+                    collected.append(int(aid))
+            time.sleep(0.3)
+    log.info("Поиск по %s терминам дал %s appid (с повторами)", len(terms), len(collected))
+    return collected
+
+
+def load_steamspy_bulk_appids(max_pages=15, per_page_delay=2.0):
+    """Собирает appid через SteamSpy — отдельный от Steam сервис (другой
+    хост, другая инфраструктура), поэтому не подвержен блокировке
+    api.steampowered.com на стороне облачных раннеров. SteamSpy отдаёт
+    списки игр по 1000 штук на страницу, отсортированные по популярности.
+    per_page_delay намеренно консервативный, чтобы не перегружать
+    бесплатный сервис SteamSpy."""
+    collected = []
+    for page in range(max_pages):
+        if time_budget_left() < 120:
+            log.info("Бюджет времени исчерпан на этапе SteamSpy bulk-обхода")
+            break
+        resp = http_get(STEAMSPY_APPDETAILS_URL, params={"request": "all", "page": page}, retries=2)
+        if resp is None:
+            log.warning("SteamSpy bulk-страница %s недоступна, прекращаем этот источник", page)
+            break
+        try:
+            data = resp.json()
+        except ValueError:
+            log.warning("SteamSpy bulk-страница %s вернула не-JSON, прекращаем", page)
+            break
+        if not isinstance(data, dict) or not data:
+            break
+        for appid_str in data.keys():
+            try:
+                collected.append(int(appid_str))
+            except ValueError:
+                continue
+        time.sleep(per_page_delay)
+    log.info("SteamSpy bulk-обход дал %s appid за %s страниц", len(collected), max_pages)
+    return collected
 
 
 def load_top_appids(limit=1000):
@@ -716,23 +806,51 @@ def main():
         if aid not in catalog and aid not in skipped_ids:
             candidate_ids.append(aid)
 
+    CANDIDATE_POOL_TARGET = MAX_NEW_GAMES_PER_RUN * 3  # запас с учётом отсева не-игр
+
     if len(catalog) < TARGET_CATALOG_SIZE and time_budget_left() > 120:
         top_ids = load_top_appids(2000)
+        log.info("Топ продаж + рекомендации Steam: %s appid", len(top_ids))
         for aid in top_ids:
             if aid not in catalog and aid not in skipped_ids and aid not in candidate_ids:
                 candidate_ids.append(aid)
 
-    if len(catalog) + len(candidate_ids) < TARGET_CATALOG_SIZE and time_budget_left() > 120:
-        log.info("Догружаем полный список приложений Steam для расширения каталога...")
-        full_list = load_full_applist()
-        log.info("В полном списке Steam: %s приложений", len(full_list))
-        for aid, _name in full_list:
+    # Источник 2: широкий обход store.steampowered.com/api/storesearch по
+    # десяткам разных запросов — тот же эндпоинт, что уже работает, просто
+    # используется полноценно, а не одним пустым запросом.
+    if len(candidate_ids) < CANDIDATE_POOL_TARGET and time_budget_left() > 300:
+        sweep_ids = load_search_term_appids(max_terms=40, pages_per_term=2)
+        added_from_sweep = 0
+        for aid in sweep_ids:
             if aid not in catalog and aid not in skipped_ids and aid not in candidate_ids:
                 candidate_ids.append(aid)
-            if len(candidate_ids) >= MAX_NEW_GAMES_PER_RUN * 3:
-                break  # достаточно кандидатов с запасом на отсев не-игр
+                added_from_sweep += 1
+        log.info("Поисковый обход добавил %s новых уникальных appid-кандидатов", added_from_sweep)
 
-    log.info("Кандидатов на добавление: %s", len(candidate_ids))
+    # Источник 3: SteamSpy bulk-листинг — независимый от Steam сервис,
+    # не подвержен блокировке api.steampowered.com для облачных IP.
+    if len(candidate_ids) < CANDIDATE_POOL_TARGET and time_budget_left() > 300:
+        steamspy_ids = load_steamspy_bulk_appids(max_pages=15)
+        added_from_steamspy = 0
+        for aid in steamspy_ids:
+            if aid not in catalog and aid not in skipped_ids and aid not in candidate_ids:
+                candidate_ids.append(aid)
+                added_from_steamspy += 1
+        log.info("SteamSpy добавил %s новых уникальных appid-кандидатов", added_from_steamspy)
+
+    # Источник 4 (бонус, может не сработать с IP облачного раннера — это
+    # нормально, остальные три источника уже сделали основную работу):
+    if len(candidate_ids) < CANDIDATE_POOL_TARGET and time_budget_left() > 120:
+        full_list = load_full_applist()
+        if full_list:
+            log.info("GetAppList неожиданно сработал: %s приложений", len(full_list))
+            for aid, _name in full_list:
+                if aid not in catalog and aid not in skipped_ids and aid not in candidate_ids:
+                    candidate_ids.append(aid)
+                if len(candidate_ids) >= CANDIDATE_POOL_TARGET:
+                    break
+
+    log.info("Итого кандидатов на добавление: %s", len(candidate_ids))
 
     for appid in candidate_ids:
         if added >= MAX_NEW_GAMES_PER_RUN:
