@@ -1,0 +1,38 @@
+{
+  "id": 2060160,
+  "title": "The Farmer Was Replaced",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2060160/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/2060160/library_hero.jpg",
+  "description": "Запрограммируйте дрон с помощью простого языка, напоминающего Python, чтобы полностью автоматизировать различные сельскохозяйственные задачи, отнимающие много времени и сил. Вам останется лишь нажать на кнопку «Выполнить» и с радостью наблюдать, как дрон берет весь тяжелый труд на себя.\n\nЭто игра с постоянным прогрессом: здесь нет отдельных уровней, как в большинстве проектов о программировании.\n\nРабота на ферме приносит ресурсы, с помощью которых можно разблокировать новые технологии.\n\nПрограммирование осуществляется на простом языке, схожем с Python. В начале игры вы по очереди ознакомитесь со всеми основными концепциями программирования, которые понадобятся в дальнейшем.\n\nИ хотя вас обучат всему необходимому, решать различные задачи в игре вы будете без какой-либо помощи. Разбираться придется самостоятельно, и, если раньше вы никогда не сталкивались с программированием, вас ждет настоящее испытание.\n\nОпытным программистам ранние стадии игры, вероятно, дадутся легко. Однако дальше пойдут более сложные задачи, над которыми все же придется поломать голову.\n\nВ игре не используется сам Python, но ее язык программирования близок к нему и совместим с плагином Python IntelliSense. Весь код сохраняется в файлах с расширением .py, поэтому при необходимости его можно менять с помощью внешних редакторов кода, например VS Code. Если включена настройка File Watcher, игра автоматически обнаруживает изменения, внесенные извне.",
+  "description_short": "Запрограммируйте дрон, чтобы автоматизировать работу на ферме, и смотрите, как он делает все за вас. Собирайте ресурсы и разблокируйте новые технологии. Станьте самым успешным фермером в мире. В процессе вы разовьете навыки решения задач и написания кода.",
+  "genres": [
+    "Головоломки",
+    "Технические симуляторы",
+    "Песочницы (Sandbox)",
+    "Экономические симуляторы"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 313,
+  "markup_rub": 500,
+  "price_rub": 813,
+  "original_price_rub": 892,
+  "discount_percent": 20,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/cbc6d11bbfc223effb9025e4ecdcc55317f0d9d5/ss_cbc6d11bbfc223effb9025e4ecdcc55317f0d9d5.1920x1080.jpg?t=1781022139",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/1037f11faf33737e942524fc21a69b79cb42b047/ss_1037f11faf33737e942524fc21a69b79cb42b047.1920x1080.jpg?t=1781022139",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/626c7fd80f4febd821a57499a936a331dd782b26/ss_626c7fd80f4febd821a57499a936a331dd782b26.1920x1080.jpg?t=1781022139",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/e73b5d1fa288e22f49d81180138e54459b96d60f/ss_e73b5d1fa288e22f49d81180138e54459b96d60f.1920x1080.jpg?t=1781022139",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/c9da1711920aeafa732ebe5bdef18da3afe3c717/ss_c9da1711920aeafa732ebe5bdef18da3afe3c717.1920x1080.jpg?t=1781022139",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/ec1c68d2502ff19b7670ff87690b8582660627c8/ss_ec1c68d2502ff19b7670ff87690b8582660627c8.1920x1080.jpg?t=1781022139",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/756bbbb834c91e506a373ed2545253d7dd9e5cf7/ss_756bbbb834c91e506a373ed2545253d7dd9e5cf7.1920x1080.jpg?t=1781022139",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/8280805b57b961993801145d0f2856121f42d952/ss_8280805b57b961993801145d0f2856121f42d952.1920x1080.jpg?t=1781022139"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-07T20:05:48Z"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 414120,
+  "title": "Modbox",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/414120/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/414120/library_hero.jpg",
+  "description": "Modbox is a multiplayer game creation sandbox that lets players create games together online. It has it's own custom powerful visual scripting language to make multiplayer game creation easy. Released as VR only in 2016 - relaunched as Modbox 2.0 for Desktop/VR on September 9th 2020.\n\nBuild games focused on:\n• Online Co-op with complex AI and game mechanics\n\n• Physics based gameplay and destruction\n\n• Any combination of online/local/split screen multiplayer with VR and Desktop players\n\nGames created entirely in Modbox:\n\nModbox Guide:Multiplayer Creation• Create Multiplayer / Singleplayer / Coop games while switching between VR and Desktop on PC. Or create games in your own environment on a AR device. Everything is synced with other online players in real time.\n\n• Share Creations made on Steam Workshop, or cross-platform on Mod.io\n\n• Use any of the editor tools while playing. There are both Tools used for hands / while playing as a avatar, and a Desktop Editor mode\n\n• Play and edit with other players in Local Multiplayer with up to 4 players locally with split screen (or Keyboard or Gamepads) with another player in VR. Local players can also play online.\n\n• Prefabs can be used to create reusable parts out of Creations. Prefabs can then be shared online for other creators to use - and can include assets (3d models, visual scripting, C# projects). Prefabs can also include other nested prefabs, allow for easily building large complex worlds out of reusable parts.\n\n• Create a server at anytime (while playing or editing), and use the Servers Permissions system to control who can administer/ edit / play on your server.\nAdvanced Scripting• The ingame visual scripting system MBScript can be used for scripting gameplay / AI / Physics. MBScript is a drag and drop visual scripting system that has both a node like tool (using the Wiring tool/desktop window), and a Blocks/Scratch like interface for more advanced building (using the same type system as C#).\n\n• MBScript can be edited both visually with drag and drop, and in the ingame text editor (with autocomplete using a ingame VisualStudioCode Monaco editor). MBScript can be used to create complex AI characters and multiplayer bots.\n\n• The C# Compiler mod (PC platform only) allows for writing your own C# code to include in Creations. Can add new Entity Components, editor tools, or new functions and options to run in MBScript / Wiring. Open C# projects in VisualStudio, and write code while the game is running for instantly compiling and seeing changes. All the Modbox game and editor tool C# source is included as reference/editable ingame.\nPhysics and Interaction• Full body VR simulation and physics based VR locomotion. All game objects were designed first for VR interaction (including reloading clips into guns, pulling bows to fire arrows, etc), with procedural animation used for Desktop players / AI to do same actions.\n\n• Physics and Destruction - Building physics creations in Modbox does not use a physics hierarchy like other level editors / game creations tools. Instead 'Connections' are made between physics objects when editing, which will join them together in play mode with physics. This allows for realistic destruction and dynamic environments.\n\n• Voxel Editing allow for destruction and modifying while playing.\nEditing and Building• Create UI interfaces with UI Entities - using the same visual scripting / wiring systems as world creation to create HUDs and other in world UI for players (including new Tools and Menus)\n\n• Use the Voxel Editing tool and desktop window to create large voxel terrains, with caves / hills / buildings. Create smooth voxel worlds or switch to Cubic for Minecraft-style blocks.\n\n• Mesh Editing tools for creating meshes out of primitives ingame\nModdable• Assets System with Importing Assets - Import 3d models, humanoid models, textures, sounds. All at runtime while playing. Use the Material Editor to set material properties. Import 3d models from online sources including Google Poly (SketchFab coming soon)\n\n• Everything in Modbox is a mod - including default included mods like SteamVR / Oculus VR support, Steamworks, Mod.IO uploading, Nvidia Flex liquid/soft particles, and editor tools like Mesh Editing and Voxel Editing. It's designed to be as extensible and configurable as possible.\n\n• Mods can contain assets and be used in creations (such as the Modern Weapons mod) that players will download to play the creation. Or they can be Local Mods adding options and features just to the local players (like VR Spectator Camera)\n\n• Use the ModboxSDK Unity package to create Modbox mods in the Unity Editor. Mods can include Unity scenes turned into Environments, GameObjects/Prefabs into Entity Assets, avatars into Humanoid Models. Mods can also include new editor tools built in C#.",
+  "description_short": "Modbox is a multiplayer game creation sandbox for Desktop+VR",
+  "genres": [
+    "Песочницы (Sandbox)",
+    "Технические симуляторы",
+    "Экшен",
+    "Шутеры от первого лица (FPS)"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 141,
+  "markup_rub": 500,
+  "price_rub": 641,
+  "original_price_rub": 1066,
+  "discount_percent": 75,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414120/ss_40ade288a9ae862c4bd67c7b041e2c462283af93.1920x1080.jpg?t=1768943717",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414120/ss_02264761cd1bbe59d2b3aa6932d53b8e87f57c50.1920x1080.jpg?t=1768943717",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414120/ss_9be97becd42ae83886b394c9c9a272cdb9390f08.1920x1080.jpg?t=1768943717",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414120/ss_1a72f0f93e4398df01f3eb916f9c26b16bd129d0.1920x1080.jpg?t=1768943717",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414120/ss_4397fb5ca28c2ed12eb7b067495aaf523639a22d.1920x1080.jpg?t=1768943717",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414120/ss_c428a751814b18348ac997c9df09a64dda5ee7fb.1920x1080.jpg?t=1768943717"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-07T20:32:09Z"
+}

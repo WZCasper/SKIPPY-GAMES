@@ -1,0 +1,35 @@
+{
+  "id": 1096550,
+  "title": "Desktop Magic Engine",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1096550/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1096550/library_hero.jpg",
+  "description": "Buy DME Get DMMD4 FreeBuy “DesktopMagicEngine” now and Get \"DesktopMMD4: Born to Dance\"How to solve the problem that the Effect or Model cannot be displayed1. Try to close all models at \"Manage Model\">\"Loaded\", and restart DME from Tray Icon Menu\n2. Try to exit DME from Tray Icon Menu and Click the \"Verify integrity of game files\" on Steam Library\n3. Try to exit DME from Tray Icon Menu and Delete the cache file DesktopMagicEngine/AppData/Cache, then restart software\n4. Try to exit DME from Tray Icon Menu and Delete the file DesktopMagicEngine/AppData/Themes/Default/theme.json, then restart softwareBring Your Desktop To LifeDesktopMagicEngine is the second generation of DMMD,With the help of new AI Technology, you can now have a living and dancing cute girl with amazing effects on your desktop! She will always be with you, even while having other windows open. Supports STEAM workshop.Features• Includes numerous editing options so you can customize effects and model combinations.\n\n• Gives your desktop some life with amazing effects and AI girls.\n\n• Steam Workshop support, which makes downloading effects and models easier than ever.\n\n• Support import PMX/VRM model with one-click,Support import VDM after conversion.\n\n• Supports third party music players such as CloudMusic, QQMusic, Spotify, Winamp, Foobar2000, Kugou and so on.\n\n• Since DesktopMagicEngine is not a live wallpaper, it can act on top of any window or under it.\n\n• The DesktopMagicEngine characters can be interacted with by using your mouse cursor,With the help of new AI Technology they look like they are alive.\n\n• Contains 60 built-in dance templates (19 slow-rhythms / 15 mid-rhythms / 17 fast-rhythms / 8 short-dances / moonwalk). It allows easily-applied personalization of dances for your favorite music.\n\n• Compatible with all other software and live wallpapers.\n\n• Supports Windows 7 (with Aero), 8, 8.1 and 10\n\n• Supports taskbar transparency and blur.\n\n• Optimization: Features optimized code created for low-end devices so that DesktopMagicEngine requires minimal hardware specifications and has low CPU usage. \nNOTEDesktopMagicEngine is NOT a live wallpaper,So it compatible with all other software and live wallpapers such as Wallpaper Engine or RainWallpaper.Translation / Proofreading by Nyanco ChannelFAQGuides\n\n================================================================================\nQ: How to add model to desktop?\nA: You need subscribe models from STEAM Workshop first at \"Manage Model\">\"Workshop\" , and then load model at \"Manage Model\">\"Installed\" list.\n\nQ: Why is my background all black on some computers?\nA: You can press the \"Win\" key to pop up the taskbar, and then proceed to the following operations:\n1. Open the Nvidia panel and select [manage 3D settings] on the left\n2. [multi frame sampling AA (MFAA)] and [smoothing fxaa] in the right side are changed to [off]\n3. Close the application to solve the problem of game black screen.\n\nQ: Why can not display model on desktop sometimes?\nA: Some PMX models crash DME,just need close all models in \"Manage Model\">\"Loaded\" List and restart DME from tray icon popupmenu.\n\nQ: How to import PMX model into DME?\nA: Drag and drop .PMX model file into DME \"Manage Model\">\"Installed\" List Box, the model will auto display on your desktop.\n\nQ: How to Hiding \"Now Playing Destop Magic Engine\" from Steam status?\nA: Right click tray icon and select menu item \"Preferences\" and uncheck the \"Enable Steam Support\", and restart app from tray icon menu.\n\nQ: How to set the model to HD texture? How to modify the drawing quality of the model?\nA: To save RAM, the model defaults to low-quality textures. You can switch to HD mode: right-click the model and select the menu item \"Edit\" in the \"Manage Model\"> \"Installed\" list, and select \"Graphic Quality\" as \"Hight\" in the edit window. Then reload the model",
+  "description_short": "DesktopMagicEngine is the second generation of DMMD,With the help of new AI Technology, you can now have a living and dancing cute girl with amazing effects on your desktop! She will always be with you, even while having other windows open. Supports STEAM workshop.",
+  "genres": [
+    "Казуальные игры",
+    "Технические симуляторы"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 96,
+  "markup_rub": 500,
+  "price_rub": 596,
+  "original_price_rub": 672,
+  "discount_percent": 44,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096550/ss_936e36a8217dc02af1899bced82885114dc9f374.1920x1080.jpg?t=1772945155",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096550/ss_4f26979d9698b4d9631be7fd39914018870c37a1.1920x1080.jpg?t=1772945155",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096550/ss_ba139989140ebd26567f37c0e3b509f7cff26a8c.1920x1080.jpg?t=1772945155",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096550/ss_a44c22b3dc986ed8f3efb343d64af7161bfedfff.1920x1080.jpg?t=1772945155",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096550/ss_d96b666666eed02f7b038a3ed9d550c4094d4ed4.1920x1080.jpg?t=1772945155",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096550/ss_8afd044e88ef144801fd04573808c1cc131707e6.1920x1080.jpg?t=1772945155",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096550/ss_c1749aba59703e422b5f93a1e45dd64b9f2db50b.1920x1080.jpg?t=1772945155"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-07T20:16:21Z"
+}
