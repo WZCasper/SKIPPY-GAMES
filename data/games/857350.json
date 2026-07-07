@@ -1,0 +1,53 @@
+{
+  "id": 857350,
+  "title": "CopperCube 6 Game Engine",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/857350/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/857350/library_hero.jpg",
+  "description": "CopperCube is a full-featured 3D game engine. No programming needed! Create 3D games and apps quickly. Includes terrain editor, low poly modelling tools, 3D models, precreated game AI, effects and more. There are also plenty of features for advanced users, like JavaScript scripting and shader support.\n\nCreate your own 3D worlds and 3D models, set camera controllers, materials, behaviors, click 'publish' and your game or app is ready. As Windows or Mac OS X apps, WebGL websites, or Android apps. You can do all this without programming. The engine is free but there is also a professional edition (DLC): It adds post effects like bloom and the option to customize the splash screen logo. By buying it, you also support the further development of the engine.High performance 3D engineCopperCube includes manually optimized 3D engines for all supported targets, running with OpenGL, Direct3D, and WebGL. Simple-Click game systemNo programming needed: Wether you want to create a simple 3D game, a complex, epic adventure, or a first person shooter: Select from lots of created behaviors and adjust them accordingly.Terrain EditorCreate your own 3D worlds directly in the editor, textures can be painted quickly with automatic texture blending into the terrain. There are also tools for placing grass and bushes, and creating trees.Physics EngineNext to the the built-in blazingly fast collision and repsonse system, there is also a full physics engine integrated when publishing as Windows .exe and Mac OS X .app.Character AnimationYou can model and animate characters using any 3D software, export it into one of the supported file formats and then import them into Coppercube. Also, it is possible to download existing 3D models from the web and use them in the editor.Low poly editing toolsYou can edit your own 3D models directly in CopperCube: It includes a simple 3D modelling tool for creating levels, models and items.Cross Platform Script systemFor advanced users, there is a Javascript API working on all publishing targets. For WebGL, there is even a second big JavaScript library with direct access available, which is even open source. High quality Light MapperThe editor includes a high quality light mapping tool. Place your lights, click on 'calculate' and your 3D levels will look great. You can mix it with the realtime lighting and shadows system as well.Native WebGL supportUnlike in other 3D engines, CopperCube's WebGL code is handwritten and highly optimized: Your 3D game will download quickly and run fast, even if run directly on a website. CopperCube's WebGL client is just about incredible 200 KB in size!Many publishing targets Create 3D games for these targets, with one single click: \n• Windows (.exe) apps \n\n• Mac OS X (.app) apps \n\n• WebGL websites (.html) \n\n• Android (.apk) apps",
+  "description_short": "CopperCube is a full-featured 3D game engine. No programming needed! Create 3D games and apps quickly. Includes terrain editor, low poly modelling tools, 3D models, precreated game AI, effects and more.",
+  "genres": [
+    "Песочницы (Sandbox)",
+    "Шутеры от первого лица (FPS)"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 0,
+  "markup_rub": 0,
+  "price_rub": 0,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/857350/ss_bf0eb758c0398c0de953df0f84881d5eb04254c5.1920x1080.jpg?t=1765358807",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/857350/ss_5d4a57a6094a1b0c5ded967a493cd3b21bed8df9.1920x1080.jpg?t=1765358807",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/857350/ss_7f7e7073768c2cdb893392d1dc72c3af90dbadf5.1920x1080.jpg?t=1765358807",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/857350/ss_86253f6d0346516e9887b0c61e89be4793c3a1fa.1920x1080.jpg?t=1765358807",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/857350/ss_99f4baddda8ae1cdb0d4eb1aad40f0a7dd43e4cd.1920x1080.jpg?t=1765358807",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/857350/ss_71f4d7de83401682d8b5bcac5dbf9e8fd9a9580a.1920x1080.jpg?t=1765358807",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/857350/ss_8e48ef9b31ac20aebbeb5206e3d512c0a0c94571.1920x1080.jpg?t=1765358807",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/857350/ss_70d340cb2a03473ae30bf9b40174f89f328a50d8.1920x1080.jpg?t=1765358807"
+  ],
+  "upsells": [
+    {
+      "id": 857380,
+      "name": "CopperCube 6 Professional Edition",
+      "base_price_rub": 275,
+      "markup_rub": 500,
+      "price_rub": 775,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/857380/header.jpg?t=1551078909"
+    },
+    {
+      "id": 857381,
+      "name": "CopperCube 6 Studio Edition",
+      "base_price_rub": 912,
+      "markup_rub": 500,
+      "price_rub": 1412,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/857381/header.jpg?t=1551078997"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-07T15:12:11Z"
+}

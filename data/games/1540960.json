@@ -1,0 +1,49 @@
+{
+  "id": 1540960,
+  "title": "Underworld Idle",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1540960/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1540960/library_hero.jpg",
+  "description": "ДОБАВЬТЕ МОЮ НОВУЮ ИГРУ В ВИШЛИСТ!\n\nОб игреUnderworld Idle - айдл игра про управление подземельем.\n\nОсновная механика: юниты более высокого порядка создают юнитов низкого порядка. Если вы играли в такие игры как Swarm Simulator или Antimatter Dimensions, то такая механика вам должна быть знакома. Тем не менее в Underworld Idle я представляю свой собственный взгляд на подобную механику.Особенности игры• Фракции (демоны, нежить, утопцы и чернокнижники). Каждая фракция отвечает за производство своего ресурса. \n\n• Механика создания юнитов. Например, высшие демоны создают низших демонов, и так далее. Тоже самое про юнитов нежити, утопцев и чернокнижников.\n\n• Бесконечная прогрессия. Начните с небольшого количества ресурсов и развейтесь до длинного списка юнитов и огромных чисел.\n\n• Адские контракты - механика престижа.\n\n• Разнообразные локации: лаборатория с энергокристаллами, свалка, библиотека с гримуаром (содержащим темные заклинания).",
+  "description_short": "Idle игра про управление подземельем, где юниты более высокого порядка могут создавать юнитов низкого порядка.",
+  "genres": [
+    "Казуальные игры",
+    "Головоломки",
+    "Технические симуляторы",
+    "Психологические хорроры",
+    "Приключения",
+    "Экономические симуляторы"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 0,
+  "markup_rub": 0,
+  "price_rub": 0,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1540960/ss_baa0cc5cdf36e0d961eac8d338b7d0b6da837ebe.1920x1080.jpg?t=1750201124",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1540960/ss_c624fdbb3f5525e1d54d66de8e2c4d9e85522c76.1920x1080.jpg?t=1750201124",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1540960/ss_4cccfa9d9154b1fb99c9314c3ce31c87cf39e983.1920x1080.jpg?t=1750201124",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1540960/ss_da8f1da11b1f5a4920ca190754dcbd7dc82530b9.1920x1080.jpg?t=1750201124",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1540960/ss_af419e261e7cccaa4a717c59a6228e1797c99a67.1920x1080.jpg?t=1750201124",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1540960/ss_09503ec3fffa94d55c2498ffa150a77a17452c64.1920x1080.jpg?t=1750201124",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1540960/ss_b7cf2d0fdb281354d230667ec044e0538b8ca126.1920x1080.jpg?t=1750201124",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1540960/ss_60467657c6d78cb4384ce67b474909c9f2d7a641.1920x1080.jpg?t=1750201124"
+  ],
+  "upsells": [
+    {
+      "id": 2268970,
+      "name": "Underworld Idle - Extra Tokens",
+      "base_price_rub": 1288,
+      "markup_rub": 500,
+      "price_rub": 1788,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2268970/header.jpg?t=1673020083"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-07T15:23:21Z"
+}
