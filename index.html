@@ -50,7 +50,6 @@
 
         .pagination-btn.active { background: #eab308; color: #121212; }
         .platform-tab.active { background: #eab308; color: #121212; }
-        .currency-tab.active { background: #eab308; color: #121212; }
 
         #genre-dropdown, #back-to-top { transition: opacity 0.2s ease, transform 0.2s ease; }
         #genre-dropdown.hidden-dd { opacity: 0; pointer-events: none; transform: translateY(-6px); }
@@ -69,9 +68,8 @@
             </a>
 
             <nav class="hidden md:flex items-center gap-1 text-sm font-semibold">
-                <a href="#hotdeals" class="px-4 py-2 rounded-lg text-neutral-300 hover:text-yellow-400 hover:bg-neutral-800 transition-colors">🔥 Хиты</a>
+                <a href="#hotdeals-section" class="px-4 py-2 rounded-lg text-neutral-300 hover:text-yellow-400 hover:bg-neutral-800 transition-colors">🔥 Хиты</a>
                 <a href="#store" class="px-4 py-2 rounded-lg text-neutral-300 hover:text-yellow-400 hover:bg-neutral-800 transition-colors">🎮 Игры</a>
-                <a href="#currency" class="px-4 py-2 rounded-lg text-neutral-300 hover:text-yellow-400 hover:bg-neutral-800 transition-colors">💎 Валюта</a>
                 <a href="#about" class="px-4 py-2 rounded-lg text-neutral-300 hover:text-yellow-400 hover:bg-neutral-800 transition-colors">👤 О нас</a>
             </nav>
 
@@ -87,9 +85,8 @@
             </div>
         </div>
         <nav class="md:hidden flex items-center justify-around border-t border-neutral-800 text-xs font-semibold">
-            <a href="#hotdeals" class="flex-1 text-center py-2.5 text-neutral-300 hover:text-yellow-400">🔥 Хиты</a>
+            <a href="#hotdeals-section" class="flex-1 text-center py-2.5 text-neutral-300 hover:text-yellow-400">🔥 Хиты</a>
             <a href="#store" class="flex-1 text-center py-2.5 text-neutral-300 hover:text-yellow-400">🎮 Игры</a>
-            <a href="#currency" class="flex-1 text-center py-2.5 text-neutral-300 hover:text-yellow-400">💎 Валюта</a>
             <a href="#about" class="flex-1 text-center py-2.5 text-neutral-300 hover:text-yellow-400">👤 О нас</a>
         </nav>
     </header>
@@ -106,7 +103,7 @@
                     <h2 class="text-3xl md:text-5xl font-extrabold text-white mb-4">Skippy<span class="text-yellow-500">Games</span><br>Магазин игр</h2>
                     <p class="text-neutral-400 text-lg mb-8 max-w-2xl">Steam, PlayStation, Xbox — тысячи игр с актуальными ценами. Связь через чат.</p>
 
-                    <div class="grid grid-cols-2 md:grid-cols-4 gap-4 max-w-2xl">
+                    <div class="grid grid-cols-3 gap-4 max-w-2xl">
                         <div class="bg-neutral-950/50 rounded-2xl p-4 border border-neutral-800 text-center">
                             <p class="text-3xl font-extrabold text-yellow-500" id="stat-games">0</p>
                             <p class="text-xs text-neutral-400 mt-1">Игр в каталоге</p>
@@ -114,10 +111,6 @@
                         <div class="bg-neutral-950/50 rounded-2xl p-4 border border-neutral-800 text-center">
                             <p class="text-3xl font-extrabold text-yellow-500" id="stat-platforms">0</p>
                             <p class="text-xs text-neutral-400 mt-1">Платформы</p>
-                        </div>
-                        <div class="bg-neutral-950/50 rounded-2xl p-4 border border-neutral-800 text-center">
-                            <p class="text-3xl font-extrabold text-yellow-500" id="stat-currency">0</p>
-                            <p class="text-xs text-neutral-400 mt-1">Игровых валют</p>
                         </div>
                         <div class="bg-neutral-950/50 rounded-2xl p-4 border border-neutral-800 text-center">
                             <p class="text-3xl font-extrabold text-yellow-500" data-wishlist-count>0</p>
@@ -128,7 +121,7 @@
             </div>
         </section>
 
-        <section id="hotdeals" class="max-w-7xl mx-auto w-full px-4 sm:px-6 lg:px-8 py-4 scroll-mt-24" style="display:none;" id="hotdeals-section">
+        <section id="hotdeals-section" class="max-w-7xl mx-auto w-full px-4 sm:px-6 lg:px-8 py-4 scroll-mt-24" style="display:none;">
         </section>
 
         <section id="store" class="max-w-7xl mx-auto w-full px-4 sm:px-6 lg:px-8 py-10 scroll-mt-24">
@@ -189,39 +182,6 @@
                 <p class="text-lg">Игры не найдены. Попробуйте изменить фильтры.</p>
             </div>
             <div id="pagination" class="flex items-center justify-center gap-2 mt-10 flex-wrap"></div>
-
-            <div class="mt-10 bg-gradient-to-r from-neutral-800 to-neutral-900 rounded-3xl p-8 border border-neutral-700 text-center">
-                <div class="text-4xl mb-3">📦</div>
-                <h4 class="text-xl font-extrabold text-white mb-2">Загрузить полный каталог Steam</h4>
-                <p class="text-neutral-400 text-sm mb-5">Все игры из официального Steam API — с обложками и ценами</p>
-                <button id="loadFullCatalogBtn" onclick="loadFullCatalog()" class="px-6 py-3 rounded-xl bg-yellow-500 hover:bg-yellow-400 text-neutral-900 font-bold transition-colors">
-                    ▶ Загрузить каталог
-                </button>
-                <div id="catalogProgressWrap" class="hidden mt-5 max-w-md mx-auto">
-                    <div class="h-2 bg-neutral-800 rounded-full overflow-hidden">
-                        <div id="catalogProgressBar" class="h-full bg-yellow-500 transition-all" style="width:0%"></div>
-                    </div>
-                    <p class="text-neutral-500 text-xs mt-2">Загружено: <span id="catalogProgressCount">0</span> игр <button onclick="resetCatalogView()" class="ml-2 text-neutral-400 hover:text-yellow-400"><i class="fa-solid fa-rotate-right"></i></button></p>
-                </div>
-            </div>
-        </section>
-
-        <section id="currency" class="max-w-7xl mx-auto w-full px-4 sm:px-6 lg:px-8 py-10 scroll-mt-24">
-            <h3 class="text-2xl font-extrabold text-white mb-2">💎 Внутриигровая валюта</h3>
-            <p class="text-neutral-500 text-sm mb-6">Дополнения и внутриигровые валютные паки, доступные для игр каталога.</p>
-
-            <div class="flex flex-wrap gap-2 mb-6" id="currencyTabs">
-                <button class="currency-tab active px-4 py-2 rounded-lg bg-neutral-900 border border-neutral-700 text-sm font-semibold text-neutral-300 transition-colors" data-category="">Все</button>
-                <button class="currency-tab px-4 py-2 rounded-lg bg-neutral-900 border border-neutral-700 text-sm font-semibold text-neutral-300 transition-colors" data-category="Шутеры">Шутеры</button>
-                <button class="currency-tab px-4 py-2 rounded-lg bg-neutral-900 border border-neutral-700 text-sm font-semibold text-neutral-300 transition-colors" data-category="MOBA и стратегии">MOBA / Стратегии</button>
-                <button class="currency-tab px-4 py-2 rounded-lg bg-neutral-900 border border-neutral-700 text-sm font-semibold text-neutral-300 transition-colors" data-category="RPG и MMO">РПГ / MMO</button>
-            </div>
-
-            <div id="currencyGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4"></div>
-            <div id="currencyEmpty" class="hidden text-center py-16 text-neutral-500">
-                <i class="fa-solid fa-coins text-4xl mb-3"></i>
-                <p>Пока нет доступных дополнений в этой категории.</p>
-            </div>
         </section>
 
         <section id="about" class="max-w-7xl mx-auto w-full px-4 sm:px-6 lg:px-8 py-10 scroll-mt-24">
@@ -285,8 +245,8 @@
         <img id="chat-toggle-avatar" src="" alt="" class="w-full h-full object-cover">
     </button>
 
-    <div id="chat-widget" class="closed fixed bottom-24 right-6 w-[350px] h-[520px] bg-white rounded-2xl shadow-2xl z-50 flex flex-col overflow-hidden border border-neutral-200">
-        <div class="bg-blue-600 p-4 flex items-center justify-between text-white">
+    <div id="chat-widget" class="closed fixed bottom-24 right-6 w-[350px] max-h-[70vh] bg-white rounded-2xl shadow-2xl z-50 flex flex-col overflow-hidden border border-neutral-200">
+        <div class="bg-blue-600 p-4 flex items-center justify-between text-white shrink-0">
             <div class="flex items-center gap-3">
                 <div class="relative">
                     <img id="chat-avatar" src="" alt="Avatar" class="w-10 h-10 rounded-full object-cover border-2 border-white/20">
@@ -299,7 +259,18 @@
             </div>
             <button onclick="toggleChat()" class="text-white hover:text-neutral-200"><i class="fa-solid fa-xmark text-xl"></i></button>
         </div>
-        <div id="vk_community_messages" class="flex-grow bg-[#f5f5f5]"></div>
+
+        <div class="p-4 flex flex-col gap-2 shrink-0 bg-neutral-50 border-b border-neutral-200">
+            <a href="https://vk.me/skippygames" target="_blank" rel="noopener" class="flex items-center justify-center gap-2 w-full py-3 rounded-xl bg-blue-600 hover:bg-blue-500 text-white font-bold text-sm transition-colors">
+                <i class="fa-brands fa-vk text-lg"></i> Открыть чат ВКонтакте
+            </a>
+            <a href="https://t.me/SKIPPYManager" target="_blank" rel="noopener" class="flex items-center justify-center gap-2 w-full py-3 rounded-xl bg-sky-500 hover:bg-sky-400 text-white font-bold text-sm transition-colors">
+                <i class="fa-brands fa-telegram text-lg"></i> Написать в Telegram
+            </a>
+        </div>
+
+        <div class="px-4 pt-3 pb-1 text-center text-xs text-neutral-400 shrink-0">Либо воспользуйтесь встроенным чатом:</div>
+        <div id="vk_community_messages" class="flex-grow bg-[#f5f5f5] min-h-[160px] overflow-y-auto"></div>
     </div>
 
     <script src="common.js"></script>

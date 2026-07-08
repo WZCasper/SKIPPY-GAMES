@@ -6,14 +6,12 @@
 
 var allGames = [];
 var filteredGames = [];
-var currencyItems = [];
 var activeFilters = { platform: '', genres: [], priceMax: '', freeOnly: false };
 var searchQuery = '';
 var sortMode = 'default';
 var currentPage = 1;
 var GAMES_PER_PAGE = 24;
 var searchDebounceTimer = null;
-var activeCurrencyCategory = '';
 
 var allGenres = [
     'Экшен', 'Шутеры от первого лица (FPS)', 'Шутеры от третьего лица (TPS)',
@@ -38,7 +36,6 @@ document.addEventListener('DOMContentLoaded', () => {
     renderGenreCheckboxes();
     setupFilterEvents();
     loadIndex();
-    loadCurrency();
     window.addEventListener('scroll', handleScrollUi);
     document.addEventListener('click', handleOutsideClickForDropdown);
 });
@@ -64,21 +61,6 @@ function loadIndex() {
             console.error('Не удалось загрузить data/index.json:', err);
             document.getElementById('gamesGrid').innerHTML =
                 '<div class="col-span-full text-center py-20 text-neutral-500"><i class="fa-solid fa-triangle-exclamation text-4xl mb-3"></i><p>Не удалось загрузить каталог. Попробуйте обновить страницу позже.</p></div>';
-        });
-}
-
-function loadCurrency() {
-    fetch(CURRENCY_URL, { cache: 'no-store' })
-        .then(resp => { if (!resp.ok) throw new Error('HTTP ' + resp.status); return resp.json(); })
-        .then(payload => {
-            currencyItems = Array.isArray(payload.items) ? payload.items : [];
-            document.getElementById('stat-currency').textContent = currencyItems.length.toLocaleString('ru-RU');
-            renderCurrency();
-        })
-        .catch(err => {
-            console.error('Не удалось загрузить data/currency.json:', err);
-            document.getElementById('currencyGrid').innerHTML = '';
-            document.getElementById('currencyEmpty').classList.remove('hidden');
         });
 }
 
@@ -192,15 +174,6 @@ function setupFilterEvents() {
     document.getElementById('sortSelect').addEventListener('change', (e) => {
         sortMode = e.target.value;
         renderGames();
-    });
-
-    document.querySelectorAll('.currency-tab').forEach(btn => {
-        btn.addEventListener('click', () => {
-            document.querySelectorAll('.currency-tab').forEach(b => b.classList.remove('active'));
-            btn.classList.add('active');
-            activeCurrencyCategory = btn.dataset.category;
-            renderCurrency();
-        });
     });
 }
 
@@ -328,95 +301,6 @@ function renderPagination(totalPages) {
         }
     }
     el.appendChild(makeBtn('»', Math.min(totalPages, currentPage + 1), false, currentPage === totalPages));
-}
-
-/* =====================================================================
-   "ЗАГРУЗИТЬ ПОЛНЫЙ КАТАЛОГ" — прогрессивный рендер уже загруженных
-   данных пачками, с живым счётчиком (весь каталог уже в data/index.json,
-   это честная порционная отрисовка в DOM, а не имитация сети).
-   ===================================================================== */
-
-var fullCatalogLoaded = false;
-
-function loadFullCatalog() {
-    if (fullCatalogLoaded) return;
-    fullCatalogLoaded = true;
-    document.getElementById('loadFullCatalogBtn').classList.add('hidden');
-    document.getElementById('catalogProgressWrap').classList.remove('hidden');
-
-    GAMES_PER_PAGE = 999999;
-    const sorted = sortGames(filteredGames);
-    const grid = document.getElementById('gamesGrid');
-    grid.innerHTML = '';
-    document.getElementById('pagination').innerHTML = '';
-
-    const batchSize = 200;
-    let rendered = 0;
-    const bar = document.getElementById('catalogProgressBar');
-    const counter = document.getElementById('catalogProgressCount');
-
-    function renderBatch() {
-        const batch = sorted.slice(rendered, rendered + batchSize);
-        if (batch.length === 0) {
-            bar.style.width = '100%';
-            return;
-        }
-        grid.insertAdjacentHTML('beforeend', batch.map(gameCardHtml).join(''));
-        rendered += batch.length;
-        counter.textContent = rendered.toLocaleString('ru-RU');
-        bar.style.width = Math.round((rendered / sorted.length) * 100) + '%';
-        attachCardTilt();
-        requestAnimationFrame(() => setTimeout(renderBatch, 30));
-    }
-    renderBatch();
-}
-
-function resetCatalogView() {
-    fullCatalogLoaded = false;
-    GAMES_PER_PAGE = 24;
-    currentPage = 1;
-    document.getElementById('loadFullCatalogBtn').classList.remove('hidden');
-    document.getElementById('catalogProgressWrap').classList.add('hidden');
-    document.getElementById('catalogProgressBar').style.width = '0%';
-    document.getElementById('catalogProgressCount').textContent = '0';
-    renderGames();
-}
-
-/* =====================================================================
-   ВНУТРИИГРОВАЯ ВАЛЮТА
-   ===================================================================== */
-
-function renderCurrency() {
-    const grid = document.getElementById('currencyGrid');
-    const empty = document.getElementById('currencyEmpty');
-    const items = activeCurrencyCategory
-        ? currencyItems.filter(i => i.category === activeCurrencyCategory)
-        : currencyItems;
-
-    if (items.length === 0) {
-        grid.innerHTML = '';
-        empty.classList.remove('hidden');
-        return;
-    }
-    empty.classList.add('hidden');
-    grid.innerHTML = items.map(item => `
-        <div class="bg-neutral-800 rounded-2xl p-4 border border-neutral-700 flex items-center gap-4">
-            ${item.cover ? `<img src="${item.cover}" alt="${escapeHtml(item.name)}" class="w-16 h-16 rounded-lg object-cover shrink-0">` : ''}
-            <div class="flex-grow min-w-0">
-                <p class="text-sm font-bold text-white truncate">${escapeHtml(item.name)}</p>
-                <p class="text-xs text-neutral-500 truncate">${escapeHtml(item.game_title)}</p>
-                <p class="text-yellow-500 font-extrabold mt-1">${formatRub(item.price_rub)}</p>
-            </div>
-            <button onclick='buyCurrencyItem(${JSON.stringify(item.name)}, ${JSON.stringify(item.game_title)}, ${item.price_rub})' class="shrink-0 w-10 h-10 rounded-xl bg-yellow-500 hover:bg-yellow-400 flex items-center justify-center text-neutral-900 transition-colors">
-                <i class="fa-solid fa-cart-plus"></i>
-            </button>
-        </div>
-    `).join('');
-}
-
-function buyCurrencyItem(name, gameTitle, price) {
-    const text = `Здравствуйте! Хочу купить «${name}» (${gameTitle}) за ${price.toLocaleString('ru-RU')} ₽.`;
-    completePurchaseFlow(text);
 }
 
 /* =====================================================================

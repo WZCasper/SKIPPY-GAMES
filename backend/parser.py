@@ -69,7 +69,6 @@ SKIPPED_IDS_FILE = BACKEND_DIR / "skipped_ids.json"
 DATA_DIR = REPO_ROOT / "data"
 GAMES_DIR = DATA_DIR / "games"
 INDEX_FILE = DATA_DIR / "index.json"
-CURRENCY_FILE = DATA_DIR / "currency.json"
 
 STEAM_APPLIST_URL = "https://api.steampowered.com/ISteamApps/GetAppList/v2/"
 STEAM_FEATURED_URL = "https://store.steampowered.com/api/featuredcategories/"
@@ -730,30 +729,6 @@ def build_game_record(appid, uah_to_rub):
 # Основной пайплайн
 # ---------------------------------------------------------------------------
 
-def classify_currency_category(genres):
-    """Группирует жанры игры в одну из категорий раздела 'Внутриигровая
-    валюта' на сайте — грубая, но полезная для навигации классификация."""
-    genres_set = set(genres or [])
-    shooter_genres = {
-        "Шутеры от первого лица (FPS)", "Шутеры от третьего лица (TPS)",
-        "Тактические шутеры", "Геройские шутеры", "Королевская битва (Battle Royale)",
-    }
-    moba_strategy_genres = {
-        "MOBA", "Стратегии в реальном времени (RTS)", "Пошаговые стратегии (TBS)",
-        "Глобальные стратегии (4X)", "Башенная защита (Tower Defense)", "Автобатлеры",
-    }
-    rpg_mmo_genres = {
-        "Классические ролевые игры (CRPG)", "Экшен-РПГ (Action-RPG)",
-        "Японские ролевые игры (JRPG)", "MMORPG",
-    }
-    if genres_set & shooter_genres:
-        return "Шутеры"
-    if genres_set & moba_strategy_genres:
-        return "MOBA и стратегии"
-    if genres_set & rpg_mmo_genres:
-        return "RPG и MMO"
-    return "Другое"
-
 
 def main():
     log.info("=== SkippyGames parser v2: старт ===")
@@ -928,31 +903,6 @@ def main():
     }
     INDEX_FILE.write_text(json.dumps(index_payload, ensure_ascii=False, indent=2), encoding="utf-8")
     save_skipped_ids(skipped_ids)
-
-    # Отдельный агрегированный файл для раздела "Внутриигровая валюта" —
-    # собираем все DLC/донат-паки из всех игр каталога в один лёгкий список
-    # с привязкой к игре и жанровой категорией, чтобы фронтенду не нужно
-    # было догружать data/games/{id}.json для каждой игры, чтобы построить
-    # этот раздел.
-    currency_items = []
-    for g in games_list:
-        for item in g.get("upsells", []):
-            currency_items.append({
-                "game_id": g["id"],
-                "game_title": g["title"],
-                "category": classify_currency_category(g.get("genres", [])),
-                "name": item["name"],
-                "base_price_rub": item.get("base_price_rub", 0),
-                "markup_rub": item.get("markup_rub", MARKUP_RUB),
-                "price_rub": item["price_rub"],
-                "cover": item.get("cover", g["cover"]),
-            })
-    currency_payload = {
-        "generated_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
-        "count": len(currency_items),
-        "items": currency_items,
-    }
-    CURRENCY_FILE.write_text(json.dumps(currency_payload, ensure_ascii=False, indent=2), encoding="utf-8")
 
     # Старый монолитный games.json в корне репозитория больше не используется
     # фронтендом — удаляем его, чтобы не вводить в заблуждение (если остался

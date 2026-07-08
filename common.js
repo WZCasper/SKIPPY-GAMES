@@ -8,7 +8,6 @@ var VK_GROUP_NUMERIC_ID = 195484236;
 var VK_GROUP_ALIAS = 'skippygames';
 
 var GAMES_INDEX_URL = 'data/index.json';
-var CURRENCY_URL = 'data/currency.json';
 var GAME_DETAIL_URL = (id) => `data/games/${id}.json`;
 
 var PLATFORM_LABELS = { 'PC': 'Steam (PC)', 'PlayStation': 'PlayStation', 'Xbox': 'Xbox', 'Nintendo Switch': 'Nintendo Switch' };
@@ -168,16 +167,12 @@ function toggleChat() {
 function renderVkFallback(reason) {
     const el = document.getElementById('vk_community_messages');
     if (!el) return;
+    console.warn('Встроенный виджет VK не поднялся (' + reason + '). Прямые кнопки VK/Telegram выше по-прежнему работают.');
     el.innerHTML = `
-        <div class="p-6 text-center text-sm text-neutral-600 flex flex-col items-center gap-3">
-            <i class="fa-brands fa-vk text-3xl text-blue-600"></i>
-            <p>Не удалось загрузить чат ВКонтакте${reason ? ' (' + escapeHtml(reason) + ')' : ''}.</p>
-            <p class="text-neutral-500 text-xs">Обычно причина — блокировщик рекламы в браузере блокирует скрипты vk.com, либо домен сайта не подтверждён в настройках виджета сообщества.</p>
-            <div class="flex gap-2 flex-wrap justify-center">
-                <a href="https://vk.com/${VK_GROUP_ALIAS}" target="_blank" rel="noopener" class="px-3 py-1.5 rounded-lg bg-blue-600 text-white font-semibold text-xs hover:bg-blue-500 transition-colors">Написать в VK напрямую</a>
-                <a href="https://t.me/SKIPPYManager" target="_blank" rel="noopener" class="px-3 py-1.5 rounded-lg bg-sky-500 text-white font-semibold text-xs hover:bg-sky-400 transition-colors">Написать в Telegram</a>
-            </div>
-            <button onclick="retryVkWidget()" class="text-xs text-neutral-500 hover:text-neutral-800 underline">Попробовать снова</button>
+        <div class="p-4 text-center text-xs text-neutral-400 flex flex-col items-center gap-1.5">
+            <i class="fa-solid fa-circle-info text-neutral-400"></i>
+            <p>Встроенный чат сейчас недоступен в этом браузере — воспользуйтесь кнопками выше, они точно работают.</p>
+            <button onclick="retryVkWidget()" class="text-neutral-500 hover:text-neutral-700 underline">Попробовать снова</button>
         </div>
     `;
 }
@@ -195,7 +190,7 @@ function mountVkWidget() {
 
     const container = document.getElementById('vk_community_messages');
     if (!container) return;
-    container.innerHTML = '<div class="p-6 text-center text-neutral-500 text-sm"><i class="fa-solid fa-spinner fa-spin mr-2"></i>Подключаем чат ВКонтакте...</div>';
+    container.innerHTML = '<div class="p-4 text-center text-neutral-400 text-xs"><i class="fa-solid fa-spinner fa-spin mr-2"></i>Загружаем встроенный чат...</div>';
 
     loadVkScript((loaded) => {
         if (!loaded || !window.VK || !window.VK.Widgets || !window.VK.Widgets.CommunityMessages) {
