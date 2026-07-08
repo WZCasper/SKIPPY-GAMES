@@ -1,0 +1,45 @@
+{
+  "id": 1889620,
+  "title": "AI Roguelite",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1889620/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1889620/library_hero.jpg",
+  "description": "Introducing AI Roguelite, the world's first text-based RPG where every location, NPC, enemy, item, crafting recipe, and game mechanic is 100% determined by artificial intelligence.\n\nIf you've ever played other AI \"games\" such as AI Dungeon and were frustrated by how they didn't feel like a game, then AI Roguelite might be the perfect game for you.\n\n• AI-generated entities: What weapons might you find in an underwater city? Which enemies might you find? Where else can you go from there? All these questions are answered by an LLM, so you can explore a truly infinite world.\n\n• AI-generated crafting recipes: What item could you make if combining a wooden stick with a rock? What about a computer chip with a zombie brain? The AI decides which item should be produced, based on the names of the ingredients.\n\n• AI-generated combat: What happens when you try to attack a \"terminator robot\" with a \"raw salmon\"? Instead of traditional item stats, the success/failure of an attack depends heavily on its name and description, the AI-determined plausibility of your proposed action, and a dice roll check on your attributes and skills. The AI then generates a plausible story for what happens when you use it against the enemy. Finally, the AI is fed its own story, from which it tries to figure out whether the enemy was killed, injured, or unharmed.\n\n• AI-generated illustrations: Every entity gets an AI-generated image using either your GPU or the cloud.\n\nVarious options for text and image gen models: Choose from free cloud (works out of the box), paid cloud, custom via API (works with OpenRouter, LMStudio, etc.), and more.\n\nNotice: This game features plausibility and dice roll checks based on your stats, skills, and story context. Actions may be blocked or fail if checks aren't met; this is intentional and not caused by AI censorship. You can bypass these mechanics at any time via options or console commands.\n\nNotice: An optional monthly subscription is available via an in-game link, which enhances the gameplay experience by using more expensive LLMs and image generation services. This is entirely optional and does not impede the default free service in any way. The game works well out of the box with default settings and no additional cost to the player. Ensuring it continues to do so remains the highest priority.\n\nNotice: Users in China may be blocked from official servers because China blocks all Google services. As a workaround, you can find a VPN which doesn't block Google services, or use one of the custom API options.",
+  "description_short": "World's first RPG in which all entities are AI-generated and all game mechanics are AI-directed.",
+  "genres": [
+    "Визуальные новеллы",
+    "Приключения"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 362,
+  "markup_rub": 500,
+  "price_rub": 862,
+  "original_price_rub": 1058,
+  "discount_percent": 35,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889620/40e4835227ee99c75ce95922618c1d49440e37c3/ss_40e4835227ee99c75ce95922618c1d49440e37c3.1920x1080.jpg?t=1780388541",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889620/0026da1053f933872495b2f32cdce99bdf0a03bf/ss_0026da1053f933872495b2f32cdce99bdf0a03bf.1920x1080.jpg?t=1780388541",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889620/7b3e438dd6fce66b611bdb9ca62e872b61b93f82/ss_7b3e438dd6fce66b611bdb9ca62e872b61b93f82.1920x1080.jpg?t=1780388541",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889620/685ab99f5b42becf44e12b7e46368d38edb5dca5/ss_685ab99f5b42becf44e12b7e46368d38edb5dca5.1920x1080.jpg?t=1780388541",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889620/2ad09018dcf5b683909d487abbc23ac5fa163930/ss_2ad09018dcf5b683909d487abbc23ac5fa163930.1920x1080.jpg?t=1780388541",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889620/f3ed412d613650d216c7a0eb6bde4050b63d0c38/ss_f3ed412d613650d216c7a0eb6bde4050b63d0c38.1920x1080.jpg?t=1780388541",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889620/ss_c380e006934f7180b628ffd08f0ccf8ab4d04c1d.1920x1080.jpg?t=1780388541",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1889620/ss_56573cd4f53f2abeedd37eba06b0d32de6da1a0a.1920x1080.jpg?t=1780388541"
+  ],
+  "upsells": [
+    {
+      "id": 1950550,
+      "name": "AI Roguelite Main Theme (OST)",
+      "base_price_rub": 64,
+      "markup_rub": 500,
+      "price_rub": 564,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1950550/header.jpg?t=1649476026"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-08T11:11:26Z"
+}
