@@ -1,0 +1,36 @@
+{
+  "id": 1196080,
+  "title": "Space Simulation Toolkit",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1196080/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1196080/library_hero.jpg",
+  "description": "*** NOT ALL GPU SUPPORTED! CHECK DEMO FIRST ***\n\nYou probably heard the theory that we live inside a computer simulation.\n\nI wanted to create a big sandbox game in which you can create your own simulations, change the laws of physics, design mechanisms, create A-Life worlds and inhabit them with living beings, experiment with evolution and AI.\n\nSST is a particle simulator that uses a graphics card as a supercomputer to calculate physics. The more powerful the graphics card, the greater the gameplay!\n\nThe building block of all worlds is an atom. Atoms can have links, thus producing spatial structures.\n\nThe physical properties of materials can vary over a wide range, allowing the simulation of gases, liquids, soft and solid bodies, various chemical processes and states of matter.\n\nPerhaps even creating a virtual life!\n\nFor example, the “Protobiome” simulation is a living virtual world with light, water, earth, growing plants and dwelling creatures, guided by evolutionary genetics.\n\nATTENTION!\n\nThe game is in the deep Early Access state. It may be unstable. It may also completely fail to run on your system.\n\nThe game had initially been developed for NVIDIA cards. Therefore, the project works most optimally and efficiently on modern NVIDIA GPUs using CUDA. However, I'm willing to support the widest possible range of gaming systems. This is why the game also has an OpenCL port, so it can run on most AMD graphics cards as well.\n\nIt is really important that you have a recent version of the video driver installed. In case of problems running the game, first of all, please, try to update the video card driver!\n\nI HIGHLY RECOMMEND to try the free demo version of the game before buying the Early Access version. This will let you make sure the game works well on your system!",
+  "description_short": "Physics sandbox game that uses a graphics card as a supercomputer. Change the laws of physics, design mechanisms, create A-Life worlds and inhabit them with living beings, experiment with evolution and AI.",
+  "genres": [
+    "Технические симуляторы",
+    "Песочницы (Sandbox)"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 618,
+  "markup_rub": 500,
+  "price_rub": 1118,
+  "original_price_rub": 1384,
+  "discount_percent": 30,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196080/e7764ac6374231680bc6bf1efce0ac68ff9312fa/ss_e7764ac6374231680bc6bf1efce0ac68ff9312fa.1920x1080.jpg?t=1763560004",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196080/ss_965aa3194a2342f0e3a54d1fd503279f39504bec.1920x1080.jpg?t=1763560004",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196080/ss_c91bc5a44143146522f3ee82b36682d34c67bb46.1920x1080.jpg?t=1763560004",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196080/ss_a11d6e58b5b250bd7e752c09e141e3f5d6a3a3a1.1920x1080.jpg?t=1763560004",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196080/ss_3c5f9c233214d4b78ecd7281d94e56c9cab736c5.1920x1080.jpg?t=1763560004",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196080/ss_a19288cd20caa918188c9f162a6b716b80b79571.1920x1080.jpg?t=1763560004",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196080/ss_e3ddc91f553109c280a9068efa57a511182d2d26.1920x1080.jpg?t=1763560004",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196080/ss_9c2b60ba9a77b5bc36ca8ec81f16d2425dd9a936.1920x1080.jpg?t=1763560004"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-08T14:29:21Z"
+}
