@@ -1,0 +1,65 @@
+{
+  "id": 573410,
+  "title": "AI War 2",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/573410/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/573410/library_hero.jpg",
+  "description": "Wishlist Our Upcoming Game!\n\nJoin Our Discord Channel!\n\nNew DLC!\n\nОб игреAI War 2 is a grand strategy/RTS hybrid that reverses many of the conventions of both genres. Take territory without attracting attention, build your empire with care, and adapt to an ever-evolving galactic battleground. It's also \"a sequel to [Arcen's] enormo-space RTS AI War, which we called 'one of this year's finest strategy games' back in 2009\" (Tom Sykes, PC Gamer)The most devious and acclaimed artificial intelligence in strategy gaming evolves.\nMost recent is 2021's Paradigm Shift (which has overviews and tutorials in that link). Every year since 2018, this AI has become more devious -- and the factions facing it, subordinate to it, or simply neighbors with it grow more numerous and more lifelike.\n\nThe premise is simple: you've already lost the war. The entire galaxy belongs to other factions, mostly the AI. You are starting with one small planet in a sea of hostile territory, and you must endeavor not to draw too much notice from the AI. Your job is to carefully evaluate targets, strategically expand your territory just enough to run your fleets and defensive networks, and then strike at the heart of the AI(s) when you are ready.\n\nAI War 2 is meant to be both accessible and deep. Early 2021 has seen major improvements to make the midgame easier to get into for new players, plus a more forgiving Science system and a much more powerful Hacking system. Q3 2021 is going to introduce a new Expert mode for those who want the more extreme sort of challenge that comes from having elements of permanent loss, more reasons to hold disadvantageous positions, and so on. Which mode you choose to play will always remain a personal choice.\n\nUnexpected Technical Advancements\nIn the twelve years since we coded the first AI War, we've made a lot of improvements to our simulation engine, which is now running on top of the Unity 3D engine. However, AI War 2 has presented some truly unique technical challenges, mainly involving running insane amounts of AI and simulations in a massively parallel fashion. We've been able to harness the power of modern multi-core processors to a degree that most game simulations cannot, and our challenge from 2020 onward has been to bring that into the multiplayer realm. While multiplayer currently remains in beta, it is also a bit of a technical showcase.\n\nMod support is heavily embraced by this game, and having mods be multiplayer-safe (or have deep access to change parts of the core simulation in general) is not typical for games as a whole, let alone this genre. We've managed to make multiplayer a self-repairing affair, which is beneficial both for playing with friends on different OSes and hardware, and for having most mod-code mistakes be corrected by the core game.\n\nThe AI has dramatically improved in intelligence every year since 2018, and your framerate is also decoupled from your simulation performance. You can have a great machine with 120fps during heavy battles, and a friend at 30fps and you both stay in sync and the actually simulation doesn't slow down. You can speed up and slow down the simulation without any extra load on your CPU, which is very helpful to avoid any boring waiting around, and you can pause at will.\n\nThe interface respects your time by automating things that you would do the same 95% of the time anyway. For that other 5% there are indeed advanced features such as placing spy nanites, tweaking or disabling the rules of automation, or redesigning your fleet compositions as much as you want. Hacking is one of the most interesting ways to customize your existing fleet leaders, as you can give them unusual upgrades or even transform them into new versions of their class.Streamlined, yet deeper.\nSometimes when a sequel says it's \"streamlined,\" it can really mean \"dumbed down.\" And there are indeed fewer tiny choices to be made in some areas here: you don't have to decide how to wash each dish; you have a dishwasher. And it's a good thing you do, to be honest, because the rabbit hole of complex and confounding scenarios goes as deep as you want it to. \n\nIf you want to play at a level approaching Expert, you'll need that spare brainpower to design your fleets, manage multiple fronts at once, juggle offense and defense, and continually revise your empire design to suit your needs as the campaign unfolds. If you want to play more casually, that is absolutely okay as well, and the game can be much more forgiving while still providing a lot of interesting macro choices.\n\nThere's too much to memorize (but tooltips are always right there, anyway), and there's always an unfamiliar element. Clicking fast won't help you. To win the AI War, you'll have to improvise, adapt, and use your wits.\n\nAs it should be.How About Some Highlights?• Many optional factions, each with their own goals and strategies, create a living galaxy.\n\n• The fleets system gives you tons of ships that can be organized and distributed with a minimum of fuss.\n\n• Science upgrades are simple to manage, but provide many options on how to approach any given campaign based on your preferences and what you find in the wild.\n\n• Hack the enemy, hack your allies, hack yourself. Hacking points are limited, but extremely powerful ways to get more ships or capabilities, directly weaken enemies, or even steal from enemies.\n\n• A ton of map types, and with a lot of sub-options to make them even more varied.\n\n• Outguard can be hired as a way of deploying surprise mobile forces whever you need, and many factions can be allies.\n\n• Warden, Hunter, and Praetorian Guard sub-fleets of the AI provide for new challenges (and sometimes opportunities) in how both you and the AI interact with each other.\n\n• Crazy moddability, with many levers available in easily-accessible XML. A number of player-supported mods are shipped directly with the game (defaulting to off) so that you always have the latest version of them and don't have to hunt for them to download them.\nWhat's New Compared To The Original?\n• More approachable gameplay, but with a rabbit hole that goes as deep as ever.\n\n• More to do, in terms of moment to moment gameplay and choices. More to find, more to conquer or be conquered-by.\n\n• Polished gameplay mechanics, representing everything learned from first game’s six expansions (plus three years of development on this sequel).\n\n• Trimmed fat: repetitive boring tasks have been automated or streamlined, but more options than ever have been added for you to customize things when you want to. Our goal is never to waste your time, but always have an array of interesting challenges for you to pursue at once.\n\n• Redesigned UI that gives you a ton of information and power right when you need it.\n\n• 1.5 hours of new music added to the 4.5 hour included score from the original game.\n\n• Multithreading for modern performance, and a codebase that will not summon an elder god (recoded from the ground up for modern rigs).\n\n• Over 1900 lines of spoken dialogue from more than 25 actors.",
+  "description_short": "The most devious and acclaimed artificial intelligence in strategy gaming is better than ever. A grand strategy/RTS hybrid that reverses many conventions of both genres. Take territory without attracting attention, build your empire with care, and adapt to an ever-evolving galactic battleground.",
+  "genres": [
+    "Глобальные стратегии (4X)",
+    "Башенная защита (Tower Defense)",
+    "Стратегии в реальном времени (RTS)",
+    "Экономические симуляторы",
+    "Песочницы (Sandbox)",
+    "Технические симуляторы"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 177,
+  "markup_rub": 500,
+  "price_rub": 677,
+  "original_price_rub": 1212,
+  "discount_percent": 75,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573410/ss_f8491d5efbc94ff1bfa5fb7dbd30d62009ca5686.1920x1080.jpg?t=1754319159",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573410/ss_3218be2f8b96ba4d032e0f371daa37b4f4c81f43.1920x1080.jpg?t=1754319159",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573410/ss_f8407200b99f566dae08abeeeae9d9a6a8c1d77b.1920x1080.jpg?t=1754319159",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573410/ss_21392d50115a7d6eab55b1c0f82e663f8872a2b9.1920x1080.jpg?t=1754319159",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573410/ss_ed5744ac049913f8ea9401abd16e864f5d894052.1920x1080.jpg?t=1754319159",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573410/ss_dd3bbf54a37a48405d5df2da60859cf83bb09150.1920x1080.jpg?t=1754319159",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573410/ss_9c17ec3a224d5ea62324bffeb4270dac65abc214.1920x1080.jpg?t=1754319159",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/573410/ss_5b1d40ebeb7daf058201370b282f66ee378e4722.1920x1080.jpg?t=1754319159"
+  ],
+  "upsells": [
+    {
+      "id": 1196420,
+      "name": "AI War 2: The Spire Rises",
+      "base_price_rub": 154,
+      "markup_rub": 500,
+      "price_rub": 654,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1196420/header.jpg?t=1754319283"
+    },
+    {
+      "id": 1290340,
+      "name": "AI War 2: Zenith Onslaught",
+      "base_price_rub": 154,
+      "markup_rub": 500,
+      "price_rub": 654,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1290340/header.jpg?t=1754319326"
+    },
+    {
+      "id": 1466780,
+      "name": "AI War 2: The Neinzul Abyss",
+      "base_price_rub": 154,
+      "markup_rub": 500,
+      "price_rub": 654,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466780/header.jpg?t=1754319235"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-08T03:27:12Z"
+}

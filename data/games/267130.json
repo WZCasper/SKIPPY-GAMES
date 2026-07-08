@@ -1,0 +1,35 @@
+{
+  "id": 267130,
+  "title": "Star Swarm Stress Test",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/267130/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/267130/library_hero.jpg",
+  "description": "Welcome to the newest frontier in gaming: battles and scenes at the scale of armies and fleets, all active at once with no trickery around loading screens or off-screen abstractions. \n\nStar Swarm is a real-time demo of Oxide Games’ Nitrous engine, which pits two AI-controlled fleets against each other in a furious space battle. Originally conceived as an internal stress test, Oxide decided to release Star Swarm so that the public can share our vision of what we think the future of gaming can be. The simulation in Star Swarm shows off Nitrous’ ability to have thousands of individual units onscreen at once, each running their own physics, AI, pathfinding, and threat assessments. \n\nNitrous uses the power of its proprietary SWARM (Simultaneous Work and Rendering Model) technology to achieve incredible performance on modern, multi-core computer hardware. SWARM allows Nitrous to do things previously thought impossible in real-time 3D rendering, like Object Space Lighting -- the same techniques used in the film industry -- and having thousands of unique individual units onscreen at once.\n\nNote that Star Swarm is not a deterministic simulation -- the AI and everything else is being computed in real time, so you will get slightly different results from multiple executions even on the same hardware. Unfortunately, achieving 100% determinism with the highly threaded nature of the Nitrous engine is an unrealistic goal. \n\nThe Nitrous engine is already in use for two games currently in production: an unannounced title from Oxide Games and Stardock’s Star Control reboot. Nitrous is also available for licensing to interested game developers. \n\nYou’ve got to see it to believe it. Download Star Swarm for free now to see what your gaming PC can do with the next-generation Nitrous engine.Key Features• Up to 10,000+ units onscreen at once – Imagine what kind of games can be made when developers can count on simulating battles and scenes at this scale\n\n• SWARM technology blows the performance curve – Fully utilizing each hardware CPU or GPU core available, SWARM allows Nitrous to achieve incredible results\n\n• Benchmark mode generates performance information – Since Star Swarm is a dynamic simulation rather than a canned demo, run it several times to see what Nitrous’ real-world gaming performance is on your machine \n\n• Film-style rendering – Nitrous uses Object Space Lighting, the same techniques used in film, including real-time film-quality motion blur",
+  "description_short": "Welcome to the newest frontier in gaming: battles and scenes at the scale of armies and fleets, all active at once with no trickery around loading screens or off-screen abstractions. Star Swarm is a real-time demo of Oxide Games’ Nitrous engine, which pits two AI-controlled fleets against each other in a furious space battle.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 0,
+  "markup_rub": 0,
+  "price_rub": 0,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/267130/ss_d396d897ce80da5c2917a018b6d1488e1b6c0223.1920x1080.jpg?t=1667931126",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/267130/ss_1fdcf1aa17e20cb27cc7f11784805c094daa0960.1920x1080.jpg?t=1667931126",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/267130/ss_9440314b68ee78051e558d1b2887284218d3b7d5.1920x1080.jpg?t=1667931126",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/267130/ss_a391e70b8e3672d479f7bf3db0480a5579dc7531.1920x1080.jpg?t=1667931126",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/267130/ss_2ca1e3bde037ddd08c375c8f453caa252d956d76.1920x1080.jpg?t=1667931126",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/267130/ss_7443f16e918939cd67d23bda6168c0fa33b1fb34.1920x1080.jpg?t=1667931126",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/267130/ss_8faf60b6ecf96e0775f74cb7600b29eb31182a02.1920x1080.jpg?t=1667931126",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/267130/ss_2be2738ce9c47178f8607a4891ec463deaf7db92.1920x1080.jpg?t=1667931126"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-08T03:29:27Z"
+}
