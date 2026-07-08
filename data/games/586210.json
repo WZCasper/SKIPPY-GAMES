@@ -1,0 +1,32 @@
+{
+  "id": 586210,
+  "title": "OVRdrop",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/586210/capsule_616x353.jpg",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/586210?t=1775000598",
+  "description": "OVRdrop is a Utility Application for SteamVR that can mirror a Desktop Window, an entire Monitor, or a WebCam into a Cross Game SteamVR Overlay. OVRdrop works on SteamVR and should be fully compatible with any SteamVR headset, though you will need tracked controllers for many of the features. It is known to work for the HTC Vive as well as the Oculus Rift, though some games may not be compatible with the Rift. The only major downside is that Cross Game Overlays will always draw on top of game geometry because Depth information is not fed to the Compositor by SteamVR games.\n\nIf you have any issues getting started, be sure to check the FAQ on our GitHub which I'll try to keep updated with the most common questions. If you find any bugs, please post them to our issue tracker on our GitHub. I'm at the ready to fix any bugs that are found! \n\nCompatibility\n\nOVRdrop requires Windows 8/8.1 or 10. Windows 7 not supported due to technical limitations. Support for Windows 7 is planned for the future.\n\nLimited Oculus Rift/OSVR Support! OVRdrop should work perfectly with any SteamVR compatible headset when running through SteamVR. However some games will override the SteamVR SDK when using an Oculus Rift or an OSVR HMD, and prevent SteamVR from drawing to the headset. In this case, OVRdrop will not work with those games. Please check our Compatibility guide on our GitHub for more information. Please report Oculus Rift/OSVR success or failure on our GitHub Issue Tracker.\n\nCertain Oculus Rift games can be fixed and made to work with SteamVR/OVRdrop! Please see the announcement here for more details.\n\nOVRdrop will only work on the Oculus Rift in games that do not force the Oculus SDK! This is not something that can be fixed on our end.\n\nOVRdrop will only work on the OSVR HMD in games that do not force the OSVR SDK! This is not something that can be fixed on our end.\n\nHTC Vive is so far known to have 100% compatibility when running through SteamVR. However, some games could possibly break controller interaction. Please check our Compatibility guide on our GitHub for more information.\n\nFeatures• Can clone almost any Desktop Window into VR.\n\n• Can clone an entire monitor into VR.\n\n• Can clone WebCam sources into VR.\n\n• Side By Side 3D support for displaying Side By Side 3D content into VR.\n\n• Works with almost any SteamVR Compatible game. Should work with any game that utilizes the SteamVR SDKs. On the Rift, certain Rift games will use the Oculus SDK even when you use SteamVR. On the Vive and other SteamVR compatible headsets every game should work.\n\n• Easily Attach the Overlay to the World, the Screen (like a HUD), or one of the Controllers.\n\n• Send Mouse Clicks through to the target application, without leaving VR. (World/Controller attached Overlays only). Allows for Left, Right, and Middle Click as well as ScrollWheel (Horizontal and Vertical wheels).\n\n• Move, Rotate, and Scale the Overlay without leaving VR. (World attached Overlays only).\n\n• The Overlay can Animate when you look at it, such as changing transparency, scale, or moving out of the way.\n\n• Allows configurable Capture FPS.\n\n• Allows configurable Crop Region. You can clone just a subset of a window instead of the whole window if desired.\n\n• Configurable Outline for the Overlay (can disable if desired) to make the Overlay more visible.\n\n• Configurable Quality Settings. Clone a window as is or use Bilinear or Trilinear filtering to smooth edges, increasing perceived quality.\n\n• Options to enable display of the Desktop Cursor on the Overlay when it moves over the target application.\n\n• Haptic Feedback support!\n\n• Save/Load support.",
+  "description_short": "OVRdrop is a Utility Application for SteamVR that can mirror a Desktop Window, an entire Monitor, or a WebCam into a Cross Game SteamVR Overlay.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 191,
+  "markup_rub": 500,
+  "price_rub": 691,
+  "original_price_rub": 713,
+  "discount_percent": 10,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/586210/ss_76d2b9c3792e1a64f3b2bb82ec790c8eaeb38f13.1920x1080.jpg?t=1775000598",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/586210/ss_6df84dfb95599cbdec393fc7d4e2e9ac59edf638.1920x1080.jpg?t=1775000598",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/586210/ss_5093679030642ebf8223226dd3520ab159aa6514.1920x1080.jpg?t=1775000598",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/586210/ss_a9770457245898febff411a63dd9b48859346f39.1920x1080.jpg?t=1775000598",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/586210/ss_6cd2af915fa635ffaf9f712e3bde9f69285f1a75.1920x1080.jpg?t=1775000598"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-08T08:59:46Z"
+}

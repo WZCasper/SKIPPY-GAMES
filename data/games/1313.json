@@ -1,0 +1,37 @@
+{
+  "id": 1313,
+  "title": "SiN Gold",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1313/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1313/library_hero.jpg",
+  "description": "When the CEO of SinTEK Industries begins injecting the streets with a DNA-altering drug, it's time to reassess the laws of morality. When the same twisted bio-chemist plans to overtake the world with her unholy army of genetically-engineered mutants, it's time to rewrite the golden rule.\n\nYou are Colonel John R. Blade, head of the most prominent private protection agency in Freeport. Now Elexis Sinclaire is waging her holy war against the security industry...and you along with it. You've made a religion out of fighting crime. Now you're going to make Elexis pay for her sins.\n\nUpdated Features\n* Added \"Wages of SiN\" expansion\n* Added modernized Steam master server support\n* Added and restored editing SDK\n* Added support for additional 16:9 video resolutions\n* Restored/uncensored various original game assets\n\nGeneral Improvements\n* Optimizations to math, container types, and search algorithms\n* Restored support for *.sin pack files, re-packed assets\n* Removed obsolete IPX networking support\n* Restored original sound and music engine\n* Changed video format to open-source/patent-free OGV/Theora\n\nFixes\n* Fixed crash in Docks cinematic\n* Fixed incorrect behavior in Thug AI\n* Fixed undefined camera position and occasional crash in Wages of SiN ending cinematic\n* r_palettemode cvar for software mode now reads and writes correct configuration variable\n* Fixed memory corruption issue during multiplayer initialization\n* cl_maxfps default changed to 200 to avoid issues with game running too fast\n* Repaired issue with extremely loud sounds on menu screens when FPS is too high\n* Fixed possible soft lock when using menu hotkeys while inside an in-game computer console\n* Restored missing assets for Beecadrone enemy",
+  "description_short": "SiN: Gold has returned! Free update for original owners!",
+  "genres": [
+    "Экшен",
+    "Шутеры от первого лица (FPS)",
+    "Психологические хорроры"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 57,
+  "markup_rub": 500,
+  "price_rub": 557,
+  "original_price_rub": 790,
+  "discount_percent": 80,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313/ss_dfb77ae651e1570658794217c983550bc2dd3408.1920x1080.jpg?t=1765989643",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313/ss_f89e0b8fabc17ade5a8fb6181364420ff8c7f8c1.1920x1080.jpg?t=1765989643",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313/ss_28bfa1749987ceeba86618d99117c3720c27f42c.1920x1080.jpg?t=1765989643",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313/ss_536e5b2654efc937a86b43dec3e768dec4484353.1920x1080.jpg?t=1765989643",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313/ss_cef8fd94e7fe340b3e969abd93ae6c4418f323b4.1920x1080.jpg?t=1765989643",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313/ss_4434d53ecdf349fe5ed2d0baaa58af7ed9c7e34c.1920x1080.jpg?t=1765989643",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313/ss_971eea8b9dcd1b76ed305d26b32c990da4ecb5cc.1920x1080.jpg?t=1765989643",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1313/ss_96ee1192d43d9cc9fc0c97b6b1fdf70bbbf86678.1920x1080.jpg?t=1765989643"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-08T08:50:35Z"
+}
