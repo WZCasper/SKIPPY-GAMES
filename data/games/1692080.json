@@ -1,0 +1,56 @@
+{
+  "id": 1692080,
+  "title": "SVFI",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1692080/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1692080/library_hero.jpg",
+  "description": "An AI software dedicated to high-performance optimization of anime footage.Exclusive anime optimization• The self-developed AI frame interpolation algorithm (GMFSS) realizes high-quality frame interpolation for anime footage, easily upgrading low-frame-rate materials to high-frame-rate with fewer jelly impurities.\n\n• The self-developed multiple duplicate frame removal algorithms can automatically remove all kinds of common duplicate frames in anime footage with higher efficiency than manual removal. Moreover, the DRBA mode can only interpolate the background and not the foreground moving characters, meeting various output requirements.\nHigh-quality output• The self-developed high-precision detection algorithm automatically identifies and processes transitions to avoid transition jellies.\n\n• Fine-grained output settings ensure that quality requirements at any level are met.\nHigh customizability and high-speed output• Supports input and output of all common video coding formats, such as HEVC/H.265, AVC/H.264, AV1, and ProRes coding.\n\n• Smarter HDR content processing makes handling HDR10, HDR10+, Dolby Vision [5, 8.1, 8.2], and HLG a breeze.\n\n• Supports input and output of TIFF and PNG image sequences, making post-production work immediately available.\n\n• Streamlined task processing eliminates the need to decompose videos into local disks first, reducing system load and improving efficiency.\nHigh hardware compatibility• Both NVIDIA and AMD graphics cards can use the high-quality frame interpolation algorithm (RIFE).\n\n*: This function or some functions are only available for NVIDIA graphics cards.",
+  "description_short": "SVFI: Squirrel Video Frame Interpolation. An app to enhance your low-fps video or image sequence into high framerate footage with AI",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 139,
+  "markup_rub": 500,
+  "price_rub": 639,
+  "original_price_rub": 780,
+  "discount_percent": 50,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1692080/ss_e7932ba619d5ad4431d86ebb0b491494d46b2511.1920x1080.jpg?t=1759407436",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1692080/ss_22384e54fa1d0dfdc01f4624167d4c007f26de1b.1920x1080.jpg?t=1759407436",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1692080/ss_be10dd7d55d0fb6d8fb8bbbb83be3b098db555b0.1920x1080.jpg?t=1759407436",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1692080/ss_ce3f02d51f45c174d347ade306909594642766b0.1920x1080.jpg?t=1759407436"
+  ],
+  "upsells": [
+    {
+      "id": 1718750,
+      "name": "SVFI - Professional",
+      "base_price_rub": 1244,
+      "markup_rub": 500,
+      "price_rub": 1744,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1718750/header.jpg?t=1732944195"
+    },
+    {
+      "id": 1991700,
+      "name": "SVFI - Creative Extension Pack Access A",
+      "base_price_rub": 84,
+      "markup_rub": 500,
+      "price_rub": 584,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1991700/header.jpg?t=1725795853"
+    },
+    {
+      "id": 1813870,
+      "name": "SVFI - Transparent Footage Support",
+      "base_price_rub": 106,
+      "markup_rub": 500,
+      "price_rub": 606,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1813870/header.jpg?t=1725795722"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-08T19:52:05Z"
+}

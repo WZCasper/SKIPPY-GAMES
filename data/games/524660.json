@@ -1,0 +1,49 @@
+{
+  "id": 524660,
+  "title": "RutonyChat",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/524660/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/524660/library_hero.jpg",
+  "description": "RutonyChat это программа для получения сообщений из чатов и уведомлений с различных сайтов посвященных стримам в одном окне.\n\nВместе с программой идет большой комплект уже готовых оформлений для чата, которые еще можно настроить под себя.\n\nКонструкторы оповещений, Ленты оповещений и Сбора данных помогут сделать необычные оповещения с различными эффектами для событий, будь то фолловер, новый подписчик, пере подписка, донат или просто показать специально заготовленное оповещение с помощью клавиши клавиатуры, или даже просто проиграть звук в шутку. Вместе с функциями Удаленного управления можно создавать сложный комбинации оформления для стрима или во время записи видео.\n\nОбширный функционал позволяет увеличить интерактивность с чатом, такие как общее голосование, розыгрыш призов, удаленное управление, система рангов, небольшой бот для чата и многое другое.Возможности• Поддержка чатов с Twitch, Goodgame, YouTube, Trovo.Live, WASD, VKontakte, Odnoklassniki, Peka2.tv, PandaTV, Douyu, Smashcast, GamersTV, GipsyTeam, Aces, Steam\n\n• Поддержка оповещений о бесплатных и платных подписках, о разных событиях\n\n• Оповещения о донате с StreamLabs, DonationAlerts, DonatePay, QIWI, DonateStream, Destream, Donatty\n\n• Поддержка различных расширений для сайтов, такие как BTTV или FrankerFaceZ\n\n• Около 70 настраиваемых тем оформлений в стартовом наборе и еще темы оформления в мастерской\n\n• Чат бот для Twitch, GoodGame, Trovo.Live, YouTube, VKontakte\n\n• Конструктор оповещений (follower, subs, etc.)\n\n• Конструктор Ленты оповещений\n\n• Конструктор Сбора средств (donate, subs, followers, etc.)\n\n• Голосования и розыгрыши\n\n• Удаленное управление - отправка клавиш в игры, запуск скриптов, оповещений и прочее\n\n• Ранговая система - кредиты, иконки и прочее\n\n• Метки - последний подписчик, топ донатер и многие другие\n\n• Игровой режим - для тех у кого один монитор (ВНИМАНИЕ! Только для оконного режима, при полноэкранном режиме может не работать)",
+  "description_short": "RutonyChat это программа для получения сообщений из чатов и уведомлений с различных сайтов посвященных стримам. Верный помощник стримеру и видео блоггеру, который хочет оживить или украсить свой контент.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 479,
+  "markup_rub": 500,
+  "price_rub": 979,
+  "original_price_rub": 1099,
+  "discount_percent": 20,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524660/ss_a3c10c2a9b45fd77e9c4eaf67a82ef70501737a8.1920x1080.jpg?t=1710420376",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524660/ss_cab86b3063c0d6b274c89ccaa1ffe6b180728aaa.1920x1080.jpg?t=1710420376",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524660/ss_1256f63147765d8680054d3ea9c08e1daf2902ff.1920x1080.jpg?t=1710420376",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524660/ss_80a14cf688f795542f97b118cead226f9ca9a01c.1920x1080.jpg?t=1710420376",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524660/ss_458c1d138af1dd4bd73790b82292d5a30421d975.1920x1080.jpg?t=1710420376"
+  ],
+  "upsells": [
+    {
+      "id": 649390,
+      "name": "RutonyChat - Restream Server",
+      "base_price_rub": 103,
+      "markup_rub": 500,
+      "price_rub": 603,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/649390/header.jpg?t=1523898472"
+    },
+    {
+      "id": 846280,
+      "name": "RutonyChat - Rename Streams",
+      "base_price_rub": 103,
+      "markup_rub": 500,
+      "price_rub": 603,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/846280/header.jpg?t=1722289553"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-08T19:58:37Z"
+}
