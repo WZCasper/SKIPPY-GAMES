@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 78,
+  "base_price_rub": 394,
   "markup_rub": 500,
-  "price_rub": 578,
-  "original_price_rub": 897,
-  "discount_percent": 80,
+  "price_rub": 894,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -37,12 +37,12 @@
     {
       "id": 710350,
       "name": "Heat Signature: Edition Upgrade",
-      "base_price_rub": 78,
+      "base_price_rub": 394,
       "markup_rub": 500,
-      "price_rub": 578,
+      "price_rub": 894,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/710350/header.jpg?t=1506013249"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T16:29:35Z"
+  "updated_at": "2026-07-09T20:37:00Z"
 }

@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 180,
+  "base_price_rub": 239,
   "markup_rub": 500,
-  "price_rub": 680,
-  "original_price_rub": 741,
-  "discount_percent": 25,
+  "price_rub": 739,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,28 +36,28 @@
     {
       "id": 3919420,
       "name": "Halls of Torment - The Boglands",
-      "base_price_rub": 137,
+      "base_price_rub": 170,
       "markup_rub": 500,
-      "price_rub": 637,
+      "price_rub": 670,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3919420/9dfb8f7af67e9245baab6fb1e607503c6d0954f4/header.jpg?t=1761660454"
     },
     {
       "id": 3386980,
       "name": "Halls of Torment — набор поддержки.",
-      "base_price_rub": 172,
+      "base_price_rub": 170,
       "markup_rub": 500,
-      "price_rub": 672,
+      "price_rub": 670,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3386980/header.jpg?t=1738767054"
     },
     {
       "id": 3464980,
       "name": "Звуки мучений",
-      "base_price_rub": 114,
+      "base_price_rub": 127,
       "markup_rub": 500,
-      "price_rub": 614,
+      "price_rub": 627,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3464980/header.jpg?t=1738767088"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T16:12:56Z"
+  "updated_at": "2026-07-09T20:20:11Z"
 }

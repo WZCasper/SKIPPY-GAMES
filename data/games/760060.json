@@ -16,11 +16,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 347,
+  "base_price_rub": 1150,
   "markup_rub": 500,
-  "price_rub": 847,
-  "original_price_rub": 1660,
-  "discount_percent": 70,
+  "price_rub": 1650,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -38,20 +38,20 @@
     {
       "id": 1088000,
       "name": "Mutant Year Zero: Seed of Evil",
-      "base_price_rub": 331,
+      "base_price_rub": 548,
       "markup_rub": 500,
-      "price_rub": 831,
+      "price_rub": 1048,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088000/header.jpg?t=1675330923"
     },
     {
       "id": 887780,
       "name": "Mutant Year Zero: Road to Eden - Fan Edition Content",
-      "base_price_rub": 283,
+      "base_price_rub": 703,
       "markup_rub": 500,
-      "price_rub": 783,
+      "price_rub": 1203,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/887780/header.jpg?t=1675330828"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T15:48:05Z"
+  "updated_at": "2026-07-09T19:55:36Z"
 }

@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 212,
+  "base_price_rub": 840,
   "markup_rub": 500,
-  "price_rub": 712,
-  "original_price_rub": 1348,
-  "discount_percent": 75,
+  "price_rub": 1340,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,84 +36,100 @@
     {
       "id": 283530,
       "name": "Cities in Motion 2: European Cities",
-      "base_price_rub": 210,
+      "base_price_rub": 548,
       "markup_rub": 500,
-      "price_rub": 710,
+      "price_rub": 1048,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/283530/header.jpg?t=1764844773"
     },
     {
       "id": 225434,
       "name": "Cities in Motion 2: Marvellous Monorails",
-      "base_price_rub": 108,
+      "base_price_rub": 428,
       "markup_rub": 500,
-      "price_rub": 608,
+      "price_rub": 928,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225434/header.jpg?t=1764844725"
     },
     {
       "id": 225432,
       "name": "Cities in Motion 2: Olden Times",
-      "base_price_rub": 85,
+      "base_price_rub": 170,
       "markup_rub": 500,
-      "price_rub": 585,
+      "price_rub": 670,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225432/header.jpg?t=1764844666"
     },
     {
       "id": 225431,
       "name": "Cities in Motion 2: Back to the Past",
-      "base_price_rub": 85,
+      "base_price_rub": 170,
       "markup_rub": 500,
-      "price_rub": 585,
+      "price_rub": 670,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225431/header.jpg?t=1764844617"
     },
     {
       "id": 225430,
       "name": "Cities in Motion 2: Lofty Landmarks",
-      "base_price_rub": 68,
+      "base_price_rub": 136,
       "markup_rub": 500,
-      "price_rub": 568,
+      "price_rub": 636,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225430/header.jpg?t=1764844569"
     },
     {
       "id": 225426,
       "name": "Cities in Motion 2: Metro Madness",
-      "base_price_rub": 111,
+      "base_price_rub": 222,
       "markup_rub": 500,
-      "price_rub": 611,
+      "price_rub": 722,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225426/header.jpg?t=1764844518"
     },
     {
       "id": 225424,
       "name": "Cities in Motion 2: Bus Mania",
-      "base_price_rub": 111,
+      "base_price_rub": 222,
       "markup_rub": 500,
-      "price_rub": 611,
+      "price_rub": 722,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225424/header.jpg?t=1764844471"
     },
     {
       "id": 225428,
       "name": "Cities in Motion 2: Wending Waterbuses",
-      "base_price_rub": 111,
+      "base_price_rub": 222,
       "markup_rub": 500,
-      "price_rub": 611,
+      "price_rub": 722,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225428/header.jpg?t=1764844859"
     },
     {
       "id": 225429,
       "name": "Cities in Motion 2:  Trekking Trolleys",
-      "base_price_rub": 111,
+      "base_price_rub": 222,
       "markup_rub": 500,
-      "price_rub": 611,
+      "price_rub": 722,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225429/header.jpg?t=1764844349"
     },
     {
       "id": 306170,
       "name": "Cities in Motion 2: Players Choice Vehicle Pack",
-      "base_price_rub": 111,
+      "base_price_rub": 222,
       "markup_rub": 500,
-      "price_rub": 611,
+      "price_rub": 722,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306170/header.jpg?t=1764844305"
+    },
+    {
+      "id": 306171,
+      "name": "Cities in Motion 2: European Vehicle Pack",
+      "base_price_rub": 222,
+      "markup_rub": 500,
+      "price_rub": 722,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306171/header.jpg?t=1764844261"
+    },
+    {
+      "id": 310050,
+      "name": "Cities in Motion 2: Soundtrack",
+      "base_price_rub": 222,
+      "markup_rub": 500,
+      "price_rub": 722,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/310050/header.jpg?t=1764844204"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T16:01:38Z"
+  "updated_at": "2026-07-09T20:06:03Z"
 }

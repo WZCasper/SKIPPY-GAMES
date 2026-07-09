@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 76,
+  "base_price_rub": 772,
   "markup_rub": 500,
-  "price_rub": 576,
-  "original_price_rub": 1279,
-  "discount_percent": 90,
+  "price_rub": 1272,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -31,7 +31,24 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731040/ss_d76668281ca5a0c25bcfe01616e623e71500d493.1920x1080.jpg?t=1782459751",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/731040/ss_cb53bf348a91833457b6e2798cb2673652719208.1920x1080.jpg?t=1782459751"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 2622900,
+      "name": "The Invincible: Original Soundtrack",
+      "base_price_rub": 160,
+      "markup_rub": 500,
+      "price_rub": 660,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622900/header.jpg?t=1699370968"
+    },
+    {
+      "id": 2622920,
+      "name": "The Invincible: Art Book & Comic Book",
+      "base_price_rub": 160,
+      "markup_rub": 500,
+      "price_rub": 660,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622920/header.jpg?t=1720103815"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-06T15:51:12Z"
+  "updated_at": "2026-07-09T19:55:44Z"
 }

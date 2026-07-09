@@ -12,11 +12,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 97,
+  "base_price_rub": 387,
   "markup_rub": 500,
-  "price_rub": 597,
-  "original_price_rub": 890,
-  "discount_percent": 75,
+  "price_rub": 887,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -34,20 +34,20 @@
     {
       "id": 3070980,
       "name": "Dream Pinball 3D - Digital Deluxe Content",
-      "base_price_rub": 42,
+      "base_price_rub": 170,
       "markup_rub": 500,
-      "price_rub": 542,
+      "price_rub": 670,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070980/e902b1c1466f147fe5f0ab64dbac3cb71ea9b6b0/header.jpg?t=1766398374"
     },
     {
       "id": 3070990,
       "name": "Dream Pinball 3D Soundtrack",
-      "base_price_rub": 42,
+      "base_price_rub": 170,
       "markup_rub": 500,
-      "price_rub": 542,
+      "price_rub": 670,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070990/7451034282aa8ac64d7ef77ed6664212e734ef3e/header.jpg?t=1761222685"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T16:13:14Z"
+  "updated_at": "2026-07-09T20:20:30Z"
 }

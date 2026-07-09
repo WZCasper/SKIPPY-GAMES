@@ -1,0 +1,36 @@
+{
+  "id": 1528120,
+  "title": "ComPressure",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1528120/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1528120/library_hero.jpg",
+  "description": "For too long have we relied on cogs and gears to control our lives. Welcome to a new age, the age of steam!\n\nThe simple valve, which controls the flow of steam based on the pressure on it's control ports, is the only component that is needed to revolutionise our control over machines. From simple switches, to adders, tabulators, and eventually entire computers. Your companions will guide you through the discovery of steam based computation. A word of warning though. This game is hard. One can not discover an entire new field of science alone. Which is why an Academy of steam engineers (Discord) is available to you. A friendly community who are happy to assist you and share their latest steam innovations. Each solved challenge yields another useful element that can be used in future designs. Poor solutions in previous stages make poor components to use further on, so you will be coming back to old designs, tuning and optimising them with things you have learned.The GameThe following is a quick walkthrough the game dynamics.\nIt all starts with pipes. Left click to start a pipe and click each time to extend it in the direction of the mouse pointer. Right click to end.\n\nWhen placing more pipes, they can either cross, or join existing pipes. To join, extend the pipe in the direction of an existing pipe.\n\nTo delete, press or hold right mouse button.\n\nIn the edit menu (one with the spanner) you can select to place a steam inlet. It is also available by pressing Tab twice. There are buttons to rotate the direction before placing, but you can also use Q and E on the keyboard. Then place with the left mouse button. \n\nThe numbers appearing on the pipe connections show the current pressure, from 100 when connected to a steam inlet, to 0 at any uncapped pipe end.\n\nThe last component is the valve. If the pressure on the + side of the valve is higher than on the - side, the valve becomes open and lets steam pass through the valve. If the + and - sides are at the same pressure, of the - side is higher, then the valve is closed and does not allow steam through.\n\nThe design is continually examined with a series of tests. If the output is within 5% of the test target, a score is given depending on how accurate the output is. This ranges from 100 for spot on to 0 when 5% off. Passing all tests with any score above 0 unlocks the next level. To focus on a specific test, click the test to enter \"play one\" mode which repeats one test.\n\nEach completed design can be used as a component in future designs.",
+  "description_short": "Design increasingly complex computation units powered by high pressure steam. From switches to steam based computers, all in a world of analogue pressure devices. Use previous designs to solve further challenges, unravel the mystery of the missing steam and discover a new field of science.",
+  "genres": [
+    "Головоломки",
+    "Песочницы (Sandbox)",
+    "Казуальные игры",
+    "Технические симуляторы"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 170,
+  "markup_rub": 500,
+  "price_rub": 670,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528120/ss_f4eaa9a3e514e224d2af325e09bbcee902acb3a2.1920x1080.jpg?t=1726234756",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528120/ss_9c5e9b872695a37374850d4348a9220295fa5365.1920x1080.jpg?t=1726234756",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528120/ss_0ddbf602ca925e46a5bf0010c8c69b04fd41aedb.1920x1080.jpg?t=1726234756",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528120/ss_cf26f46ed731652912f72d74d53ed512cfea7930.1920x1080.jpg?t=1726234756",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528120/ss_91159bbbd101087717845259cf55339379baa086.1920x1080.jpg?t=1726234756",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1528120/ss_976c0f5f94877a11c2b248faebcfe5c71f9f80e8.1920x1080.jpg?t=1726234756"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-09T20:42:57Z"
+}

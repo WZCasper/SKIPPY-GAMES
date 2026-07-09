@@ -12,11 +12,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 255,
+  "base_price_rub": 507,
   "markup_rub": 500,
-  "price_rub": 755,
-  "original_price_rub": 1012,
-  "discount_percent": 50,
+  "price_rub": 1007,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -34,12 +34,12 @@
     {
       "id": 2109040,
       "name": "Backpack Hero Soundtrack",
-      "base_price_rub": 85,
+      "base_price_rub": 170,
       "markup_rub": 500,
-      "price_rub": 585,
+      "price_rub": 670,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2109040/header.jpg?t=1699984849"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T15:52:47Z"
+  "updated_at": "2026-07-09T20:00:15Z"
 }

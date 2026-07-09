@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 324,
+  "base_price_rub": 644,
   "markup_rub": 500,
-  "price_rub": 824,
-  "original_price_rub": 1150,
-  "discount_percent": 50,
+  "price_rub": 1144,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -37,28 +37,28 @@
     {
       "id": 3332620,
       "name": "大侠立志传：碧血丹心 - 新颜绘梦",
-      "base_price_rub": 113,
+      "base_price_rub": 112,
       "markup_rub": 500,
-      "price_rub": 613,
+      "price_rub": 612,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3332620/header.jpg?t=1732261004"
     },
     {
       "id": 3128600,
       "name": "大侠立志传：碧血丹心 - 倩影萍踪",
-      "base_price_rub": 172,
+      "base_price_rub": 170,
       "markup_rub": 500,
-      "price_rub": 672,
+      "price_rub": 670,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3128600/header.jpg?t=1723629776"
     },
     {
       "id": 2924120,
       "name": "大侠立志传：碧血丹心 - DLC",
-      "base_price_rub": 128,
+      "base_price_rub": 127,
       "markup_rub": 500,
-      "price_rub": 628,
+      "price_rub": 627,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2924120/header.jpg?t=1719317217"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T16:28:19Z"
+  "updated_at": "2026-07-09T20:32:42Z"
 }

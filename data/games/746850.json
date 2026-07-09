@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 212,
+  "base_price_rub": 600,
   "markup_rub": 500,
-  "price_rub": 712,
-  "original_price_rub": 1105,
-  "discount_percent": 65,
+  "price_rub": 1100,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,28 +36,28 @@
     {
       "id": 1536370,
       "name": "Cloudpunk - City of Ghosts",
-      "base_price_rub": 258,
+      "base_price_rub": 514,
       "markup_rub": 500,
-      "price_rub": 758,
+      "price_rub": 1014,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1536370/header.jpg?t=1728325864"
     },
     {
       "id": 1291400,
       "name": "Cloudpunk Soundtrack",
-      "base_price_rub": 120,
+      "base_price_rub": 342,
       "markup_rub": 500,
-      "price_rub": 620,
+      "price_rub": 842,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1291400/header.jpg?t=1728325831"
     },
     {
       "id": 1643930,
       "name": "City of Ghosts Soundtrack",
-      "base_price_rub": 172,
+      "base_price_rub": 342,
       "markup_rub": 500,
-      "price_rub": 672,
+      "price_rub": 842,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1643930/header.jpg?t=1728325899"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T15:57:29Z"
+  "updated_at": "2026-07-09T20:04:49Z"
 }
