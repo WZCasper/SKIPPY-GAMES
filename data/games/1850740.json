@@ -16,10 +16,10 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 206,
+  "base_price_rub": 204,
   "markup_rub": 500,
-  "price_rub": 706,
-  "original_price_rub": 845,
+  "price_rub": 704,
+  "original_price_rub": 842,
   "discount_percent": 40,
   "is_free": false,
   "trailer_video": null,
@@ -34,7 +34,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1850740/ss_df1059358bb4fb29b81f7eca7699bf0c50f6c743.1920x1080.jpg?t=1778695014",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1850740/ss_b71f53fac17deeabed40ce63deb3db9ee62b401b.1920x1080.jpg?t=1778695014"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 3876090,
+      "name": "Ghost Watchers - Supporter Pack",
+      "base_price_rub": 213,
+      "markup_rub": 500,
+      "price_rub": 713,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3876090/64065a0b7bcbde014a428176aefbf2928a933af2/header.jpg?t=1753369942"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-06T11:42:37Z"
+  "updated_at": "2026-07-09T16:10:08Z"
 }

@@ -16,10 +16,10 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 833,
+  "base_price_rub": 825,
   "markup_rub": 500,
-  "price_rub": 1333,
-  "original_price_rub": 1541,
+  "price_rub": 1325,
+  "original_price_rub": 1531,
   "discount_percent": 20,
   "is_free": false,
   "trailer_video": null,
@@ -34,16 +34,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/823500/ss_96714542dd8a76382e017c5552eb4c6badee107e.1920x1080.jpg?t=1581381377",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/823500/ss_bdc6d53cbcac1f46db97d040c3e74e5b4bc078db.1920x1080.jpg?t=1581381377"
   ],
-  "upsells": [
-    {
-      "id": 1162380,
-      "name": "BONETONES - Official BONEWORKS OST",
-      "base_price_rub": 312,
-      "markup_rub": 500,
-      "price_rub": 812,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1162380/header.jpg?t=1592956532"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-06T10:56:29Z"
+  "updated_at": "2026-07-09T15:29:50Z"
 }

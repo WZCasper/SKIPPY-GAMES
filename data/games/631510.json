@@ -14,10 +14,10 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 246,
+  "base_price_rub": 244,
   "markup_rub": 500,
-  "price_rub": 746,
-  "original_price_rub": 2146,
+  "price_rub": 744,
+  "original_price_rub": 2131,
   "discount_percent": 85,
   "is_free": false,
   "trailer_video": null,
@@ -34,30 +34,14 @@
   ],
   "upsells": [
     {
-      "id": 1426650,
-      "name": "Devil May Cry Original Soundtrack",
-      "base_price_rub": 553,
-      "markup_rub": 500,
-      "price_rub": 1053,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426650/header.jpg?t=1608051652"
-    },
-    {
-      "id": 1426670,
-      "name": "Devil May Cry 2 Original Soundtrack",
-      "base_price_rub": 553,
-      "markup_rub": 500,
-      "price_rub": 1053,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426670/header.jpg?t=1636097528"
-    },
-    {
       "id": 1426680,
       "name": "Devil May Cry 3 Original Soundtrack",
-      "base_price_rub": 605,
+      "base_price_rub": 600,
       "markup_rub": 500,
-      "price_rub": 1105,
+      "price_rub": 1100,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426680/header.jpg?t=1608051759"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T11:32:22Z"
+  "updated_at": "2026-07-09T16:03:16Z"
 }

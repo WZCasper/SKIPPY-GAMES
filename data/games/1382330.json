@@ -16,10 +16,10 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 935,
+  "base_price_rub": 926,
   "markup_rub": 500,
-  "price_rub": 1435,
-  "original_price_rub": 3621,
+  "price_rub": 1426,
+  "original_price_rub": 3591,
   "discount_percent": 70,
   "is_free": false,
   "trailer_video": null,
@@ -38,12 +38,20 @@
     {
       "id": 1482081,
       "name": "Persona® 5 Strikers - All-Out Attack Pack",
-      "base_price_rub": 109,
+      "base_price_rub": 108,
       "markup_rub": 500,
-      "price_rub": 609,
+      "price_rub": 608,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1482081/header.jpg?t=1614624450"
+    },
+    {
+      "id": 1482080,
+      "name": "Persona® 5 Strikers - Legacy BGM Pack",
+      "base_price_rub": 225,
+      "markup_rub": 500,
+      "price_rub": 725,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1482080/header.jpg?t=1614624680"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T11:30:33Z"
+  "updated_at": "2026-07-09T15:59:57Z"
 }
