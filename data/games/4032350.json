@@ -11,9 +11,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 3809,
+  "base_price_rub": 3779,
   "markup_rub": 500,
-  "price_rub": 4309,
+  "price_rub": 4279,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -26,7 +26,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032350/86b646415b0fa16e6c14b846cf26f2a70e876418/ss_86b646415b0fa16e6c14b846cf26f2a70e876418.1920x1080.jpg?t=1781643937",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032350/bc604721b569446f38900bead1fef9374fc48855/ss_bc604721b569446f38900bead1fef9374fc48855.1920x1080.jpg?t=1781643937"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 4113870,
+      "name": "EA SPORTS™ College Football 27 — очки College Football",
+      "base_price_rub": 394,
+      "markup_rub": 500,
+      "price_rub": 894,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4113870/d5ce84e1a3e92a302a73ed5fceccb516d16af0ae/header.jpg?t=1783360939"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-06T00:16:47Z"
+  "updated_at": "2026-07-09T03:53:45Z"
 }

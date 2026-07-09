@@ -15,10 +15,10 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 104,
+  "base_price_rub": 103,
   "markup_rub": 500,
-  "price_rub": 604,
-  "original_price_rub": 1539,
+  "price_rub": 603,
+  "original_price_rub": 1531,
   "discount_percent": 90,
   "is_free": false,
   "trailer_video": null,
@@ -37,9 +37,9 @@
     {
       "id": 1125020,
       "name": "Frostpunk: The Rifts",
-      "base_price_rub": 42,
+      "base_price_rub": 41,
       "markup_rub": 500,
-      "price_rub": 542,
+      "price_rub": 541,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1125020/header.jpg?t=1727867050"
     },
     {
@@ -53,9 +53,9 @@
     {
       "id": 1147010,
       "name": "Frostpunk: On The Edge",
-      "base_price_rub": 49,
+      "base_price_rub": 48,
       "markup_rub": 500,
-      "price_rub": 549,
+      "price_rub": 548,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1147010/header.jpg?t=1727863340"
     },
     {
@@ -76,5 +76,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T00:58:04Z"
+  "updated_at": "2026-07-09T04:30:12Z"
 }

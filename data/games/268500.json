@@ -13,10 +13,10 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 175,
+  "base_price_rub": 174,
   "markup_rub": 500,
-  "price_rub": 675,
-  "original_price_rub": 1676,
+  "price_rub": 674,
+  "original_price_rub": 1667,
   "discount_percent": 85,
   "is_free": false,
   "trailer_video": null,
@@ -35,17 +35,17 @@
     {
       "id": 593380,
       "name": "XCOM 2: War of the Chosen",
-      "base_price_rub": 182,
+      "base_price_rub": 180,
       "markup_rub": 500,
-      "price_rub": 682,
+      "price_rub": 680,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/593380/header.jpg?t=1728669045"
     },
     {
       "id": 785300,
       "name": "XCOM 2: War of the Chosen - Tactical Legacy Pack",
-      "base_price_rub": 178,
+      "base_price_rub": 177,
       "markup_rub": 500,
-      "price_rub": 678,
+      "price_rub": 677,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/785300/header.jpg?t=1599495554"
     },
     {
@@ -58,5 +58,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T00:47:09Z"
+  "updated_at": "2026-07-09T04:19:43Z"
 }
