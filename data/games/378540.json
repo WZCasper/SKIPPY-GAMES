@@ -16,10 +16,10 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 66,
+  "base_price_rub": 65,
   "markup_rub": 500,
-  "price_rub": 566,
-  "original_price_rub": 1019,
+  "price_rub": 565,
+  "original_price_rub": 1014,
   "discount_percent": 87,
   "is_free": false,
   "trailer_video": null,
@@ -35,17 +35,17 @@
     {
       "id": 841250,
       "name": "The Surge - The Good, the Bad and the Augmented Expansion",
-      "base_price_rub": 114,
+      "base_price_rub": 113,
       "markup_rub": 500,
-      "price_rub": 614,
+      "price_rub": 613,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/841250/header.jpg?t=1649842694"
     },
     {
       "id": 702990,
       "name": "The Surge - A Walk in the Park DLC",
-      "base_price_rub": 114,
+      "base_price_rub": 113,
       "markup_rub": 500,
-      "price_rub": 614,
+      "price_rub": 613,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/702990/header.jpg?t=1681396813"
     },
     {
@@ -58,5 +58,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T04:53:47Z"
+  "updated_at": "2026-07-09T10:43:14Z"
 }

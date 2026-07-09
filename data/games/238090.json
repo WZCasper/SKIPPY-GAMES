@@ -16,10 +16,10 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 135,
+  "base_price_rub": 134,
   "markup_rub": 500,
-  "price_rub": 635,
-  "original_price_rub": 1541,
+  "price_rub": 634,
+  "original_price_rub": 1531,
   "discount_percent": 87,
   "is_free": false,
   "trailer_video": null,
@@ -36,6 +36,22 @@
   ],
   "upsells": [
     {
+      "id": 305181,
+      "name": "Sniper Elite 3 - Camouflage Weapons Pack",
+      "base_price_rub": 129,
+      "markup_rub": 500,
+      "price_rub": 629,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305181/header.jpg?t=1447362095"
+    },
+    {
+      "id": 305182,
+      "name": "Sniper Elite 3 - Hunter Weapons Pack",
+      "base_price_rub": 129,
+      "markup_rub": 500,
+      "price_rub": 629,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305182/header.jpg?t=1447362095"
+    },
+    {
       "id": 305183,
       "name": "Sniper Elite 3 - Patriot Weapons Pack",
       "base_price_rub": 31,
@@ -44,67 +60,51 @@
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305183/header.jpg?t=1447362096"
     },
     {
-      "id": 305184,
-      "name": "Sniper Elite 3 - Sniper Rifles Pack",
-      "base_price_rub": 130,
-      "markup_rub": 500,
-      "price_rub": 630,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305184/header.jpg?t=1447362097"
-    },
-    {
-      "id": 305185,
-      "name": "Sniper Elite 3 - Axis Weapons Pack",
-      "base_price_rub": 130,
-      "markup_rub": 500,
-      "price_rub": 630,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305185/header.jpg?t=1447362097"
-    },
-    {
       "id": 305186,
       "name": "Sniper Elite 3 - Eastern Front Weapons Pack",
-      "base_price_rub": 130,
+      "base_price_rub": 129,
       "markup_rub": 500,
-      "price_rub": 630,
+      "price_rub": 629,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305186/header.jpg?t=1447362099"
     },
     {
       "id": 305187,
       "name": "Sniper Elite 3 - Allied Reinforcements Outfit Pack",
-      "base_price_rub": 128,
+      "base_price_rub": 127,
       "markup_rub": 500,
-      "price_rub": 628,
+      "price_rub": 627,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305187/header.jpg?t=1447362100"
     },
     {
       "id": 305180,
       "name": "Sniper Elite 3 - Target Hitler: Hunt the Grey Wolf",
-      "base_price_rub": 125,
+      "base_price_rub": 124,
       "markup_rub": 500,
-      "price_rub": 625,
+      "price_rub": 624,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/305180/header.jpg?t=1549289808"
     },
     {
       "id": 312680,
       "name": "Sniper Elite 3 - Save Churchill Part 1: In Shadows",
-      "base_price_rub": 123,
+      "base_price_rub": 122,
       "markup_rub": 500,
-      "price_rub": 623,
+      "price_rub": 622,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312680/header.jpg?t=1447362589"
     },
     {
       "id": 312690,
       "name": "Sniper Elite 3 - Save Churchill Part 2: Belly of the Beast",
-      "base_price_rub": 123,
+      "base_price_rub": 122,
       "markup_rub": 500,
-      "price_rub": 623,
+      "price_rub": 622,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312690/header.jpg?t=1447362590"
     },
     {
       "id": 312740,
       "name": "Sniper Elite 3 - Save Churchill Part 3: Confrontation",
-      "base_price_rub": 123,
+      "base_price_rub": 122,
       "markup_rub": 500,
-      "price_rub": 623,
+      "price_rub": 622,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312740/header.jpg?t=1447362594"
     },
     {
@@ -117,5 +117,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T04:20:14Z"
+  "updated_at": "2026-07-09T10:10:12Z"
 }

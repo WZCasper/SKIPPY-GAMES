@@ -15,9 +15,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 1101,
+  "base_price_rub": 1091,
   "markup_rub": 500,
-  "price_rub": 1601,
+  "price_rub": 1591,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -37,52 +37,36 @@
     {
       "id": 1802470,
       "name": "The Ascent - Cyber Heist",
-      "base_price_rub": 363,
+      "base_price_rub": 359,
       "markup_rub": 500,
-      "price_rub": 863,
+      "price_rub": 859,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1802470/header.jpg?t=1772501599"
     },
     {
       "id": 1802451,
       "name": "The Ascent - Cyber Warrior Pack",
-      "base_price_rub": 189,
+      "base_price_rub": 187,
       "markup_rub": 500,
-      "price_rub": 689,
+      "price_rub": 687,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1802451/header.jpg?t=1772501602"
     },
     {
       "id": 1802450,
       "name": "The Ascent - CyberSec Pack",
-      "base_price_rub": 189,
+      "base_price_rub": 187,
       "markup_rub": 500,
-      "price_rub": 689,
+      "price_rub": 687,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1802450/header.jpg?t=1772501600"
     },
     {
       "id": 1702920,
       "name": "The Ascent Soundtrack",
-      "base_price_rub": 172,
+      "base_price_rub": 170,
       "markup_rub": 500,
-      "price_rub": 672,
+      "price_rub": 670,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1702920/header.jpg?t=1772501610"
-    },
-    {
-      "id": 2081570,
-      "name": "The Ascent - Cyber Heist - Soundtrack",
-      "base_price_rub": 120,
-      "markup_rub": 500,
-      "price_rub": 620,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2081570/header.jpg?t=1772501611"
-    },
-    {
-      "id": 3896950,
-      "name": "The Ascent - Artbook + Weapon Pack",
-      "base_price_rub": 120,
-      "markup_rub": 500,
-      "price_rub": 620,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3896950/c2a283929997e99cc2fd1875c791d6c1f8709dd3/header.jpg?t=1772501605"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T04:52:37Z"
+  "updated_at": "2026-07-09T10:41:30Z"
 }

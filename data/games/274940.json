@@ -16,10 +16,10 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 172,
+  "base_price_rub": 170,
   "markup_rub": 500,
-  "price_rub": 672,
-  "original_price_rub": 1192,
+  "price_rub": 670,
+  "original_price_rub": 1186,
   "discount_percent": 75,
   "is_free": false,
   "trailer_video": null,
@@ -36,86 +36,102 @@
   ],
   "upsells": [
     {
+      "id": 1386540,
+      "name": "Depth - Скин для Большеглазой лисьей акулы «Мёртвый Глаз»",
+      "base_price_rub": 204,
+      "markup_rub": 500,
+      "price_rub": 704,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1386540/header.jpg?t=1763957551"
+    },
+    {
+      "id": 1031940,
+      "name": "Depth - Back in the Water",
+      "base_price_rub": 204,
+      "markup_rub": 500,
+      "price_rub": 704,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1031940/header.jpg?t=1763956658"
+    },
+    {
       "id": 850850,
       "name": "Depth - Nighttip Whitetip Skin",
-      "base_price_rub": 206,
+      "base_price_rub": 204,
       "markup_rub": 500,
-      "price_rub": 706,
+      "price_rub": 704,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/850850/header.jpg?t=1763958051"
     },
     {
       "id": 728600,
       "name": "Depth - Quill Goblin Skin",
-      "base_price_rub": 206,
+      "base_price_rub": 204,
       "markup_rub": 500,
-      "price_rub": 706,
+      "price_rub": 704,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/728600/header.jpg?t=1763958435"
     },
     {
       "id": 815760,
       "name": "Depth - Wilhelm Diver",
-      "base_price_rub": 206,
+      "base_price_rub": 204,
       "markup_rub": 500,
-      "price_rub": 706,
+      "price_rub": 704,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/815760/header.jpg?t=1763953995"
     },
     {
       "id": 456050,
       "name": "Depth - Specimen 7 Tiger Skin",
-      "base_price_rub": 206,
+      "base_price_rub": 204,
       "markup_rub": 500,
-      "price_rub": 706,
+      "price_rub": 704,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/456050/header.jpg?t=1763958870"
     },
     {
       "id": 423853,
       "name": "Depth - Battle-scarred Bull Skin",
-      "base_price_rub": 206,
+      "base_price_rub": 204,
       "markup_rub": 500,
-      "price_rub": 706,
+      "price_rub": 704,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/423853/header.jpg?t=1763957076"
     },
     {
       "id": 423850,
       "name": "Depth - Digital Ice & Fire Pack",
-      "base_price_rub": 206,
+      "base_price_rub": 204,
       "markup_rub": 500,
-      "price_rub": 706,
+      "price_rub": 704,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/423850/header.jpg?t=1763957765"
     },
     {
       "id": 392860,
       "name": "Depth - Specimen 8 Great White Skin",
-      "base_price_rub": 206,
+      "base_price_rub": 204,
       "markup_rub": 500,
-      "price_rub": 706,
+      "price_rub": 704,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/392860/header.jpg?t=1763958910"
     },
     {
       "id": 413991,
       "name": "Depth - Old Bones Hammerhead Skin",
-      "base_price_rub": 206,
+      "base_price_rub": 204,
       "markup_rub": 500,
-      "price_rub": 706,
+      "price_rub": 704,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413991/header.jpg?t=1763957917"
     },
     {
       "id": 418820,
       "name": "Depth - Viktor Diver Pack",
-      "base_price_rub": 206,
+      "base_price_rub": 204,
       "markup_rub": 500,
-      "price_rub": 706,
+      "price_rub": 704,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418820/header.jpg?t=1763959147"
     },
     {
       "id": 384240,
       "name": "Depth - S.T.E.V.E. Pack",
-      "base_price_rub": 206,
+      "base_price_rub": 204,
       "markup_rub": 500,
-      "price_rub": 706,
+      "price_rub": 704,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384240/header.jpg?t=1763958558"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T04:41:35Z"
+  "updated_at": "2026-07-09T10:27:40Z"
 }

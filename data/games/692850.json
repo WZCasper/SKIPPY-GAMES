@@ -14,10 +14,10 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 151,
+  "base_price_rub": 149,
   "markup_rub": 500,
-  "price_rub": 651,
-  "original_price_rub": 2025,
+  "price_rub": 649,
+  "original_price_rub": 2010,
   "discount_percent": 90,
   "is_free": false,
   "trailer_video": null,
@@ -36,44 +36,52 @@
     {
       "id": 2380803,
       "name": "Bloodstained: Ritual of the Night - Классический режим II: Проклятье Доминики",
-      "base_price_rub": 180,
+      "base_price_rub": 179,
       "markup_rub": 500,
-      "price_rub": 680,
+      "price_rub": 679,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380803/header.jpg?t=1718120671"
     },
     {
       "id": 2380801,
       "name": "Bloodstained: Ritual of the Night - Magical Girl Costume",
-      "base_price_rub": 54,
+      "base_price_rub": 53,
       "markup_rub": 500,
-      "price_rub": 554,
+      "price_rub": 553,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380801/header.jpg?t=1715268234"
     },
     {
       "id": 2380802,
       "name": "Bloodstained: Ritual of the Night - Japanesque Cosmetic Pack",
-      "base_price_rub": 54,
+      "base_price_rub": 53,
       "markup_rub": 500,
-      "price_rub": 554,
+      "price_rub": 553,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380802/header.jpg?t=1715268014"
     },
     {
       "id": 1041460,
       "name": "Bloodstained: Ritual of the Night - \"Iga's Back Pack\" DLC",
-      "base_price_rub": 180,
+      "base_price_rub": 179,
       "markup_rub": 500,
-      "price_rub": 680,
+      "price_rub": 679,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1041460/header.jpg?t=1560869898"
     },
     {
       "id": 1101300,
       "name": "Bloodstained: Ritual of the Night - Soundtrack",
-      "base_price_rub": 180,
+      "base_price_rub": 179,
       "markup_rub": 500,
-      "price_rub": 680,
+      "price_rub": 679,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101300/header.jpg?t=1583773868"
+    },
+    {
+      "id": 2380800,
+      "name": "Bloodstained: Ritual of the Night - Succubus Costume",
+      "base_price_rub": 53,
+      "markup_rub": 500,
+      "price_rub": 553,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380800/header.jpg?t=1715268277"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T04:50:11Z"
+  "updated_at": "2026-07-09T10:38:04Z"
 }
