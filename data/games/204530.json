@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 50,
+  "base_price_rub": 392,
   "markup_rub": 500,
-  "price_rub": 550,
-  "original_price_rub": 899,
-  "discount_percent": 87,
+  "price_rub": 892,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,20 +36,20 @@
     {
       "id": 358020,
       "name": "Infested Planet - Trickster's Arsenal",
-      "base_price_rub": 42,
+      "base_price_rub": 169,
       "markup_rub": 500,
-      "price_rub": 542,
+      "price_rub": 669,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/358020/header.jpg?t=1447371164"
     },
     {
       "id": 529620,
       "name": "Infested Planet - Planetary Campaign",
-      "base_price_rub": 193,
+      "base_price_rub": 255,
       "markup_rub": 500,
-      "price_rub": 693,
+      "price_rub": 755,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529620/header.jpg?t=1476115408"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T04:11:52Z"
+  "updated_at": "2026-07-10T10:02:22Z"
 }

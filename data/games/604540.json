@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 425,
+  "base_price_rub": 1675,
   "markup_rub": 500,
-  "price_rub": 925,
-  "original_price_rub": 2204,
-  "discount_percent": 75,
+  "price_rub": 2175,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -37,28 +37,28 @@
     {
       "id": 1303314,
       "name": "Empire of Sin - Hunt For Aurora",
-      "base_price_rub": 642,
+      "base_price_rub": 631,
       "markup_rub": 500,
-      "price_rub": 1142,
+      "price_rub": 1131,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1303314/header.jpg?t=1750258773"
     },
     {
       "id": 1303313,
       "name": "Empire of Sin - Make It Count",
-      "base_price_rub": 218,
+      "base_price_rub": 631,
       "markup_rub": 500,
-      "price_rub": 718,
+      "price_rub": 1131,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1303313/header.jpg?t=1700226964"
     },
     {
       "id": 1303312,
       "name": "Empire of Sin - Deluxe Pack",
-      "base_price_rub": 129,
+      "base_price_rub": 511,
       "markup_rub": 500,
-      "price_rub": 629,
+      "price_rub": 1011,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1303312/header.jpg?t=1700227000"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T04:16:56Z"
+  "updated_at": "2026-07-10T10:07:29Z"
 }

@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 545,
+  "base_price_rub": 1623,
   "markup_rub": 500,
-  "price_rub": 1045,
-  "original_price_rub": 2152,
-  "discount_percent": 67,
+  "price_rub": 2123,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,12 +35,12 @@
     {
       "id": 1001110,
       "name": "Mega Man 11 Original Soundtrack",
-      "base_price_rub": 1025,
+      "base_price_rub": 1007,
       "markup_rub": 500,
-      "price_rub": 1525,
+      "price_rub": 1507,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1001110/header.jpg?t=1708064587"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T04:22:08Z"
+  "updated_at": "2026-07-10T10:12:17Z"
 }

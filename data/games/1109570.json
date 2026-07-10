@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 447,
+  "base_price_rub": 734,
   "markup_rub": 500,
-  "price_rub": 947,
-  "original_price_rub": 1247,
-  "discount_percent": 40,
+  "price_rub": 1234,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,20 +35,20 @@
     {
       "id": 1838950,
       "name": "《文字遊戲》原聲帶",
-      "base_price_rub": 172,
+      "base_price_rub": 340,
       "markup_rub": 500,
-      "price_rub": 672,
+      "price_rub": 840,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1838950/header.jpg?t=1642759301"
     },
     {
       "id": 1912740,
       "name": "《文字遊戲》官方美術設定集",
-      "base_price_rub": 327,
+      "base_price_rub": 357,
       "markup_rub": 500,
-      "price_rub": 827,
+      "price_rub": 857,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1912740/header.jpg?t=1659954553"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T04:32:34Z"
+  "updated_at": "2026-07-10T10:22:25Z"
 }

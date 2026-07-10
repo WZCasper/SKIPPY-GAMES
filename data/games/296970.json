@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 242,
+  "base_price_rub": 477,
   "markup_rub": 500,
-  "price_rub": 742,
-  "original_price_rub": 986,
-  "discount_percent": 50,
+  "price_rub": 977,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,36 +36,36 @@
     {
       "id": 460390,
       "name": "Renowned Explorers: More To Explore",
-      "base_price_rub": 181,
+      "base_price_rub": 255,
       "markup_rub": 500,
-      "price_rub": 681,
+      "price_rub": 755,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460390/header.jpg?t=1464714110"
     },
     {
       "id": 609970,
       "name": "Renowned Explorers: The Emperor's Challenge",
-      "base_price_rub": 181,
+      "base_price_rub": 255,
       "markup_rub": 500,
-      "price_rub": 681,
+      "price_rub": 755,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/609970/header.jpg?t=1494435583"
     },
     {
       "id": 997040,
       "name": "Renowned Explorers - Soundtrack",
-      "base_price_rub": 138,
+      "base_price_rub": 169,
       "markup_rub": 500,
-      "price_rub": 638,
+      "price_rub": 669,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997040/header.jpg?t=1581548621"
     },
     {
       "id": 997041,
       "name": "Renowned Explorers - Artbook",
-      "base_price_rub": 138,
+      "base_price_rub": 169,
       "markup_rub": 500,
-      "price_rub": 638,
+      "price_rub": 669,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997041/header.jpg?t=1544724199"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T04:12:19Z"
+  "updated_at": "2026-07-10T10:02:49Z"
 }

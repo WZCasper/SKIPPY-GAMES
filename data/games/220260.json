@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 198,
+  "base_price_rub": 392,
   "markup_rub": 500,
-  "price_rub": 698,
-  "original_price_rub": 899,
-  "discount_percent": 50,
+  "price_rub": 892,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,44 +35,36 @@
     {
       "id": 246030,
       "name": "Farming Simulator 2013: Väderstad",
-      "base_price_rub": 165,
+      "base_price_rub": 204,
       "markup_rub": 500,
-      "price_rub": 665,
+      "price_rub": 704,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246030/header.jpg?t=1496329494"
     },
     {
       "id": 279090,
       "name": "Farming Simulator 2013 Lindner Unitrac",
-      "base_price_rub": 110,
+      "base_price_rub": 135,
       "markup_rub": 500,
-      "price_rub": 610,
+      "price_rub": 635,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/279090/header.jpg?t=1496329660"
     },
     {
       "id": 246010,
       "name": "Farming Simulator 2013: Marshall Trailers",
-      "base_price_rub": 110,
+      "base_price_rub": 135,
       "markup_rub": 500,
-      "price_rub": 610,
+      "price_rub": 635,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246010/header.jpg?t=1496329486"
-    },
-    {
-      "id": 220285,
-      "name": "Farming Simulator 2013: Ursus",
-      "base_price_rub": 165,
-      "markup_rub": 500,
-      "price_rub": 665,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220285/header.jpg?t=1496329516"
     },
     {
       "id": 246050,
       "name": "Farming Simulator 2013 - Official Expansion (Titanium)",
-      "base_price_rub": 235,
+      "base_price_rub": 289,
       "markup_rub": 500,
-      "price_rub": 735,
+      "price_rub": 789,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246050/header.jpg?t=1532439621"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T04:26:35Z"
+  "updated_at": "2026-07-10T10:16:16Z"
 }

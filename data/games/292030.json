@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 164,
+  "base_price_rub": 1623,
   "markup_rub": 500,
-  "price_rub": 664,
-  "original_price_rub": 2152,
-  "discount_percent": 90,
+  "price_rub": 2123,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,20 +36,20 @@
     {
       "id": 355880,
       "name": "The Witcher 3: Wild Hunt - Expansion Pass",
-      "base_price_rub": 242,
+      "base_price_rub": 1196,
       "markup_rub": 500,
-      "price_rub": 742,
+      "price_rub": 1696,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/355880/header.jpg?t=1659617723"
     },
     {
       "id": 378649,
       "name": "Ведьмак 3: Дикая Охота — Каменные сердца",
-      "base_price_rub": 110,
+      "base_price_rub": 546,
       "markup_rub": 500,
-      "price_rub": 610,
+      "price_rub": 1046,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/378649/a19aa6018ec34148e0e065f2c5ca5a930913da00/header_russian.jpg?t=1768304100"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T03:54:08Z"
+  "updated_at": "2026-07-10T09:45:09Z"
 }

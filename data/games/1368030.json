@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 329,
+  "base_price_rub": 648,
   "markup_rub": 500,
-  "price_rub": 829,
-  "original_price_rub": 1160,
-  "discount_percent": 50,
+  "price_rub": 1148,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,20 +36,20 @@
     {
       "id": 1909960,
       "name": "ANNO: Mutationem - Collectors Upgrade Pack",
-      "base_price_rub": 198,
+      "base_price_rub": 392,
       "markup_rub": 500,
-      "price_rub": 698,
+      "price_rub": 892,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1909960/header.jpg?t=1769506142"
     },
     {
       "id": 1823560,
       "name": "Anno: Mutationem Original Game Soundtrack Complete Edition",
-      "base_price_rub": 146,
+      "base_price_rub": 289,
       "markup_rub": 500,
-      "price_rub": 646,
+      "price_rub": 789,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1823560/header.jpg?t=1647520958"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T04:01:13Z"
+  "updated_at": "2026-07-10T09:51:47Z"
 }

@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 146,
+  "base_price_rub": 289,
   "markup_rub": 500,
-  "price_rub": 646,
-  "original_price_rub": 794,
-  "discount_percent": 50,
+  "price_rub": 789,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,84 +35,100 @@
     {
       "id": 820231,
       "name": "Bloons TD 5 - Steampunk Monkey Sub Skin",
-      "base_price_rub": 45,
+      "base_price_rub": 44,
       "markup_rub": 500,
-      "price_rub": 545,
+      "price_rub": 544,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/820231/header.jpg?t=1524226739"
     },
     {
       "id": 691500,
       "name": "Bloons TD 5 - Mystical Apprentice Monkey Skin",
-      "base_price_rub": 45,
+      "base_price_rub": 44,
       "markup_rub": 500,
-      "price_rub": 545,
+      "price_rub": 544,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691500/header.jpg?t=1515512207"
     },
     {
       "id": 691490,
       "name": "Bloons TD 5 - Samurai Ninja Monkey Skin",
-      "base_price_rub": 45,
+      "base_price_rub": 44,
       "markup_rub": 500,
-      "price_rub": 545,
+      "price_rub": 544,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691490/header.jpg?t=1515512285"
+    },
+    {
+      "id": 691480,
+      "name": "Bloons TD 5 - Medieval Dart Monkey Skin",
+      "base_price_rub": 44,
+      "markup_rub": 500,
+      "price_rub": 544,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691480/header.jpg?t=1515512449"
+    },
+    {
+      "id": 692151,
+      "name": "Bloons TD 5 - Candy Banana Farm Skin",
+      "base_price_rub": 44,
+      "markup_rub": 500,
+      "price_rub": 544,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692151/header.jpg?t=1513616760"
     },
     {
       "id": 692152,
       "name": "Bloons TD 5 - Tribal Boomerang Thrower Skin",
-      "base_price_rub": 45,
+      "base_price_rub": 44,
       "markup_rub": 500,
-      "price_rub": 545,
+      "price_rub": 544,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692152/header.jpg?t=1513928983"
     },
     {
       "id": 692153,
       "name": "Bloons TD 5 - Hunter Sniper Monkey Skin",
-      "base_price_rub": 45,
+      "base_price_rub": 44,
       "markup_rub": 500,
-      "price_rub": 545,
+      "price_rub": 544,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692153/header.jpg?t=1515511807"
     },
     {
       "id": 692150,
       "name": "Bloons TD 5 - Top Gun Monkey Ace Skin",
-      "base_price_rub": 45,
+      "base_price_rub": 44,
       "markup_rub": 500,
-      "price_rub": 545,
+      "price_rub": 544,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692150/header.jpg?t=1513929009"
     },
     {
       "id": 820220,
       "name": "Bloons TD 5 - Fireworks Mortar Tower Skin",
-      "base_price_rub": 45,
+      "base_price_rub": 44,
       "markup_rub": 500,
-      "price_rub": 545,
+      "price_rub": 544,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/820220/header.jpg?t=1523018832"
     },
     {
       "id": 820230,
       "name": "Bloons TD 5 - Navy Monkey Buccaneer Skin",
-      "base_price_rub": 45,
+      "base_price_rub": 44,
       "markup_rub": 500,
-      "price_rub": 545,
+      "price_rub": 544,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/820230/header.jpg?t=1523865835"
     },
     {
       "id": 691510,
       "name": "Bloons TD 5 - Military Bomb Tower Skin",
-      "base_price_rub": 45,
+      "base_price_rub": 44,
       "markup_rub": 500,
-      "price_rub": 545,
+      "price_rub": 544,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691510/header.jpg?t=1504000349"
     },
     {
       "id": 820232,
       "name": "Bloons TD 5 - UFO Heli Pilot Skin",
-      "base_price_rub": 45,
+      "base_price_rub": 44,
       "markup_rub": 500,
-      "price_rub": 545,
+      "price_rub": 544,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/820232/header.jpg?t=1522426076"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T04:26:18Z"
+  "updated_at": "2026-07-10T10:13:28Z"
 }

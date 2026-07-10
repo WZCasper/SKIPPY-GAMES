@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 89,
+  "base_price_rub": 127,
   "markup_rub": 500,
-  "price_rub": 589,
-  "original_price_rub": 629,
-  "discount_percent": 31,
+  "price_rub": 627,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -37,36 +37,36 @@
     {
       "id": 1855260,
       "name": "Retrowave - Map Pack",
-      "base_price_rub": 61,
+      "base_price_rub": 86,
       "markup_rub": 500,
-      "price_rub": 561,
+      "price_rub": 586,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1855260/header.jpg?t=1731169723"
     },
     {
       "id": 1853060,
       "name": "Retrowave - Cash",
-      "base_price_rub": 61,
+      "base_price_rub": 86,
       "markup_rub": 500,
-      "price_rub": 561,
+      "price_rub": 586,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1853060/header.jpg?t=1731169774"
     },
     {
       "id": 1393200,
       "name": "Retrowave Soundtrack",
-      "base_price_rub": 103,
+      "base_price_rub": 127,
       "markup_rub": 500,
-      "price_rub": 603,
+      "price_rub": 627,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1393200/e58906e7ddf59c7ca203265cce789798552c9340/header.jpg?t=1756311877"
     },
     {
       "id": 2228880,
       "name": "Retrowave - Custom Music",
-      "base_price_rub": 61,
+      "base_price_rub": 86,
       "markup_rub": 500,
-      "price_rub": 561,
+      "price_rub": 586,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2228880/header.jpg?t=1731169737"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T04:32:40Z"
+  "updated_at": "2026-07-10T10:22:32Z"
 }

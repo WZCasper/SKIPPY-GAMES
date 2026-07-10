@@ -12,11 +12,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 40,
+  "base_price_rub": 393,
   "markup_rub": 500,
-  "price_rub": 540,
-  "original_price_rub": 900,
-  "discount_percent": 90,
+  "price_rub": 893,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -34,20 +34,20 @@
     {
       "id": 57655,
       "name": "Dungeons - Into the Dark",
-      "base_price_rub": 37,
+      "base_price_rub": 145,
       "markup_rub": 500,
-      "price_rub": 537,
+      "price_rub": 645,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57655/header.jpg?t=1644239741"
     },
     {
       "id": 57656,
       "name": "Dungeons - Map Pack",
-      "base_price_rub": 33,
+      "base_price_rub": 111,
       "markup_rub": 500,
-      "price_rub": 533,
+      "price_rub": 611,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57656/header.jpg?t=1644239799"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T04:01:25Z"
+  "updated_at": "2026-07-10T09:51:57Z"
 }

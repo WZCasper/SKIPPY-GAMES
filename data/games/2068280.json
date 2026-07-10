@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 235,
+  "base_price_rub": 385,
   "markup_rub": 500,
-  "price_rub": 735,
-  "original_price_rub": 892,
-  "discount_percent": 40,
+  "price_rub": 885,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,44 +36,44 @@
     {
       "id": 4501990,
       "name": "Nordic Ashes: Twilight of Yggdrasil",
-      "base_price_rub": 193,
+      "base_price_rub": 212,
       "markup_rub": 500,
-      "price_rub": 693,
+      "price_rub": 712,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4501990/8318d1dc34e334b3b05c56b5398ccca3a3ce432c/header.jpg?t=1780590570"
     },
     {
       "id": 3636780,
       "name": "Nordic Ashes: Remnants of Corruption",
-      "base_price_rub": 151,
+      "base_price_rub": 212,
       "markup_rub": 500,
-      "price_rub": 651,
+      "price_rub": 712,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3636780/b94585af9e4abe6ad164a02f0545bf0f5a23094a/header.jpg?t=1761931159"
     },
     {
       "id": 3312220,
       "name": "Nordic Ashes Dark Knights",
-      "base_price_rub": 150,
+      "base_price_rub": 212,
       "markup_rub": 500,
-      "price_rub": 650,
+      "price_rub": 712,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3312220/header.jpg?t=1731751806"
     },
     {
       "id": 2949900,
       "name": "Nordic Ashes Soundtrack",
-      "base_price_rub": 120,
+      "base_price_rub": 169,
       "markup_rub": 500,
-      "price_rub": 620,
+      "price_rub": 669,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2949900/header.jpg?t=1779562152"
     },
     {
       "id": 2952100,
       "name": "Nordic Ashes Digital Artbook",
-      "base_price_rub": 120,
+      "base_price_rub": 169,
       "markup_rub": 500,
-      "price_rub": 620,
+      "price_rub": 669,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2952100/header.jpg?t=1761931256"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T04:01:10Z"
+  "updated_at": "2026-07-10T09:51:43Z"
 }
