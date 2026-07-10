@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 260,
+  "base_price_rub": 1026,
   "markup_rub": 500,
-  "price_rub": 760,
-  "original_price_rub": 1541,
-  "discount_percent": 75,
+  "price_rub": 1526,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,36 +36,36 @@
     {
       "id": 2656880,
       "name": "Trepang2 - Season Pass",
-      "base_price_rub": 210,
+      "base_price_rub": 414,
       "markup_rub": 500,
-      "price_rub": 710,
+      "price_rub": 914,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2656880/header.jpg?t=1721376567"
     },
     {
       "id": 2615910,
       "name": "Trepang2 - Survival Mode DLC",
-      "base_price_rub": 128,
+      "base_price_rub": 127,
       "markup_rub": 500,
-      "price_rub": 628,
+      "price_rub": 627,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2615910/header.jpg?t=1698770447"
     },
     {
       "id": 1842620,
       "name": "Trepang2 - Soundtrack",
-      "base_price_rub": 139,
+      "base_price_rub": 274,
       "markup_rub": 500,
-      "price_rub": 639,
+      "price_rub": 774,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1842620/header.jpg?t=1687363949"
     },
     {
       "id": 2615920,
       "name": "Trepang2 - Bladekisser DLC",
-      "base_price_rub": 161,
+      "base_price_rub": 320,
       "markup_rub": 500,
-      "price_rub": 661,
+      "price_rub": 820,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2615920/header.jpg?t=1721897988"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T20:11:52Z"
+  "updated_at": "2026-07-10T03:55:08Z"
 }

@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 238,
+  "base_price_rub": 340,
   "markup_rub": 500,
-  "price_rub": 738,
-  "original_price_rub": 845,
-  "discount_percent": 31,
+  "price_rub": 840,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -37,20 +37,20 @@
     {
       "id": 3787220,
       "name": "\"Tiny bunny\" - Manga Vol. 1",
-      "base_price_rub": 142,
+      "base_price_rub": 205,
       "markup_rub": 500,
-      "price_rub": 642,
+      "price_rub": 705,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787220/390a2361c1ad0d27bb022c03dbe4ee213afab7be/header_russian.jpg?t=1764707733"
     },
     {
       "id": 1600150,
       "name": "Tiny Bunny: Full Soundtrack",
-      "base_price_rub": 118,
+      "base_price_rub": 169,
       "markup_rub": 500,
-      "price_rub": 618,
+      "price_rub": 669,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1600150/header.jpg?t=1619169833"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T20:07:09Z"
+  "updated_at": "2026-07-10T03:50:46Z"
 }

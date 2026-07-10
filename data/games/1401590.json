@@ -16,50 +16,58 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 1251,
+  "base_price_rub": 1762,
   "markup_rub": 500,
-  "price_rub": 1751,
-  "original_price_rub": 2287,
-  "discount_percent": 30,
+  "price_rub": 2262,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/895c9a7094eff122173c30c01511a3faaf837fab/ss_895c9a7094eff122173c30c01511a3faaf837fab.1920x1080.jpg?t=1781727329",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/21aae9df5e31951bc9fbf6f0e7de6fcaf9a6b8c8/ss_21aae9df5e31951bc9fbf6f0e7de6fcaf9a6b8c8.1920x1080.jpg?t=1781727329",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/e29f5bd7ee2ea2a4dabb0ebb073bbde4cc1a4350/ss_e29f5bd7ee2ea2a4dabb0ebb073bbde4cc1a4350.1920x1080.jpg?t=1781727329",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/d9af02587d37c146e438e6564b3bbc04bdf53d66/ss_d9af02587d37c146e438e6564b3bbc04bdf53d66.1920x1080.jpg?t=1781727329",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/7c57713ad62124a19b4e30b646f399245bac62c1/ss_7c57713ad62124a19b4e30b646f399245bac62c1.1920x1080.jpg?t=1781727329",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/79f33e441460edb046c263308ec76d5f553c671d/ss_79f33e441460edb046c263308ec76d5f553c671d.1920x1080.jpg?t=1781727329",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/b532ed87b54458d04e817ce9d808f620950d5bb8/ss_b532ed87b54458d04e817ce9d808f620950d5bb8.1920x1080.jpg?t=1781727329",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/5ac53642a54c491fb45fba8590ad48c0ae0addf9/ss_5ac53642a54c491fb45fba8590ad48c0ae0addf9.1920x1080.jpg?t=1781727329"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/895c9a7094eff122173c30c01511a3faaf837fab/ss_895c9a7094eff122173c30c01511a3faaf837fab.1920x1080.jpg?t=1783528579",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/21aae9df5e31951bc9fbf6f0e7de6fcaf9a6b8c8/ss_21aae9df5e31951bc9fbf6f0e7de6fcaf9a6b8c8.1920x1080.jpg?t=1783528579",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/e29f5bd7ee2ea2a4dabb0ebb073bbde4cc1a4350/ss_e29f5bd7ee2ea2a4dabb0ebb073bbde4cc1a4350.1920x1080.jpg?t=1783528579",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/d9af02587d37c146e438e6564b3bbc04bdf53d66/ss_d9af02587d37c146e438e6564b3bbc04bdf53d66.1920x1080.jpg?t=1783528579",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/7c57713ad62124a19b4e30b646f399245bac62c1/ss_7c57713ad62124a19b4e30b646f399245bac62c1.1920x1080.jpg?t=1783528579",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/79f33e441460edb046c263308ec76d5f553c671d/ss_79f33e441460edb046c263308ec76d5f553c671d.1920x1080.jpg?t=1783528579",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/b532ed87b54458d04e817ce9d808f620950d5bb8/ss_b532ed87b54458d04e817ce9d808f620950d5bb8.1920x1080.jpg?t=1783528579",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1401590/5ac53642a54c491fb45fba8590ad48c0ae0addf9/ss_5ac53642a54c491fb45fba8590ad48c0ae0addf9.1920x1080.jpg?t=1783528579"
   ],
   "upsells": [
     {
+      "id": 4376930,
+      "name": "Disney Dreamlight Valley: Honeyglow Woods",
+      "base_price_rub": 939,
+      "markup_rub": 500,
+      "price_rub": 1439,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4376930/c24c762017ce3bfb20c82dad2abc4c2076688664/header.jpg?t=1783515660"
+    },
+    {
       "id": 3979520,
       "name": "Disney Dreamlight Valley: Wishblossom Ranch",
-      "base_price_rub": 1830,
+      "base_price_rub": 1805,
       "markup_rub": 500,
-      "price_rub": 2330,
+      "price_rub": 2305,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3979520/238989ae1f22c4df0277011efd15ec3b6d33e0ef/header.jpg?t=1779388668"
     },
     {
       "id": 3259120,
       "name": "Disney Dreamlight Valley: The Storybook Vale",
-      "base_price_rub": 1318,
+      "base_price_rub": 1300,
       "markup_rub": 500,
-      "price_rub": 1818,
+      "price_rub": 1800,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3259120/header.jpg?t=1779388549"
     },
     {
       "id": 2632050,
       "name": "Disney Dreamlight Valley: A Rift in Time",
-      "base_price_rub": 1318,
+      "base_price_rub": 1300,
       "markup_rub": 500,
-      "price_rub": 1818,
+      "price_rub": 1800,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2632050/header.jpg?t=1779388510"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T20:11:36Z"
+  "updated_at": "2026-07-10T03:54:51Z"
 }

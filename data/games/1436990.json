@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 128,
+  "base_price_rub": 212,
   "markup_rub": 500,
-  "price_rub": 628,
-  "original_price_rub": 715,
-  "discount_percent": 40,
+  "price_rub": 712,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,20 +36,20 @@
     {
       "id": 3606320,
       "name": "Feign - Deluxe Pack",
-      "base_price_rub": 193,
+      "base_price_rub": 255,
       "markup_rub": 500,
-      "price_rub": 693,
+      "price_rub": 755,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3606320/e5fcc51105b800b67b8d0236ed4f1a70b84029de/header.jpg?t=1750177969"
     },
     {
       "id": 3666380,
       "name": "Feign - Starter Pack",
-      "base_price_rub": 95,
+      "base_price_rub": 127,
       "markup_rub": 500,
-      "price_rub": 595,
+      "price_rub": 627,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3666380/40cbfc9a91f3f40a5d43fc995eff29ddc126a5da/header.jpg?t=1750178025"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T20:13:07Z"
+  "updated_at": "2026-07-10T03:59:40Z"
 }

@@ -12,11 +12,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 161,
+  "base_price_rub": 320,
   "markup_rub": 500,
-  "price_rub": 661,
-  "original_price_rub": 824,
-  "discount_percent": 50,
+  "price_rub": 820,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -31,20 +31,20 @@
     {
       "id": 1026171,
       "name": "Septerra Core - Digital Deluxe Content",
-      "base_price_rub": 108,
+      "base_price_rub": 212,
       "markup_rub": 500,
-      "price_rub": 608,
+      "price_rub": 712,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1026171/header.jpg?t=1549893919"
     },
     {
       "id": 1026170,
       "name": "Septerra Core - Soundtrack",
-      "base_price_rub": 108,
+      "base_price_rub": 212,
       "markup_rub": 500,
-      "price_rub": 608,
+      "price_rub": 712,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1026170/header.jpg?t=1549894017"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T20:44:37Z"
+  "updated_at": "2026-07-10T04:27:30Z"
 }

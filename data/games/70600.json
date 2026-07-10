@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 78,
+  "base_price_rub": 392,
   "markup_rub": 500,
-  "price_rub": 578,
-  "original_price_rub": 897,
-  "discount_percent": 80,
+  "price_rub": 892,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,28 +35,28 @@
     {
       "id": 70615,
       "name": "Worms Ultimate Mayhem - Single Player Pack DLC",
-      "base_price_rub": 85,
+      "base_price_rub": 426,
       "markup_rub": 500,
-      "price_rub": 585,
+      "price_rub": 926,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70615/header.jpg?t=1448452541"
     },
     {
       "id": 70616,
       "name": "Worms Ultimate Mayhem - Multiplayer Pack DLC",
-      "base_price_rub": 35,
+      "base_price_rub": 101,
       "markup_rub": 500,
-      "price_rub": 535,
+      "price_rub": 601,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70616/header.jpg?t=1448452502"
     },
     {
       "id": 70617,
       "name": "Worms Ultimate Mayhem - Customization Pack DLC",
-      "base_price_rub": 35,
+      "base_price_rub": 101,
       "markup_rub": 500,
-      "price_rub": 535,
+      "price_rub": 601,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/70617/header.jpg?t=1448452462"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T20:08:00Z"
+  "updated_at": "2026-07-10T03:54:45Z"
 }

@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 231,
+  "base_price_rub": 357,
   "markup_rub": 500,
-  "price_rub": 731,
-  "original_price_rub": 863,
-  "discount_percent": 36,
+  "price_rub": 857,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,28 +35,28 @@
     {
       "id": 1026800,
       "name": "while True: learn() Mega Map of Machine Learning",
-      "base_price_rub": 350,
+      "base_price_rub": 385,
       "markup_rub": 500,
-      "price_rub": 850,
+      "price_rub": 885,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1026800/header.jpg?t=1740218029"
     },
     {
       "id": 1019360,
       "name": "while True: learn() Soundtrack",
-      "base_price_rub": 114,
+      "base_price_rub": 127,
       "markup_rub": 500,
-      "price_rub": 614,
+      "price_rub": 627,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1019360/header.jpg?t=1740218035"
     },
     {
       "id": 1022720,
       "name": "while True: learn() Art Pack",
-      "base_price_rub": 114,
+      "base_price_rub": 127,
       "markup_rub": 500,
-      "price_rub": 614,
+      "price_rub": 627,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1022720/header.jpg?t=1740218033"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T20:07:26Z"
+  "updated_at": "2026-07-10T03:51:07Z"
 }

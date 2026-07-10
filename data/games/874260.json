@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 359,
+  "base_price_rub": 1420,
   "markup_rub": 500,
-  "price_rub": 859,
-  "original_price_rub": 1940,
-  "discount_percent": 75,
+  "price_rub": 1920,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,20 +35,20 @@
     {
       "id": 1662400,
       "name": "The Forgotten City Soundtrack",
-      "base_price_rub": 102,
+      "base_price_rub": 204,
       "markup_rub": 500,
-      "price_rub": 602,
+      "price_rub": 704,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662400/header.jpg?t=1627457330"
     },
     {
       "id": 1662430,
       "name": "The Forgotten City - Collector's DLC",
-      "base_price_rub": 68,
+      "base_price_rub": 135,
       "markup_rub": 500,
-      "price_rub": 568,
+      "price_rub": 635,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662430/header.jpg?t=1627478010"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T20:17:29Z"
+  "updated_at": "2026-07-10T04:00:41Z"
 }

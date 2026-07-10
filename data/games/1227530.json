@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 128,
+  "base_price_rub": 854,
   "markup_rub": 500,
-  "price_rub": 628,
-  "original_price_rub": 1366,
-  "discount_percent": 85,
+  "price_rub": 1354,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,20 +35,20 @@
     {
       "id": 1573740,
       "name": "Партизаны 1941 — Снова в бой",
-      "base_price_rub": 128,
+      "base_price_rub": 255,
       "markup_rub": 500,
-      "price_rub": 628,
+      "price_rub": 755,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573740/header_russian.jpg?t=1619714936"
     },
     {
       "id": 1439000,
       "name": "Partisans 1941 - Supporter Pack",
-      "base_price_rub": 141,
+      "base_price_rub": 279,
       "markup_rub": 500,
-      "price_rub": 641,
+      "price_rub": 779,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1439000/header_russian.jpg?t=1646936717"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T20:12:06Z"
+  "updated_at": "2026-07-10T03:55:25Z"
 }

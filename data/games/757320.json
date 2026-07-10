@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 113,
+  "base_price_rub": 556,
   "markup_rub": 500,
-  "price_rub": 613,
-  "original_price_rub": 1064,
-  "discount_percent": 80,
+  "price_rub": 1056,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,28 +36,28 @@
     {
       "id": 1832910,
       "name": "Atomicrops: Reap What You Crow",
-      "base_price_rub": 85,
+      "base_price_rub": 212,
       "markup_rub": 500,
-      "price_rub": 585,
+      "price_rub": 712,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1832910/header.jpg?t=1639493971"
     },
     {
       "id": 2177500,
       "name": "Atomicrops: Deerly Beloved",
-      "base_price_rub": 85,
+      "base_price_rub": 212,
       "markup_rub": 500,
-      "price_rub": 585,
+      "price_rub": 712,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2177500/header.jpg?t=1666702791"
     },
     {
       "id": 1412490,
       "name": "Atomicrops Soundtrack",
-      "base_price_rub": 83,
+      "base_price_rub": 279,
       "markup_rub": 500,
-      "price_rub": 583,
+      "price_rub": 779,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1412490/header.jpg?t=1636100198"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T20:39:20Z"
+  "updated_at": "2026-07-10T04:21:50Z"
 }

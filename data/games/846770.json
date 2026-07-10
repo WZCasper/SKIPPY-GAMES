@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 252,
+  "base_price_rub": 710,
   "markup_rub": 500,
-  "price_rub": 752,
-  "original_price_rub": 1220,
-  "discount_percent": 65,
+  "price_rub": 1210,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,14 +35,30 @@
   ],
   "upsells": [
     {
+      "id": 2439690,
+      "name": "DYSMANTLE: Pets & Dungeons",
+      "base_price_rub": 320,
+      "markup_rub": 500,
+      "price_rub": 820,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2439690/header.jpg?t=1697623342"
+    },
+    {
+      "id": 2147250,
+      "name": "DYSMANTLE: Doomsday",
+      "base_price_rub": 352,
+      "markup_rub": 500,
+      "price_rub": 852,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2147250/header.jpg?t=1683875926"
+    },
+    {
       "id": 2004110,
       "name": "DYSMANTLE: Underworld",
-      "base_price_rub": 125,
+      "base_price_rub": 352,
       "markup_rub": 500,
-      "price_rub": 625,
+      "price_rub": 852,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004110/header.jpg?t=1661358383"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T20:33:00Z"
+  "updated_at": "2026-07-10T04:15:30Z"
 }

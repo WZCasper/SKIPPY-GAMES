@@ -12,11 +12,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 170,
+  "base_price_rub": 563,
   "markup_rub": 500,
-  "price_rub": 670,
-  "original_price_rub": 1071,
-  "discount_percent": 70,
+  "price_rub": 1063,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -34,28 +34,28 @@
     {
       "id": 913750,
       "name": "Fishing: Barents Sea - Line and Net Ships",
-      "base_price_rub": 134,
+      "base_price_rub": 221,
       "markup_rub": 500,
-      "price_rub": 634,
+      "price_rub": 721,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/913750/header.jpg?t=1748452132"
     },
     {
       "id": 914970,
       "name": "Fishing: Barents Sea - King Crab",
-      "base_price_rub": 206,
+      "base_price_rub": 340,
       "markup_rub": 500,
-      "price_rub": 706,
+      "price_rub": 840,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914970/header.jpg?t=1748452103"
     },
     {
       "id": 1934200,
       "name": "Fishing: Barents Sea Soundtrack",
-      "base_price_rub": 186,
+      "base_price_rub": 204,
       "markup_rub": 500,
-      "price_rub": 686,
+      "price_rub": 704,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1934200/header.jpg?t=1647416183"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T20:34:42Z"
+  "updated_at": "2026-07-10T04:17:28Z"
 }

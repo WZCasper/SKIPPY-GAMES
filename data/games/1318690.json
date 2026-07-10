@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 38,
+  "base_price_rub": 385,
   "markup_rub": 500,
-  "price_rub": 538,
-  "original_price_rub": 890,
-  "discount_percent": 90,
+  "price_rub": 885,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,20 +36,20 @@
     {
       "id": 1625400,
       "name": "shapez - Puzzle DLC",
-      "base_price_rub": 149,
+      "base_price_rub": 212,
       "markup_rub": 500,
-      "price_rub": 649,
+      "price_rub": 712,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1625400/header.jpg?t=1655192154"
     },
     {
       "id": 1573840,
       "name": "shapez - Soundtrack",
-      "base_price_rub": 88,
+      "base_price_rub": 127,
       "markup_rub": 500,
-      "price_rub": 588,
+      "price_rub": 627,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1573840/header.jpg?t=1655203087"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T20:39:55Z"
+  "updated_at": "2026-07-10T04:22:31Z"
 }

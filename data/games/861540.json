@@ -11,11 +11,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 141,
+  "base_price_rub": 556,
   "markup_rub": 500,
-  "price_rub": 641,
-  "original_price_rub": 1064,
-  "discount_percent": 75,
+  "price_rub": 1056,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -31,14 +31,30 @@
   ],
   "upsells": [
     {
+      "id": 1138490,
+      "name": "Dicey Dungeons - Soundtrack",
+      "base_price_rub": 279,
+      "markup_rub": 500,
+      "price_rub": 779,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1138490/header.jpg?t=1761163367"
+    },
+    {
+      "id": 4122220,
+      "name": "Dicey Dungeons Halloween Special Soundtrack",
+      "base_price_rub": 127,
+      "markup_rub": 500,
+      "price_rub": 627,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4122220/597a3b04a597dfbca5c372c492b1c9f3444fae51/header.jpg?t=1761844661"
+    },
+    {
       "id": 4124250,
       "name": "Dicey Dungeons Reunion Soundtrack",
-      "base_price_rub": 54,
+      "base_price_rub": 212,
       "markup_rub": 500,
-      "price_rub": 554,
+      "price_rub": 712,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4124250/e4c17a4e6113d50a2826c2523946d84b74849062/header.jpg?t=1761844635"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-06T20:43:11Z"
+  "updated_at": "2026-07-10T04:22:49Z"
 }
