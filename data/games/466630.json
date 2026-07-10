@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 179,
+  "base_price_rub": 710,
   "markup_rub": 500,
-  "price_rub": 679,
-  "original_price_rub": 1222,
-  "discount_percent": 75,
+  "price_rub": 1210,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,20 +35,20 @@
     {
       "id": 1236790,
       "name": "The Pedestrian Soundtrack",
-      "base_price_rub": 108,
+      "base_price_rub": 212,
       "markup_rub": 500,
-      "price_rub": 608,
+      "price_rub": 712,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1236790/header.jpg?t=1581625284"
     },
     {
       "id": 2061990,
       "name": "The Pedestrian Digital Artbook",
-      "base_price_rub": 44,
+      "base_price_rub": 86,
       "markup_rub": 500,
-      "price_rub": 544,
+      "price_rub": 586,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2061990/header.jpg?t=1656004632"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T15:07:39Z"
+  "updated_at": "2026-07-10T19:56:55Z"
 }

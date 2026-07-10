@@ -15,58 +15,58 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 522,
+  "base_price_rub": 1026,
   "markup_rub": 500,
-  "price_rub": 1022,
-  "original_price_rub": 1544,
-  "discount_percent": 50,
+  "price_rub": 1526,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/ss_a6de6331c0279dd1a09deccbea1e1b9fbd4a9623.1920x1080.jpg?t=1782407339",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/ss_f88a94ca46d353cca12ea88bb80b02c6a94cbd05.1920x1080.jpg?t=1782407339",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/ss_893a59bf8d34c91f2a288c59d16223e586c3b77b.1920x1080.jpg?t=1782407339",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/ss_6f4fba9febd0e206ed46ed00ad1158017ddeaaaf.1920x1080.jpg?t=1782407339",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/ss_a0e9e0ba964c81ba6c81bbd27752d873c66f8074.1920x1080.jpg?t=1782407339",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/ss_28631765dac1fd3650cdb4d30e2947d9265cb436.1920x1080.jpg?t=1782407339",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/ss_49efde80db33a77351acda9e947b479564b19e5b.1920x1080.jpg?t=1782407339",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/ss_e45636b5d0499269a42dedb4de1a59443b862779.1920x1080.jpg?t=1782407339"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/ss_a6de6331c0279dd1a09deccbea1e1b9fbd4a9623.1920x1080.jpg?t=1783631791",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/ss_f88a94ca46d353cca12ea88bb80b02c6a94cbd05.1920x1080.jpg?t=1783631791",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/ss_893a59bf8d34c91f2a288c59d16223e586c3b77b.1920x1080.jpg?t=1783631791",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/ss_6f4fba9febd0e206ed46ed00ad1158017ddeaaaf.1920x1080.jpg?t=1783631791",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/ss_a0e9e0ba964c81ba6c81bbd27752d873c66f8074.1920x1080.jpg?t=1783631791",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/ss_28631765dac1fd3650cdb4d30e2947d9265cb436.1920x1080.jpg?t=1783631791",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/ss_49efde80db33a77351acda9e947b479564b19e5b.1920x1080.jpg?t=1783631791",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/ss_e45636b5d0499269a42dedb4de1a59443b862779.1920x1080.jpg?t=1783631791"
   ],
   "upsells": [
     {
       "id": 3625790,
       "name": "Forever Skies - Supporter Pack",
-      "base_price_rub": 216,
+      "base_price_rub": 212,
       "markup_rub": 500,
-      "price_rub": 716,
+      "price_rub": 712,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3625790/7696e60b789a3d2cda4c57625461ca0847d86adf/header.jpg?t=1759320762"
     },
     {
       "id": 3623820,
       "name": "Forever Skies - Original Soundtrack",
-      "base_price_rub": 216,
+      "base_price_rub": 212,
       "markup_rub": 500,
-      "price_rub": 716,
+      "price_rub": 712,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3623820/468bc3e8e8657ca008d1ba254b87b53fc53e09d7/header.jpg?t=1744650322"
     },
     {
       "id": 2635800,
       "name": "Forever Skies - Whale and Dolphin Conservation Artifact",
-      "base_price_rub": 122,
+      "base_price_rub": 120,
       "markup_rub": 500,
-      "price_rub": 622,
+      "price_rub": 620,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2635800/7acd4828a032805fd4ffe3e5d697499c38d8f053/header.jpg?t=1764594082"
     },
     {
       "id": 4196930,
       "name": "Forever Skies - War Child Charity Artifact",
-      "base_price_rub": 129,
+      "base_price_rub": 127,
       "markup_rub": 500,
-      "price_rub": 629,
+      "price_rub": 627,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4196930/8277f7e6caae471ef82f03e066b6ea021a07ed40/header.jpg?t=1765832079"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T15:07:27Z"
+  "updated_at": "2026-07-10T19:56:46Z"
 }

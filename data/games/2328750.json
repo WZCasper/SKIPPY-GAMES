@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 181,
+  "base_price_rub": 556,
   "markup_rub": 500,
-  "price_rub": 681,
-  "original_price_rub": 1066,
-  "discount_percent": 68,
+  "price_rub": 1056,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -37,20 +37,20 @@
     {
       "id": 2749030,
       "name": "My Little Universe Xmas Character Pack",
-      "base_price_rub": 30,
+      "base_price_rub": 127,
       "markup_rub": 500,
-      "price_rub": 530,
+      "price_rub": 627,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2749030/header.jpg?t=1703240099"
     },
     {
       "id": 2571430,
       "name": "My Little Universe Official Soundtrack",
-      "base_price_rub": 30,
+      "base_price_rub": 127,
       "markup_rub": 500,
-      "price_rub": 530,
+      "price_rub": 627,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2571430/header.jpg?t=1696514176"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T15:22:58Z"
+  "updated_at": "2026-07-10T20:11:55Z"
 }

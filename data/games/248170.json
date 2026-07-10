@@ -11,11 +11,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 999,
+  "base_price_rub": 1965,
   "markup_rub": 500,
-  "price_rub": 1499,
-  "original_price_rub": 2500,
-  "discount_percent": 50,
+  "price_rub": 2465,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -33,60 +33,60 @@
     {
       "id": 267650,
       "name": "Android Exporter for Clickteam Fusion 2.5",
-      "base_price_rub": 700,
+      "base_price_rub": 1965,
       "markup_rub": 500,
-      "price_rub": 1200,
+      "price_rub": 2465,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/267650/header.jpg?t=1669177521"
     },
     {
       "id": 267651,
       "name": "iOS Exporter for Clickteam Fusion 2.5",
-      "base_price_rub": 700,
+      "base_price_rub": 1965,
       "markup_rub": 500,
-      "price_rub": 1200,
+      "price_rub": 2465,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/267651/header.jpg?t=1669177980"
     },
     {
       "id": 267652,
       "name": "HTML5 Exporter for Clickteam Fusion 2.5",
-      "base_price_rub": 486,
+      "base_price_rub": 1367,
       "markup_rub": 500,
-      "price_rub": 986,
+      "price_rub": 1867,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/267652/header.jpg?t=1669177791"
     },
     {
       "id": 267655,
       "name": "Firefly",
-      "base_price_rub": 566,
+      "base_price_rub": 1589,
       "markup_rub": 500,
-      "price_rub": 1066,
+      "price_rub": 2089,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/267655/header.jpg?t=1726681280"
     },
     {
       "id": 267810,
       "name": "Clickteam Fusion 2.5 Developer Upgrade",
-      "base_price_rub": 4909,
+      "base_price_rub": 13783,
       "markup_rub": 500,
-      "price_rub": 5409,
+      "price_rub": 14283,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/267810/header.jpg?t=1726683399"
     },
     {
       "id": 574330,
       "name": "Mac Exporter",
-      "base_price_rub": 352,
+      "base_price_rub": 990,
       "markup_rub": 500,
-      "price_rub": 852,
+      "price_rub": 1490,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/574330/header.jpg?t=1669177912"
     },
     {
       "id": 1056780,
       "name": "Clickteam Fusion 2.5+ Addon",
-      "base_price_rub": 425,
+      "base_price_rub": 1196,
       "markup_rub": 500,
-      "price_rub": 925,
+      "price_rub": 1696,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1056780/header.jpg?t=1669177474"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T15:16:21Z"
+  "updated_at": "2026-07-10T20:02:30Z"
 }

@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 73,
+  "base_price_rub": 734,
   "markup_rub": 500,
-  "price_rub": 573,
-  "original_price_rub": 1247,
-  "discount_percent": 90,
+  "price_rub": 1234,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -37,36 +37,20 @@
     {
       "id": 1101830,
       "name": "WRC 8 - Alpine A110 (1973)",
-      "base_price_rub": 103,
+      "base_price_rub": 255,
       "markup_rub": 500,
-      "price_rub": 603,
+      "price_rub": 755,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101830/header.jpg?t=1599551958"
     },
     {
       "id": 1101870,
       "name": "WRC 8 - Ford Escort MkII 1800 (1979)",
-      "base_price_rub": 103,
+      "base_price_rub": 255,
       "markup_rub": 500,
-      "price_rub": 603,
+      "price_rub": 755,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101870/header.jpg?t=1599551962"
-    },
-    {
-      "id": 1101880,
-      "name": "WRC 8 - Lancia Delta HF Integrale Evoluzione (1992)",
-      "base_price_rub": 103,
-      "markup_rub": 500,
-      "price_rub": 603,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101880/header.jpg?t=1599551966"
-    },
-    {
-      "id": 1101890,
-      "name": "WRC 8 - Senior Staff Members Unlock",
-      "base_price_rub": 40,
-      "markup_rub": 500,
-      "price_rub": 540,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101890/header.jpg?t=1599559148"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T15:16:41Z"
+  "updated_at": "2026-07-10T20:05:49Z"
 }

@@ -1,0 +1,32 @@
+{
+  "id": 886480,
+  "title": "Audiate",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/886480/capsule_616x353.jpg",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/886480?t=1583973076",
+  "description": "ImportantRequires OpenVR controllers or trackers. HMD is not used. \n\nО программеAudiate allows you to map any MIDI-capable audio/video production tool to the position, orientation, and buttons on any OpenVR input device. With six assignable inputs per control from position & rotation alone it provides far more control per hand than would be possible with traditional finger-operated faders, knobs, & modwheels. \n\nNote: The HMD display is not used, Audiate is intended to be integrated into an existing production tool-chain alongside physical instruments, other control surfaces, & software. It acts as an additional control surface for you to map as you see fit. As with most physical control surfaces it does not output actual musical notes as MIDI or audio streams, instead it focuses on providing hands-on control of live and post-production effects provided by MIDI capable hardware & software. \n\nIn effect the application operates like a 6-dimensional floating MIDI modwheel.Application Features• Map OpenVR input devices to any MIDI software & hardware\n\n• Load & save patch configurations\n\n• Pre-configured library patches available in banks\n\n• Configurable control code number lists\n\n• Configurable surface size & optional haptics\n\n• Extremely low CPU/GPU usage, performs no 3D rendering\n\n• Detailed documentation including tutorials for several popular DAWs\n\nAudiate is built on top of VR input hardware as this offers unparalleled accuracy and low-latency tracking on consumer-grade hardware. These requirements are as important to music production as they are to VR. \n\nFor further details please see the application documentation, this is available in PDF format on the store page.Example Usages\n• Attach a tracker to an arm, leg, foot or head to control a physical instrument or effect while performing\n\n• Attach a tracker to any instrument, allowing for electric-guitar-like neck shake vibrato effects\n\n• Recording multiple automation values simultaneously during mastering\n\n• Control panning for surround-sound media\n\n• Controlling MIDI-capable stage-lighting\nHardware Support\nPlease note that the HMD is not used in this application. Audio production tools generally require significant system resources and are also often vulnerable to undesirable latency issues on busy systems. Audiate is designed to work alongside these tools as an enhancement to an existing tool chain rather than a replacement; as such it tries to keep its own system requirements to an absolute minimum. \n\nThe following input devices have pre-configured profiles:\n\n• HTC Vive Controllers\n\n• HTC Vive Trackers\n\n• Oculus Rift\n\nSupport for other devices can be added by editing the application configuration files. Any OpenVR-compatible input device is supported. \n\nAll tracked controllers provide the following inputs:\n• 3 position analogue axes per controller\n\n• 3 rotation analogue axes per controller\n\nIn addition to this, a Vive Controller also provides:\n• 3 button-based analogue axes per controller (trigger & touchpad x/y)\n\n• 1 digital axis (grip button)\n\nAny additional inputs provided by OpenVR devices can be configured to make use of them. Functionality is provided to normalize & smooth values if required. Some trackers also allow for adding custom-built inputs via exposed electrical hookups, advanced users can build and configure entirely custom devices of their own design. \n\nThe configuration system can also be used to provide inputs bound to button presses. For example a user could set up a series of X, Y, & Z axes that only output when a particular button is held, with the previous value being held until next used.Application Support\nAudiate can work with any application or hardware that is capable of using MIDI control codes to change parameter values. This includes VST-based musical instruments & effect modules, as well as other usages outside of audio/video production. Hardware modules with MIDI capabilities can be connected in the usual way to the system running Audiate. It is not required that the connected module is capable of customizing it's own mappings, Audiate can be configured to make use of hard-coded ones such as those found in keyboard synths. Support is provided for mapping files (midnam & csv) to aid in the setting up of devices by listing the control name inside Audiate. \n\nValue output is typically the absolute value which works in most cases however support is provided for software/hardware that requires relative input, as commonly used by \"infinite knob\"-based control surfaces. This mode exists to provide support in DAWs that are known to be difficult in their MIDI connectivity. Full details of the capabilities of this emulation mode are available in the manual.",
+  "description_short": "Map MIDI-capable audio/video production tools to the position, orientation, and buttons on any OpenVR input device. With six assignable inputs per control from position/rotation alone Audiate provides far more control per hand than would be possible with traditional MIDI control surfaces.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 648,
+  "markup_rub": 500,
+  "price_rub": 1148,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886480/ss_a04c8dddea22f05421b3c08156168b8ec46870f4.1920x1080.jpg?t=1583973076",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886480/ss_f226e89f672d0a3653b4a6bcbb5e5391c051c7ad.1920x1080.jpg?t=1583973076",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886480/ss_5fe37547b485d9923602d2a2dca2141b51ca6731.1920x1080.jpg?t=1583973076",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886480/ss_56fa80adb8b24885d43220986656075a66d10103.1920x1080.jpg?t=1583973076",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/886480/ss_e746aecf5d3fcbf3d22dbb727cc0c6773b720851.1920x1080.jpg?t=1583973076"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-10T20:19:16Z"
+}

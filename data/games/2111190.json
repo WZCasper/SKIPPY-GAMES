@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 468,
+  "base_price_rub": 710,
   "markup_rub": 500,
-  "price_rub": 968,
-  "original_price_rub": 1222,
-  "discount_percent": 35,
+  "price_rub": 1210,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,20 +35,20 @@
     {
       "id": 2902110,
       "name": "Mullet Mad Jack SOUNDTRACK",
-      "base_price_rub": 254,
+      "base_price_rub": 385,
       "markup_rub": 500,
-      "price_rub": 754,
+      "price_rub": 885,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2902110/header.jpg?t=1726254376"
     },
     {
       "id": 2902200,
       "name": "Mullet Mad Jack ARTBOOK",
-      "base_price_rub": 254,
+      "base_price_rub": 385,
       "markup_rub": 500,
-      "price_rub": 754,
+      "price_rub": 885,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2902200/header.jpg?t=1726254556"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T14:57:25Z"
+  "updated_at": "2026-07-10T19:46:36Z"
 }

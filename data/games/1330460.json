@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 484,
+  "base_price_rub": 710,
   "markup_rub": 500,
-  "price_rub": 984,
-  "original_price_rub": 1222,
-  "discount_percent": 33,
+  "price_rub": 1210,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -37,12 +37,12 @@
     {
       "id": 1892560,
       "name": "Becastled Soundtrack",
-      "base_price_rub": 85,
+      "base_price_rub": 127,
       "markup_rub": 500,
-      "price_rub": 585,
+      "price_rub": 627,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1892560/header.jpg?t=1647542532"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T14:53:07Z"
+  "updated_at": "2026-07-10T19:42:28Z"
 }

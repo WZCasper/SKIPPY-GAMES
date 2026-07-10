@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 282,
+  "base_price_rub": 556,
   "markup_rub": 500,
-  "price_rub": 782,
-  "original_price_rub": 1066,
-  "discount_percent": 50,
+  "price_rub": 1056,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,20 +35,20 @@
     {
       "id": 462170,
       "name": "8-Bit Armies - Soundtrack",
-      "base_price_rub": 85,
+      "base_price_rub": 169,
       "markup_rub": 500,
-      "price_rub": 585,
+      "price_rub": 669,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/462170/header.jpg?t=1699984994"
     },
     {
       "id": 482420,
       "name": "8-Bit Armies - Guardians Campaign",
-      "base_price_rub": 85,
+      "base_price_rub": 169,
       "markup_rub": 500,
-      "price_rub": 585,
+      "price_rub": 669,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/482420/header.jpg?t=1667950739"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T14:57:27Z"
+  "updated_at": "2026-07-10T19:46:38Z"
 }

@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 179,
+  "base_price_rub": 710,
   "markup_rub": 500,
-  "price_rub": 679,
-  "original_price_rub": 1222,
-  "discount_percent": 75,
+  "price_rub": 1210,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,28 +36,28 @@
     {
       "id": 3768390,
       "name": "POSTAL: Brain Damaged - These Sunny Daze",
-      "base_price_rub": 212,
+      "base_price_rub": 279,
       "markup_rub": 500,
-      "price_rub": 712,
+      "price_rub": 779,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768390/66cbc3f63a91b940542bd41218a5482fe3c16645/header.jpg?t=1768485217"
     },
     {
       "id": 2007440,
       "name": "POSTAL Brain Damaged - Official Soundtrack",
-      "base_price_rub": 80,
+      "base_price_rub": 320,
       "markup_rub": 500,
-      "price_rub": 580,
+      "price_rub": 820,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2007440/header.jpg?t=1655488205"
     },
     {
       "id": 2015160,
       "name": "POSTAL: Brain Damaged Art Book",
-      "base_price_rub": 54,
+      "base_price_rub": 212,
       "markup_rub": 500,
-      "price_rub": 554,
+      "price_rub": 712,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015160/header.jpg?t=1654816561"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T15:21:58Z"
+  "updated_at": "2026-07-10T20:07:57Z"
 }

@@ -16,11 +16,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 122,
+  "base_price_rub": 710,
   "markup_rub": 500,
-  "price_rub": 622,
-  "original_price_rub": 1222,
-  "discount_percent": 83,
+  "price_rub": 1210,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -38,28 +38,28 @@
     {
       "id": 3864310,
       "name": "Mr. Prepper - DLC «Проект Уран»",
-      "base_price_rub": 209,
+      "base_price_rub": 279,
       "markup_rub": 500,
-      "price_rub": 709,
+      "price_rub": 779,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3864310/4bdaa8dd9bc1047ff97ccf2445298d9104cb143e/header.jpg?t=1758991426"
     },
     {
       "id": 1882510,
       "name": "Mr. Prepper - DLC «Скотный двор»",
-      "base_price_rub": 120,
+      "base_price_rub": 385,
       "markup_rub": 500,
-      "price_rub": 620,
+      "price_rub": 885,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1882510/header.jpg?t=1725032344"
     },
     {
       "id": 1557320,
       "name": "Mr. Prepper Soundtrack",
-      "base_price_rub": 26,
+      "base_price_rub": 68,
       "markup_rub": 500,
-      "price_rub": 526,
+      "price_rub": 568,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1557320/header.jpg?t=1738499201"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T14:51:15Z"
+  "updated_at": "2026-07-10T19:40:59Z"
 }

@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 531,
+  "base_price_rub": 871,
   "markup_rub": 500,
-  "price_rub": 1031,
-  "original_price_rub": 1386,
-  "discount_percent": 40,
+  "price_rub": 1371,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -37,20 +37,20 @@
     {
       "id": 2655090,
       "name": "Lightyear Frontier - Pioneer's Bundle",
-      "base_price_rub": 61,
+      "base_price_rub": 101,
       "markup_rub": 500,
-      "price_rub": 561,
+      "price_rub": 601,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2655090/header.jpg?t=1710870431"
     },
     {
       "id": 2881710,
       "name": "Lightyear Frontier Soundtrack",
-      "base_price_rub": 82,
+      "base_price_rub": 135,
       "markup_rub": 500,
-      "price_rub": 582,
+      "price_rub": 635,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2881710/header.jpg?t=1710870468"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T14:50:41Z"
+  "updated_at": "2026-07-10T19:40:31Z"
 }

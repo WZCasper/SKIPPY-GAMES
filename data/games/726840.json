@@ -16,11 +16,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 287,
+  "base_price_rub": 513,
   "markup_rub": 500,
-  "price_rub": 787,
-  "original_price_rub": 1022,
-  "discount_percent": 45,
+  "price_rub": 1013,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -38,12 +38,12 @@
     {
       "id": 2893040,
       "name": "City Game Studio Soundtrack",
-      "base_price_rub": 37,
+      "base_price_rub": 51,
       "markup_rub": 500,
-      "price_rub": 537,
+      "price_rub": 551,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2893040/header.jpg?t=1725453895"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T14:52:52Z"
+  "updated_at": "2026-07-10T19:42:16Z"
 }

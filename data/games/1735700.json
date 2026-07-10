@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 696,
+  "base_price_rub": 855,
   "markup_rub": 500,
-  "price_rub": 1196,
-  "original_price_rub": 1370,
-  "discount_percent": 20,
+  "price_rub": 1355,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,20 +35,20 @@
     {
       "id": 3700590,
       "name": "Back to the Dawn - Supporter Pack",
-      "base_price_rub": 233,
+      "base_price_rub": 255,
       "markup_rub": 500,
-      "price_rub": 733,
+      "price_rub": 755,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3700590/c98d3ad4dcd8cab0492cfdb2dcb54e1a4aef0c57/header.jpg?t=1752825275"
     },
     {
       "id": 2646420,
       "name": "Back to the Dawn - Original Soundtrack",
-      "base_price_rub": 233,
+      "base_price_rub": 255,
       "markup_rub": 500,
-      "price_rub": 733,
+      "price_rub": 755,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646420/d593b92d48b3b9bf4fad90e1ecbd9f85852b9f1e/header.jpg?t=1752806514"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T15:05:21Z"
+  "updated_at": "2026-07-10T19:51:46Z"
 }

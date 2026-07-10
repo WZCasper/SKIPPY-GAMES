@@ -12,11 +12,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 104,
+  "base_price_rub": 289,
   "markup_rub": 500,
-  "price_rub": 604,
-  "original_price_rub": 794,
-  "discount_percent": 64,
+  "price_rub": 789,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -34,20 +34,20 @@
     {
       "id": 850280,
       "name": "Shoppe Keep 2 - Digital Art Book",
-      "base_price_rub": 85,
+      "base_price_rub": 169,
       "markup_rub": 500,
-      "price_rub": 585,
+      "price_rub": 669,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/850280/header.jpg?t=1645008469"
     },
     {
       "id": 850281,
       "name": "Shoppe Keep 2 - Soundtrack",
-      "base_price_rub": 85,
+      "base_price_rub": 169,
       "markup_rub": 500,
-      "price_rub": 585,
+      "price_rub": 669,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/850281/header.jpg?t=1645008512"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T15:01:08Z"
+  "updated_at": "2026-07-10T19:50:11Z"
 }
