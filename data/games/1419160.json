@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 153,
+  "base_price_rub": 1004,
   "markup_rub": 500,
-  "price_rub": 653,
-  "original_price_rub": 1522,
-  "discount_percent": 85,
+  "price_rub": 1504,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -37,20 +37,20 @@
     {
       "id": 1988760,
       "name": "Souldiers - OST",
-      "base_price_rub": 38,
+      "base_price_rub": 251,
       "markup_rub": 500,
-      "price_rub": 538,
+      "price_rub": 751,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1988760/header.jpg?t=1654174398"
     },
     {
       "id": 1988770,
       "name": "Souldiers - Artbook",
-      "base_price_rub": 38,
+      "base_price_rub": 251,
       "markup_rub": 500,
-      "price_rub": 538,
+      "price_rub": 751,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1988770/header.jpg?t=1654174366"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T10:10:31Z"
+  "updated_at": "2026-07-10T14:57:14Z"
 }

@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 329,
+  "base_price_rub": 648,
   "markup_rub": 500,
-  "price_rub": 829,
-  "original_price_rub": 1160,
-  "discount_percent": 50,
+  "price_rub": 1148,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -37,12 +37,12 @@
     {
       "id": 396940,
       "name": "The Universim - Collector's Pack (Vol 1)",
-      "base_price_rub": 111,
+      "base_price_rub": 221,
       "markup_rub": 500,
-      "price_rub": 611,
+      "price_rub": 721,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396940/header.jpg?t=1535480259"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T09:58:46Z"
+  "updated_at": "2026-07-10T14:45:29Z"
 }

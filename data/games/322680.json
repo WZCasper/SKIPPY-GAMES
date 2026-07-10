@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 35,
+  "base_price_rub": 352,
   "markup_rub": 500,
-  "price_rub": 535,
-  "original_price_rub": 859,
-  "discount_percent": 90,
+  "price_rub": 852,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -37,28 +37,28 @@
     {
       "id": 323650,
       "name": "BLACKHOLE: Complete Edition Upgrade",
-      "base_price_rub": 42,
+      "base_price_rub": 212,
       "markup_rub": 500,
-      "price_rub": 542,
+      "price_rub": 712,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323650/header.jpg?t=1681204951"
     },
     {
       "id": 322700,
       "name": "BLACKHOLE: Testing Laboratory",
-      "base_price_rub": 23,
+      "base_price_rub": 44,
       "markup_rub": 500,
-      "price_rub": 523,
+      "price_rub": 544,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322700/header.jpg?t=1681205019"
     },
     {
       "id": 445920,
       "name": "BLACKHOLE: Original Soundtrack",
-      "base_price_rub": 33,
+      "base_price_rub": 169,
       "markup_rub": 500,
-      "price_rub": 533,
+      "price_rub": 669,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445920/header.jpg?t=1656589490"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T10:26:15Z"
+  "updated_at": "2026-07-10T15:12:54Z"
 }

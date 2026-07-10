@@ -15,10 +15,10 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 91,
+  "base_price_rub": 89,
   "markup_rub": 500,
-  "price_rub": 591,
-  "original_price_rub": 726,
+  "price_rub": 589,
+  "original_price_rub": 722,
   "discount_percent": 60,
   "is_free": false,
   "trailer_video": null,
@@ -35,52 +35,68 @@
     {
       "id": 710730,
       "name": "Army of Tentacles: CHARITY DLC FOR DISASTER RELIEF PLACES",
-      "base_price_rub": 47,
+      "base_price_rub": 46,
       "markup_rub": 500,
-      "price_rub": 547,
+      "price_rub": 546,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/710730/header.jpg?t=1528242354"
     },
     {
       "id": 456880,
       "name": "Army of Tentacles: New Game+ Benefits",
-      "base_price_rub": 122,
+      "base_price_rub": 120,
       "markup_rub": 500,
-      "price_rub": 622,
+      "price_rub": 620,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/456880/header.jpg?t=1513211414"
+    },
+    {
+      "id": 476560,
+      "name": "Army of Tentacles: (Not) A Cthulhu Dating Sim: October SURPRISE Army Unit Pack",
+      "base_price_rub": 34,
+      "markup_rub": 500,
+      "price_rub": 534,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/476560/header.jpg?t=1682524044"
+    },
+    {
+      "id": 459590,
+      "name": "Army of Tentacles: Halloween",
+      "base_price_rub": 67,
+      "markup_rub": 500,
+      "price_rub": 567,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/459590/header.jpg?t=1513205191"
     },
     {
       "id": 498730,
       "name": "Army of Tentacles: San Diego Comic Con 2016 Quest & Item Pack",
-      "base_price_rub": 68,
+      "base_price_rub": 67,
       "markup_rub": 500,
-      "price_rub": 568,
+      "price_rub": 567,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/498730/header.jpg?t=1513207444"
     },
     {
       "id": 531750,
       "name": "Army of Tentacles: OMG it's sequel content",
-      "base_price_rub": 35,
+      "base_price_rub": 34,
       "markup_rub": 500,
-      "price_rub": 535,
+      "price_rub": 534,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/531750/header.jpg?t=1513206846"
     },
     {
       "id": 428710,
       "name": "Army of Tentacles: OST",
-      "base_price_rub": 63,
+      "base_price_rub": 62,
       "markup_rub": 500,
-      "price_rub": 563,
+      "price_rub": 562,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/428710/header.jpg?t=1541645095"
     },
     {
       "id": 780240,
       "name": "Army of Tentacles: Cheat Mode",
-      "base_price_rub": 47,
+      "base_price_rub": 46,
       "markup_rub": 500,
-      "price_rub": 547,
+      "price_rub": 546,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780240/header.jpg?t=1515434589"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T10:18:35Z"
+  "updated_at": "2026-07-10T15:02:21Z"
 }

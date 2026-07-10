@@ -1,0 +1,38 @@
+{
+  "id": 396890,
+  "title": "Gridworld",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/396890/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/396890/library_hero.jpg",
+  "description": "Gridworld is an artificial life and evolution simulator. It simulates a 2D, grid-based ecosystem where virtual creatures struggle to survive, adapt, and evolve through natural selection. Watch them learn to find food, avoid danger, and compete to survive. Let them thrive on their own, or step in with world editing tools and scenarios to shape their fate. \n\nCreatures\n\nCreatures appear as colored tiles with tiny subcells that represent neurons. You can see them move around, eating food to stay alive and eventually reproduce if they are successful enough. Each has a body and a neural network brain encoded in DNA.\n\n• Input neurons sense the environment.\n\n• Signals pass through the neural network.\n\n• Output neurons trigger behaviors such as moving, rotating, reproducing, eating, or attacking.\n\nThe Primordial Soup\n\nYou begin with a world full of food and randomly generated creatures. Most cannot feed or reproduce, and their genes die with them. \n\nEventually, one random DNA combination succeeds, resulting in a creature that can eat and reproduce. It multiplies rapidly, sparking a population explosion and the start of evolution.\n\nGenesisDon’t have the patience to wait?\n\nNo problem, several scenarios with simple premade creatures are available. \n\nThese let evolution start immediately so you can focus on watching adaptation and natural selection unfold rather than waiting for the first self-replicating creature to appear.\n\nEvolution in Action\n\nWhen creatures reproduce, DNA may mutate.\n\n• Some mutations are beneficial, improving survival.\n\n• Others are harmful or neutral.\n\n• Successful mutations spread, unsuccessful ones die out.\n\nThis ongoing cycle of mutation and selection drives adaptation.\n\nBecause creatures live fast, you can observe evolution over hours or days, instead of thousands of years.\n\nYour Role\n\nEvolution happens automatically, you don’t need to guide it.\n\nStart a simulation, let it run, and check back later to see what has emerged.\n\nWant more control?\n\n• Use the world editor to create new challenges.\n\n• Adjust simulation settings to change environmental conditions.\n\n• Intervene during simulations to see how populations react and force them to overcome new challenges.\n\nWhat You Might Observe\n\nOver time, many natural phenomena can emerge:\n\nBehavior and Adaptation• Development of food-finding skills\n\n• Emergence of danger-avoidance behaviors\n\n• Predatory ambush tactics\n\n• Coevolutionary arms races\n\n• Temporary multicellular clusters, where creatures combine into larger forms to hunt prey\n\nPopulation Dynamics• Population booms and busts\n\n• Predator–prey population splits\n\n• Speciation, as populations split into distinct species adapted to different niches\n\n• Viruses and parasites replicating by exploiting other creatures\n\n• Viral outbreaks that can wipe out large parts of the population\n\nEvery simulation is unique. \n\nStart your own world, watch evolution unfold, and discover what forms of life will emerge in Gridworld.",
+  "description_short": "Gridworld is an artificial life and evolution simulator. Watch creatures evolve through natural selection as they learn to find food, avoid danger, and compete with other creatures for survival.",
+  "genres": [
+    "Технические симуляторы",
+    "Симуляторы жизни",
+    "Песочницы (Sandbox)",
+    "Выживание (Survival)"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 86,
+  "markup_rub": 500,
+  "price_rub": 586,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396890/1012a9da2a93f985618c73967aca334023443d5b/ss_1012a9da2a93f985618c73967aca334023443d5b.1920x1080.jpg?t=1774301974",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396890/881fc972db4599bafca83d3587f08a9069b95096/ss_881fc972db4599bafca83d3587f08a9069b95096.1920x1080.jpg?t=1774301974",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396890/d5fa10d81af39516db0c70f0aa5884a84da99434/ss_d5fa10d81af39516db0c70f0aa5884a84da99434.1920x1080.jpg?t=1774301974",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396890/6eb3e9a4368fb0c3dd656a9e32bc937e037fa2ee/ss_6eb3e9a4368fb0c3dd656a9e32bc937e037fa2ee.1920x1080.jpg?t=1774301974",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396890/0f14453c6be56c0cf1529a1f4ea44a2b1d74852c/ss_0f14453c6be56c0cf1529a1f4ea44a2b1d74852c.1920x1080.jpg?t=1774301974",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396890/92bf36fc308f3e99d1cc45282b9514c94e5232fd/ss_92bf36fc308f3e99d1cc45282b9514c94e5232fd.1920x1080.jpg?t=1774301974",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396890/ff7cb2f84e3a887e07da6c98a003091d4031bbf7/ss_ff7cb2f84e3a887e07da6c98a003091d4031bbf7.1920x1080.jpg?t=1774301974",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396890/4e7f7e48584e56425031351bafb6a58fc543557b/ss_4e7f7e48584e56425031351bafb6a58fc543557b.1920x1080.jpg?t=1774301974"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-10T15:17:16Z"
+}

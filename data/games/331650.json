@@ -1,0 +1,35 @@
+{
+  "id": 331650,
+  "title": "Carmageddon TDR 2000",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/331650/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/331650/library_hero.jpg",
+  "description": "Да, это игра, буквально... НЕКОТОРЫЕ из вас просили об этом! И вот, в духе \"ну ладно уж, если вы настаиваете...\" мы представляем третью игру серий Carmageddon, с мыслью, что некоторые из вас, Кармафанов, хотят иметь полный сборник игр Carmageddon в библиотеке Стима. В этом нет ничего плохого. \n\nИтак, вот тот вздор с обложки DVD диска с Carmageddon: TDR 2000:\n\nСамая спорная гоночная игра в мире возвращается с невероятной графикой, фантастической игрой и с еще большими приключениями!\n\nМакс Дэмедж, пожизненно заключенный, планирует свой побег. Но, к сожалению, ему нужно принять во внимание армию полиции, тучи гангстеров и тысячи разъяренных жителей - все с убийством на уме. Для преуспевания понадобится гений без морали, инстинкт киллера и сжигающее желание свободы.\n\nТакого человека еще не существовало... до сегодняшнего дня!\n\n• Управляй 50 полностью разрушаемыми машинами.\n\n• Больше чем 48 миссий и гонок.\n\n• 9 окрестностей в 3Д в режиме одного игрока для исследования и уничтожения.\n\n• 7 видов игры мультиплейера на 9 картах, которые можно изменить.\n\nKnown IssueSymptoms: When you start a mission, the game crashes to the desktop with an error about Directx, address 0x80070057.\nSolutions: There's an easy fix, disable the MIP Filter. You can do this by running TDR 2000 Setup and opening the \"Advanced Settings\" dialog, and setting MIP Filter to \"none\". Another solution is to disable the Fog.Command Line InterfaceCommand line options for the game are:\n\n-profile(w) Reprofile system\n-setup(s) Access setup dialog\n-fulltextures(f) Use fullsize textures\n-join(j) \"IP address\" Join TCP/IP game at specified IP address\n-create(cr) Create a TCP/IP server\n-clientserver(cs) Specifies client/server mode\n-dedicated(d) Specifies dedicated server mode\n-console(co) Specifies console output mode\n-gamescript(g) \"FileName.txt\" Specifies gamescript to use\n-maxDataRate(mdr) [value] Specifies data rate settings\n-dataRateFalloff(drfp) [value]\n-debugFile(df) \"FileName.txt\" Specifies alternate name for dbg.txt\n-optionsFile(of) \"FileName.txt\" Specifies alternate name for options.txt file\n-serverName(sn) \"ServerName\" Specifies server nameMultiplayerHow do I set up dedicated server games?\nTo set up a dedicated server, create a shortcut to Carmageddon: TDR2000, and add -cr -d -co -cs to your command line. This will use the options you have already in your Multiplayer settings.",
+  "description_short": "Хочешь &quot;классический&quot; Carmageddon: TDR 2000 БЕСПЛАТНО? Купи Ранний Доступ Carmageddon: Reincarnation на Стиме! А если хочешь только Carmageddon: TDR 2000, купи его здесь. Хотя, если ты это сделаешь, возникнут вопросы о твоей нормальности. Или мужественности.",
+  "genres": [
+    "Гоночные симуляторы (Simracing)",
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 169,
+  "markup_rub": 500,
+  "price_rub": 669,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331650/ss_8af926b2fff5646211f23eb2b3a328ab2344265a.1920x1080.jpg?t=1727865293",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331650/ss_537fc1abddc8da06f9e3e9d5c46c5d17845252c1.1920x1080.jpg?t=1727865293",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331650/ss_5477457ca600f78da69df01aa72b9d05bf79bb88.1920x1080.jpg?t=1727865293",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331650/ss_f3b390f709ce10f373b50271235acfa694d8c655.1920x1080.jpg?t=1727865293",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331650/ss_892fa64c1b00ea83a387aea41cffd334a3d45313.1920x1080.jpg?t=1727865293",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331650/ss_f1a21dab70ac2008045245230f67f05041194577.1920x1080.jpg?t=1727865293",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/331650/ss_78e2c7975f9ec79a0d0f6f432cfcdc7d013bceea.1920x1080.jpg?t=1727865293"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-10T15:32:13Z"
+}

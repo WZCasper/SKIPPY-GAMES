@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 141,
+  "base_price_rub": 556,
   "markup_rub": 500,
-  "price_rub": 641,
-  "original_price_rub": 1066,
-  "discount_percent": 75,
+  "price_rub": 1056,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,20 +35,20 @@
     {
       "id": 694330,
       "name": "Underrail: Expedition",
-      "base_price_rub": 157,
+      "base_price_rub": 385,
       "markup_rub": 500,
-      "price_rub": 657,
+      "price_rub": 885,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694330/6036ff5aa18128eba74cab5c892fdf90a73e2914/header.jpg?t=1766066773"
     },
     {
       "id": 2604510,
       "name": "Underrail: Heavy Duty",
-      "base_price_rub": 162,
+      "base_price_rub": 320,
       "markup_rub": 500,
-      "price_rub": 662,
+      "price_rub": 820,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2604510/f517f7ae216d2e55468e32857f3de392ede657c0/header.jpg?t=1766066798"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T09:53:48Z"
+  "updated_at": "2026-07-10T14:40:26Z"
 }

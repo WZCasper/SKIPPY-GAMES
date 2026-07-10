@@ -16,11 +16,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 289,
+  "base_price_rub": 710,
   "markup_rub": 500,
-  "price_rub": 789,
-  "original_price_rub": 1222,
-  "discount_percent": 60,
+  "price_rub": 1210,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -38,20 +38,20 @@
     {
       "id": 2487020,
       "name": "I Am Future Digital Artbook",
-      "base_price_rub": 50,
+      "base_price_rub": 127,
       "markup_rub": 500,
-      "price_rub": 550,
+      "price_rub": 627,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2487020/header.jpg?t=1707769657"
     },
     {
       "id": 2532810,
       "name": "I Am Future Soundtrack",
-      "base_price_rub": 35,
+      "base_price_rub": 86,
       "markup_rub": 500,
-      "price_rub": 535,
+      "price_rub": 586,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2532810/header.jpg?t=1707770358"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T10:03:23Z"
+  "updated_at": "2026-07-10T14:47:33Z"
 }
