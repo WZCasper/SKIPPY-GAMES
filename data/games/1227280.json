@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 118,
+  "base_price_rub": 479,
   "markup_rub": 500,
-  "price_rub": 618,
-  "original_price_rub": 979,
-  "discount_percent": 75,
+  "price_rub": 979,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,20 +36,20 @@
     {
       "id": 1785070,
       "name": "Despot's Game: Soundtrack",
-      "base_price_rub": 64,
+      "base_price_rub": 256,
       "markup_rub": 500,
-      "price_rub": 564,
+      "price_rub": 756,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1785070/header.jpg?t=1671188174"
     },
     {
       "id": 2089800,
       "name": "Despot's Game - Challenges",
-      "base_price_rub": 33,
+      "base_price_rub": 136,
       "markup_rub": 500,
-      "price_rub": 533,
+      "price_rub": 636,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2089800/header.jpg?t=1664467211"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-08T03:43:22Z"
+  "updated_at": "2026-07-11T08:22:12Z"
 }

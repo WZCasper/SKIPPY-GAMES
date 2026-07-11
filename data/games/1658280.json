@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 668,
+  "base_price_rub": 2232,
   "markup_rub": 500,
-  "price_rub": 1168,
-  "original_price_rub": 2729,
-  "discount_percent": 70,
+  "price_rub": 2732,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -37,33 +37,33 @@
     {
       "id": 2694080,
       "name": "Eiyuden Chronicle: Hundred Heroes - Story Expansion: The Chapter of Markus",
-      "base_price_rub": 172,
+      "base_price_rub": 287,
       "markup_rub": 500,
-      "price_rub": 672,
+      "price_rub": 787,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694080/header.jpg?t=1743692697"
     },
     {
       "id": 2694060,
       "name": "Eiyuden Chronicle: Hundred Heroes - Story Expansion: The Chapter of Seign",
-      "base_price_rub": 172,
+      "base_price_rub": 287,
       "markup_rub": 500,
-      "price_rub": 672,
+      "price_rub": 787,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694060/header.jpg?t=1741877740"
     },
     {
       "id": 2694070,
       "name": "Eiyuden Chronicle: Hundred Heroes - Story Expansion: The Chapter of Marisa",
-      "base_price_rub": 172,
+      "base_price_rub": 287,
       "markup_rub": 500,
-      "price_rub": 672,
+      "price_rub": 787,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694070/header.jpg?t=1740733481"
     },
     {
       "id": 2694110,
       "name": "Eiyuden Chronicle: Hundred Heroes - Season Pass",
-      "base_price_rub": 530,
+      "base_price_rub": 885,
       "markup_rub": 500,
-      "price_rub": 1030,
+      "price_rub": 1385,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694110/header.jpg?t=1719997205"
     },
     {
@@ -83,6 +83,14 @@
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694030/header.jpg?t=1719996828"
     },
     {
+      "id": 2694090,
+      "name": "Eiyuden Chronicle: Hundred Heroes - HQ Makeover Package",
+      "base_price_rub": 179,
+      "markup_rub": 500,
+      "price_rub": 679,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2694090/header.jpg?t=1716475760"
+    },
+    {
       "id": 2786940,
       "name": "Eiyuden Chronicle: Hundred Heroes - Hope of the Alliance - Special HQ Statue",
       "base_price_rub": 72,
@@ -92,5 +100,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-08T03:48:09Z"
+  "updated_at": "2026-07-11T08:26:46Z"
 }

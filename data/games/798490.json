@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 101,
+  "base_price_rub": 1029,
   "markup_rub": 500,
-  "price_rub": 601,
-  "original_price_rub": 1528,
-  "discount_percent": 90,
+  "price_rub": 1529,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,28 +35,28 @@
     {
       "id": 1751540,
       "name": "Othercide - Dressed to Kill - Cosmetics Pack",
-      "base_price_rub": 72,
+      "base_price_rub": 146,
       "markup_rub": 500,
-      "price_rub": 572,
+      "price_rub": 646,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1751540/header.jpg?t=1649428816"
     },
     {
       "id": 1330380,
       "name": "Othercide - Soundtrack",
-      "base_price_rub": 194,
+      "base_price_rub": 290,
       "markup_rub": 500,
-      "price_rub": 694,
+      "price_rub": 790,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1330380/header.jpg?t=1649428708"
     },
     {
       "id": 1347640,
       "name": "Othercide - Digital Artbook",
-      "base_price_rub": 113,
+      "base_price_rub": 170,
       "markup_rub": 500,
-      "price_rub": 613,
+      "price_rub": 670,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1347640/header.jpg?t=1649428660"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-08T03:33:56Z"
+  "updated_at": "2026-07-11T08:15:31Z"
 }

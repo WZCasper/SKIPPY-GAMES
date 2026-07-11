@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 1158,
+  "base_price_rub": 1933,
   "markup_rub": 500,
-  "price_rub": 1658,
-  "original_price_rub": 2431,
-  "discount_percent": 40,
+  "price_rub": 2433,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -37,52 +37,44 @@
     {
       "id": 2970710,
       "name": "X-Plane 12 Add-on: Aerosoft - Airport Hamburg",
-      "base_price_rub": 498,
+      "base_price_rub": 713,
       "markup_rub": 500,
-      "price_rub": 998,
+      "price_rub": 1213,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2970710/c52064cea6df9e1d5ce9a3d68bc29d0d26bb1fa5/header.jpg?t=1756718250"
     },
     {
       "id": 2437036,
       "name": "X-Plane 12 Add-on: Aerosoft - Airport Berlin Brandenburg V2",
-      "base_price_rub": 721,
+      "base_price_rub": 1031,
       "markup_rub": 500,
-      "price_rub": 1221,
+      "price_rub": 1531,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437036/header.jpg?t=1715847748"
     },
     {
       "id": 2259162,
       "name": "X-Plane 12 Add-on: Aerosoft - Seychelles XP",
-      "base_price_rub": 889,
+      "base_price_rub": 1272,
       "markup_rub": 500,
-      "price_rub": 1389,
+      "price_rub": 1772,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2259162/047d6361c5735ebadf8e4c371ef394e03ae297b1/header.jpg?t=1756717826"
-    },
-    {
-      "id": 2437034,
-      "name": "X-Plane 12 Add-on: Aerosoft - Society Islands XP - Tahiti & Windward Islands",
-      "base_price_rub": 889,
-      "markup_rub": 500,
-      "price_rub": 1389,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2437034/header.jpg?t=1739568041"
     },
     {
       "id": 2259163,
       "name": "X-Plane 12 Add-on: Aerosoft - Society Islands XP - Bora Bora & Leeward Islands",
-      "base_price_rub": 889,
+      "base_price_rub": 1272,
       "markup_rub": 500,
-      "price_rub": 1389,
+      "price_rub": 1772,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2259163/header.jpg?t=1739568128"
     },
     {
       "id": 2427060,
       "name": "X-Plane 12 Add-on: Aerosoft - Airport Marseille",
-      "base_price_rub": 721,
+      "base_price_rub": 1031,
       "markup_rub": 500,
-      "price_rub": 1221,
+      "price_rub": 1531,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2427060/header.jpg?t=1686738028"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-08T03:37:50Z"
+  "updated_at": "2026-07-11T08:19:19Z"
 }

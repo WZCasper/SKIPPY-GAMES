@@ -18,7 +18,7 @@
   "base_price_rub": 144,
   "markup_rub": 500,
   "price_rub": 644,
-  "original_price_rub": 927,
+  "original_price_rub": 928,
   "discount_percent": 66,
   "is_free": false,
   "trailer_video": null,
@@ -43,6 +43,14 @@
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563320/782a49b3799db534f4a417715bc143d495380c41/header_russian.jpg?t=1743065897"
     },
     {
+      "id": 3563330,
+      "name": "Русы против Ящеров 2 - Набор Обликов \"Гиперборейский\"",
+      "base_price_rub": 31,
+      "markup_rub": 500,
+      "price_rub": 531,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3563330/fda191300cddb45846dd5d60b3da661ee8e7583a/header_russian.jpg?t=1743067175"
+    },
+    {
       "id": 3563340,
       "name": "РУСЫ ПРОТИВ ЯЩЕРОВ 2 Саундтрек",
       "base_price_rub": 33,
@@ -60,5 +68,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-08T03:32:13Z"
+  "updated_at": "2026-07-11T08:11:26Z"
 }

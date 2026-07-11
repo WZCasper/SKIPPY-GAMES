@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 498,
+  "base_price_rub": 713,
   "markup_rub": 500,
-  "price_rub": 998,
-  "original_price_rub": 1212,
-  "discount_percent": 30,
+  "price_rub": 1213,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -37,28 +37,28 @@
     {
       "id": 3550310,
       "name": "Terminus: Zombie Survivors - Last Escape",
-      "base_price_rub": 309,
+      "base_price_rub": 387,
       "markup_rub": 500,
-      "price_rub": 809,
+      "price_rub": 887,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3550310/46d49844204481cc9b78a404febd67088966f22b/header.jpg?t=1782912093"
     },
     {
       "id": 2992690,
       "name": "Terminus: Zombie Survivors - Soundtrack",
-      "base_price_rub": 309,
+      "base_price_rub": 387,
       "markup_rub": 500,
-      "price_rub": 809,
+      "price_rub": 887,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2992690/header.jpg?t=1755583850"
     },
     {
       "id": 2205980,
       "name": "Terminus: Zombie Survivors - Support DLC",
-      "base_price_rub": 712,
+      "base_price_rub": 713,
       "markup_rub": 500,
-      "price_rub": 1212,
+      "price_rub": 1213,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2205980/header.jpg?t=1726031603"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-08T03:27:30Z"
+  "updated_at": "2026-07-11T08:09:21Z"
 }

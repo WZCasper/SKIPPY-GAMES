@@ -16,11 +16,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 67,
+  "base_price_rub": 342,
   "markup_rub": 500,
-  "price_rub": 567,
-  "original_price_rub": 842,
-  "discount_percent": 80,
+  "price_rub": 842,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -38,20 +38,20 @@
     {
       "id": 446090,
       "name": "Survival: Supporter Pack DLC",
-      "base_price_rub": 84,
+      "base_price_rub": 170,
       "markup_rub": 500,
-      "price_rub": 584,
+      "price_rub": 670,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/446090/header.jpg?t=1556294435"
     },
     {
       "id": 1082370,
       "name": "Survival: Special Forces Pack DLC",
-      "base_price_rub": 144,
+      "base_price_rub": 290,
       "markup_rub": 500,
-      "price_rub": 644,
+      "price_rub": 790,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1082370/header.jpg?t=1558101550"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-08T03:42:52Z"
+  "updated_at": "2026-07-11T08:21:44Z"
 }

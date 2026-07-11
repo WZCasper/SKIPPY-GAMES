@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 79,
+  "base_price_rub": 533,
   "markup_rub": 500,
-  "price_rub": 579,
-  "original_price_rub": 1032,
-  "discount_percent": 85,
+  "price_rub": 1033,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -32,7 +32,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1730250/ss_f1891cb866eaba2770fe0c0cab032438b85f7b90.1920x1080.jpg?t=1729694692",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1730250/ss_644ce4f472dac381471852c3056e4e6e03c6cc5e.1920x1080.jpg?t=1729694692"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 2400610,
+      "name": "Pan'orama Soundtrack",
+      "base_price_rub": 45,
+      "markup_rub": 500,
+      "price_rub": 545,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400610/header.jpg?t=1696422602"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-08T03:52:32Z"
+  "updated_at": "2026-07-11T08:32:01Z"
 }

@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 27,
+  "base_price_rub": 290,
   "markup_rub": 500,
-  "price_rub": 527,
-  "original_price_rub": 790,
-  "discount_percent": 91,
+  "price_rub": 790,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,12 +36,12 @@
     {
       "id": 358870,
       "name": "Dead Synchronicity - Soundtrack",
-      "base_price_rub": 64,
+      "base_price_rub": 127,
       "markup_rub": 500,
-      "price_rub": 564,
+      "price_rub": 627,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/358870/header.jpg?t=1581558771"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-08T03:33:00Z"
+  "updated_at": "2026-07-11T08:14:39Z"
 }
