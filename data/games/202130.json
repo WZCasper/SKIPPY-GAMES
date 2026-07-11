@@ -11,11 +11,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 212,
+  "base_price_rub": 840,
   "markup_rub": 500,
-  "price_rub": 712,
-  "original_price_rub": 1351,
-  "discount_percent": 75,
+  "price_rub": 1340,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -33,20 +33,20 @@
     {
       "id": 230900,
       "name": "Impire: Creatures of the Night",
-      "base_price_rub": 42,
+      "base_price_rub": 84,
       "markup_rub": 500,
-      "price_rub": 542,
+      "price_rub": 584,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230900/header.jpg?t=1589880399"
     },
     {
       "id": 230920,
       "name": "Impire: Black and White Demons",
-      "base_price_rub": 24,
+      "base_price_rub": 50,
       "markup_rub": 500,
-      "price_rub": 524,
+      "price_rub": 550,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230920/header.jpg?t=1589880416"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T20:31:51Z"
+  "updated_at": "2026-07-11T03:42:31Z"
 }

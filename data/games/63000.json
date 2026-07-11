@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 42,
+  "base_price_rub": 170,
   "markup_rub": 500,
-  "price_rub": 542,
-  "original_price_rub": 672,
-  "discount_percent": 76,
+  "price_rub": 670,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,20 +35,20 @@
     {
       "id": 63003,
       "name": "HOARD: Dynamite Roll!",
-      "base_price_rub": 44,
+      "base_price_rub": 86,
       "markup_rub": 500,
-      "price_rub": 544,
+      "price_rub": 586,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/63003/header.jpg?t=1566516084"
     },
     {
       "id": 63004,
       "name": "HOARD: Flame-Broiled SANDwich",
-      "base_price_rub": 44,
+      "base_price_rub": 86,
       "markup_rub": 500,
-      "price_rub": 544,
+      "price_rub": 586,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/63004/header.jpg?t=1566516188"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T20:21:08Z"
+  "updated_at": "2026-07-11T03:31:50Z"
 }

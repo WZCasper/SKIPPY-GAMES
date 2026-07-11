@@ -12,11 +12,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 226,
+  "base_price_rub": 321,
   "markup_rub": 500,
-  "price_rub": 726,
-  "original_price_rub": 826,
-  "discount_percent": 30,
+  "price_rub": 821,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -34,20 +34,20 @@
     {
       "id": 2866390,
       "name": "ホロパレードDLC 曲付き衣装パック - 白上フブキ (Windows専用)",
-      "base_price_rub": 61,
+      "base_price_rub": 86,
       "markup_rub": 500,
-      "price_rub": 561,
+      "price_rub": 586,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2866390/header.jpg?t=1728031962"
     },
     {
       "id": 3383950,
       "name": "HoloParade DLC with BGM and Costume - Aqua & Pekora (only for Windows)",
-      "base_price_rub": 89,
+      "base_price_rub": 127,
       "markup_rub": 500,
-      "price_rub": 589,
+      "price_rub": 627,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3383950/header.jpg?t=1735286740"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T20:22:16Z"
+  "updated_at": "2026-07-11T03:32:45Z"
 }

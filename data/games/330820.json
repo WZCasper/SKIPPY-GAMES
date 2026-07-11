@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 127,
+  "base_price_rub": 387,
   "markup_rub": 500,
-  "price_rub": 627,
-  "original_price_rub": 926,
-  "discount_percent": 70,
+  "price_rub": 887,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,20 +36,20 @@
     {
       "id": 406520,
       "name": "Read Only Memories - Sounds of Neo-SF",
-      "base_price_rub": 68,
+      "base_price_rub": 136,
       "markup_rub": 500,
-      "price_rub": 568,
+      "price_rub": 636,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/406520/header.jpg?t=1447378284"
     },
     {
       "id": 406521,
       "name": "Read Only Memories - Sights of Neo-SF",
-      "base_price_rub": 35,
+      "base_price_rub": 69,
       "markup_rub": 500,
-      "price_rub": 535,
+      "price_rub": 569,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/406521/header.jpg?t=1447378284"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T20:16:43Z"
+  "updated_at": "2026-07-11T03:27:35Z"
 }

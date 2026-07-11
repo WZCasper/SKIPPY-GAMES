@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 71,
+  "base_price_rub": 720,
   "markup_rub": 500,
-  "price_rub": 571,
-  "original_price_rub": 1229,
-  "discount_percent": 90,
+  "price_rub": 1220,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,28 +36,28 @@
     {
       "id": 1464740,
       "name": "Moving Out - Movers in Paradise",
-      "base_price_rub": 52,
+      "base_price_rub": 258,
       "markup_rub": 500,
-      "price_rub": 552,
+      "price_rub": 758,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1464740/header.jpg?t=1614247277"
     },
     {
       "id": 1249280,
       "name": "Moving Out - The Employees of the Month Pack",
-      "base_price_rub": 33,
+      "base_price_rub": 101,
       "markup_rub": 500,
-      "price_rub": 533,
+      "price_rub": 601,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1249280/header.jpg?t=1588082679"
     },
     {
       "id": 1289400,
       "name": "Moving Out - Original Soundtrack",
-      "base_price_rub": 50,
+      "base_price_rub": 204,
       "markup_rub": 500,
-      "price_rub": 550,
+      "price_rub": 704,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1289400/header.jpg?t=1617185188"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T20:05:14Z"
+  "updated_at": "2026-07-11T03:15:58Z"
 }

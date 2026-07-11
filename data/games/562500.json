@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 45,
+  "base_price_rub": 376,
   "markup_rub": 500,
-  "price_rub": 545,
-  "original_price_rub": 881,
-  "discount_percent": 88,
+  "price_rub": 876,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,20 +35,20 @@
     {
       "id": 1225210,
       "name": "Warstone - Astral Voyage",
-      "base_price_rub": 64,
+      "base_price_rub": 187,
       "markup_rub": 500,
-      "price_rub": 564,
+      "price_rub": 687,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225210/header.jpg?t=1774451253"
     },
     {
       "id": 768240,
       "name": "Warstone OST, Artbook and Comics",
-      "base_price_rub": 23,
+      "base_price_rub": 119,
       "markup_rub": 500,
-      "price_rub": 523,
+      "price_rub": 619,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/768240/header_russian.jpg?t=1774452862"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T20:31:42Z"
+  "updated_at": "2026-07-11T03:42:23Z"
 }

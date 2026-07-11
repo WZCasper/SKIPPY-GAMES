@@ -16,11 +16,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 120,
+  "base_price_rub": 394,
   "markup_rub": 500,
-  "price_rub": 620,
-  "original_price_rub": 899,
-  "discount_percent": 70,
+  "price_rub": 894,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -37,68 +37,60 @@
     {
       "id": 2226120,
       "name": "Ozymandias - Season Pass",
-      "base_price_rub": 96,
+      "base_price_rub": 189,
       "markup_rub": 500,
-      "price_rub": 596,
+      "price_rub": 689,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2226120/header.jpg?t=1717075456"
     },
     {
       "id": 2193560,
       "name": "Ozymandias - Soundtrack",
-      "base_price_rub": 47,
+      "base_price_rub": 93,
       "markup_rub": 500,
-      "price_rub": 547,
+      "price_rub": 593,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2193560/header.jpg?t=1670521480"
     },
     {
       "id": 2057784,
       "name": "Ozymandias - The World",
-      "base_price_rub": 23,
+      "base_price_rub": 46,
       "markup_rub": 500,
-      "price_rub": 523,
+      "price_rub": 546,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2057784/header.jpg?t=1677513452"
     },
     {
       "id": 2057781,
       "name": "Ozymandias - Sahara Desert",
-      "base_price_rub": 23,
+      "base_price_rub": 46,
       "markup_rub": 500,
-      "price_rub": 523,
+      "price_rub": 546,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2057781/header.jpg?t=1682441153"
     },
     {
       "id": 2057782,
       "name": "Ozymandias - The Andes",
-      "base_price_rub": 23,
+      "base_price_rub": 46,
       "markup_rub": 500,
-      "price_rub": 523,
+      "price_rub": 546,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2057782/header.jpg?t=1693241339"
     },
     {
       "id": 2057780,
       "name": "Ozymandias - Aegean Sea",
-      "base_price_rub": 23,
+      "base_price_rub": 46,
       "markup_rub": 500,
-      "price_rub": 523,
+      "price_rub": 546,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2057780/header.jpg?t=1688111016"
-    },
-    {
-      "id": 2057785,
-      "name": "Ozymandias - Indonesia",
-      "base_price_rub": 23,
-      "markup_rub": 500,
-      "price_rub": 523,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2057785/header.jpg?t=1717076368"
     },
     {
       "id": 2057783,
       "name": "Ozymandias - Mesoamerica",
-      "base_price_rub": 23,
+      "base_price_rub": 46,
       "markup_rub": 500,
-      "price_rub": 523,
+      "price_rub": 546,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2057783/header.jpg?t=1674146870"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-07T20:36:19Z"
+  "updated_at": "2026-07-11T03:46:51Z"
 }
