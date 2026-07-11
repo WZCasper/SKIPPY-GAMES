@@ -1,0 +1,36 @@
+{
+  "id": 2339970,
+  "title": "RoboHunters",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2339970/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/2339970/library_hero.jpg",
+  "description": "RoboHunters is a fast-paced top down action shooter. Destroy swarms of rogue machines, level up, and fight the Robo Sentry boss!\n\nAs you level up, your characer will gain new abilities such as Napalm Boots, Gravity Vortex, and the Destroyer Disc! Leveling up the same ability more than once will increase its power.How to PlayThis game plays best with a mouse and keyboard.\n\nMove your character with WASD, and use the mouse to aim. Abilities can be triggered with Left mouse click, Right mouse click, and 1-4 on your keyboard.\n\nController support is limited to in-game play. Menus do not yet all work with the controller.\n\nMove with the left stick, aim with the right. Left bumper, right bumper, and the 4 gamepad buttons will activate your abilitiesGame creditsMade as a collaborate project for HomeTeam GameDev.\n\nTyler Funk\n\nProject lead, core gameplay, enemy and boss AI, player movement, main gameplay UI elements, main menu, health system, sounds (abilities cooldown and laser), particle effect for plasma rifle, turrets, main enemy spawner, enemy damage, trash robot animations and integration, experience pickup model and emissive shader, player level and skill selection, concept art, styled menus, night map, visual effects and sound effects for abilities and environment, gameplay balancing, additional sound cues, level design (including lighting and environment decoration), assorted bug fixes\n\nChristian Gabbianelli\n\nPlayer level up system, timer/cooldown component, internal test map area, bomb ability, bombs explode, pooling optimization, enemy physics improvements, base projectile, disc destroyer ability, simple napalm trail ability, gravity vortex ability, ability screen appears on level up, experience bar setup, loot drop\n\nChris Lange\n\nNapalm boots material and flame trail, napalm damages enemies, auto fire toggle for primary ability, time freezes for boss battle, boss countdown, visual effects (pickup for experience and health, firework, level up, ring around player, floating cross), health booster functionality and model, visual indicator for the enemy range, enemy red light pulse to indicate seeking or angry mode, post-match summary screen, pause menu functionality, kill counter\n\nPatrick Moffett\n\nMail robot (sounds for voice and voice attack, projectile), view zoom control, volume settings, audio channel mixes, health pickup improvements (drop chance adjustment, bounces when spawned), player character firing aim, health drop tuning\n\nPatrick J Thompson\n\nUI icons (napalm boots, attack speed, bomb, attack damage, attack speed, tornado, crit damange and chance, weapon piercing, multi-shot, updates for vortex and plasma rifle), napalm boots duration tuning, 7 laser sound variations, ability balancing\nMegan Frazier\n\nAudio implementation, sound effects and related integration (player level-up, napalm boots, menu sounds, robot sounds), looping sound fix, health pickup functionality, mailbox bot movement\n\nArmando Navarrete\n\nDowntown level, drone enemy with randomized movements and tracking, fade feature, zip line feature\nBrandon Paul\n\nPlayer damage, enemy spawning improvements, sounds (health pickup, metal impact, plasma gun, build turret, robot malfunction)\n\nChrister \"McFunkypants\" Kaitila\n\nEnvironment models (office divider, hydrant, mailbox, picket fence), ten gradient textures\n\nJustin Chin\n\nTemporary player invulnerability after damage, recolor signal from recent damage\n\nCassidy Noble\n\nMailbox robot with animations, officer sentry unit",
+  "description_short": "Top-down 3D action shooter. Fight against swarms of rogue AI machines and survive as long as you can!",
+  "genres": [
+    "Шутеры от первого лица (FPS)",
+    "Аркадные гонки",
+    "Экшен",
+    "Казуальные игры",
+    "Выживание (Survival)"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 0,
+  "markup_rub": 0,
+  "price_rub": 0,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2339970/ss_302e0ec0db7e9c704db509626106816270299000.1920x1080.jpg?t=1694832583",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2339970/ss_bf29d01a4dd02821dd68c3dca27b9fbc0e21b41b.1920x1080.jpg?t=1694832583",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2339970/ss_e188495d0cac1112571d4f6cf6eaa0f36c57a94e.1920x1080.jpg?t=1694832583",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2339970/ss_9c3a0b7ef0214fc48c8451e44f129c8978cf43bd.1920x1080.jpg?t=1694832583",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2339970/ss_23126146e17702cafc941e5b072f4000165af2f1.1920x1080.jpg?t=1694832583"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-11T19:51:33Z"
+}

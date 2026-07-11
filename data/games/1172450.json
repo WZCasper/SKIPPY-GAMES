@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 142,
+  "base_price_rub": 479,
   "markup_rub": 500,
-  "price_rub": 642,
-  "original_price_rub": 979,
-  "discount_percent": 70,
+  "price_rub": 979,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,12 +35,12 @@
     {
       "id": 1460270,
       "name": "Carto (Original Game Soundtrack)",
-      "base_price_rub": 221,
+      "base_price_rub": 222,
       "markup_rub": 500,
-      "price_rub": 721,
+      "price_rub": 722,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1460270/header.jpg?t=1604426719"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-08T14:51:19Z"
+  "updated_at": "2026-07-11T19:44:30Z"
 }

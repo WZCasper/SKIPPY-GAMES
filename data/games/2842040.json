@@ -16,11 +16,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 650,
+  "base_price_rub": 2610,
   "markup_rub": 500,
-  "price_rub": 1150,
-  "original_price_rub": 3107,
-  "discount_percent": 75,
+  "price_rub": 3110,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -38,17 +38,17 @@
     {
       "id": 3271140,
       "name": "Star Wars Outlaws - Season Pass",
-      "base_price_rub": 522,
+      "base_price_rub": 1493,
       "markup_rub": 500,
-      "price_rub": 1022,
+      "price_rub": 1993,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3271140/header.jpg?t=1741702336"
     },
     {
       "id": 3271160,
       "name": "Star Wars Outlaws - Ultimate Pack",
-      "base_price_rub": 367,
+      "base_price_rub": 737,
       "markup_rub": 500,
-      "price_rub": 867,
+      "price_rub": 1237,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3271160/header.jpg?t=1741702674"
     },
     {
@@ -78,17 +78,17 @@
     {
       "id": 3271130,
       "name": "Star Wars Outlaws: Wild Card DLC",
-      "base_price_rub": 223,
+      "base_price_rub": 558,
       "markup_rub": 500,
-      "price_rub": 723,
+      "price_rub": 1058,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3271130/header.jpg?t=1739271516"
     },
     {
       "id": 3541390,
       "name": "Star Wars Outlaws: A Pirate's Fortune DLC",
-      "base_price_rub": 223,
+      "base_price_rub": 558,
       "markup_rub": 500,
-      "price_rub": 723,
+      "price_rub": 1058,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3541390/685f31b8f6ab0c057b42102b469bdc0915ce56b2/header.jpg?t=1747296130"
     },
     {
@@ -109,5 +109,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-08T14:39:35Z"
+  "updated_at": "2026-07-11T19:32:49Z"
 }

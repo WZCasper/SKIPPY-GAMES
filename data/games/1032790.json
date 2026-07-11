@@ -11,11 +11,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 112,
+  "base_price_rub": 280,
   "markup_rub": 500,
-  "price_rub": 612,
-  "original_price_rub": 780,
-  "discount_percent": 60,
+  "price_rub": 780,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -32,44 +32,44 @@
     {
       "id": 1261840,
       "name": "Journey of Greed - Female Skin Pack",
-      "base_price_rub": 70,
+      "base_price_rub": 101,
       "markup_rub": 500,
-      "price_rub": 570,
+      "price_rub": 601,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1261840/header.jpg?t=1612813665"
     },
     {
       "id": 1262660,
       "name": "Journey of Greed - Male Skin Pack",
-      "base_price_rub": 70,
+      "base_price_rub": 101,
       "markup_rub": 500,
-      "price_rub": 570,
+      "price_rub": 601,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262660/header.jpg?t=1612813676"
     },
     {
       "id": 1973650,
       "name": "Journey of Greed - Ronin Character Pack",
-      "base_price_rub": 48,
+      "base_price_rub": 69,
       "markup_rub": 500,
-      "price_rub": 548,
+      "price_rub": 569,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973650/header.jpg?t=1650596037"
     },
     {
       "id": 1973651,
       "name": "Journey of Greed - Cute Skin Pack",
-      "base_price_rub": 455,
+      "base_price_rub": 651,
       "markup_rub": 500,
-      "price_rub": 955,
+      "price_rub": 1151,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973651/header.jpg?t=1650596005"
     },
     {
       "id": 1973652,
       "name": "Journey of Greed - Animate Frame Pack",
-      "base_price_rub": 251,
+      "base_price_rub": 359,
       "markup_rub": 500,
-      "price_rub": 751,
+      "price_rub": 859,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1973652/header.jpg?t=1650595952"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-08T14:54:45Z"
+  "updated_at": "2026-07-11T19:45:29Z"
 }

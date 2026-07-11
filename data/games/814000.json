@@ -14,10 +14,10 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 513,
+  "base_price_rub": 514,
   "markup_rub": 500,
-  "price_rub": 1013,
-  "original_price_rub": 2558,
+  "price_rub": 1014,
+  "original_price_rub": 2560,
   "discount_percent": 75,
   "is_free": false,
   "trailer_video": null,
@@ -44,18 +44,10 @@
     {
       "id": 2004600,
       "name": "ONE PIECE ODYSSEY Traveling Outfit Set",
-      "base_price_rub": 67,
+      "base_price_rub": 136,
       "markup_rub": 500,
-      "price_rub": 567,
+      "price_rub": 636,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004600/header.jpg?t=1697483729"
-    },
-    {
-      "id": 2282610,
-      "name": "ONE PIECE ODYSSEY Jewelry Pack",
-      "base_price_rub": 67,
-      "markup_rub": 500,
-      "price_rub": 567,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2282610/header.jpg?t=1714585019"
     },
     {
       "id": 2004606,
@@ -75,5 +67,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-08T14:50:34Z"
+  "updated_at": "2026-07-11T19:43:40Z"
 }
