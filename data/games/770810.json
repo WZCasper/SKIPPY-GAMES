@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 251,
+  "base_price_rub": 387,
   "markup_rub": 500,
-  "price_rub": 751,
-  "original_price_rub": 886,
-  "discount_percent": 35,
+  "price_rub": 887,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,9 +36,9 @@
     {
       "id": 2206770,
       "name": "Хорошая пицца, отличная пицца - Набор Кибер Пиццерия",
-      "base_price_rub": 208,
+      "base_price_rub": 321,
       "markup_rub": 500,
-      "price_rub": 708,
+      "price_rub": 821,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206770/header.jpg?t=1673032677"
     },
     {
@@ -131,5 +131,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-08T08:49:50Z"
+  "updated_at": "2026-07-11T13:49:22Z"
 }

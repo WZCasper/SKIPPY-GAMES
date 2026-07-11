@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 89,
+  "base_price_rub": 600,
   "markup_rub": 500,
-  "price_rub": 589,
-  "original_price_rub": 1099,
-  "discount_percent": 85,
+  "price_rub": 1100,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -34,17 +34,17 @@
     {
       "id": 509590,
       "name": "The Banner Saga 3 - Soundtrack",
-      "base_price_rub": 27,
+      "base_price_rub": 191,
       "markup_rub": 500,
-      "price_rub": 527,
+      "price_rub": 691,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/509590/header.jpg?t=1642181206"
     },
     {
       "id": 907120,
       "name": "The Banner Saga 3 - Legendary Items",
-      "base_price_rub": 53,
+      "base_price_rub": 359,
       "markup_rub": 500,
-      "price_rub": 553,
+      "price_rub": 859,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/907120/header.jpg?t=1544638391"
     },
     {
@@ -58,20 +58,20 @@
     {
       "id": 911590,
       "name": "The Banner Saga 3 - Survival Mode",
-      "base_price_rub": 24,
+      "base_price_rub": 120,
       "markup_rub": 500,
-      "price_rub": 524,
+      "price_rub": 620,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/911590/header.jpg?t=1537997473"
     },
     {
       "id": 958730,
       "name": "The Banner Saga 3 - Eternal Arena",
-      "base_price_rub": 24,
+      "base_price_rub": 120,
       "markup_rub": 500,
-      "price_rub": 524,
+      "price_rub": 620,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/958730/header.jpg?t=1544637669"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-08T11:26:28Z"
+  "updated_at": "2026-07-11T14:26:06Z"
 }

@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 106,
+  "base_price_rub": 720,
   "markup_rub": 500,
-  "price_rub": 606,
-  "original_price_rub": 1219,
-  "discount_percent": 85,
+  "price_rub": 1220,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -37,20 +37,20 @@
     {
       "id": 1172420,
       "name": "Indivisible - Soundtrack",
-      "base_price_rub": 144,
+      "base_price_rub": 290,
       "markup_rub": 500,
-      "price_rub": 644,
+      "price_rub": 790,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172420/header.jpg?t=1581558551"
     },
     {
       "id": 1233840,
       "name": "Indivisible - Razmi's Challenges",
-      "base_price_rub": 144,
+      "base_price_rub": 289,
       "markup_rub": 500,
-      "price_rub": 644,
+      "price_rub": 789,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1233840/header.jpg?t=1588958425"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-08T09:00:32Z"
+  "updated_at": "2026-07-11T14:00:24Z"
 }

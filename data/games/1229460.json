@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 137,
+  "base_price_rub": 687,
   "markup_rub": 500,
-  "price_rub": 637,
-  "original_price_rub": 1187,
-  "discount_percent": 80,
+  "price_rub": 1187,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,20 +35,20 @@
     {
       "id": 1720630,
       "name": "Dice Legacy Soundtrack",
-      "base_price_rub": 82,
+      "base_price_rub": 275,
       "markup_rub": 500,
-      "price_rub": 582,
+      "price_rub": 775,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1720630/header.jpg?t=1671198917"
     },
     {
       "id": 1879740,
       "name": "Dice Legacy: Corrupted Fates",
-      "base_price_rub": 108,
+      "base_price_rub": 366,
       "markup_rub": 500,
-      "price_rub": 608,
+      "price_rub": 866,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1879740/header.jpg?t=1669389454"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-08T08:38:22Z"
+  "updated_at": "2026-07-11T13:38:24Z"
 }

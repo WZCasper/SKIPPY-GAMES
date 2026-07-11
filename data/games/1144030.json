@@ -12,11 +12,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 67,
+  "base_price_rub": 455,
   "markup_rub": 500,
-  "price_rub": 567,
-  "original_price_rub": 955,
-  "discount_percent": 85,
+  "price_rub": 955,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -34,12 +34,12 @@
     {
       "id": 1358520,
       "name": "Pesterquest Soundtrack",
-      "base_price_rub": 48,
+      "base_price_rub": 321,
       "markup_rub": 500,
-      "price_rub": 548,
+      "price_rub": 821,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1358520/header.jpg?t=1725010090"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-08T11:21:05Z"
+  "updated_at": "2026-07-11T14:21:10Z"
 }

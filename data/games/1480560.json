@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 175,
+  "base_price_rub": 703,
   "markup_rub": 500,
-  "price_rub": 675,
-  "original_price_rub": 1202,
-  "discount_percent": 75,
+  "price_rub": 1203,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,28 +36,28 @@
     {
       "id": 3759600,
       "name": "Lawn Mowing Simulator - Heritage Park",
-      "base_price_rub": 251,
+      "base_price_rub": 376,
       "markup_rub": 500,
-      "price_rub": 751,
+      "price_rub": 876,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3759600/3db7e5ff3362116544e01b9eff5c0defe13ad18b/header.jpg?t=1756991507"
     },
     {
       "id": 1844420,
       "name": "Lawn Mowing Simulator - Dino Safari",
-      "base_price_rub": 125,
+      "base_price_rub": 187,
       "markup_rub": 500,
-      "price_rub": 625,
+      "price_rub": 687,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1844420/header.jpg?t=1646938113"
     },
     {
       "id": 1685910,
       "name": "Lawn Mowing Simulator - Ancient Britain",
-      "base_price_rub": 125,
+      "base_price_rub": 187,
       "markup_rub": 500,
-      "price_rub": 625,
+      "price_rub": 687,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1685910/header.jpg?t=1637676665"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-08T11:21:30Z"
+  "updated_at": "2026-07-11T14:21:36Z"
 }

@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 2063,
+  "base_price_rub": 3179,
   "markup_rub": 500,
-  "price_rub": 2563,
-  "original_price_rub": 3675,
-  "discount_percent": 35,
+  "price_rub": 3679,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,9 +36,9 @@
     {
       "id": 3311490,
       "name": "Set of 6 Scenarios for \"NOBUNAGA'S AMBITION: Awakening\"",
-      "base_price_rub": 838,
+      "base_price_rub": 839,
       "markup_rub": 500,
-      "price_rub": 1338,
+      "price_rub": 1339,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3311490/9e8e2212c2d3c663bb99d363462d79a376204c21/header.jpg?t=1749085216"
     },
     {
@@ -59,5 +59,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-08T09:06:19Z"
+  "updated_at": "2026-07-11T14:06:25Z"
 }

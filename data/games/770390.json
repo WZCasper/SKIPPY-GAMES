@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 242,
+  "base_price_rub": 713,
   "markup_rub": 500,
-  "price_rub": 742,
-  "original_price_rub": 1212,
-  "discount_percent": 66,
+  "price_rub": 1213,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -37,20 +37,20 @@
     {
       "id": 1080000,
       "name": "Draugen Original Soundtrack",
-      "base_price_rub": 160,
+      "base_price_rub": 321,
       "markup_rub": 500,
-      "price_rub": 660,
+      "price_rub": 821,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1080000/header.jpg?t=1591142752"
     },
     {
       "id": 1080001,
       "name": "The Art of Draugen",
-      "base_price_rub": 127,
+      "base_price_rub": 170,
       "markup_rub": 500,
-      "price_rub": 627,
+      "price_rub": 670,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1080001/header.jpg?t=1568040412"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-08T11:27:33Z"
+  "updated_at": "2026-07-11T14:27:15Z"
 }

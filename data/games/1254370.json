@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 146,
+  "base_price_rub": 292,
   "markup_rub": 500,
-  "price_rub": 646,
-  "original_price_rub": 792,
-  "discount_percent": 50,
+  "price_rub": 792,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,12 +36,12 @@
     {
       "id": 1584400,
       "name": "No one lives under the lighthouse Director's cut Soundtrack",
-      "base_price_rub": 67,
+      "base_price_rub": 136,
       "markup_rub": 500,
-      "price_rub": 567,
+      "price_rub": 636,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1584400/header.jpg?t=1745423643"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-08T09:11:07Z"
+  "updated_at": "2026-07-11T14:10:28Z"
 }

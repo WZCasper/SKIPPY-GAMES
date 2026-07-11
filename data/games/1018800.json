@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 156,
+  "base_price_rub": 394,
   "markup_rub": 500,
-  "price_rub": 656,
-  "original_price_rub": 893,
-  "discount_percent": 60,
+  "price_rub": 894,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -37,20 +37,20 @@
     {
       "id": 1801910,
       "name": "Высшая степень эволюции ОЛЕЕЕЕНЯ",
-      "base_price_rub": 67,
+      "base_price_rub": 170,
       "markup_rub": 500,
-      "price_rub": 567,
+      "price_rub": 670,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1801910/header.jpg?t=1637708544"
     },
     {
       "id": 1801900,
       "name": "Симулятор ОЛЕЕЕЕНЯ Soundtrack",
-      "base_price_rub": 67,
+      "base_price_rub": 170,
       "markup_rub": 500,
-      "price_rub": 567,
+      "price_rub": 670,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1801900/header.jpg?t=1637708503"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-08T08:45:10Z"
+  "updated_at": "2026-07-11T13:45:01Z"
 }

@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 65,
+  "base_price_rub": 93,
   "markup_rub": 500,
-  "price_rub": 565,
-  "original_price_rub": 593,
-  "discount_percent": 30,
+  "price_rub": 593,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -31,16 +31,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/237740/ss_9b763dd46feb3a884b4632e85c80b26841d88c11.1920x1080.jpg?t=1726252819",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/237740/ss_2351c1111344e4f70c9d9a0a6d36709fa1ebcaa7.1920x1080.jpg?t=1726252819"
   ],
-  "upsells": [
-    {
-      "id": 409750,
-      "name": "Angry Video Game Nerd Adventures Original Soundtrack",
-      "base_price_rub": 65,
-      "markup_rub": 500,
-      "price_rub": 565,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/409750/header.jpg?t=1689101234"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-08T11:31:51Z"
+  "updated_at": "2026-07-11T14:31:37Z"
 }

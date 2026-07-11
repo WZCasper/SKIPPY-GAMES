@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 156,
+  "base_price_rub": 1564,
   "markup_rub": 500,
-  "price_rub": 656,
-  "original_price_rub": 2062,
-  "discount_percent": 90,
+  "price_rub": 2064,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -37,28 +37,28 @@
     {
       "id": 2208701,
       "name": "Sherlock Holmes The Awakened - The Whispered Dreams Side Quest Pack",
-      "base_price_rub": 153,
+      "base_price_rub": 514,
       "markup_rub": 500,
-      "price_rub": 653,
+      "price_rub": 1014,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2208701/header.jpg?t=1681225069"
     },
     {
       "id": 2330080,
       "name": "Sherlock Holmes The Awakened Soundtrack",
-      "base_price_rub": 70,
+      "base_price_rub": 235,
       "markup_rub": 500,
-      "price_rub": 570,
+      "price_rub": 735,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330080/header.jpg?t=1681225300"
     },
     {
       "id": 2330100,
       "name": "Sherlock Holmes The Awakened Artbook",
-      "base_price_rub": 70,
+      "base_price_rub": 235,
       "markup_rub": 500,
-      "price_rub": 570,
+      "price_rub": 735,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2330100/header.jpg?t=1681225319"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-08T08:49:59Z"
+  "updated_at": "2026-07-11T13:49:32Z"
 }
