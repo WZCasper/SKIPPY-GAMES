@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 235,
+  "base_price_rub": 1572,
   "markup_rub": 500,
-  "price_rub": 735,
-  "original_price_rub": 2072,
-  "discount_percent": 85,
+  "price_rub": 2072,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,25 +35,25 @@
     {
       "id": 660080,
       "name": "Assassin's Creed® Origins - Season Pass",
-      "base_price_rub": 156,
+      "base_price_rub": 1048,
       "markup_rub": 500,
-      "price_rub": 656,
+      "price_rub": 1548,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/660080/header.jpg?t=1682005804"
     },
     {
       "id": 662350,
       "name": "Assassin's Creed® Origins - The Hidden Ones",
-      "base_price_rub": 38,
+      "base_price_rub": 258,
       "markup_rub": 500,
-      "price_rub": 538,
+      "price_rub": 758,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/662350/header.jpg?t=1682005841"
     },
     {
       "id": 662351,
       "name": "Assassin's Creed® Origins - The Curse Of The Pharaohs",
-      "base_price_rub": 76,
+      "base_price_rub": 514,
       "markup_rub": 500,
-      "price_rub": 576,
+      "price_rub": 1014,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/662351/header_russian.jpg?t=1682005885"
     },
     {
@@ -75,12 +75,12 @@
     {
       "id": 683850,
       "name": "Assassin's Creed® Origins - Deluxe Pack",
-      "base_price_rub": 38,
+      "base_price_rub": 258,
       "markup_rub": 500,
-      "price_rub": 538,
+      "price_rub": 758,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/683850/header.jpg?t=1682006112"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T10:32:50Z"
+  "updated_at": "2026-07-12T14:16:10Z"
 }

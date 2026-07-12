@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 285,
+  "base_price_rub": 387,
   "markup_rub": 500,
-  "price_rub": 785,
-  "original_price_rub": 887,
-  "discount_percent": 26,
+  "price_rub": 887,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -32,7 +32,32 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1724140/ss_0fd712e19a00029d2f8743e64e71c72fe864106b.1920x1080.jpg?t=1781090507",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1724140/ss_8e58121a0678b6c3019754c463e11de562f1b6a1.1920x1080.jpg?t=1781090507"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 2832980,
+      "name": "Craftomation 101 Mega Map of Self-Replicating Machines",
+      "base_price_rub": 213,
+      "markup_rub": 500,
+      "price_rub": 713,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2832980/header.jpg?t=1713022162"
+    },
+    {
+      "id": 2795680,
+      "name": "Craftomation 101 Soundtrack",
+      "base_price_rub": 127,
+      "markup_rub": 500,
+      "price_rub": 627,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2795680/header.jpg?t=1708408412"
+    },
+    {
+      "id": 2795690,
+      "name": "Craftomation 101 Art Pack",
+      "base_price_rub": 127,
+      "markup_rub": 500,
+      "price_rub": 627,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2795690/header.jpg?t=1708355143"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-09T10:47:52Z"
+  "updated_at": "2026-07-12T14:30:56Z"
 }

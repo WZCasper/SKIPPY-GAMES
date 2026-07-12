@@ -16,11 +16,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 206,
+  "base_price_rub": 1031,
   "markup_rub": 500,
-  "price_rub": 706,
-  "original_price_rub": 1531,
-  "discount_percent": 80,
+  "price_rub": 1531,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -38,9 +38,9 @@
     {
       "id": 2939280,
       "name": "Train Simulator Classic: Rail Subscription",
-      "base_price_rub": 294,
+      "base_price_rub": 421,
       "markup_rub": 500,
-      "price_rub": 794,
+      "price_rub": 921,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2939280/c5a6f620c9d7c143dc32169d30b0232e341841c6/header.jpg?t=1782406875"
     },
     {
@@ -70,33 +70,33 @@
     {
       "id": 3403040,
       "name": "Train Simulator: CR ND5-II Loco ",
-      "base_price_rub": 220,
+      "base_price_rub": 550,
       "markup_rub": 500,
-      "price_rub": 720,
+      "price_rub": 1050,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403040/d51ec6dcf1fae4cb05525e7d4da2b6c050946cee/header.jpg?t=1779368399"
     },
     {
       "id": 3403130,
       "name": "TS Marketplace: Burlington Northern Scenario Pack 02",
-      "base_price_rub": 155,
+      "base_price_rub": 387,
       "markup_rub": 500,
-      "price_rub": 655,
+      "price_rub": 887,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403130/db8ce1cabbdb812f66a3b3b3a98e12f42c659a49/header.jpg?t=1777554011"
     },
     {
       "id": 3403140,
       "name": "Train Simulator: Ingolstadt - Treuchtlingen Route Add-On ",
-      "base_price_rub": 481,
+      "base_price_rub": 1203,
       "markup_rub": 500,
-      "price_rub": 981,
+      "price_rub": 1703,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403140/88ae53284af031ed10ae1df6d4dd9031f258ebea/header.jpg?t=1776344337"
     },
     {
       "id": 3403180,
       "name": "TS Marketplace: Southampton - Bournemouth Scenario Pack 01 ",
-      "base_price_rub": 241,
+      "base_price_rub": 321,
       "markup_rub": 500,
-      "price_rub": 741,
+      "price_rub": 821,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403180/7ecf82c5d1c422d22c4dc7c070b989fa10d54f22/header.jpg?t=1775134764"
     },
     {
@@ -110,9 +110,9 @@
     {
       "id": 3403120,
       "name": "TS Marketplace: Burlington Northern Scenario Pack 01 ",
-      "base_price_rub": 192,
+      "base_price_rub": 387,
       "markup_rub": 500,
-      "price_rub": 692,
+      "price_rub": 887,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403120/6b2a888392791e9382c4ee30505c5b55b3d1d790/header.jpg?t=1772114433"
     },
     {
@@ -126,12 +126,12 @@
     {
       "id": 3403000,
       "name": "Train Simulator: Buchan Line: Aberdeen - Peterhead",
-      "base_price_rub": 619,
+      "base_price_rub": 1031,
       "markup_rub": 500,
-      "price_rub": 1119,
+      "price_rub": 1531,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3403000/1a5a724d1166028632d41801db2e1434461317ac/header.jpg?t=1765461882"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T10:32:37Z"
+  "updated_at": "2026-07-12T14:15:58Z"
 }

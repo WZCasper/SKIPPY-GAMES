@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 101,
+  "base_price_rub": 2060,
   "markup_rub": 500,
-  "price_rub": 601,
-  "original_price_rub": 2560,
-  "discount_percent": 95,
+  "price_rub": 2560,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -34,9 +34,9 @@
     {
       "id": 1238871,
       "name": "Battlefield 4™ — полный набор улучшений",
-      "base_price_rub": 514,
+      "base_price_rub": 2060,
       "markup_rub": 500,
-      "price_rub": 1014,
+      "price_rub": 2560,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238871/header.jpg?t=1598622714"
     },
     {
@@ -82,9 +82,9 @@
     {
       "id": 1315442,
       "name": "Battlefield 4™ Weapon Shortcut Bundle",
-      "base_price_rub": 772,
+      "base_price_rub": 771,
       "markup_rub": 500,
-      "price_rub": 1272,
+      "price_rub": 1271,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1315442/header.jpg?t=1628546809"
     },
     {
@@ -105,5 +105,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T10:36:50Z"
+  "updated_at": "2026-07-12T14:20:08Z"
 }

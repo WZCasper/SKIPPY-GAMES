@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 644,
+  "base_price_rub": 806,
   "markup_rub": 500,
-  "price_rub": 1144,
-  "original_price_rub": 1306,
-  "discount_percent": 20,
+  "price_rub": 1306,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,41 +36,41 @@
     {
       "id": 3022790,
       "name": "RimWorld - Odyssey",
-      "base_price_rub": 572,
+      "base_price_rub": 636,
       "markup_rub": 500,
-      "price_rub": 1072,
+      "price_rub": 1136,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3022790/d1725bac389c6e88c0be0c4aab62dbeec4aa15e4/header.jpg?t=1782756963"
     },
     {
       "id": 2380740,
       "name": "RimWorld - Anomaly",
-      "base_price_rub": 540,
+      "base_price_rub": 636,
       "markup_rub": 500,
-      "price_rub": 1040,
+      "price_rub": 1136,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380740/c743d79fcebb602e3307adf7d2e9feedf2be3590/header.jpg?t=1782756913"
     },
     {
       "id": 1826140,
       "name": "RimWorld - Biotech",
-      "base_price_rub": 540,
+      "base_price_rub": 636,
       "markup_rub": 500,
-      "price_rub": 1040,
+      "price_rub": 1136,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1826140/d9e00ec47322ba4f608ebfc98e110190306a15e0/header.jpg?t=1782756849"
     },
     {
       "id": 1392840,
       "name": "RimWorld - Ideology",
-      "base_price_rub": 454,
+      "base_price_rub": 567,
       "markup_rub": 500,
-      "price_rub": 954,
+      "price_rub": 1067,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1392840/1735af8e16d6a81f8c41d7940ab7a5cf349089dd/header.jpg?t=1776193654"
     },
     {
       "id": 1149640,
       "name": "RimWorld - Royalty",
-      "base_price_rub": 454,
+      "base_price_rub": 567,
       "markup_rub": 500,
-      "price_rub": 954,
+      "price_rub": 1067,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1149640/45ca4ea5e7b18f1ed0a38776c3036146491e998d/header.jpg?t=1779288400"
     },
     {
@@ -90,6 +90,22 @@
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990430/ba25dba0cb5ea7b591c86a7b560eb7c15a18f9fe/header.jpg?t=1776703804"
     },
     {
+      "id": 3689230,
+      "name": "RimWorld - Odyssey Soundtrack",
+      "base_price_rub": 213,
+      "markup_rub": 500,
+      "price_rub": 713,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3689230/3da0d38a0210f596275e2d9ea6433c38f7121b9a/header.jpg?t=1782497706"
+    },
+    {
+      "id": 2914900,
+      "name": "RimWorld - Anomaly Soundtrack",
+      "base_price_rub": 213,
+      "markup_rub": 500,
+      "price_rub": 713,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2914900/583645ea21bd62a406a011742aa8e33540e7bc6a/header.jpg?t=1776705983"
+    },
+    {
       "id": 1244270,
       "name": "RimWorld - Royalty Soundtrack",
       "base_price_rub": 213,
@@ -99,5 +115,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T03:57:49Z"
+  "updated_at": "2026-07-12T13:38:17Z"
 }

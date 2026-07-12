@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 98,
+  "base_price_rub": 393,
   "markup_rub": 500,
-  "price_rub": 598,
-  "original_price_rub": 894,
-  "discount_percent": 75,
+  "price_rub": 893,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -37,36 +37,36 @@
     {
       "id": 201802,
       "name": "Orcs Must Die! 2 - Are We There Yeti?",
-      "base_price_rub": 41,
+      "base_price_rub": 170,
       "markup_rub": 500,
-      "price_rub": 541,
+      "price_rub": 670,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201802/header.jpg?t=1594393044"
     },
     {
       "id": 201804,
       "name": "Orcs Must Die! 2 - Fire and Water Booster Pack",
-      "base_price_rub": 41,
+      "base_price_rub": 170,
       "markup_rub": 500,
-      "price_rub": 541,
+      "price_rub": 670,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201804/header.jpg?t=1594393491"
     },
     {
       "id": 201809,
       "name": "Orcs Must Die! 2 - Soundtrack",
-      "base_price_rub": 50,
+      "base_price_rub": 204,
       "markup_rub": 500,
-      "price_rub": 550,
+      "price_rub": 704,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201809/header.jpg?t=1607529610"
     },
     {
       "id": 201805,
       "name": "Orcs Must Die! 2 - Family Ties Booster Pack",
-      "base_price_rub": 41,
+      "base_price_rub": 170,
       "markup_rub": 500,
-      "price_rub": 541,
+      "price_rub": 670,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201805/header.jpg?t=1594393611"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T10:10:25Z"
+  "updated_at": "2026-07-12T13:54:15Z"
 }

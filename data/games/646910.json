@@ -16,11 +16,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 294,
+  "base_price_rub": 1476,
   "markup_rub": 500,
-  "price_rub": 794,
-  "original_price_rub": 1976,
-  "discount_percent": 80,
+  "price_rub": 1976,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,9 +36,9 @@
     {
       "id": 889890,
       "name": "The Crew 2 - Season Pass",
-      "base_price_rub": 292,
+      "base_price_rub": 978,
       "markup_rub": 500,
-      "price_rub": 792,
+      "price_rub": 1478,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/889890/header.jpg?t=1575561113"
     },
     {
@@ -83,5 +83,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T10:05:48Z"
+  "updated_at": "2026-07-12T13:49:39Z"
 }

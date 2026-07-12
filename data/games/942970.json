@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 115,
+  "base_price_rub": 290,
   "markup_rub": 500,
-  "price_rub": 615,
-  "original_price_rub": 790,
-  "discount_percent": 60,
+  "price_rub": 790,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,12 +36,12 @@
     {
       "id": 1205600,
       "name": "Unheard疑案追声 - 黑面观音",
-      "base_price_rub": 122,
+      "base_price_rub": 204,
       "markup_rub": 500,
-      "price_rub": 622,
+      "price_rub": 704,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205600/header.jpg?t=1728551597"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T10:42:55Z"
+  "updated_at": "2026-07-12T14:25:59Z"
 }

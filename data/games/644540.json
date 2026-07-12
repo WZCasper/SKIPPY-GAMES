@@ -31,7 +31,40 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/644540/ss_a7fe598a6b249f0fec1f4ac1865dd297d8cdb5b6.1920x1080.jpg?t=1769516139",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/644540/ss_0648e0e2887ae759f7ec32b47fe132942866b0c5.1920x1080.jpg?t=1769516139"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 645770,
+      "name": "Dies irae ~Amantes amentes~ Act I: Omnia Vincit Amor (Kasumi & Marie scenario)",
+      "base_price_rub": 558,
+      "markup_rub": 500,
+      "price_rub": 1058,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/645770/header.jpg?t=1769519595"
+    },
+    {
+      "id": 645771,
+      "name": "Dies irae ~Amantes amentes~ Act II: Nihil Difficile Amanti (Kei & Rea scenario)",
+      "base_price_rub": 558,
+      "markup_rub": 500,
+      "price_rub": 1058,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/645771/header.jpg?t=1769517513"
+    },
+    {
+      "id": 1038510,
+      "name": "Dies irae ~Amantes amentes~ - Original Soundtrack",
+      "base_price_rub": 393,
+      "markup_rub": 500,
+      "price_rub": 893,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1038510/header.jpg?t=1552636766"
+    },
+    {
+      "id": 1038530,
+      "name": "Dies irae ~Amantes amentes~ - Official Illustrated Guide",
+      "base_price_rub": 290,
+      "markup_rub": 500,
+      "price_rub": 790,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1038530/header.jpg?t=1553516092"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-09T10:47:41Z"
+  "updated_at": "2026-07-12T14:30:42Z"
 }

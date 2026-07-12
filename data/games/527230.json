@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 95,
+  "base_price_rub": 479,
   "markup_rub": 500,
-  "price_rub": 595,
-  "original_price_rub": 979,
-  "discount_percent": 80,
+  "price_rub": 979,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,28 +35,28 @@
     {
       "id": 1433560,
       "name": "For The King: Lost Civilization Adventure Pack",
-      "base_price_rub": 101,
+      "base_price_rub": 204,
       "markup_rub": 500,
-      "price_rub": 601,
+      "price_rub": 704,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1433560/header.jpg?t=1634666969"
     },
     {
       "id": 3216730,
       "name": "For The King: Fahrul Expanded - Original Game Soundtrack",
-      "base_price_rub": 84,
+      "base_price_rub": 170,
       "markup_rub": 500,
-      "price_rub": 584,
+      "price_rub": 670,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3216730/header.jpg?t=1726933756"
     },
     {
       "id": 844340,
       "name": "For The King Original Game Soundtrack",
-      "base_price_rub": 84,
+      "base_price_rub": 170,
       "markup_rub": 500,
-      "price_rub": 584,
+      "price_rub": 670,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/844340/header.jpg?t=1726845644"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T10:21:05Z"
+  "updated_at": "2026-07-12T14:04:41Z"
 }

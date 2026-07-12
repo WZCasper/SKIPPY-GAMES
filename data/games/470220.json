@@ -12,11 +12,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 103,
+  "base_price_rub": 258,
   "markup_rub": 500,
-  "price_rub": 603,
-  "original_price_rub": 758,
-  "discount_percent": 60,
+  "price_rub": 758,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -32,65 +32,65 @@
     {
       "id": 1903460,
       "name": "UNO - AC Valhalla Theme Cards",
-      "base_price_rub": 77,
+      "base_price_rub": 129,
       "markup_rub": 500,
-      "price_rub": 577,
+      "price_rub": 629,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903460/header.jpg?t=1650989462"
     },
     {
       "id": 1557490,
       "name": "Uno - Uno Fenyx’s Quest Theme",
-      "base_price_rub": 77,
+      "base_price_rub": 129,
       "markup_rub": 500,
-      "price_rub": 577,
+      "price_rub": 629,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1557490/header.jpg?t=1650984822"
     },
     {
       "id": 1246520,
       "name": "Uno - Uno Flip Theme",
-      "base_price_rub": 77,
+      "base_price_rub": 129,
       "markup_rub": 500,
-      "price_rub": 577,
+      "price_rub": 629,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1246520/header.jpg?t=1650984825"
     },
     {
       "id": 560940,
       "name": "Uno - Rayman Theme Cards",
-      "base_price_rub": 67,
+      "base_price_rub": 112,
       "markup_rub": 500,
-      "price_rub": 567,
+      "price_rub": 612,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/560940/header.jpg?t=1508407385"
     },
     {
       "id": 560941,
       "name": "Uno - Just Dance Theme Cards",
-      "base_price_rub": 67,
+      "base_price_rub": 112,
       "markup_rub": 500,
-      "price_rub": 567,
+      "price_rub": 612,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/560941/header.jpg?t=1508407401"
     },
     {
       "id": 1599770,
       "name": "Uno - 50th Anniversary Theme",
-      "base_price_rub": 46,
+      "base_price_rub": 77,
       "markup_rub": 500,
-      "price_rub": 546,
+      "price_rub": 577,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1599770/header.jpg?t=1650983880"
     },
     {
       "id": 1755710,
       "name": "Uno - The Call of Yara Theme",
-      "base_price_rub": 77,
+      "base_price_rub": 129,
       "markup_rub": 500,
-      "price_rub": 577,
+      "price_rub": 629,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1755710/header.jpg?t=1634216691"
     },
     {
       "id": 2997210,
       "name": "UNO® Party! Mania™",
-      "base_price_rub": 77,
+      "base_price_rub": 129,
       "markup_rub": 500,
-      "price_rub": 577,
+      "price_rub": 629,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2997210/header.jpg?t=1720541190"
     },
     {
@@ -119,5 +119,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T10:15:39Z"
+  "updated_at": "2026-07-12T13:59:21Z"
 }

@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 270,
+  "base_price_rub": 387,
   "markup_rub": 500,
-  "price_rub": 770,
-  "original_price_rub": 887,
-  "discount_percent": 30,
+  "price_rub": 887,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,12 +35,12 @@
     {
       "id": 2670930,
       "name": "Love Is All Around-Love In The Room",
-      "base_price_rub": 148,
+      "base_price_rub": 213,
       "markup_rub": 500,
-      "price_rub": 648,
+      "price_rub": 713,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670930/header.jpg?t=1722487301"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T10:43:04Z"
+  "updated_at": "2026-07-12T14:26:07Z"
 }

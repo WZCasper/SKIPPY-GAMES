@@ -31,7 +31,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366240/ss_ad619314b85e52b4bd44b8a4e8cebb4292bd2683.1920x1080.jpg?t=1727160119",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366240/ss_530d224bb910c26572bbaa2a1ac194453ddf8794.1920x1080.jpg?t=1727160119"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 1940580,
+      "name": "GAROU: MARK OF THE WOLVES Soundtrack",
+      "base_price_rub": 290,
+      "markup_rub": 500,
+      "price_rub": 790,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1940580/header.jpg?t=1653436917"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-09T10:47:48Z"
+  "updated_at": "2026-07-12T14:30:50Z"
 }

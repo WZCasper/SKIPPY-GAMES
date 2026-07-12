@@ -16,9 +16,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 394,
+  "base_price_rub": 393,
   "markup_rub": 500,
-  "price_rub": 894,
+  "price_rub": 893,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -34,7 +34,24 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365810/ss_df97c3be9e3e6a309e4aacf7ca4c8056c980d87a.1920x1080.jpg?t=1697523602",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365810/ss_540bf90b097bfd3ca1b5c4360793c9fefdf99341.1920x1080.jpg?t=1697523602"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 366450,
+      "name": "Flying Tigers: Shadows Over China - Official Soundtrack",
+      "base_price_rub": 204,
+      "markup_rub": 500,
+      "price_rub": 704,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366450/header.jpg?t=1546036536"
+    },
+    {
+      "id": 414360,
+      "name": "Flying Tigers: Shadows Over China - Paradise Island",
+      "base_price_rub": 136,
+      "markup_rub": 500,
+      "price_rub": 636,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/414360/header.jpg?t=1500389506"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-09T10:47:42Z"
+  "updated_at": "2026-07-12T14:30:44Z"
 }

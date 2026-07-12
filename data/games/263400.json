@@ -12,11 +12,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 192,
+  "base_price_rub": 387,
   "markup_rub": 500,
-  "price_rub": 692,
-  "original_price_rub": 887,
-  "discount_percent": 50,
+  "price_rub": 887,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -30,7 +30,24 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/263400/ss_8d66644d124da012e59192a40af787add81770ae.1920x1080.jpg?t=1743588477",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/263400/ss_dcb214d25a7b4052ef8352520a2978cda06f603f.1920x1080.jpg?t=1743588477"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 271010,
+      "name": "Sound of the Human Tanks",
+      "base_price_rub": 387,
+      "markup_rub": 500,
+      "price_rub": 887,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271010/header.jpg?t=1645780738"
+    },
+    {
+      "id": 578560,
+      "name": "RE:HT - War of the Human Tanks Remix Album",
+      "base_price_rub": 213,
+      "markup_rub": 500,
+      "price_rub": 713,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578560/header.jpg?t=1645780864"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-09T10:47:47Z"
+  "updated_at": "2026-07-12T14:30:49Z"
 }

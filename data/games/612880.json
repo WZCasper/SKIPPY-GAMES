@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 179,
+  "base_price_rub": 1201,
   "markup_rub": 500,
-  "price_rub": 679,
-  "original_price_rub": 1701,
-  "discount_percent": 85,
+  "price_rub": 1701,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,36 +35,36 @@
     {
       "id": 624620,
       "name": "Wolfenstein II: The Freedom Chronicles - Episode 1",
-      "base_price_rub": 179,
+      "base_price_rub": 447,
       "markup_rub": 500,
-      "price_rub": 679,
+      "price_rub": 947,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/624620/header.jpg?t=1532651846"
     },
     {
       "id": 624621,
       "name": "Wolfenstein II: The Freedom Chronicles - Episode 2",
-      "base_price_rub": 179,
+      "base_price_rub": 447,
       "markup_rub": 500,
-      "price_rub": 679,
+      "price_rub": 947,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/624621/header.jpg?t=1532652184"
     },
     {
       "id": 624622,
       "name": "Wolfenstein II: The Freedom Chronicles - Episode 3",
-      "base_price_rub": 179,
+      "base_price_rub": 447,
       "markup_rub": 500,
-      "price_rub": 679,
+      "price_rub": 947,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/624622/header.jpg?t=1532651812"
     },
     {
       "id": 650410,
       "name": "Wolfenstein II: The Freedom Chronicles - Season Pass",
-      "base_price_rub": 419,
+      "base_price_rub": 1117,
       "markup_rub": 500,
-      "price_rub": 919,
+      "price_rub": 1617,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/650410/header.jpg?t=1532651773"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T10:33:06Z"
+  "updated_at": "2026-07-12T14:19:56Z"
 }
