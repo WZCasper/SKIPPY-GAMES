@@ -16,11 +16,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 101,
+  "base_price_rub": 256,
   "markup_rub": 500,
-  "price_rub": 601,
+  "price_rub": 756,
   "original_price_rub": 1529,
-  "discount_percent": 90,
+  "discount_percent": 75,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,9 +36,9 @@
     {
       "id": 3905290,
       "name": "DRAGON BALL XENOVERSE 2 - FUTURE SAGA Pack Set",
-      "base_price_rub": 1803,
+      "base_price_rub": 1802,
       "markup_rub": 500,
-      "price_rub": 2303,
+      "price_rub": 2302,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3905290/2e46fb2d420f8b9b0d994cde974cb6ffdb29f4a9/header.jpg?t=1783463209"
     },
     {
@@ -60,17 +60,17 @@
     {
       "id": 3387210,
       "name": "DRAGON BALL XENOVERSE 2 - Dragon Ball DAIMA Pack",
-      "base_price_rub": 311,
+      "base_price_rub": 445,
       "markup_rub": 500,
-      "price_rub": 811,
+      "price_rub": 945,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3387210/9cd743e6f5dcd2154ba2aba6bbfb133879e05446/header.jpg?t=1770607438"
     },
     {
       "id": 3581800,
       "name": "DRAGON BALL XENOVERSE 2 - Time Patrol Support Pack",
-      "base_price_rub": 163,
+      "base_price_rub": 273,
       "markup_rub": 500,
-      "price_rub": 663,
+      "price_rub": 773,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3581800/62b77a5a424610cd3f37099a649d2c4623293062/header.jpg?t=1770608026"
     },
     {
@@ -131,5 +131,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T03:58:28Z"
+  "updated_at": "2026-07-12T08:35:57Z"
 }

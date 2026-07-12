@@ -12,11 +12,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 335,
+  "base_price_rub": 479,
   "markup_rub": 500,
-  "price_rub": 835,
-  "original_price_rub": 979,
-  "discount_percent": 30,
+  "price_rub": 979,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -34,28 +34,28 @@
     {
       "id": 1117850,
       "name": "Cuphead - The Delicious Last Course",
-      "base_price_rub": 137,
+      "base_price_rub": 198,
       "markup_rub": 500,
-      "price_rub": 637,
+      "price_rub": 698,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1117850/header.jpg?t=1709232767"
     },
     {
       "id": 704710,
       "name": "Cuphead - Official Soundtrack",
-      "base_price_rub": 203,
+      "base_price_rub": 290,
       "markup_rub": 500,
-      "price_rub": 703,
+      "price_rub": 790,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/704710/header.jpg?t=1667316315"
     },
     {
       "id": 2072990,
       "name": "Cuphead DLC - Official Soundtrack",
-      "base_price_rub": 119,
+      "base_price_rub": 170,
       "markup_rub": 500,
-      "price_rub": 619,
+      "price_rub": 670,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2072990/header.jpg?t=1667316282"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T04:23:57Z"
+  "updated_at": "2026-07-12T09:01:13Z"
 }

@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 180,
+  "base_price_rub": 1203,
   "markup_rub": 500,
-  "price_rub": 680,
-  "original_price_rub": 1703,
-  "discount_percent": 85,
+  "price_rub": 1703,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,20 +35,20 @@
     {
       "id": 2361670,
       "name": "The Great War: Western Front Victory Edition Upgrade Pack",
-      "base_price_rub": 57,
+      "base_price_rub": 387,
       "markup_rub": 500,
-      "price_rub": 557,
+      "price_rub": 887,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2361670/header.jpg?t=1680202266"
     },
     {
       "id": 2253870,
       "name": "The Great War: Western Front™ Soundtrack",
-      "base_price_rub": 141,
+      "base_price_rub": 354,
       "markup_rub": 500,
-      "price_rub": 641,
+      "price_rub": 854,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2253870/header.jpg?t=1680202780"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T04:37:22Z"
+  "updated_at": "2026-07-12T09:13:06Z"
 }

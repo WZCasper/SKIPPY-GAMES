@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 143,
+  "base_price_rub": 479,
   "markup_rub": 500,
-  "price_rub": 643,
-  "original_price_rub": 979,
-  "discount_percent": 70,
+  "price_rub": 979,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,28 +35,28 @@
     {
       "id": 3365710,
       "name": "FINAL FANTASY IX Original Soundtrack",
-      "base_price_rub": 763,
+      "base_price_rub": 849,
       "markup_rub": 500,
-      "price_rub": 1263,
+      "price_rub": 1349,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3365710/feb2edd597dea5b5092d8c834dfc05666070bcc5/header.jpg?t=1750382710"
     },
     {
       "id": 3365720,
       "name": "FINAL FANTASY IX Original Soundtrack PLUS",
-      "base_price_rub": 318,
+      "base_price_rub": 354,
       "markup_rub": 500,
-      "price_rub": 818,
+      "price_rub": 854,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3365720/5341ba065d0aab986a1f304c915fc2b144fc9da6/header.jpg?t=1750382984"
     },
     {
       "id": 4425250,
       "name": "Piano Collections FINAL FANTASY IX",
-      "base_price_rub": 610,
+      "base_price_rub": 679,
       "markup_rub": 500,
-      "price_rub": 1110,
+      "price_rub": 1179,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425250/aa997d09b921870e255ae7d93af069488aa9c670/header.jpg?t=1773327817"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T04:09:09Z"
+  "updated_at": "2026-07-12T08:46:34Z"
 }

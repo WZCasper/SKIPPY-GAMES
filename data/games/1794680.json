@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 101,
+  "base_price_rub": 136,
   "markup_rub": 500,
-  "price_rub": 601,
-  "original_price_rub": 636,
-  "discount_percent": 25,
+  "price_rub": 636,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,52 +35,52 @@
     {
       "id": 3210350,
       "name": "Vampire Survivors: Ode to Castlevania",
-      "base_price_rub": 81,
+      "base_price_rub": 108,
       "markup_rub": 500,
-      "price_rub": 581,
+      "price_rub": 608,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3210350/header.jpg?t=1731510096"
     },
     {
       "id": 2887680,
       "name": "Vampire Survivors: Operation Guns",
-      "base_price_rub": 46,
+      "base_price_rub": 64,
       "markup_rub": 500,
-      "price_rub": 546,
+      "price_rub": 564,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2887680/header.jpg?t=1730984761"
     },
     {
       "id": 2690330,
       "name": "Vampire Survivors: Emergency Meeting",
-      "base_price_rub": 46,
+      "base_price_rub": 64,
       "markup_rub": 500,
-      "price_rub": 546,
+      "price_rub": 564,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2690330/header.jpg?t=1730984326"
     },
     {
       "id": 2313550,
       "name": "Vampire Survivors: Tides of the Foscari",
-      "base_price_rub": 38,
+      "base_price_rub": 52,
       "markup_rub": 500,
-      "price_rub": 538,
+      "price_rub": 552,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313550/header.jpg?t=1730984099"
     },
     {
       "id": 2230760,
       "name": "Vampire Survivors: Legacy of the Moonspell",
-      "base_price_rub": 34,
+      "base_price_rub": 46,
       "markup_rub": 500,
-      "price_rub": 534,
+      "price_rub": 546,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2230760/header.jpg?t=1730983420"
     },
     {
       "id": 2169090,
       "name": "Vampire Survivors Soundtrack",
-      "base_price_rub": 62,
+      "base_price_rub": 84,
       "markup_rub": 500,
-      "price_rub": 562,
+      "price_rub": 584,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2169090/header.jpg?t=1759850517"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T04:19:46Z"
+  "updated_at": "2026-07-12T08:57:03Z"
 }

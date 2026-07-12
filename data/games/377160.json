@@ -16,11 +16,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 239,
+  "base_price_rub": 600,
   "markup_rub": 500,
-  "price_rub": 739,
-  "original_price_rub": 1100,
-  "discount_percent": 60,
+  "price_rub": 1100,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -38,9 +38,9 @@
     {
       "id": 3868650,
       "name": "Fallout 4 - Creations Bundle",
-      "base_price_rub": 823,
+      "base_price_rub": 1029,
       "markup_rub": 500,
-      "price_rub": 1323,
+      "price_rub": 1529,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3868650/66187580a23f95122b8a42e05be7950564913914/header.jpg?t=1762961033"
     },
     {
@@ -54,60 +54,60 @@
     {
       "id": 404090,
       "name": "Fallout 4 Season Pass",
-      "base_price_rub": 418,
+      "base_price_rub": 1046,
       "markup_rub": 500,
-      "price_rub": 918,
+      "price_rub": 1546,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/404090/header.jpg?t=1762790563"
     },
     {
       "id": 435881,
       "name": "Fallout 4 Far Harbor",
-      "base_price_rub": 277,
+      "base_price_rub": 462,
       "markup_rub": 500,
-      "price_rub": 777,
+      "price_rub": 962,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435881/header.jpg?t=1533677062"
     },
     {
       "id": 480631,
       "name": "Fallout 4 Vault-Tec Workshop",
-      "base_price_rub": 91,
+      "base_price_rub": 153,
       "markup_rub": 500,
-      "price_rub": 591,
+      "price_rub": 653,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480631/header.jpg?t=1533677484"
     },
     {
       "id": 480630,
       "name": "Fallout 4 - Contraptions Workshop",
-      "base_price_rub": 91,
+      "base_price_rub": 153,
       "markup_rub": 500,
-      "price_rub": 591,
+      "price_rub": 653,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/480630/header.jpg?t=1533677523"
     },
     {
       "id": 490650,
       "name": "Fallout 4 Nuka-World",
-      "base_price_rub": 184,
+      "base_price_rub": 308,
       "markup_rub": 500,
-      "price_rub": 684,
+      "price_rub": 808,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/490650/header.jpg?t=1533677228"
     },
     {
       "id": 435880,
       "name": "Fallout 4 - Wasteland Workshop",
-      "base_price_rub": 134,
+      "base_price_rub": 223,
       "markup_rub": 500,
-      "price_rub": 634,
+      "price_rub": 723,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435880/header.jpg?t=1588614707"
     },
     {
       "id": 435870,
       "name": "Fallout 4 - Automatron",
-      "base_price_rub": 184,
+      "base_price_rub": 308,
       "markup_rub": 500,
-      "price_rub": 684,
+      "price_rub": 808,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435870/header.jpg?t=1533677288"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T04:18:48Z"
+  "updated_at": "2026-07-12T08:56:04Z"
 }

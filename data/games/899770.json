@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 962,
+  "base_price_rub": 1203,
   "markup_rub": 500,
-  "price_rub": 1462,
-  "original_price_rub": 1703,
-  "discount_percent": 20,
+  "price_rub": 1703,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -45,9 +45,9 @@
     {
       "id": 4322990,
       "name": "Last Epoch - Fractured Vanquisher Supporter Pack",
-      "base_price_rub": 1272,
+      "base_price_rub": 1271,
       "markup_rub": 500,
-      "price_rub": 1772,
+      "price_rub": 1771,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4322990/55024ef2b138469822e624e12f158e955ce3cbc5/header_russian.jpg?t=1773680702"
     },
     {
@@ -77,9 +77,9 @@
     {
       "id": 3865740,
       "name": "Last Epoch - Primal Vanquisher Supporter Pack",
-      "base_price_rub": 1272,
+      "base_price_rub": 1271,
       "markup_rub": 500,
-      "price_rub": 1772,
+      "price_rub": 1771,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3865740/ed0456678b617958e4a7b005ebf0fa2059b4cd21/header_russian.jpg?t=1755012596"
     },
     {
@@ -100,5 +100,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T04:13:54Z"
+  "updated_at": "2026-07-12T08:51:17Z"
 }

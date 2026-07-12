@@ -16,11 +16,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 548,
+  "base_price_rub": 2747,
   "markup_rub": 500,
-  "price_rub": 1048,
-  "original_price_rub": 3248,
-  "discount_percent": 80,
+  "price_rub": 3247,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -54,9 +54,9 @@
     {
       "id": 3453200,
       "name": "Dying Light 2 Stay Human: G.R.E. Hazmat Bundle",
-      "base_price_rub": 311,
+      "base_price_rub": 445,
       "markup_rub": 500,
-      "price_rub": 811,
+      "price_rub": 945,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3453200/header.jpg?t=1740396278"
     },
     {
@@ -125,5 +125,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T04:24:39Z"
+  "updated_at": "2026-07-12T09:01:55Z"
 }

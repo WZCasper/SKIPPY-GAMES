@@ -16,11 +16,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 694,
+  "base_price_rub": 2318,
   "markup_rub": 500,
-  "price_rub": 1194,
-  "original_price_rub": 2818,
-  "discount_percent": 70,
+  "price_rub": 2818,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -86,20 +86,20 @@
     {
       "id": 3315530,
       "name": "Crusader Kings III: All Under Heaven",
-      "base_price_rub": 1041,
+      "base_price_rub": 1390,
       "markup_rub": 500,
-      "price_rub": 1541,
+      "price_rub": 1890,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3315530/e64322e3ee5b9221a7e15b2667098f7f93077b04/header.jpg?t=1768904480"
     },
     {
       "id": 3315520,
       "name": "Crusader Kings III: Coronations",
-      "base_price_rub": 165,
+      "base_price_rub": 256,
       "markup_rub": 500,
-      "price_rub": 665,
+      "price_rub": 756,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3315520/f591924567d4c9cdbe15d3ca5282638a3ea42a88/header.jpg?t=1765547419"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T03:48:15Z"
+  "updated_at": "2026-07-12T08:25:49Z"
 }

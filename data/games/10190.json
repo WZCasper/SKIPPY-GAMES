@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 1093,
+  "base_price_rub": 1459,
   "markup_rub": 500,
-  "price_rub": 1593,
-  "original_price_rub": 1959,
-  "discount_percent": 25,
+  "price_rub": 1959,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,20 +36,20 @@
     {
       "id": 10195,
       "name": "Call of Duty®: Modern Warfare® 2 Stimulus Package",
-      "base_price_rub": 711,
+      "base_price_rub": 1094,
       "markup_rub": 500,
-      "price_rub": 1211,
+      "price_rub": 1594,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10195/header.jpg?t=1560970508"
     },
     {
       "id": 10196,
       "name": "Call of Duty®: Modern Warfare® 2 Resurgence Pack",
-      "base_price_rub": 711,
+      "base_price_rub": 1094,
       "markup_rub": 500,
-      "price_rub": 1211,
+      "price_rub": 1594,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10196/header.jpg?t=1560970335"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T04:24:52Z"
+  "updated_at": "2026-07-12T09:02:09Z"
 }

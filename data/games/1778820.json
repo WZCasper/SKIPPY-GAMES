@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 1235,
+  "base_price_rub": 2060,
   "markup_rub": 500,
-  "price_rub": 1735,
-  "original_price_rub": 2560,
-  "discount_percent": 40,
+  "price_rub": 2560,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -44,33 +44,33 @@
     {
       "id": 4129110,
       "name": "TEKKEN 8 — пропуск «Персонажи» сезона 3",
-      "base_price_rub": 1906,
+      "base_price_rub": 1905,
       "markup_rub": 500,
-      "price_rub": 2406,
+      "price_rub": 2405,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4129110/af33e47a456f1ae2310fe9ea2a3879c96372c7a6/header.jpg?t=1780354890"
     },
     {
       "id": 3417270,
       "name": "TEKKEN 8 — пропуск «Персонажи и арены» сезона 2",
-      "base_price_rub": 2163,
+      "base_price_rub": 2404,
       "markup_rub": 500,
-      "price_rub": 2663,
+      "price_rub": 2904,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417270/354f3630a5e2f63d8eee3ec667c99bc1b88a9ef4/header.jpg?t=1764891577"
     },
     {
       "id": 3417250,
       "name": "TEKKEN 8 — пропуск «Персонажи» сезона 2",
-      "base_price_rub": 1545,
+      "base_price_rub": 1716,
       "markup_rub": 500,
-      "price_rub": 2045,
+      "price_rub": 2216,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417250/9021c4ad411427bc4cf062245d97e185eca85fe4/header.jpg?t=1764891524"
     },
     {
       "id": 4001560,
       "name": "TEKKEN 8 - Miary Zo",
-      "base_price_rub": 333,
+      "base_price_rub": 445,
       "markup_rub": 500,
-      "price_rub": 833,
+      "price_rub": 945,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001560/bb99e194c4bbe292aa8c99c40594818b134bde53/header.jpg?t=1764630020"
     },
     {
@@ -84,9 +84,9 @@
     {
       "id": 3775990,
       "name": "TEKKEN 8 - Armor King",
-      "base_price_rub": 333,
+      "base_price_rub": 445,
       "markup_rub": 500,
-      "price_rub": 833,
+      "price_rub": 945,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3775990/395b98daa0c46f4e8e5f779770edf64ac3d34c36/header.jpg?t=1762337706"
     },
     {
@@ -116,20 +116,20 @@
     {
       "id": 3417240,
       "name": "TEKKEN 8 — пропуск «Персонажи и арены» сезона 1",
-      "base_price_rub": 1803,
+      "base_price_rub": 2404,
       "markup_rub": 500,
-      "price_rub": 2303,
+      "price_rub": 2904,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417240/f13569c1958e7ca16dc2169e327ce225a5e70bd1/header.jpg?t=1743667482"
     },
     {
       "id": 3417230,
       "name": "TEKKEN 8 — пропуск «Персонажи» сезона 1",
-      "base_price_rub": 1132,
+      "base_price_rub": 1716,
       "markup_rub": 500,
-      "price_rub": 1632,
+      "price_rub": 2216,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417230/8e928a7ecbb8f903673fb62c1443d25ea3bac1c8/header.jpg?t=1743667445"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T04:08:48Z"
+  "updated_at": "2026-07-12T08:46:12Z"
 }

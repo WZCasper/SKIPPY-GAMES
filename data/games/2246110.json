@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 177,
+  "base_price_rub": 354,
   "markup_rub": 500,
-  "price_rub": 677,
-  "original_price_rub": 854,
-  "discount_percent": 50,
+  "price_rub": 854,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -34,28 +34,28 @@
     {
       "id": 2897220,
       "name": "Q REMASTERED Original Soundtrack Vol.1",
-      "base_price_rub": 43,
+      "base_price_rub": 86,
       "markup_rub": 500,
-      "price_rub": 543,
+      "price_rub": 586,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2897220/header.jpg?t=1750244842"
     },
     {
       "id": 3828460,
       "name": "Q REMASTERED Original Soundtrack Vol.2",
-      "base_price_rub": 43,
+      "base_price_rub": 86,
       "markup_rub": 500,
-      "price_rub": 543,
+      "price_rub": 586,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3828460/7e472221f7b624f9172d68468624bb751ef4d6ed/header.jpg?t=1752722081"
     },
     {
       "id": 3828470,
       "name": "Q REMASTERED Original Soundtrack Vol.3",
-      "base_price_rub": 43,
+      "base_price_rub": 86,
       "markup_rub": 500,
-      "price_rub": 543,
+      "price_rub": 586,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3828470/82872862221fbb8b67b381acbfa0dd0b2b8d1a64/header.jpg?t=1759201729"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T03:54:08Z"
+  "updated_at": "2026-07-12T08:31:42Z"
 }

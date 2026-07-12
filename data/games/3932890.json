@@ -11,11 +11,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 2641,
+  "base_price_rub": 3522,
   "markup_rub": 500,
-  "price_rub": 3141,
-  "original_price_rub": 4023,
-  "discount_percent": 25,
+  "price_rub": 4022,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -33,9 +33,9 @@
     {
       "id": 4091290,
       "name": "Escape from Tarkov: PVE Zone",
-      "base_price_rub": 1933,
+      "base_price_rub": 2148,
       "markup_rub": 500,
-      "price_rub": 2433,
+      "price_rub": 2648,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4091290/62e262392dea665e8b507f423d04c8e14eaf6d9e/header.jpg?t=1763204182"
     },
     {
@@ -48,5 +48,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T03:48:51Z"
+  "updated_at": "2026-07-12T08:26:24Z"
 }

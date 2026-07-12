@@ -16,11 +16,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 70,
+  "base_price_rub": 713,
   "markup_rub": 500,
-  "price_rub": 570,
-  "original_price_rub": 1213,
-  "discount_percent": 90,
+  "price_rub": 1213,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -38,9 +38,9 @@
     {
       "id": 4467980,
       "name": "theHunter: Call of the Wild™ - Peru Hunting Reserve",
-      "base_price_rub": 473,
+      "base_price_rub": 472,
       "markup_rub": 500,
-      "price_rub": 973,
+      "price_rub": 972,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4467980/7efbd4bdbbde6a7eb7635f115fd11dad29b129bb/header.jpg?t=1781618402"
     },
     {
@@ -54,84 +54,84 @@
     {
       "id": 4182010,
       "name": "theHunter: Call of the Wild™ - Game Feeder Pack 2",
-      "base_price_rub": 223,
+      "base_price_rub": 280,
       "markup_rub": 500,
-      "price_rub": 723,
+      "price_rub": 780,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4182010/c50d81d84366a9dc3e787d14364099a8b6227bc9/header.jpg?t=1774446076"
     },
     {
       "id": 4010590,
       "name": "theHunter: Call of the Wild™ - Scotland Hunting Reserve",
-      "base_price_rub": 340,
+      "base_price_rub": 455,
       "markup_rub": 500,
-      "price_rub": 840,
+      "price_rub": 955,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4010590/5d4690a98804ba2249d7c60d8631681e714bbc68/header.jpg?t=1772818385"
     },
     {
       "id": 4089880,
       "name": "theHunter: Call of the Wild™ - Premium Trophy Mount Pack",
-      "base_price_rub": 127,
+      "base_price_rub": 170,
       "markup_rub": 500,
-      "price_rub": 627,
+      "price_rub": 670,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4089880/12832fd38f0ea98a7b89e66813ac31117f2b1bdc/header.jpg?t=1772818390"
     },
     {
       "id": 3992110,
       "name": "theHunter: Call of the Wild™ - Game Feeder Pack",
-      "base_price_rub": 196,
+      "base_price_rub": 280,
       "markup_rub": 500,
-      "price_rub": 696,
+      "price_rub": 780,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3992110/b752485c4694de1212489f006128e4f1c5672978/header.jpg?t=1772818375"
     },
     {
       "id": 3570290,
       "name": "theHunter: Call of the Wild™ - Alberta Hunting Preserve",
-      "base_price_rub": 273,
+      "base_price_rub": 455,
       "markup_rub": 500,
-      "price_rub": 773,
+      "price_rub": 955,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3570290/427fd9fb167931d7c8121fb12d8da23f19cce9cf/header.jpg?t=1772818361"
     },
     {
       "id": 3750770,
       "name": "theHunter: Call of the Wild™ – Pump, Flip and Fire Pack",
-      "base_price_rub": 137,
+      "base_price_rub": 213,
       "markup_rub": 500,
-      "price_rub": 637,
+      "price_rub": 713,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3750770/7c57eca453a70980ffdc5b61250a15728151e935/header.jpg?t=1772818368"
     },
     {
       "id": 3447720,
       "name": "theHunter: Call of the Wild™ - Rapid Hunt Rifle Pack",
-      "base_price_rub": 117,
+      "base_price_rub": 213,
       "markup_rub": 500,
-      "price_rub": 617,
+      "price_rub": 713,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3447720/2c32e7f6760ea3b6593875d7ef5c15a8d48f6e93/header.jpg?t=1772818353"
     },
     {
       "id": 3244810,
       "name": "theHunter: Call of the Wild™ - Salzwiesen Park",
-      "base_price_rub": 139,
+      "base_price_rub": 280,
       "markup_rub": 500,
-      "price_rub": 639,
+      "price_rub": 780,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3244810/header.jpg?t=1772818342"
     },
     {
       "id": 3244800,
       "name": "theHunter: Call of the Wild™ - German Shorthaired Pointer",
-      "base_price_rub": 127,
+      "base_price_rub": 256,
       "markup_rub": 500,
-      "price_rub": 627,
+      "price_rub": 756,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3244800/header.jpg?t=1772818337"
     },
     {
       "id": 3244820,
       "name": "theHunter: Call of the Wild™ - Hunters' Choice: Bolt-Action Rifle Pack",
-      "base_price_rub": 107,
+      "base_price_rub": 213,
       "markup_rub": 500,
-      "price_rub": 607,
+      "price_rub": 713,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3244820/header.jpg?t=1772818348"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T04:09:25Z"
+  "updated_at": "2026-07-12T08:46:51Z"
 }
