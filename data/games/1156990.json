@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 67,
+  "base_price_rub": 170,
   "markup_rub": 500,
-  "price_rub": 567,
-  "original_price_rub": 670,
-  "discount_percent": 61,
+  "price_rub": 670,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -34,28 +34,28 @@
     {
       "id": 1622650,
       "name": "Возвращение на остров Сиронагасу   Саундтрек",
-      "base_price_rub": 33,
+      "base_price_rub": 170,
       "markup_rub": 500,
-      "price_rub": 533,
+      "price_rub": 670,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622650/header.jpg?t=1775306929"
     },
     {
       "id": 2368730,
       "name": "シロナガス島への帰還ボイスドラマ　少女達のドタバタ騒動",
-      "base_price_rub": 69,
+      "base_price_rub": 349,
       "markup_rub": 500,
-      "price_rub": 569,
+      "price_rub": 849,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2368730/header.jpg?t=1741145207"
     },
     {
       "id": 2542200,
       "name": "Return to Shironagasu Island Vocal Song Collection",
-      "base_price_rub": 41,
+      "base_price_rub": 213,
       "markup_rub": 500,
-      "price_rub": 541,
+      "price_rub": 713,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2542200/header.jpg?t=1775306799"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-08T20:03:45Z"
+  "updated_at": "2026-07-12T03:50:02Z"
 }

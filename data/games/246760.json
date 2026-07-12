@@ -12,11 +12,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 118,
+  "base_price_rub": 479,
   "markup_rub": 500,
-  "price_rub": 618,
-  "original_price_rub": 979,
-  "discount_percent": 75,
+  "price_rub": 979,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -34,20 +34,20 @@
     {
       "id": 416750,
       "name": "Legends of Eisenwald: Road to Iron Forest",
-      "base_price_rub": 101,
+      "base_price_rub": 170,
       "markup_rub": 500,
-      "price_rub": 601,
+      "price_rub": 670,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/416750/header.jpg?t=1589820379"
     },
     {
       "id": 417160,
       "name": "Legends of Eisenwald Season Pass",
-      "base_price_rub": 235,
+      "base_price_rub": 393,
       "markup_rub": 500,
-      "price_rub": 735,
+      "price_rub": 893,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/417160/header.jpg?t=1589820525"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-08T19:44:17Z"
+  "updated_at": "2026-07-12T03:29:35Z"
 }

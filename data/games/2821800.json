@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 439,
+  "base_price_rub": 679,
   "markup_rub": 500,
-  "price_rub": 939,
-  "original_price_rub": 1178,
-  "discount_percent": 35,
+  "price_rub": 1179,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,17 +36,17 @@
     {
       "id": 4456250,
       "name": "Drill Core - The Machine World ",
-      "base_price_rub": 142,
+      "base_price_rub": 222,
       "markup_rub": 500,
-      "price_rub": 642,
+      "price_rub": 722,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4456250/911268d4fa49c858b8f672bdfaa69e5ee475a4a8/header.jpg?t=1777394403"
     },
     {
       "id": 3221300,
       "name": "Drill Core Soundtrack",
-      "base_price_rub": 110,
+      "base_price_rub": 170,
       "markup_rub": 500,
-      "price_rub": 610,
+      "price_rub": 670,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3221300/header.jpg?t=1726302981"
     },
     {
@@ -59,5 +59,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-08T19:47:47Z"
+  "updated_at": "2026-07-12T03:34:22Z"
 }

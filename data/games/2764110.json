@@ -1,0 +1,35 @@
+{
+  "id": 2764110,
+  "title": "Gnosis",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2764110/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/2764110/library_hero.jpg",
+  "description": "Curiosity. Exploration. The opening of the mind, through the process of discovery and revelation. Through whatever means you have found yourself here, you are welcomed, encouraged, to stay.\n\nBy finding this, you have self-selected for a rare program intended to test you. In the course of this examination, you will encounter questions and scenarios designed to open your mind to new possibilities and perspectives. Will you heed the call, and explore what potential may yet await you?\n\n_____________________________________________________________________________________\n\nThis is my first ever game, so hello. This game is a love letter to the era of Flash horror, which I used to indulge in heavily. This is, however, not a horror experience. Instead, it is what I shall call \"Bizarre\" - taking from another medium, a \"Bizarre\" work is one that implicates a wider world of magic and ritual. It is often, but not necessarily, presented in a dark and atmospheric manner, with a particular focus on narrative and mystery. I repeat: this is not a conventional horror experience. There are no jumpscares, there are no creatures, there is no survival or opposition, and you are free - and encouraged - to explore as you like.\n\nHere's a rough idea of what you're up for:\n\nGRAPHICS\n\nThis experience is largely text-based, but it uses graphics throughout. Animated backgrounds are present throughout, and art is a central part of the experience at several points throughout. All art, static and animation, is hand-drawn, with a stylistic emphasis on muted tones, typically grayscale, and a sketchy or blotty appearance.\n\nGAMEPLAY\n\nGameplay consists largely of point-and-click, particularly in a question-and-answer format. There are some typing sections as well. I made this on Ren.py, a visual novel engine, and brute forced it into being more interactive. At several points, you will be asked to take a critical eye to what you are being presented with. Your success or failure in doing so, and the answers you provide, will lead to one of about 60 permutations of ending. Most of the gameplay will remain the same, although it will occasionally remark on your actions.\n\nSkipping through chunks of dialogue, the game can still take an hour to finish. While you can make it run faster, I wouldn't recommend it. The replay value at launch consists of achieving different endings, including the 'ideal' one, and exploring different choices and what the game might react to. If this is not the sort of game you enjoy, I welcome you to try, but cannot advise you to expect something radically different.\n\nREQUIREMENTS\n\nThis game was developed on Ren.py 7.4.11.2266, and should be compatible with most OS platforms of relatively decent modernity. As the game is largely point and click mechanics with premade art, it does not render much, and should be able to run fine on even low-performance computers. Renpy's release for 7.4 states that OpenGL 2, DirectX 9, OpenGL ES 2, or WebGL are required to run programs on that version, if any clarification is needed.\n\nACCESSIBILITY\n\nThis game's graphics are predominantly in grayscale, featuring white text on dark black and gray backgrounds. At times, it will use purple text instead. At other times, there will be muted red and black on a gray background. So long as you are capable of distinguishing some color from no color at all, the game will be functional for you. While recent Renpy builds have included a self-voicing feature by default, the visual component of this experience is important, and having eyesight is necessary to progress certain sections.",
+  "description_short": "A dark atmospheric test that asks you to see things in new ways, including the experience of playing itself. In this love letter to flash horror, explore 60 ending permutations and reactivity to your answers, as the game not only allows but implores you to play and break it how you see fit.",
+  "genres": [
+    "Интерактивное кино",
+    "Квесты (Point-and-Click)",
+    "Головоломки",
+    "Казуальные игры"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 213,
+  "markup_rub": 500,
+  "price_rub": 713,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2764110/ss_7a68060c9123337106a5eca9253ba947a9d94ae5.1920x1080.jpg?t=1710488888",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2764110/ss_24411338b217175a829aa6da858be99607397077.1920x1080.jpg?t=1710488888",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2764110/ss_d2199cdac440d15ac5e25a0f057e1972824cfb44.1920x1080.jpg?t=1710488888",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2764110/ss_5c2aeb11fec7608a25ac4c0efc2f3a34eff29343.1920x1080.jpg?t=1710488888",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2764110/ss_701ada09c169e2744303692e180ee866c2e30182.1920x1080.jpg?t=1710488888"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-12T04:07:00Z"
+}

@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 144,
+  "base_price_rub": 290,
   "markup_rub": 500,
-  "price_rub": 644,
-  "original_price_rub": 790,
-  "discount_percent": 50,
+  "price_rub": 790,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,20 +35,20 @@
     {
       "id": 436190,
       "name": "RPG Tycoon Original Soundtrack",
-      "base_price_rub": 84,
+      "base_price_rub": 170,
       "markup_rub": 500,
-      "price_rub": 584,
+      "price_rub": 670,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/436190/header.jpg?t=1771888624"
     },
     {
       "id": 551250,
       "name": "RPG Tycoon: Supply & Demand",
-      "base_price_rub": 84,
+      "base_price_rub": 170,
       "markup_rub": 500,
-      "price_rub": 584,
+      "price_rub": 670,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/551250/header.jpg?t=1771888675"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-08T19:47:45Z"
+  "updated_at": "2026-07-12T03:34:20Z"
 }

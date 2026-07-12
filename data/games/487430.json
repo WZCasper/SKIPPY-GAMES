@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 96,
+  "base_price_rub": 387,
   "markup_rub": 500,
-  "price_rub": 596,
-  "original_price_rub": 886,
-  "discount_percent": 75,
+  "price_rub": 887,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -32,20 +32,20 @@
     {
       "id": 743160,
       "name": "KARAKARA Original Soundtrack",
-      "base_price_rub": 96,
+      "base_price_rub": 387,
       "markup_rub": 500,
-      "price_rub": 596,
+      "price_rub": 887,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/743160/header.jpg?t=1581550140"
     },
     {
       "id": 947680,
       "name": "KARAKARA - 18+ Adult Only Content",
-      "base_price_rub": 96,
+      "base_price_rub": 387,
       "markup_rub": 500,
-      "price_rub": 596,
+      "price_rub": 887,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/947680/header.jpg?t=1580430715"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-08T20:13:18Z"
+  "updated_at": "2026-07-12T03:59:11Z"
 }

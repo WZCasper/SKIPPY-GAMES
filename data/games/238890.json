@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 53,
+  "base_price_rub": 213,
   "markup_rub": 500,
-  "price_rub": 553,
-  "original_price_rub": 713,
-  "discount_percent": 75,
+  "price_rub": 713,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,12 +35,12 @@
     {
       "id": 238900,
       "name": "Skyward Collapse: Nihon no Mura",
-      "base_price_rub": 31,
+      "base_price_rub": 127,
       "markup_rub": 500,
-      "price_rub": 531,
+      "price_rub": 627,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238900/header.jpg?t=1754320081"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-08T19:43:43Z"
+  "updated_at": "2026-07-12T03:28:58Z"
 }
