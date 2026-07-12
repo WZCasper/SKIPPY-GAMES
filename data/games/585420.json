@@ -16,11 +16,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 112,
+  "base_price_rub": 565,
   "markup_rub": 500,
-  "price_rub": 612,
-  "original_price_rub": 1065,
-  "discount_percent": 80,
+  "price_rub": 1065,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -38,100 +38,100 @@
     {
       "id": 4380410,
       "name": "Trailmakers - Mech Amok",
-      "base_price_rub": 258,
+      "base_price_rub": 387,
       "markup_rub": 500,
-      "price_rub": 758,
+      "price_rub": 887,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380410/175c9a6eee0ea0de9ffc806e42d99b2ab29cbd72/header.jpg?t=1773315992"
     },
     {
       "id": 3915680,
       "name": "Trailmakers - Frozen Tracks",
-      "base_price_rub": 373,
+      "base_price_rub": 558,
       "markup_rub": 500,
-      "price_rub": 873,
+      "price_rub": 1058,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3915680/ca91a0e3d06662ac59fa8714087ef8804ef3a4ca/header.jpg?t=1772704366"
     },
     {
       "id": 3729370,
       "name": "Trailmakers - Supply Pack: Frontline",
-      "base_price_rub": 107,
+      "base_price_rub": 213,
       "markup_rub": 500,
-      "price_rub": 607,
+      "price_rub": 713,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3729370/127400ededa13820f2915868c8cb1cc7de1ca701/header.jpg?t=1772704568"
     },
     {
       "id": 3708690,
       "name": "Trailmakers: Packing Heat",
-      "base_price_rub": 192,
+      "base_price_rub": 387,
       "markup_rub": 500,
-      "price_rub": 692,
+      "price_rub": 887,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3708690/bfb8b654a4f40b9012e4f9786123f50a4491cac4/header.jpg?t=1772704757"
     },
     {
       "id": 2285970,
       "name": "Trailmakers: Airborne Expansion",
-      "base_price_rub": 373,
+      "base_price_rub": 558,
       "markup_rub": 500,
-      "price_rub": 873,
+      "price_rub": 1058,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2285970/header.jpg?t=1708524464"
     },
     {
       "id": 3009870,
       "name": "Trailmakers: Motorhead Pack",
-      "base_price_rub": 160,
+      "base_price_rub": 321,
       "markup_rub": 500,
-      "price_rub": 660,
+      "price_rub": 821,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3009870/header.jpg?t=1772704525"
     },
     {
       "id": 2579530,
       "name": "Trailmakers: Space Voyager Pack",
-      "base_price_rub": 192,
+      "base_price_rub": 387,
       "markup_rub": 500,
-      "price_rub": 692,
+      "price_rub": 887,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2579530/header.jpg?t=1772704608"
     },
     {
       "id": 1607390,
       "name": "Trailmakers: расширение «Морские просторы»",
-      "base_price_rub": 144,
+      "base_price_rub": 290,
       "markup_rub": 500,
-      "price_rub": 644,
+      "price_rub": 790,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1607390/header.jpg?t=1708524669"
     },
     {
       "id": 2054110,
       "name": "Trailmakers: Decals Action Pack",
-      "base_price_rub": 101,
+      "base_price_rub": 204,
       "markup_rub": 500,
-      "price_rub": 601,
+      "price_rub": 704,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054110/header_russian.jpg?t=1708524518"
     },
     {
       "id": 2054120,
       "name": "Trailmakers: Decals Expression Pack",
-      "base_price_rub": 67,
+      "base_price_rub": 136,
       "markup_rub": 500,
-      "price_rub": 567,
+      "price_rub": 636,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054120/header_russian.jpg?t=1708524577"
     },
     {
       "id": 1183540,
       "name": "Trailmakers: Texture Pack 1",
-      "base_price_rub": 84,
+      "base_price_rub": 170,
       "markup_rub": 500,
-      "price_rub": 584,
+      "price_rub": 670,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1183540/7550c4fe297117e631c5df18df364533946b0d07/header.jpg?t=1750062986"
     },
     {
       "id": 1333570,
       "name": "Trailmakers: Texture Pack 2",
-      "base_price_rub": 84,
+      "base_price_rub": 170,
       "markup_rub": 500,
-      "price_rub": 584,
+      "price_rub": 670,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1333570/bc75eda5da81c0789baac45aa8e74e09c1db1f35/header.jpg?t=1750063050"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T15:22:46Z"
+  "updated_at": "2026-07-12T19:14:39Z"
 }

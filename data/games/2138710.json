@@ -16,11 +16,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 244,
+  "base_price_rub": 978,
   "markup_rub": 500,
-  "price_rub": 744,
-  "original_price_rub": 1478,
-  "discount_percent": 75,
+  "price_rub": 1478,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -38,28 +38,28 @@
     {
       "id": 2231950,
       "name": "Sifu Deluxe Cosmetic Pack",
-      "base_price_rub": 110,
+      "base_price_rub": 220,
       "markup_rub": 500,
-      "price_rub": 610,
+      "price_rub": 720,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2231950/header.jpg?t=1680870737"
     },
     {
       "id": 2253840,
       "name": "The Sound of Sifu",
-      "base_price_rub": 110,
+      "base_price_rub": 220,
       "markup_rub": 500,
-      "price_rub": 610,
+      "price_rub": 720,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2253840/header.jpg?t=1680923904"
     },
     {
       "id": 2253841,
       "name": "The Art of Sifu",
-      "base_price_rub": 110,
+      "base_price_rub": 220,
       "markup_rub": 500,
-      "price_rub": 610,
+      "price_rub": 720,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2253841/header.jpg?t=1680640886"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T16:09:45Z"
+  "updated_at": "2026-07-12T20:00:37Z"
 }

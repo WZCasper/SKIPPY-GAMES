@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 814,
+  "base_price_rub": 3263,
   "markup_rub": 500,
-  "price_rub": 1314,
-  "original_price_rub": 3763,
-  "discount_percent": 75,
+  "price_rub": 3763,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -34,17 +34,17 @@
     {
       "id": 1769970,
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Базовый набор дополнения ",
-      "base_price_rub": 337,
+      "base_price_rub": 842,
       "markup_rub": 500,
-      "price_rub": 837,
+      "price_rub": 1342,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1769970/header.jpg?t=1634313655"
     },
     {
       "id": 1977370,
       "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: дополнительный набор костюмов Kimetsu Academy Summer Uniforms",
-      "base_price_rub": 108,
+      "base_price_rub": 273,
       "markup_rub": 500,
-      "price_rub": 608,
+      "price_rub": 773,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977370/header.jpg?t=1704417957"
     },
     {
@@ -54,22 +54,6 @@
       "markup_rub": 500,
       "price_rub": 773,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977380/header.jpg?t=1704417974"
-    },
-    {
-      "id": 1977381,
-      "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Tanjiro, Zenitsu, & Inosuke (Entertainment District) Character Pack",
-      "base_price_rub": 567,
-      "markup_rub": 500,
-      "price_rub": 1067,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1977381/header.jpg?t=1704417935"
-    },
-    {
-      "id": 1981880,
-      "name": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles: Character Pass",
-      "base_price_rub": 491,
-      "markup_rub": 500,
-      "price_rub": 991,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1981880/header.jpg?t=1704417896"
     },
     {
       "id": 1981881,
@@ -97,5 +81,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T16:03:22Z"
+  "updated_at": "2026-07-12T19:54:17Z"
 }

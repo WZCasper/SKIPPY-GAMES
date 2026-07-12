@@ -11,11 +11,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 268,
+  "base_price_rub": 335,
   "markup_rub": 500,
-  "price_rub": 768,
-  "original_price_rub": 835,
-  "discount_percent": 20,
+  "price_rub": 835,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -33,12 +33,12 @@
     {
       "id": 2345650,
       "name": "DSX+ (Virtual DualSense, BT Audio/Haptics) DLC",
-      "base_price_rub": 137,
+      "base_price_rub": 172,
       "markup_rub": 500,
-      "price_rub": 637,
+      "price_rub": 672,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2345650/ca3a6051314265f8e63cebb5324eb4fd24715db8/header.jpg?t=1763110607"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T16:08:51Z"
+  "updated_at": "2026-07-12T19:59:34Z"
 }

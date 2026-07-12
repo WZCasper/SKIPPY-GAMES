@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 124,
+  "base_price_rub": 249,
   "markup_rub": 500,
-  "price_rub": 624,
-  "original_price_rub": 749,
-  "discount_percent": 50,
+  "price_rub": 749,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -31,7 +31,24 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1769320/ss_c3d5bfdce450877d683a657e1a4c8b50a2390fb4.1920x1080.jpg?t=1780684358",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1769320/ss_5e6390e7b81caf7fa7af49cf63f12e1604553166.1920x1080.jpg?t=1780684358"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 1887090,
+      "name": "Athanasy Soundtrack",
+      "base_price_rub": 86,
+      "markup_rub": 500,
+      "price_rub": 586,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1887090/header.jpg?t=1655922048"
+    },
+    {
+      "id": 1945510,
+      "name": "Athanasy - Артбук",
+      "base_price_rub": 86,
+      "markup_rub": 500,
+      "price_rub": 586,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1945510/header.jpg?t=1655922011"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-09T16:14:59Z"
+  "updated_at": "2026-07-12T20:05:18Z"
 }

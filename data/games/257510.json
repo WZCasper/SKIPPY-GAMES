@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 155,
+  "base_price_rub": 1031,
   "markup_rub": 500,
-  "price_rub": 655,
-  "original_price_rub": 1531,
-  "discount_percent": 85,
+  "price_rub": 1531,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,36 +35,36 @@
     {
       "id": 358470,
       "name": "The Talos Principle: Road To Gehenna",
-      "base_price_rub": 112,
+      "base_price_rub": 558,
       "markup_rub": 500,
-      "price_rub": 612,
+      "price_rub": 1058,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/358470/header.jpg?t=1447371279"
     },
     {
       "id": 322020,
       "name": "The Talos Principle: Soundtrack",
-      "base_price_rub": 41,
+      "base_price_rub": 213,
       "markup_rub": 500,
-      "price_rub": 541,
+      "price_rub": 713,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322020/header.jpg?t=1704494785"
     },
     {
       "id": 322021,
       "name": "The Talos Principle: Bonus Content",
-      "base_price_rub": 41,
+      "base_price_rub": 213,
       "markup_rub": 500,
-      "price_rub": 541,
+      "price_rub": 713,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/322021/header.jpg?t=1704494930"
     },
     {
       "id": 360820,
       "name": "The Talos Principle: Serious DLC",
-      "base_price_rub": 31,
+      "base_price_rub": 127,
       "markup_rub": 500,
-      "price_rub": 531,
+      "price_rub": 627,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/360820/header.jpg?t=1704494845"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T15:27:18Z"
+  "updated_at": "2026-07-12T19:18:53Z"
 }

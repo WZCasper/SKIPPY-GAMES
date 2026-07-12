@@ -16,11 +16,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 95,
+  "base_price_rub": 479,
   "markup_rub": 500,
-  "price_rub": 595,
-  "original_price_rub": 979,
-  "discount_percent": 80,
+  "price_rub": 979,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,20 +35,20 @@
     {
       "id": 256320,
       "name": "LEGO® Marvel Super Heroes DLC: Super Pack",
-      "base_price_rub": 41,
+      "base_price_rub": 170,
       "markup_rub": 500,
-      "price_rub": 541,
+      "price_rub": 670,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256320/header.jpg?t=1563795881"
     },
     {
       "id": 256321,
       "name": "LEGO Marvel Super Heroes DLC: Asgard Pack",
-      "base_price_rub": 34,
+      "base_price_rub": 69,
       "markup_rub": 500,
-      "price_rub": 534,
+      "price_rub": 569,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256321/header.jpg?t=1563795893"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T15:32:13Z"
+  "updated_at": "2026-07-12T19:23:30Z"
 }

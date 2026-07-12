@@ -33,7 +33,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623240/ss_b12230c802001b043de97031dcb4d7d1ee6f9ff3.1920x1080.jpg?t=1737336630",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623240/ss_bb38b9f9958b1b63f5861b35f9692f1883c0226d.1920x1080.jpg?t=1737336630"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 1660100,
+      "name": "Maguntsche: Chapter One Remastered Soundtrack",
+      "base_price_rub": 69,
+      "markup_rub": 500,
+      "price_rub": 569,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660100/header.jpg?t=1624755810"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-09T16:14:19Z"
+  "updated_at": "2026-07-12T20:01:54Z"
 }

@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 101,
+  "base_price_rub": 290,
   "markup_rub": 500,
-  "price_rub": 601,
-  "original_price_rub": 790,
-  "discount_percent": 65,
+  "price_rub": 790,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -31,7 +31,32 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251210/ss_ed5987d096767626937bc1c65f93aa671d0bed0a.1920x1080.jpg?t=1483560538",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251210/ss_718b659ec293b1c7807ea3006433f0da3b0cfd3f.1920x1080.jpg?t=1483560538"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 258850,
+      "name": "Hive - The Pillbug",
+      "base_price_rub": 127,
+      "markup_rub": 500,
+      "price_rub": 627,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/258850/header.jpg?t=1483560612"
+    },
+    {
+      "id": 258852,
+      "name": "Hive - The Mosquito",
+      "base_price_rub": 127,
+      "markup_rub": 500,
+      "price_rub": 627,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/258852/header.jpg?t=1483560604"
+    },
+    {
+      "id": 258851,
+      "name": "Hive - The Ladybug",
+      "base_price_rub": 127,
+      "markup_rub": 500,
+      "price_rub": 627,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/258851/header.jpg?t=1483560603"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-09T16:14:57Z"
+  "updated_at": "2026-07-12T20:05:14Z"
 }

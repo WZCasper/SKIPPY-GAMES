@@ -16,11 +16,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 225,
+  "base_price_rub": 376,
   "markup_rub": 500,
-  "price_rub": 725,
-  "original_price_rub": 876,
-  "discount_percent": 40,
+  "price_rub": 876,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -46,20 +46,20 @@
     {
       "id": 1585900,
       "name": "Dorfromantik Саундтрек 1",
-      "base_price_rub": 143,
+      "base_price_rub": 204,
       "markup_rub": 500,
-      "price_rub": 643,
+      "price_rub": 704,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1585900/header_russian.jpg?t=1754649000"
     },
     {
       "id": 1981960,
       "name": "Dorfromantik Soundtrack Vol. 2",
-      "base_price_rub": 143,
+      "base_price_rub": 204,
       "markup_rub": 500,
-      "price_rub": 643,
+      "price_rub": 704,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1981960/header_russian.jpg?t=1731505850"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T15:43:49Z"
+  "updated_at": "2026-07-12T19:35:12Z"
 }

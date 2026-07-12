@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 186,
+  "base_price_rub": 747,
   "markup_rub": 500,
-  "price_rub": 686,
-  "original_price_rub": 1247,
-  "discount_percent": 75,
+  "price_rub": 1247,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -37,28 +37,28 @@
     {
       "id": 382400,
       "name": "Dungeons 2 - A Game of Winter",
-      "base_price_rub": 74,
+      "base_price_rub": 301,
       "markup_rub": 500,
-      "price_rub": 574,
+      "price_rub": 801,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/382400/header.jpg?t=1673584336"
     },
     {
       "id": 390180,
       "name": "Dungeons 2 - A Song of Sand and Fire",
-      "base_price_rub": 36,
+      "base_price_rub": 146,
       "markup_rub": 500,
-      "price_rub": 536,
+      "price_rub": 646,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390180/header.jpg?t=1673584263"
     },
     {
       "id": 382410,
       "name": "Dungeons 2 - A Chance of Dragons",
-      "base_price_rub": 36,
+      "base_price_rub": 146,
       "markup_rub": 500,
-      "price_rub": 536,
+      "price_rub": 646,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/382410/header.jpg?t=1673584223"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T15:33:17Z"
+  "updated_at": "2026-07-12T19:24:44Z"
 }

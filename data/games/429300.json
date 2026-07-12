@@ -28,7 +28,24 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429300/ss_e768d4a78daeaf2f8daf5fda5a110510f973f5ed.1920x1080.jpg?t=1751133962",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429300/ss_ff2dc15437bab9f40e7b6b0d11a9172ccc380be0.1920x1080.jpg?t=1751133962"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 867860,
+      "name": "Слёзы Сепии: Версия Реприза",
+      "base_price_rub": 280,
+      "markup_rub": 500,
+      "price_rub": 780,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/867860/header.jpg?t=1751134021"
+    },
+    {
+      "id": 989900,
+      "name": "Слёзы Сепии - Оригинальный Саундтрек",
+      "base_price_rub": 280,
+      "markup_rub": 500,
+      "price_rub": 780,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989900/header.jpg?t=1727896646"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-09T16:14:53Z"
+  "updated_at": "2026-07-12T20:05:09Z"
 }

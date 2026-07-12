@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 313,
+  "base_price_rub": 1252,
   "markup_rub": 500,
-  "price_rub": 813,
-  "original_price_rub": 1753,
-  "discount_percent": 75,
+  "price_rub": 1752,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,28 +36,28 @@
     {
       "id": 329530,
       "name": "Age of Wonders III - Eternal Lords Expansion",
-      "base_price_rub": 210,
+      "base_price_rub": 840,
       "markup_rub": 500,
-      "price_rub": 710,
+      "price_rub": 1340,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329530/header.jpg?t=1726497710"
     },
     {
       "id": 299230,
       "name": "Age of Wonders III - Golden Realms Expansion",
-      "base_price_rub": 127,
+      "base_price_rub": 514,
       "markup_rub": 500,
-      "price_rub": 627,
+      "price_rub": 1014,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/299230/header.jpg?t=1726496860"
     },
     {
       "id": 275560,
       "name": "Age of Wonders III - Deluxe Edition DLC",
-      "base_price_rub": 72,
+      "base_price_rub": 290,
       "markup_rub": 500,
-      "price_rub": 572,
+      "price_rub": 790,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275560/header.jpg?t=1589900575"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T15:32:29Z"
+  "updated_at": "2026-07-12T19:23:47Z"
 }

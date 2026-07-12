@@ -16,11 +16,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 309,
+  "base_price_rub": 1031,
   "markup_rub": 500,
-  "price_rub": 809,
-  "original_price_rub": 1531,
-  "discount_percent": 70,
+  "price_rub": 1531,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -38,36 +38,36 @@
     {
       "id": 2506610,
       "name": "The Riftbreaker: Heart of the Swamp",
-      "base_price_rub": 155,
+      "base_price_rub": 387,
       "markup_rub": 500,
-      "price_rub": 655,
+      "price_rub": 887,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506610/header.jpg?t=1756144465"
     },
     {
       "id": 1945600,
       "name": "The Riftbreaker: Metal Terror",
-      "base_price_rub": 155,
+      "base_price_rub": 387,
       "markup_rub": 500,
-      "price_rub": 655,
+      "price_rub": 887,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1945600/header.jpg?t=1756142942"
     },
     {
       "id": 2108630,
       "name": "The Riftbreaker: Into The Dark",
-      "base_price_rub": 155,
+      "base_price_rub": 387,
       "markup_rub": 500,
-      "price_rub": 655,
+      "price_rub": 887,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2108630/header.jpg?t=1756143798"
     },
     {
       "id": 1788250,
       "name": "The Riftbreaker: Soundtrack",
-      "base_price_rub": 155,
+      "base_price_rub": 387,
       "markup_rub": 500,
-      "price_rub": 655,
+      "price_rub": 887,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1788250/header.jpg?t=1755841822"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T15:32:25Z"
+  "updated_at": "2026-07-12T19:23:43Z"
 }

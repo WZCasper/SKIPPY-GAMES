@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 27,
+  "base_price_rub": 36,
   "markup_rub": 500,
-  "price_rub": 527,
-  "original_price_rub": 536,
-  "discount_percent": 24,
+  "price_rub": 536,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -37,12 +37,12 @@
     {
       "id": 538190,
       "name": "ORION: Prelude (ULTIMATE EDITION)",
-      "base_price_rub": 57,
+      "base_price_rub": 290,
       "markup_rub": 500,
-      "price_rub": 557,
+      "price_rub": 790,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/538190/header.jpg?t=1548525043"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T15:33:14Z"
+  "updated_at": "2026-07-12T19:24:40Z"
 }

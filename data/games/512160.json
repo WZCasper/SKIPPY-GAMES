@@ -29,7 +29,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512160/ss_1d4f3d65b253e1c42e22e09580dc93fd236f9704.1920x1080.jpg?t=1695247584",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512160/ss_07e6a1ca186cd781ed5de747dbd5aebbbfb93d23.1920x1080.jpg?t=1695247584"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 958250,
+      "name": "Volleying: Original Soundtrack",
+      "base_price_rub": 45,
+      "markup_rub": 500,
+      "price_rub": 545,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/958250/header.jpg?t=1581550366"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-09T16:14:25Z"
+  "updated_at": "2026-07-12T20:02:00Z"
 }

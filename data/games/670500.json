@@ -31,7 +31,104 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/670500/ss_407bae057db281fb47cf8955469f7ff1170ffd91.1920x1080.jpg?t=1502210456",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/670500/ss_1fb4211fc4c7cc09aeb25175789dfcd285c9ff4c.1920x1080.jpg?t=1502210456"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 674100,
+      "name": "RC Plane 3 - Complete Edition",
+      "base_price_rub": 565,
+      "markup_rub": 500,
+      "price_rub": 1065,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/674100/header.jpg?t=1502168704"
+    },
+    {
+      "id": 675770,
+      "name": "RC Plane 3 - Airbus",
+      "base_price_rub": 101,
+      "markup_rub": 500,
+      "price_rub": 601,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675770/header.jpg?t=1502168585"
+    },
+    {
+      "id": 675780,
+      "name": "RC Plane 3 - Stunt Pack",
+      "base_price_rub": 136,
+      "markup_rub": 500,
+      "price_rub": 636,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675780/header.jpg?t=1502169294"
+    },
+    {
+      "id": 675790,
+      "name": "RC Plane 3 - EDF Sparrow",
+      "base_price_rub": 69,
+      "markup_rub": 500,
+      "price_rub": 569,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675790/header.jpg?t=1502168806"
+    },
+    {
+      "id": 675800,
+      "name": "RC Plane 3 - Warbirds Bundle",
+      "base_price_rub": 136,
+      "markup_rub": 500,
+      "price_rub": 636,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675800/header.jpg?t=1502169392"
+    },
+    {
+      "id": 675801,
+      "name": "RC Plane 3 - F 141 - Combo",
+      "base_price_rub": 136,
+      "markup_rub": 500,
+      "price_rub": 636,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675801/header.jpg?t=1502168864"
+    },
+    {
+      "id": 675802,
+      "name": "RC Plane 3 - Firefighter Bundle",
+      "base_price_rub": 101,
+      "markup_rub": 500,
+      "price_rub": 601,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675802/header.jpg?t=1502169003"
+    },
+    {
+      "id": 675803,
+      "name": "RC Plane 3 - DroneGP",
+      "base_price_rub": 101,
+      "markup_rub": 500,
+      "price_rub": 601,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675803/header.jpg?t=1502168754"
+    },
+    {
+      "id": 675804,
+      "name": "RC Plane 3 - Red Baron",
+      "base_price_rub": 69,
+      "markup_rub": 500,
+      "price_rub": 569,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675804/header.jpg?t=1502169201"
+    },
+    {
+      "id": 675805,
+      "name": "RC Plane 3 - CP-350",
+      "base_price_rub": 36,
+      "markup_rub": 500,
+      "price_rub": 536,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675805/header.jpg?t=1502168646"
+    },
+    {
+      "id": 675806,
+      "name": "RC Plane 3 - Luxury Jet",
+      "base_price_rub": 170,
+      "markup_rub": 500,
+      "price_rub": 670,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675806/header.jpg?t=1502169155"
+    },
+    {
+      "id": 675807,
+      "name": "RC Plane 3 - Flying Fortress",
+      "base_price_rub": 136,
+      "markup_rub": 500,
+      "price_rub": 636,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/675807/header.jpg?t=1502169107"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-09T16:14:47Z"
+  "updated_at": "2026-07-12T20:05:00Z"
 }

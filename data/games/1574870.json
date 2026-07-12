@@ -30,7 +30,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574870/ss_f2a70ce3f990a48ccdce932ac7dc3acc24d9569f.1920x1080.jpg?t=1775732965",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574870/ss_bb6b2cc7b6afff81df2f1141e832b2f9e6b0d301.1920x1080.jpg?t=1775732965"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 3061110,
+      "name": "USC: Counterforce - Supporter Pack",
+      "base_price_rub": 170,
+      "markup_rub": 500,
+      "price_rub": 670,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3061110/header.jpg?t=1721903780"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-09T16:14:15Z"
+  "updated_at": "2026-07-12T20:01:50Z"
 }

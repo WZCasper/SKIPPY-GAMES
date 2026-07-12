@@ -16,11 +16,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 318,
+  "base_price_rub": 1589,
   "markup_rub": 500,
-  "price_rub": 818,
-  "original_price_rub": 2089,
-  "discount_percent": 80,
+  "price_rub": 2089,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -38,60 +38,44 @@
     {
       "id": 2873470,
       "name": "EVERSPACE™ 2 - Wrath of the Ancients",
-      "base_price_rub": 531,
+      "base_price_rub": 885,
       "markup_rub": 500,
-      "price_rub": 1031,
+      "price_rub": 1385,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873470/header.jpg?t=1777558274"
     },
     {
       "id": 2873460,
       "name": "EVERSPACE™ 2 - Titans",
-      "base_price_rub": 273,
+      "base_price_rub": 455,
       "markup_rub": 500,
-      "price_rub": 773,
+      "price_rub": 955,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873460/header.jpg?t=1772489574"
     },
     {
       "id": 2911770,
       "name": "EVERSPACE™ 2 - Supporter Pack",
-      "base_price_rub": 289,
+      "base_price_rub": 387,
       "markup_rub": 500,
-      "price_rub": 789,
+      "price_rub": 887,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2911770/header.jpg?t=1766297240"
     },
     {
       "id": 2606620,
       "name": "The Art of EVERSPACE™ 2",
-      "base_price_rub": 155,
+      "base_price_rub": 387,
       "markup_rub": 500,
-      "price_rub": 655,
+      "price_rub": 887,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2606620/eb0e15c1b66633a7d038661c8881515c3de4edd9/header.jpg?t=1766022868"
     },
     {
       "id": 2606640,
       "name": "The EVERSPACE™ 2 Official Soundtrack",
-      "base_price_rub": 155,
+      "base_price_rub": 387,
       "markup_rub": 500,
-      "price_rub": 655,
+      "price_rub": 887,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2606640/6ea4a61574a4b711102125c4fcc38650c2da3be3/header.jpg?t=1766022761"
-    },
-    {
-      "id": 3690830,
-      "name": "The EVERSPACE™ 2 Official Soundtrack - Expansion Tracks",
-      "base_price_rub": 127,
-      "markup_rub": 500,
-      "price_rub": 627,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690830/ddfb4c4c081e6f3e256b85178dc6048b1fe2a2ba/header.jpg?t=1766022786"
-    },
-    {
-      "id": 3690840,
-      "name": "The Art of EVERSPACE™ 2 - Ancients & Titans",
-      "base_price_rub": 127,
-      "markup_rub": 500,
-      "price_rub": 627,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690840/37cd3f44014ae5d51ca63fa4b758b915a2fdf3eb/header.jpg?t=1766022832"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T15:52:50Z"
+  "updated_at": "2026-07-12T19:43:37Z"
 }
