@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 556,
+  "base_price_rub": 140,
   "markup_rub": 500,
-  "price_rub": 1056,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 640,
+  "original_price_rub": 1061,
+  "discount_percent": 75,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,17 +35,17 @@
     {
       "id": 914280,
       "name": "Gladiabots - Optimization Pack",
-      "base_price_rub": 385,
+      "base_price_rub": 388,
       "markup_rub": 500,
-      "price_rub": 885,
+      "price_rub": 888,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/914280/header.jpg?t=1726507212"
     },
     {
       "id": 1287320,
       "name": "Gladiabots - 2 000 Credits",
-      "base_price_rub": 44,
+      "base_price_rub": 45,
       "markup_rub": 500,
-      "price_rub": 544,
+      "price_rub": 545,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1287320/header.jpg?t=1754049336"
     },
     {
@@ -59,28 +59,28 @@
     {
       "id": 1287322,
       "name": "Gladiabots - 12 000 Credits",
-      "base_price_rub": 212,
+      "base_price_rub": 214,
       "markup_rub": 500,
-      "price_rub": 712,
+      "price_rub": 714,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1287322/header.jpg?t=1754049340"
     },
     {
       "id": 1287323,
       "name": "Gladiabots - 28 000 Credits",
-      "base_price_rub": 385,
+      "base_price_rub": 388,
       "markup_rub": 500,
-      "price_rub": 885,
+      "price_rub": 888,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1287323/header.jpg?t=1754049342"
     },
     {
       "id": 1287324,
       "name": "Gladiabots - 64 000 Credits",
-      "base_price_rub": 710,
+      "base_price_rub": 716,
       "markup_rub": 500,
-      "price_rub": 1210,
+      "price_rub": 1216,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1287324/header.jpg?t=1754049434"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-10T14:41:54Z"
+  "updated_at": "2026-07-13T19:37:48Z"
 }

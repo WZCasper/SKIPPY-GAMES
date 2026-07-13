@@ -31,7 +31,32 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3290710/ss_557dcec68b71ef22cc269c62063ef72c45eb18fd.1920x1080.jpg?t=1782676712",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3290710/ss_37572075cb0ec282c3863558c60c42235b27add6.1920x1080.jpg?t=1782676712"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 4892280,
+      "name": "RATSHAKER™ - RATSUMMER Pack",
+      "base_price_rub": 74,
+      "markup_rub": 500,
+      "price_rub": 574,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4892280/0337c0e2c402f51f086f2bfcb3c9f182bd92d588/header.jpg?t=1782674988"
+    },
+    {
+      "id": 4533540,
+      "name": "RATSHAKER™ - Rat-Chan Pack",
+      "base_price_rub": 55,
+      "markup_rub": 500,
+      "price_rub": 555,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4533540/e08c6f69479fb134aabe6c4655b498f2f73fcb58/header.jpg?t=1774212699"
+    },
+    {
+      "id": 3617860,
+      "name": "RATSHAKER™ - Supporter Pack",
+      "base_price_rub": 148,
+      "markup_rub": 500,
+      "price_rub": 648,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3617860/abecba9107514897ea311f1e73330376853c03b0/header.jpg?t=1745495133"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-10T15:32:22Z"
+  "updated_at": "2026-07-13T20:26:09Z"
 }

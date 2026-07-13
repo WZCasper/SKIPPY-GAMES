@@ -14,9 +14,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 1281,
+  "base_price_rub": 1292,
   "markup_rub": 500,
-  "price_rub": 1781,
+  "price_rub": 1792,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -32,7 +32,32 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1663040/ss_83bf9429be14ccffbfd6b3ec7ec66cfc6da59222.1920x1080.jpg?t=1780479305",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1663040/ss_b1d5950573549c8e8f8437ab08ae9c82c737e3a3.1920x1080.jpg?t=1780479305"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 2809270,
+      "name": "Amber Isle - Starter Pack",
+      "base_price_rub": 250,
+      "markup_rub": 500,
+      "price_rub": 750,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2809270/header.jpg?t=1728576887"
+    },
+    {
+      "id": 2809280,
+      "name": "Amber Isle - Artbook",
+      "base_price_rub": 250,
+      "markup_rub": 500,
+      "price_rub": 750,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2809280/header.jpg?t=1728576034"
+    },
+    {
+      "id": 3185690,
+      "name": "Amber Isle - Soundtrack",
+      "base_price_rub": 250,
+      "markup_rub": 500,
+      "price_rub": 750,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3185690/header.jpg?t=1728576057"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-10T15:32:29Z"
+  "updated_at": "2026-07-13T20:26:19Z"
 }

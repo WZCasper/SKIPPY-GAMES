@@ -13,9 +13,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 453,
+  "base_price_rub": 457,
   "markup_rub": 500,
-  "price_rub": 953,
+  "price_rub": 957,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -31,7 +31,40 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/934930/ss_1a639c2a8cef5721cd761c37805d6392e0509056.1920x1080.jpg?t=1697562235",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/934930/ss_d4f7dffb8d49da7c09bf2dd7ca7adcdf79fc781d.1920x1080.jpg?t=1697562235"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 1210000,
+      "name": "RDS - WINTER DRIFT BATTLE DLC",
+      "base_price_rub": 388,
+      "markup_rub": 500,
+      "price_rub": 888,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1210000/header.jpg?t=1697559638"
+    },
+    {
+      "id": 999300,
+      "name": "RDS - PREMIUM CARS PACK#1",
+      "base_price_rub": 388,
+      "markup_rub": 500,
+      "price_rub": 888,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/999300/header.jpg?t=1697559827"
+    },
+    {
+      "id": 999301,
+      "name": "RDS - PREMIUM CARS PACK#2",
+      "base_price_rub": 388,
+      "markup_rub": 500,
+      "price_rub": 888,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/999301/header.jpg?t=1697560018"
+    },
+    {
+      "id": 999302,
+      "name": "RDS - RUSSIAN CARS PACK",
+      "base_price_rub": 323,
+      "markup_rub": 500,
+      "price_rub": 823,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/999302/header.jpg?t=1697560346"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-10T15:32:28Z"
+  "updated_at": "2026-07-13T20:26:16Z"
 }
