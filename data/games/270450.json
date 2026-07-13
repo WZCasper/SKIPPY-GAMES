@@ -15,9 +15,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 385,
+  "base_price_rub": 388,
   "markup_rub": 500,
-  "price_rub": 885,
+  "price_rub": 888,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -33,16 +33,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270450/ss_a531890ce2ad152d92e0e3028fe0d3b9103d3287.1920x1080.jpg?t=1671740670",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270450/ss_c7eea9fa84ec74c541010def4f130d0dcc96cf52.1920x1080.jpg?t=1671740670"
   ],
-  "upsells": [
-    {
-      "id": 367090,
-      "name": "Robot Roller-Derby Disco Dodgeball Soundtrack",
-      "base_price_rub": 212,
-      "markup_rub": 500,
-      "price_rub": 712,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367090/header.jpg?t=1581557638"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-10T10:08:29Z"
+  "updated_at": "2026-07-13T15:10:19Z"
 }

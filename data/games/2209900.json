@@ -11,10 +11,10 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 1832,
+  "base_price_rub": 1848,
   "markup_rub": 500,
-  "price_rub": 2332,
-  "original_price_rub": 2655,
+  "price_rub": 2348,
+  "original_price_rub": 2674,
   "discount_percent": 15,
   "is_free": false,
   "trailer_video": null,
@@ -29,24 +29,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209900/ss_cec1c9ee599b0c24b096dca38535906d7a838af1.1920x1080.jpg?t=1783444081",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209900/0aff9e9221071bd443ac5ba631415d2172370b81/ss_0aff9e9221071bd443ac5ba631415d2172370b81.1920x1080.jpg?t=1783444081"
   ],
-  "upsells": [
-    {
-      "id": 4743620,
-      "name": "Moonlight Peaks Original Soundtrack",
-      "base_price_rub": 180,
-      "markup_rub": 500,
-      "price_rub": 680,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4743620/9217eed31a30aca69fcb217b22d651268bfc8d7c/header.jpg?t=1783400120"
-    },
-    {
-      "id": 4892990,
-      "name": "Moonlight Peaks - Art Book",
-      "base_price_rub": 327,
-      "markup_rub": 500,
-      "price_rub": 827,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4892990/0b2c235ba4269d9731dcdcf169358f53ce69bad0/header.jpg?t=1783400113"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-10T14:39:31Z"
+  "updated_at": "2026-07-13T15:39:37Z"
 }

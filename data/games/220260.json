@@ -13,9 +13,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 392,
+  "base_price_rub": 395,
   "markup_rub": 500,
-  "price_rub": 892,
+  "price_rub": 895,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -35,36 +35,44 @@
     {
       "id": 246030,
       "name": "Farming Simulator 2013: Väderstad",
-      "base_price_rub": 204,
+      "base_price_rub": 205,
       "markup_rub": 500,
-      "price_rub": 704,
+      "price_rub": 705,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246030/header.jpg?t=1496329494"
     },
     {
       "id": 279090,
       "name": "Farming Simulator 2013 Lindner Unitrac",
-      "base_price_rub": 135,
+      "base_price_rub": 136,
       "markup_rub": 500,
-      "price_rub": 635,
+      "price_rub": 636,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/279090/header.jpg?t=1496329660"
     },
     {
       "id": 246010,
       "name": "Farming Simulator 2013: Marshall Trailers",
-      "base_price_rub": 135,
+      "base_price_rub": 136,
       "markup_rub": 500,
-      "price_rub": 635,
+      "price_rub": 636,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246010/header.jpg?t=1496329486"
+    },
+    {
+      "id": 220285,
+      "name": "Farming Simulator 2013: Ursus",
+      "base_price_rub": 205,
+      "markup_rub": 500,
+      "price_rub": 705,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220285/header.jpg?t=1496329516"
     },
     {
       "id": 246050,
       "name": "Farming Simulator 2013 - Official Expansion (Titanium)",
-      "base_price_rub": 289,
+      "base_price_rub": 292,
       "markup_rub": 500,
-      "price_rub": 789,
+      "price_rub": 792,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/246050/header.jpg?t=1532439621"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-10T10:16:16Z"
+  "updated_at": "2026-07-13T15:17:15Z"
 }

@@ -12,9 +12,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 46,
+  "base_price_rub": 47,
   "markup_rub": 500,
-  "price_rub": 546,
+  "price_rub": 547,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -30,16 +30,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527760/ss_d0ef5a3dc9e9581f5fac55ffd8cf462075b5c39c.1920x1080.jpg?t=1760396051",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527760/ss_8056ba383b82ab38a70878e53fc2f8154c479db8.1920x1080.jpg?t=1760396051"
   ],
-  "upsells": [
-    {
-      "id": 528290,
-      "name": "Just Hero Soundtrack",
-      "base_price_rub": 46,
-      "markup_rub": 500,
-      "price_rub": 546,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/528290/header.jpg?t=1475085067"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-10T14:39:27Z"
+  "updated_at": "2026-07-13T15:39:34Z"
 }
