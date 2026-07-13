@@ -13,9 +13,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 995,
+  "base_price_rub": 999,
   "markup_rub": 500,
-  "price_rub": 1495,
+  "price_rub": 1499,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -32,28 +32,36 @@
     {
       "id": 1946940,
       "name": "Nickelodeon All-Star Brawl - Universe Pack",
-      "base_price_rub": 342,
+      "base_price_rub": 343,
       "markup_rub": 500,
-      "price_rub": 842,
+      "price_rub": 843,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1946940/header.jpg?t=1652457688"
+    },
+    {
+      "id": 1944980,
+      "name": "Nickelodeon All-Star Brawl - Jenny Brawler Pack",
+      "base_price_rub": 171,
+      "markup_rub": 500,
+      "price_rub": 671,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1944980/header.jpg?t=1652457693"
     },
     {
       "id": 1967790,
       "name": "Nickelodeon All-Star Brawl - Hugh Neutron Brawler Pack",
-      "base_price_rub": 170,
+      "base_price_rub": 171,
       "markup_rub": 500,
-      "price_rub": 670,
+      "price_rub": 671,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1967790/header.jpg?t=1659743270"
     },
     {
       "id": 1967791,
       "name": "Nickelodeon All-Star Brawl - Rocko Brawler Pack",
-      "base_price_rub": 170,
+      "base_price_rub": 171,
       "markup_rub": 500,
-      "price_rub": 670,
+      "price_rub": 671,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1967791/header.jpg?t=1665158456"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T20:36:03Z"
+  "updated_at": "2026-07-13T04:13:08Z"
 }

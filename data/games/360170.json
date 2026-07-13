@@ -15,9 +15,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 394,
+  "base_price_rub": 395,
   "markup_rub": 500,
-  "price_rub": 894,
+  "price_rub": 895,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -73,16 +73,8 @@
       "markup_rub": 500,
       "price_rub": 569,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/543193/header.jpg?t=1477689655"
-    },
-    {
-      "id": 506040,
-      "name": "Abandoned Backpack",
-      "base_price_rub": 69,
-      "markup_rub": 500,
-      "price_rub": 569,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/506040/header.jpg?t=1482224658"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T20:22:08Z"
+  "updated_at": "2026-07-13T04:01:42Z"
 }

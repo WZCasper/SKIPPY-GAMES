@@ -13,9 +13,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 1168,
+  "base_price_rub": 1173,
   "markup_rub": 500,
-  "price_rub": 1668,
+  "price_rub": 1673,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -31,24 +31,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/987840/ss_e763033d684ae5436094cb781b0aec7dc33179f3.1920x1080.jpg?t=1781073903",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/987840/ss_2617665963e0ce6e78c6a1724224aa5340908658.1920x1080.jpg?t=1781073903"
   ],
-  "upsells": [
-    {
-      "id": 1805540,
-      "name": "Expeditions: Rome - Death or Glory",
-      "base_price_rub": 290,
-      "markup_rub": 500,
-      "price_rub": 790,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805540/header.jpg?t=1652256415"
-    },
-    {
-      "id": 1805541,
-      "name": "Expeditions: Rome - Soundtrack",
-      "base_price_rub": 170,
-      "markup_rub": 500,
-      "price_rub": 670,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805541/header.jpg?t=1652256433"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-09T20:11:31Z"
+  "updated_at": "2026-07-13T03:50:59Z"
 }

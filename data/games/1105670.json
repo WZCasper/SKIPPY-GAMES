@@ -13,10 +13,10 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 220,
+  "base_price_rub": 221,
   "markup_rub": 500,
-  "price_rub": 720,
-  "original_price_rub": 1385,
+  "price_rub": 721,
+  "original_price_rub": 1388,
   "discount_percent": 75,
   "is_free": false,
   "trailer_video": null,
@@ -35,36 +35,20 @@
     {
       "id": 4191390,
       "name": "The Last Spell - Tales of Torment",
-      "base_price_rub": 256,
+      "base_price_rub": 257,
       "markup_rub": 500,
-      "price_rub": 756,
+      "price_rub": 757,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4191390/316dc08f11fc1f33e66acfc568babe04684988af/header.jpg?t=1770315811"
     },
     {
       "id": 3023570,
       "name": "The Last Spell - Elves of Amberwald",
-      "base_price_rub": 223,
+      "base_price_rub": 224,
       "markup_rub": 500,
-      "price_rub": 723,
+      "price_rub": 724,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3023570/header.jpg?t=1761903990"
-    },
-    {
-      "id": 2795980,
-      "name": "The Last Spell - Dwarves of Runenberg",
-      "base_price_rub": 223,
-      "markup_rub": 500,
-      "price_rub": 723,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2795980/header.jpg?t=1727210186"
-    },
-    {
-      "id": 1628290,
-      "name": "The Last Spell - Original Soundtrack",
-      "base_price_rub": 127,
-      "markup_rub": 500,
-      "price_rub": 627,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1628290/header.jpg?t=1713971508"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T19:55:20Z"
+  "updated_at": "2026-07-13T03:35:06Z"
 }

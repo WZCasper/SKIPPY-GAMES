@@ -13,9 +13,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 497,
+  "base_price_rub": 499,
   "markup_rub": 500,
-  "price_rub": 997,
+  "price_rub": 999,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -31,22 +31,6 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221680/ss_4939f7d062257a638f09470fa7bddda28334abe1.1920x1080.jpg?t=1738085431"
   ],
   "upsells": [
-    {
-      "id": 294990,
-      "name": "Rocksmith® 2014 – Bachsmith",
-      "base_price_rub": 215,
-      "markup_rub": 500,
-      "price_rub": 715,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294990/header.jpg?t=1509138904"
-    },
-    {
-      "id": 369768,
-      "name": "Rocksmith® 2014 – Willie Nelson - “On the Road Again”",
-      "base_price_rub": 112,
-      "markup_rub": 500,
-      "price_rub": 612,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/369768/header.jpg?t=1509402714"
-    },
     {
       "id": 369769,
       "name": "Rocksmith® 2014 – Roger Miller - “King of the Road”",
@@ -66,20 +50,20 @@
     {
       "id": 369771,
       "name": "Rocksmith® 2014 – Classic Country Song Pack",
-      "base_price_rub": 361,
+      "base_price_rub": 362,
       "markup_rub": 500,
-      "price_rub": 861,
+      "price_rub": 862,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/369771/header.jpg?t=1509402983"
     },
     {
       "id": 390389,
       "name": "Rocksmith® 2014 – Bachsmith II",
-      "base_price_rub": 292,
+      "base_price_rub": 293,
       "markup_rub": 500,
-      "price_rub": 792,
+      "price_rub": 793,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390389/header.jpg?t=1509401399"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-09T20:06:12Z"
+  "updated_at": "2026-07-13T03:46:06Z"
 }
