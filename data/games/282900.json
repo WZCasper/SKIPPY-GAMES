@@ -15,9 +15,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 556,
+  "base_price_rub": 561,
   "markup_rub": 500,
-  "price_rub": 1056,
+  "price_rub": 1061,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -37,33 +37,33 @@
     {
       "id": 898960,
       "name": "Hyperdimension Neptunia Re;Birth1 Tag Along DLC",
-      "base_price_rub": 44,
+      "base_price_rub": 45,
       "markup_rub": 500,
-      "price_rub": 544,
+      "price_rub": 545,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898960/header.jpg?t=1565896745"
     },
     {
       "id": 898961,
       "name": "Hyperdimension Neptunia Re;Birth1 Colosseum + Characters DLC",
-      "base_price_rub": 169,
+      "base_price_rub": 171,
       "markup_rub": 500,
-      "price_rub": 669,
+      "price_rub": 671,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898961/header.jpg?t=1565896812"
     },
     {
       "id": 898962,
       "name": "Hyperdimension Neptunia Re;Birth1 AV Club DLC",
-      "base_price_rub": 44,
+      "base_price_rub": 45,
       "markup_rub": 500,
-      "price_rub": 544,
+      "price_rub": 545,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898962/header.jpg?t=1565896890"
     },
     {
       "id": 319011,
       "name": "Hyperdimension Neptunia Re;Birth1 Additional Content3",
-      "base_price_rub": 44,
+      "base_price_rub": 45,
       "markup_rub": 500,
-      "price_rub": 544,
+      "price_rub": 545,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319011/header.jpg?t=1565893810"
     },
     {
@@ -75,22 +75,38 @@
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319012/header.jpg?t=1565902636"
     },
     {
+      "id": 319014,
+      "name": "Hyperdimension Neptunia Re;Birth1 Plutia Battle Entry",
+      "base_price_rub": 45,
+      "markup_rub": 500,
+      "price_rub": 545,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319014/header.jpg?t=1565897188"
+    },
+    {
+      "id": 319015,
+      "name": "Hyperdimension Neptunia Re;Birth1 Peashy Battle Entry",
+      "base_price_rub": 45,
+      "markup_rub": 500,
+      "price_rub": 545,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319015/header.jpg?t=1565897123"
+    },
+    {
       "id": 319016,
       "name": "Hyperdimension Neptunia Re;Birth1 Histoire Battle Entry",
-      "base_price_rub": 44,
+      "base_price_rub": 45,
       "markup_rub": 500,
-      "price_rub": 544,
+      "price_rub": 545,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319016/header.jpg?t=1565896442"
     },
     {
       "id": 319017,
       "name": "Hyperdimension Neptunia Re;Birth1 Additional Content1",
-      "base_price_rub": 44,
+      "base_price_rub": 45,
       "markup_rub": 500,
-      "price_rub": 544,
+      "price_rub": 545,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319017/header.jpg?t=1565893653"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-10T04:10:20Z"
+  "updated_at": "2026-07-13T09:57:55Z"
 }

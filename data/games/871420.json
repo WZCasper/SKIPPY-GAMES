@@ -14,9 +14,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 556,
+  "base_price_rub": 561,
   "markup_rub": 500,
-  "price_rub": 1056,
+  "price_rub": 1061,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -32,7 +32,24 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/871420/ss_bb7e7de8c7686372f7ab14587e3037c3b5270b01.1920x1080.jpg?t=1760103639",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/871420/ss_5d3bf48c9b632fe8e425714705cc71de13cc49ae.1920x1080.jpg?t=1760103639"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 1061960,
+      "name": "Lovecraft's Untold Stories OST",
+      "base_price_rub": 214,
+      "markup_rub": 500,
+      "price_rub": 714,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061960/header.jpg?t=1681211019"
+    },
+    {
+      "id": 1081920,
+      "name": "Lovecraft's Untold Stories Artbook",
+      "base_price_rub": 214,
+      "markup_rub": 500,
+      "price_rub": 714,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1081920/header.jpg?t=1681210992"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-10T04:42:25Z"
+  "updated_at": "2026-07-13T10:30:07Z"
 }

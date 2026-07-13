@@ -16,11 +16,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 1026,
+  "base_price_rub": 290,
   "markup_rub": 500,
-  "price_rub": 1526,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 790,
+  "original_price_rub": 1535,
+  "discount_percent": 72,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -38,20 +38,20 @@
     {
       "id": 3985670,
       "name": "UBOAT - Type IX: Distant Coasts",
-      "base_price_rub": 633,
+      "base_price_rub": 638,
       "markup_rub": 500,
-      "price_rub": 1133,
+      "price_rub": 1138,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985670/8cc1fd477bd8e9521c8014fd6f78078b24b6f55d/header.jpg?t=1777125007"
     },
     {
       "id": 3129990,
       "name": "UBOAT - Supporter Pack",
-      "base_price_rub": 255,
+      "base_price_rub": 122,
       "markup_rub": 500,
-      "price_rub": 755,
+      "price_rub": 622,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3129990/header.jpg?t=1776416431"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-10T04:00:31Z"
+  "updated_at": "2026-07-13T09:48:25Z"
 }

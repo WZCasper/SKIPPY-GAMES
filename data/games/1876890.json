@@ -15,9 +15,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 881,
+  "base_price_rub": 888,
   "markup_rub": 500,
-  "price_rub": 1381,
+  "price_rub": 1388,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -37,20 +37,12 @@
     {
       "id": 3600640,
       "name": "Wandering Sword - Secrets of the Eastern Sea",
-      "base_price_rub": 279,
+      "base_price_rub": 281,
       "markup_rub": 500,
-      "price_rub": 779,
+      "price_rub": 781,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3600640/d7810de88aeb47615af7a53b6016a6aa016dcfc0/header.jpg?t=1750300488"
-    },
-    {
-      "id": 3027840,
-      "name": "Wandering Sword - Mount Pack: Majestic Steeds",
-      "base_price_rub": 169,
-      "markup_rub": 500,
-      "price_rub": 669,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3027840/header.jpg?t=1750650323"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-10T03:56:17Z"
+  "updated_at": "2026-07-13T09:47:17Z"
 }
