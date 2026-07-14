@@ -27,7 +27,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/554530/ss_c5b7b89d052be319740b54e554b2ad82f3d0b83d.1920x1080.jpg?t=1573590429",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/554530/ss_d723d41d1727d5f03e772682cbe205854d8f7284.1920x1080.jpg?t=1573590429"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 696300,
+      "name": "CRACKHEAD Theme Tune",
+      "base_price_rub": 45,
+      "markup_rub": 500,
+      "price_rub": 545,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/696300/header.jpg?t=1558908365"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-11T19:15:39Z"
+  "updated_at": "2026-07-14T20:06:52Z"
 }

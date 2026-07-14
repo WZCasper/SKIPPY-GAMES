@@ -13,9 +13,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 120,
+  "base_price_rub": 121,
   "markup_rub": 500,
-  "price_rub": 620,
+  "price_rub": 621,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -31,7 +31,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610120/ss_b0f90393387c4de6b8358a297a6991f327248fcf.1920x1080.jpg?t=1574517781",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610120/ss_87c287386973cb375e519e28f8492664877cc343.1920x1080.jpg?t=1574517781"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 716510,
+      "name": "Little Kite - Original Soundtrack",
+      "base_price_rub": 69,
+      "markup_rub": 500,
+      "price_rub": 569,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/716510/header.jpg?t=1505719944"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-11T14:31:22Z"
+  "updated_at": "2026-07-14T19:59:57Z"
 }

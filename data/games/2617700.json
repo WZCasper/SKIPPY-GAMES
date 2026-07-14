@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 366,
+  "base_price_rub": 491,
   "markup_rub": 500,
-  "price_rub": 866,
-  "original_price_rub": 990,
-  "discount_percent": 25,
+  "price_rub": 991,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,12 +36,12 @@
     {
       "id": 3710880,
       "name": "Tinkerlands - Supporter Pack",
-      "base_price_rub": 160,
+      "base_price_rub": 214,
       "markup_rub": 500,
-      "price_rub": 660,
+      "price_rub": 714,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3710880/efdd6b56b7e846d7cd1339cd2d5cc518814c0dcb/header.jpg?t=1748016363"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-11T19:22:29Z"
+  "updated_at": "2026-07-14T20:14:29Z"
 }

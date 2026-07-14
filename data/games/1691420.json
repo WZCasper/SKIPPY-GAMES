@@ -29,7 +29,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1691420/ss_1ff0b421d73515a2b49b2da3ba9f6b2baca47164.1920x1080.jpg?t=1747947939",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1691420/ss_6facba83f9548182d3096ba7c20c19f5b624312c.1920x1080.jpg?t=1747947939"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 1697580,
+      "name": "START AGAIN: a prologue (an artbook)",
+      "base_price_rub": 257,
+      "markup_rub": 500,
+      "price_rub": 757,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1697580/header.jpg?t=1754616322"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-11T14:31:45Z"
+  "updated_at": "2026-07-14T20:00:30Z"
 }

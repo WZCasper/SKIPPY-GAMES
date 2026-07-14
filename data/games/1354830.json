@@ -13,10 +13,10 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 199,
+  "base_price_rub": 200,
   "markup_rub": 500,
-  "price_rub": 699,
-  "original_price_rub": 1168,
+  "price_rub": 700,
+  "original_price_rub": 1170,
   "discount_percent": 70,
   "is_free": false,
   "trailer_video": null,
@@ -31,7 +31,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1354830/ss_42dd0c71c854f5ee63411ab30a010f20742a6eac.1920x1080.jpg?t=1781628864",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1354830/ss_a0bb20d90b0b8c66a23bcc2fe41fd557d6ad4218.1920x1080.jpg?t=1781628864"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 1966490,
+      "name": "Cat Cafe Manager Soundtrack",
+      "base_price_rub": 153,
+      "markup_rub": 500,
+      "price_rub": 653,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966490/header.jpg?t=1781628886"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-11T19:21:05Z"
+  "updated_at": "2026-07-14T20:12:07Z"
 }

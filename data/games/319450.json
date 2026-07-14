@@ -34,7 +34,24 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319450/ss_27b94f5300c776a7f9b8140148962c22c51e36b8.1920x1080.jpg?t=1616687689",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319450/ss_79f56c4dfe3dae4492fa200e725a71b0eb39730b.1920x1080.jpg?t=1616687689"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 329760,
+      "name": "Chariot - Soundtrack",
+      "base_price_rub": 136,
+      "markup_rub": 500,
+      "price_rub": 636,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/329760/header.jpg?t=1581557975"
+    },
+    {
+      "id": 396520,
+      "name": "Chariot Royal Gadget Pack",
+      "base_price_rub": 102,
+      "markup_rub": 500,
+      "price_rub": 602,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/396520/header.jpg?t=1478100373"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-11T14:31:27Z"
+  "updated_at": "2026-07-14T20:00:05Z"
 }

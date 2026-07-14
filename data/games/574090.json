@@ -12,9 +12,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 610,
+  "base_price_rub": 611,
   "markup_rub": 500,
-  "price_rub": 1110,
+  "price_rub": 1111,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -30,16 +30,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/574090/ss_9d4fc749e408c774814029fff133c3b4c9507af2.1920x1080.jpg?t=1781061638",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/574090/ss_0dc372fac224e968a314811083fcdc013f7c127c.1920x1080.jpg?t=1781061638"
   ],
-  "upsells": [
-    {
-      "id": 924210,
-      "name": "MOTHERGUNSHIP OST",
-      "base_price_rub": 122,
-      "markup_rub": 500,
-      "price_rub": 622,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924210/header.jpg?t=1712009964"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-11T14:17:21Z"
+  "updated_at": "2026-07-14T19:47:13Z"
 }

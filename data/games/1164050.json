@@ -14,9 +14,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 321,
+  "base_price_rub": 322,
   "markup_rub": 500,
-  "price_rub": 821,
+  "price_rub": 822,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -32,7 +32,24 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1164050/ss_cc0688aaac2736d0c25d066b20023517ca7e4ba2.1920x1080.jpg?t=1737507265",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1164050/ss_7661b4861e0fb33b3b117bdf0f7985cc92f46bf2.1920x1080.jpg?t=1737507265"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 1413230,
+      "name": "When the Past Was Around (Original Soundtrack)",
+      "base_price_rub": 214,
+      "markup_rub": 500,
+      "price_rub": 714,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1413230/header.jpg?t=1600787622"
+    },
+    {
+      "id": 1413240,
+      "name": "When The Past Was Around - Artbook",
+      "base_price_rub": 214,
+      "markup_rub": 500,
+      "price_rub": 714,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1413240/header.jpg?t=1600783951"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-11T14:31:25Z"
+  "updated_at": "2026-07-14T20:00:02Z"
 }

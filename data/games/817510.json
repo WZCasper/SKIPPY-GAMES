@@ -14,9 +14,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 223,
+  "base_price_rub": 224,
   "markup_rub": 500,
-  "price_rub": 723,
+  "price_rub": 724,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -29,7 +29,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/817510/ss_6956606e3f1a7c8856ddbdc4bc131a1285b1b347.1920x1080.jpg?t=1726860852",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/817510/ss_6625772a31ffa05eefd024e3f0fc8639f1d6ec43.1920x1080.jpg?t=1726860852"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 823030,
+      "name": "Golfing Over It with Alva Majo Soundtrack",
+      "base_price_rub": 45,
+      "markup_rub": 500,
+      "price_rub": 545,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/823030/header.jpg?t=1644927958"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-11T14:31:46Z"
+  "updated_at": "2026-07-14T20:00:31Z"
 }

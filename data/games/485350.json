@@ -15,9 +15,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 170,
+  "base_price_rub": 171,
   "markup_rub": 500,
-  "price_rub": 670,
+  "price_rub": 671,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -32,7 +32,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/485350/ss_13e66a7a3e1ca5b42885771afe8db0d07c2b1544.1920x1080.jpg?t=1668887297",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/485350/ss_0f6da492733efafd9fc8cd4d6df23b871b4caf76.1920x1080.jpg?t=1668887297"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 512670,
+      "name": "Winter Novel - Screensaver",
+      "base_price_rub": 36,
+      "markup_rub": 500,
+      "price_rub": 536,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/512670/header.jpg?t=1471463155"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-11T14:31:18Z"
+  "updated_at": "2026-07-14T19:59:52Z"
 }
