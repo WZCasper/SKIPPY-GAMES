@@ -12,11 +12,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 131,
+  "base_price_rub": 26,
   "markup_rub": 500,
-  "price_rub": 631,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 526,
+  "original_price_rub": 631,
+  "discount_percent": 80,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -34,12 +34,12 @@
     {
       "id": 560400,
       "name": "Crab Dub Soundtrack",
-      "base_price_rub": 46,
+      "base_price_rub": 22,
       "markup_rub": 500,
-      "price_rub": 546,
+      "price_rub": 522,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/560400/header.jpg?t=1484848524"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-11T08:06:38Z"
+  "updated_at": "2026-07-14T13:58:17Z"
 }

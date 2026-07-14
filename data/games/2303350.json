@@ -16,11 +16,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 387,
+  "base_price_rub": 193,
   "markup_rub": 500,
-  "price_rub": 887,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 693,
+  "original_price_rub": 888,
+  "discount_percent": 50,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -38,28 +38,28 @@
     {
       "id": 3639630,
       "name": "Sticky Business: Book of Shadows",
-      "base_price_rub": 170,
+      "base_price_rub": 127,
       "markup_rub": 500,
-      "price_rub": 670,
+      "price_rub": 627,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3639630/c5ecbad8cf27066a07df52d13b989f54ec90347f/header.jpg?t=1748264380"
     },
     {
       "id": 3100090,
       "name": "Sticky Business: Camp Zinnias",
-      "base_price_rub": 170,
+      "base_price_rub": 127,
       "markup_rub": 500,
-      "price_rub": 670,
+      "price_rub": 627,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100090/header.jpg?t=1730713840"
     },
     {
       "id": 2667860,
       "name": "Sticky Business: Plan With Me",
-      "base_price_rub": 170,
+      "base_price_rub": 127,
       "markup_rub": 500,
-      "price_rub": 670,
+      "price_rub": 627,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2667860/header.jpg?t=1728982373"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-11T08:10:29Z"
+  "updated_at": "2026-07-14T14:02:14Z"
 }

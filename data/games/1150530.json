@@ -15,9 +15,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 885,
+  "base_price_rub": 887,
   "markup_rub": 500,
-  "price_rub": 1385,
+  "price_rub": 1387,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -35,22 +35,30 @@
   ],
   "upsells": [
     {
+      "id": 2493641,
+      "name": "Wizard with a Gun - Bounty Hunter Pack",
+      "base_price_rub": 281,
+      "markup_rub": 500,
+      "price_rub": 781,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2493641/header.jpg?t=1709832790"
+    },
+    {
       "id": 2563910,
       "name": "Wizard with a Gun - Gunmancer Pack",
-      "base_price_rub": 280,
+      "base_price_rub": 281,
       "markup_rub": 500,
-      "price_rub": 780,
+      "price_rub": 781,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2563910/header.jpg?t=1697472078"
     },
     {
       "id": 2506650,
       "name": "Wizard with a Gun Soundtrack",
-      "base_price_rub": 387,
+      "base_price_rub": 388,
       "markup_rub": 500,
-      "price_rub": 887,
+      "price_rub": 888,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2506650/header.jpg?t=1697472111"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-11T08:30:01Z"
+  "updated_at": "2026-07-14T14:19:42Z"
 }

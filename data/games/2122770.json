@@ -1,0 +1,35 @@
+{
+  "id": 2122770,
+  "title": "Kings and Catapults",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2122770/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/2122770/library_hero.jpg",
+  "description": "A 2 player turn-based strategy game with hack n slash element in a fantasy setting.\n\r\n Players secretly set up their pieces and terrain tiles on their half of the 8x8 battleboard and once both players are ready play commences. Pieces move and attack in a fashion similar to Chess, white moves first then black while other pieces impede your movement. Pieces capture other pieces by moving to occupy the enemy square and removing the enemy piece. Capturing is always the end of your turn. Whoever captures the opposing King first wins however there is no check as in Chess.\n\r\nTiles\n\r\nMountains x 4 (red)\n\r\nThis tile is impassable to all units except Dragons. Only Crossbowman may attack Dragons that are on mountain tiles. Players may not have more than two contiguous mountains. To prevent mountains from being built into impassable walls.\n\r\nWater x 2 (blue)\n\r\nWater stops a unit’s movement once they enter it. (That unit can not be moved next turn and must wait until that turn is passed before it moves again.optional) Trebuchets, Catapults, Crossbowman can not attack while they are in this tile.\n\r\nForest x 6 (green)\n\r\nA forest tile diminishes a unit’s maximum range by one upon entering it. Catapult shot cannot penetrate forest tiles.\n\r\nFortress x 1\n\r\nThe King begins the game in the Fortress but once the Fortress is attacked and “ruined” the King is free to move.\n\r\nPieces\n\r\nRank Piece Move Special .\n\r\nI Rabble 1 One block ranged ability that \"ruins\" home fortress.\n\r\nII Spearmen 1 *Blocks Cavalry. \n\r\nIII Crossbowman 1 Ranged attack one block radius.\n\r\nIV Light Horse 3 Cavalry \n\r\nV Heavy Horse 2 Cavalry \n\r\nVI Elephant 1 Cavalry \n\r\nVII Catapult 1 Two square range line-of-sight. \n\r\nVIII Trebuchet 1 Three square range in the direction it was last moving.\n\r\nIX Dragon 4 *Blocked by Forest, Fortress, and Trebuchet.\n\r\nX King 2 Can capture or be captured by any piece but suffers\n\r\n no terrain penalties. \n\r\nRanged units can capture normally by occupying enemy square or using their ranged ability. *Blocked units can’t capture indicated pieces.",
+  "description_short": "The Fantasy Board-game Engine that powers Kings&amp;Catapults Free Cyvasse.",
+  "genres": [
+    "Приключения",
+    "Аркадные гонки",
+    "Пошаговые стратегии (TBS)",
+    "Слэшеры"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 214,
+  "markup_rub": 500,
+  "price_rub": 714,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2122770/ss_1b4fc121cd50e1bf91dbd49638cd7a8ea302da20.1920x1080.jpg?t=1662986173",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2122770/ss_28d9d8cbef64a7d1ecd96a82f6733ccb192088d9.1920x1080.jpg?t=1662986173",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2122770/ss_c4005ea2876ca27ba8c461570ea8f44deeefbf34.1920x1080.jpg?t=1662986173",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2122770/ss_f75bc17615449732512c68dafe2363d47be0e41a.1920x1080.jpg?t=1662986173",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2122770/ss_48ad8e6122da52e2b630017aed361bde2dc86e8c.1920x1080.jpg?t=1662986173"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-14T14:47:42Z"
+}
