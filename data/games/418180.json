@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 556,
+  "base_price_rub": 167,
   "markup_rub": 500,
-  "price_rub": 1056,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 667,
+  "original_price_rub": 1060,
+  "discount_percent": 70,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -37,36 +37,36 @@
     {
       "id": 1073630,
       "name": "Tempest - Pirate City",
-      "base_price_rub": 212,
+      "base_price_rub": 117,
       "markup_rub": 500,
-      "price_rub": 712,
+      "price_rub": 617,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1073630/header.jpg?t=1768396825"
     },
     {
       "id": 527010,
       "name": "Tempest - Original Soundtrack",
-      "base_price_rub": 127,
+      "base_price_rub": 69,
       "markup_rub": 500,
-      "price_rub": 627,
+      "price_rub": 569,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527010/header.jpg?t=1768395552"
     },
     {
       "id": 651020,
       "name": "Tempest - Treasure Lands",
-      "base_price_rub": 212,
+      "base_price_rub": 95,
       "markup_rub": 500,
-      "price_rub": 712,
+      "price_rub": 595,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/651020/header.jpg?t=1768396900"
     },
     {
       "id": 746820,
       "name": "Tempest - Jade Sea",
-      "base_price_rub": 212,
+      "base_price_rub": 95,
       "markup_rub": 500,
-      "price_rub": 712,
+      "price_rub": 595,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/746820/header.jpg?t=1768395439"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-10T20:01:35Z"
+  "updated_at": "2026-07-14T03:14:31Z"
 }

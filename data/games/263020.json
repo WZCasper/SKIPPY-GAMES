@@ -15,9 +15,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 340,
+  "base_price_rub": 343,
   "markup_rub": 500,
-  "price_rub": 840,
+  "price_rub": 843,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -33,7 +33,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/263020/ss_1fc50cfe33b8d0a90b5ce64287e20687518276f7.1920x1080.jpg?t=1609277912",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/263020/ss_ea2a56493a6ac977ca703d372e3d4e34c3c05108.1920x1080.jpg?t=1609277912"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 356970,
+      "name": "STARWHAL Official Soundtrack",
+      "base_price_rub": 257,
+      "markup_rub": 500,
+      "price_rub": 757,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/356970/header.jpg?t=1447370953"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-10T20:32:46Z"
+  "updated_at": "2026-07-14T03:44:39Z"
 }

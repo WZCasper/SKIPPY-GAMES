@@ -30,7 +30,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/922630/ss_21825f864f5d026730343067934d9a7c36d214bb.1920x1080.jpg?t=1545224929",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/922630/ss_a6d526c12db145099373c4e188383dfc317b5a5f.1920x1080.jpg?t=1545224929"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 925760,
+      "name": "Mortal Royale - Character Customization Pack",
+      "base_price_rub": 308,
+      "markup_rub": 500,
+      "price_rub": 808,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/925760/header.jpg?t=1545066123"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-10T20:32:48Z"
+  "updated_at": "2026-07-14T03:44:44Z"
 }

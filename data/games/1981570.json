@@ -16,9 +16,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 888,
+  "base_price_rub": 894,
   "markup_rub": 500,
-  "price_rub": 1388,
+  "price_rub": 1394,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -34,7 +34,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1981570/ss_4e03a685325390f6ebb5a1ccabe032349f553140.1920x1080.jpg?t=1772804985",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1981570/ss_52b1a0b7eb83aaab7bb6e18764526468e751c9e8.1920x1080.jpg?t=1772804985"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 2997380,
+      "name": "Land of the Vikings: Thralls",
+      "base_price_rub": 214,
+      "markup_rub": 500,
+      "price_rub": 714,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2997380/header.jpg?t=1728486062"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-10T20:33:03Z"
+  "updated_at": "2026-07-14T03:44:59Z"
 }

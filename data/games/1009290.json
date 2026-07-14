@@ -16,9 +16,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 1110,
+  "base_price_rub": 1118,
   "markup_rub": 500,
-  "price_rub": 1610,
+  "price_rub": 1618,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -38,20 +38,28 @@
     {
       "id": 1271792,
       "name": "SWORD ART ONLINE Alicization Lycoris Premium Pass",
-      "base_price_rub": 1692,
+      "base_price_rub": 1703,
       "markup_rub": 500,
-      "price_rub": 2192,
+      "price_rub": 2203,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1271792/header.jpg?t=1678742186"
+    },
+    {
+      "id": 1271793,
+      "name": "SWORD ART ONLINE Alicization Lycoris Design Contest Costumes",
+      "base_price_rub": 102,
+      "markup_rub": 500,
+      "price_rub": 602,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1271793/header.jpg?t=1678742185"
     },
     {
       "id": 1271791,
       "name": "SWORD ART ONLINE Alicization Lycoris - Blooming of Matricaria",
-      "base_price_rub": 1110,
+      "base_price_rub": 1118,
       "markup_rub": 500,
-      "price_rub": 1610,
+      "price_rub": 1618,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1271791/header.jpg?t=1678742186"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-10T20:00:31Z"
+  "updated_at": "2026-07-14T03:13:26Z"
 }

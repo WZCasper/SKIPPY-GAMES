@@ -16,9 +16,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 556,
+  "base_price_rub": 560,
   "markup_rub": 500,
-  "price_rub": 1056,
+  "price_rub": 1060,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -34,7 +34,48 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601970/ss_c88b6eab170903ead2e4ca55bb2a7bba29758d47.1920x1080.jpg?t=1773473317",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1601970/ss_47568e87dfa9fc93989ae2405522e98824139c14.1920x1080.jpg?t=1773473317"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 1836780,
+      "name": "Tunguska: Ravenwood Stories",
+      "base_price_rub": 205,
+      "markup_rub": 500,
+      "price_rub": 705,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836780/2fc4628a9ce67fe2a646ff00ea9e84e0cf49d82e/header.jpg?t=1760210348"
+    },
+    {
+      "id": 2692830,
+      "name": "Tunguska: Slaughterhouse",
+      "base_price_rub": 257,
+      "markup_rub": 500,
+      "price_rub": 757,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2692830/32f82f11d9bc42c395aa4fa57849b9d34c7ed683/header.jpg?t=1760203566"
+    },
+    {
+      "id": 2426340,
+      "name": "Tunguska: Мертвая зона",
+      "base_price_rub": 257,
+      "markup_rub": 500,
+      "price_rub": 757,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2426340/1396fa31ac1bafca561228f86e31f7b81bc5d8a0/header.jpg?t=1760209523"
+    },
+    {
+      "id": 2509350,
+      "name": "Тунгуска: Повелитель теней",
+      "base_price_rub": 171,
+      "markup_rub": 500,
+      "price_rub": 671,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2509350/b1d61ee15a60c830bcb678256b579a6099e30e77/header.jpg?t=1760206760"
+    },
+    {
+      "id": 3077300,
+      "name": "Тунгуска: Звуки музыки",
+      "base_price_rub": 127,
+      "markup_rub": 500,
+      "price_rub": 627,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3077300/header.jpg?t=1760204606"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-10T20:32:47Z"
+  "updated_at": "2026-07-14T03:44:42Z"
 }

@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 411,
+  "base_price_rub": 1033,
   "markup_rub": 500,
-  "price_rub": 911,
-  "original_price_rub": 1526,
-  "discount_percent": 60,
+  "price_rub": 1533,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,20 +35,20 @@
     {
       "id": 3782180,
       "name": "Phantom Brigade: Набор поддержки",
-      "base_price_rub": 212,
+      "base_price_rub": 214,
       "markup_rub": 500,
-      "price_rub": 712,
+      "price_rub": 714,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3782180/10bd84e7f56e7b010b92a6931cbc94df7f5ef328/header_russian.jpg?t=1765839602"
     },
     {
       "id": 2321140,
       "name": "Phantom Brigade Soundtrack",
-      "base_price_rub": 154,
+      "base_price_rub": 388,
       "markup_rub": 500,
-      "price_rub": 654,
+      "price_rub": 888,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321140/81814a602d0fb53b3d3d990256d2918335c7aeef/header.jpg?t=1771455074"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-10T20:11:36Z"
+  "updated_at": "2026-07-14T03:24:33Z"
 }
