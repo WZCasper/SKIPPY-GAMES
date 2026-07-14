@@ -28,7 +28,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1077730/ss_1be9bad9c4b085934fd0cebed130fe16afc824d4.1920x1080.jpg?t=1661359231",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1077730/ss_6b8187a971d5a09a5254992c3348a47ee2c2c913.1920x1080.jpg?t=1661359231"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 1118230,
+      "name": "OST - Hrdina počítačový hry jde do světa (MP3+FLAC)",
+      "base_price_rub": 171,
+      "markup_rub": 500,
+      "price_rub": 671,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118230/header.jpg?t=1600978394"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-11T04:08:29Z"
+  "updated_at": "2026-07-14T09:07:17Z"
 }

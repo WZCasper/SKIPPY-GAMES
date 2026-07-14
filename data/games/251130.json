@@ -11,11 +11,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 497,
+  "base_price_rub": 124,
   "markup_rub": 500,
-  "price_rub": 997,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 624,
+  "original_price_rub": 998,
+  "discount_percent": 75,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -33,12 +33,12 @@
     {
       "id": 363800,
       "name": "Chroma Squad - Soundtrack",
-      "base_price_rub": 170,
+      "base_price_rub": 43,
       "markup_rub": 500,
-      "price_rub": 670,
+      "price_rub": 543,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/363800/header.jpg?t=1447372781"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-11T03:47:02Z"
+  "updated_at": "2026-07-14T08:48:40Z"
 }

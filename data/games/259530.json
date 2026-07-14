@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 86,
+  "base_price_rub": 43,
   "markup_rub": 500,
-  "price_rub": 586,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 543,
+  "original_price_rub": 586,
+  "discount_percent": 50,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -34,44 +34,52 @@
     {
       "id": 656760,
       "name": "Savant - Alchemist (Soundtrack)",
-      "base_price_rub": 290,
+      "base_price_rub": 57,
       "markup_rub": 500,
-      "price_rub": 790,
+      "price_rub": 557,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/656760/header.jpg?t=1761801512"
     },
     {
       "id": 656810,
       "name": "Savant - Vario (Soundtrack)",
-      "base_price_rub": 290,
+      "base_price_rub": 57,
       "markup_rub": 500,
-      "price_rub": 790,
+      "price_rub": 557,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/656810/header.jpg?t=1761801430"
     },
     {
       "id": 657270,
       "name": "Savant - Cult (Soundtrack)",
-      "base_price_rub": 290,
+      "base_price_rub": 57,
       "markup_rub": 500,
-      "price_rub": 790,
+      "price_rub": 557,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/657270/header.jpg?t=1761801384"
     },
     {
       "id": 657360,
       "name": "Savant - Protos (Soundtrack)",
-      "base_price_rub": 290,
+      "base_price_rub": 57,
       "markup_rub": 500,
-      "price_rub": 790,
+      "price_rub": 557,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/657360/header.jpg?t=1761801334"
     },
     {
       "id": 657361,
       "name": "Savant - ZION (Soundtrack)",
-      "base_price_rub": 290,
+      "base_price_rub": 57,
       "markup_rub": 500,
-      "price_rub": 790,
+      "price_rub": 557,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/657361/header.jpg?t=1761800933"
+    },
+    {
+      "id": 1283150,
+      "name": "Savant - VOID (Soundtrack)",
+      "base_price_rub": 78,
+      "markup_rub": 500,
+      "price_rub": 578,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1283150/header.jpg?t=1761801267"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-11T03:40:36Z"
+  "updated_at": "2026-07-14T08:40:39Z"
 }

@@ -14,9 +14,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 428,
+  "base_price_rub": 429,
   "markup_rub": 500,
-  "price_rub": 928,
+  "price_rub": 929,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -32,24 +32,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1037020/ss_dcbca6f4e0d0fecc89dddb82ffaf0ee704eec198.1920x1080.jpg?t=1745582111",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1037020/ss_3ef5b465c685b1f82d51ebf829862b293a8182a1.1920x1080.jpg?t=1745582111"
   ],
-  "upsells": [
-    {
-      "id": 1408640,
-      "name": "ScourgeBringer - Soundtrack",
-      "base_price_rub": 222,
-      "markup_rub": 500,
-      "price_rub": 722,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1408640/header.jpg?t=1649753363"
-    },
-    {
-      "id": 1408650,
-      "name": "ScourgeBringer Supporter Pack",
-      "base_price_rub": 136,
-      "markup_rub": 500,
-      "price_rub": 636,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1408650/header.jpg?t=1649753384"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-11T08:04:36Z"
+  "updated_at": "2026-07-14T09:10:39Z"
 }

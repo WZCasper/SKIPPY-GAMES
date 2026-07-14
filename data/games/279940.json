@@ -12,9 +12,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 686,
+  "base_price_rub": 687,
   "markup_rub": 500,
-  "price_rub": 1186,
+  "price_rub": 1187,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -30,7 +30,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/279940/ss_9eaae3e4b27208faa937a1a041481c132e606416.1920x1080.jpg?t=1725012542",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/279940/ss_ee32f4c183ad6f81f253105a9572974337eebe9d.1920x1080.jpg?t=1725012542"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 346230,
+      "name": "The Book of Unwritten Tales 2 Almanac Edition Extras",
+      "base_price_rub": 291,
+      "markup_rub": 500,
+      "price_rub": 791,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/346230/header.jpg?t=1471948745"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-11T04:09:15Z"
+  "updated_at": "2026-07-14T09:10:00Z"
 }

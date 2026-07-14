@@ -13,9 +13,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 170,
+  "base_price_rub": 171,
   "markup_rub": 500,
-  "price_rub": 670,
+  "price_rub": 671,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -31,7 +31,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/561770/ss_d0d47464e0efc45d9a46d96b156da6e005b707cd.1920x1080.jpg?t=1782407098",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/561770/ss_a16a39097b66f2cde56a1d628c9ded0f3c71bc22.1920x1080.jpg?t=1782407098"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 612330,
+      "name": "Just Ignore Them - Game Soundtrack",
+      "base_price_rub": 127,
+      "markup_rub": 500,
+      "price_rub": 627,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/612330/header.jpg?t=1765569648"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-11T04:09:13Z"
+  "updated_at": "2026-07-14T09:09:59Z"
 }

@@ -14,9 +14,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 713,
+  "base_price_rub": 715,
   "markup_rub": 500,
-  "price_rub": 1213,
+  "price_rub": 1215,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -32,7 +32,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/688060/81915123ba19612b8d7324ff2d97f75e917cf6bc/ss_81915123ba19612b8d7324ff2d97f75e917cf6bc.1920x1080.jpg?t=1782750220",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/688060/c280f189e1807600b4cd133ffa626d75fcee50e1/ss_c280f189e1807600b4cd133ffa626d75fcee50e1.1920x1080.jpg?t=1782750220"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 2551960,
+      "name": "Odd Realm Soundtrack",
+      "base_price_rub": 127,
+      "markup_rub": 500,
+      "price_rub": 627,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2551960/header.jpg?t=1704238701"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-11T04:02:26Z"
+  "updated_at": "2026-07-14T09:01:54Z"
 }
