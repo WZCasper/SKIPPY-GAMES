@@ -14,9 +14,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 393,
+  "base_price_rub": 394,
   "markup_rub": 500,
-  "price_rub": 893,
+  "price_rub": 894,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -42,14 +42,6 @@
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368060/header.jpg?t=1566790789"
     },
     {
-      "id": 368061,
-      "name": "D4: SWERY's Choice Costume Set -4 Bottles of Tequila-",
-      "base_price_rub": 36,
-      "markup_rub": 500,
-      "price_rub": 536,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/368061/header.jpg?t=1566790890"
-    },
-    {
       "id": 380910,
       "name": "D4: In Game Document Full Unlock Key",
       "base_price_rub": 36,
@@ -68,25 +60,25 @@
     {
       "id": 372511,
       "name": "D4: Special Art Book",
-      "base_price_rub": 170,
+      "base_price_rub": 171,
       "markup_rub": 500,
-      "price_rub": 670,
+      "price_rub": 671,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/372511/header.jpg?t=1566791050"
     },
     {
       "id": 372512,
       "name": "D4: Season One Voice Over Script",
-      "base_price_rub": 170,
+      "base_price_rub": 171,
       "markup_rub": 500,
-      "price_rub": 670,
+      "price_rub": 671,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/372512/header.jpg?t=1566791092"
     },
     {
       "id": 373560,
       "name": "D4: Special Costume Set -12 Beers-",
-      "base_price_rub": 101,
+      "base_price_rub": 102,
       "markup_rub": 500,
-      "price_rub": 601,
+      "price_rub": 602,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373560/header.jpg?t=1447375207"
     },
     {
@@ -106,6 +98,14 @@
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384221/header.jpg?t=1447376915"
     },
     {
+      "id": 384222,
+      "name": "D4: Amanda's Costume Full Unlock Key",
+      "base_price_rub": 36,
+      "markup_rub": 500,
+      "price_rub": 536,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/384222/header.jpg?t=1566795312"
+    },
+    {
       "id": 384223,
       "name": "D4: Olivia's Costume Full Unlock Key",
       "base_price_rub": 36,
@@ -123,5 +123,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-12T03:48:31Z"
+  "updated_at": "2026-07-15T08:43:50Z"
 }

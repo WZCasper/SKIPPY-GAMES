@@ -11,9 +11,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 3950,
+  "base_price_rub": 3960,
   "markup_rub": 500,
-  "price_rub": 4450,
+  "price_rub": 4460,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -33,33 +33,33 @@
     {
       "id": 4520360,
       "name": "Forza Horizon 6 Premium Upgrade",
-      "base_price_rub": 3484,
+      "base_price_rub": 3493,
       "markup_rub": 500,
-      "price_rub": 3984,
+      "price_rub": 3993,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4520360/da0a30ab552b49f79a4a7d072f457460effded19/header.jpg?t=1783535774"
     },
     {
       "id": 4439260,
       "name": "Forza Horizon 6 Welcome Pack",
-      "base_price_rub": 299,
+      "base_price_rub": 300,
       "markup_rub": 500,
-      "price_rub": 799,
+      "price_rub": 800,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4439260/9a008c93303a6cbbe2ab8939e5ed2599e882a3f5/header.jpg?t=1781638816"
     },
     {
       "id": 4439790,
       "name": "Forza Horizon 6 Car Pass",
-      "base_price_rub": 1716,
+      "base_price_rub": 1721,
       "markup_rub": 500,
-      "price_rub": 2216,
+      "price_rub": 2221,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4439790/b6c79619ca3c8f261a96174e44f79683b3eb0608/header.jpg?t=1783623256"
     },
     {
       "id": 4440380,
       "name": "Forza Horizon 6 VIP Membership",
-      "base_price_rub": 1201,
+      "base_price_rub": 1204,
       "markup_rub": 500,
-      "price_rub": 1701,
+      "price_rub": 1704,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4440380/6a3db3aa7930cb4954cc11029894b7964233e30f/header.jpg?t=1779162771"
     },
     {
@@ -73,18 +73,26 @@
     {
       "id": 4520350,
       "name": "Forza Horizon 6 Expansions Bundle",
-      "base_price_rub": 2867,
+      "base_price_rub": 2875,
       "markup_rub": 500,
-      "price_rub": 3367,
+      "price_rub": 3375,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4520350/24e04ba6f54548a0a2ae78ecf40c22ec52780dbf/header.jpg?t=1781214570"
     },
     {
       "id": 4439280,
       "name": "Forza Horizon 6 Time Attack Car Pack",
-      "base_price_rub": 600,
+      "base_price_rub": 601,
       "markup_rub": 500,
-      "price_rub": 1100,
+      "price_rub": 1101,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4439280/db6bc82bae8b0952304746be42e3afe3b3e33001/header.jpg?t=1779162807"
+    },
+    {
+      "id": 4439290,
+      "name": "Forza Horizon 6 Italian Passion Car Pack",
+      "base_price_rub": 300,
+      "markup_rub": 500,
+      "price_rub": 800,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4439290/f308953b81f7cc7c3e31f09769937d43bf6061d9/header.jpg?t=1784041095"
     },
     {
       "id": 4439800,
@@ -104,5 +112,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-12T03:28:27Z"
+  "updated_at": "2026-07-15T08:24:07Z"
 }

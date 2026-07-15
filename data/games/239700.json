@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 387,
+  "base_price_rub": 96,
   "markup_rub": 500,
-  "price_rub": 887,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 596,
+  "original_price_rub": 888,
+  "discount_percent": 75,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -33,12 +33,12 @@
     {
       "id": 257290,
       "name": "Hate Plus Original Soundtrack",
-      "base_price_rub": 213,
+      "base_price_rub": 53,
       "markup_rub": 500,
-      "price_rub": 713,
+      "price_rub": 553,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257290/header.jpg?t=1581557732"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-12T04:09:53Z"
+  "updated_at": "2026-07-15T09:05:27Z"
 }

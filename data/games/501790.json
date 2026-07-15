@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 713,
+  "base_price_rub": 429,
   "markup_rub": 500,
-  "price_rub": 1213,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 929,
+  "original_price_rub": 1215,
+  "discount_percent": 40,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,20 +35,20 @@
     {
       "id": 953010,
       "name": "Unforeseen Incidents Artbook",
-      "base_price_rub": 127,
+      "base_price_rub": 76,
       "markup_rub": 500,
-      "price_rub": 627,
+      "price_rub": 576,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/953010/header.jpg?t=1540219534"
     },
     {
       "id": 954820,
       "name": "Unforeseen Incidents Soundtrack",
-      "base_price_rub": 127,
+      "base_price_rub": 76,
       "markup_rub": 500,
-      "price_rub": 627,
+      "price_rub": 576,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/954820/header.jpg?t=1540213844"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-12T04:14:32Z"
+  "updated_at": "2026-07-15T09:07:53Z"
 }
