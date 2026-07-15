@@ -14,9 +14,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 713,
+  "base_price_rub": 715,
   "markup_rub": 500,
-  "price_rub": 1213,
+  "price_rub": 1215,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -29,7 +29,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/718590/ss_4538ce07697f3aeb5bef9b948f3b1cd61eb62c7b.1920x1080.jpg?t=1738773189",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/718590/ss_4697c6acc4315b33a63a2da8dab0ce547e8351ed.1920x1080.jpg?t=1738773189"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 1223960,
+      "name": "Dark Devotion Soundtrack",
+      "base_price_rub": 69,
+      "markup_rub": 500,
+      "price_rub": 569,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1223960/header.jpg?t=1593104881"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-12T09:17:50Z"
+  "updated_at": "2026-07-15T14:45:40Z"
 }

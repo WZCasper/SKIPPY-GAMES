@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 651,
+  "base_price_rub": 64,
   "markup_rub": 500,
-  "price_rub": 1151,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 564,
+  "original_price_rub": 1153,
+  "discount_percent": 90,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -32,40 +32,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552500/ss_f38b39ee77576af242fd57933863d86e206e18e4.1920x1080.jpg?t=1764008361",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552500/ss_ed6a44942d80613b16e2312fd6c5263d35bfd1ba.1920x1080.jpg?t=1764008361"
   ],
-  "upsells": [
-    {
-      "id": 2585630,
-      "name": "Warhammer: Vermintide 2 - Necromancer Career",
-      "base_price_rub": 136,
-      "markup_rub": 500,
-      "price_rub": 636,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2585630/header.jpg?t=1709122449"
-    },
-    {
-      "id": 1782450,
-      "name": "Warhammer: Vermintide 2 - Warrior Priest Career",
-      "base_price_rub": 136,
-      "markup_rub": 500,
-      "price_rub": 636,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782450/header.jpg?t=1709122574"
-    },
-    {
-      "id": 1629000,
-      "name": "Warhammer: Vermintide 2 - Sister of the Thorn",
-      "base_price_rub": 136,
-      "markup_rub": 500,
-      "price_rub": 636,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1629000/header.jpg?t=1622818007"
-    },
-    {
-      "id": 1592630,
-      "name": "Warhammer: Vermintide 2 - Forgotten Relics Pack",
-      "base_price_rub": 222,
-      "markup_rub": 500,
-      "price_rub": 722,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1592630/header.jpg?t=1744027673"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-12T13:42:47Z"
+  "updated_at": "2026-07-15T14:46:41Z"
 }

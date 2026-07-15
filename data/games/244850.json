@@ -15,9 +15,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 1452,
+  "base_price_rub": 1456,
   "markup_rub": 500,
-  "price_rub": 1952,
+  "price_rub": 1956,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -33,104 +33,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244850/ss_76db34e0383a218d93ceb8ef8caf655035fc4d03.1920x1080.jpg?t=1777915333",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/244850/ss_985c1dc5a6a4400f9e3af7f74472fc9832193e11.1920x1080.jpg?t=1777915333"
   ],
-  "upsells": [
-    {
-      "id": 4502100,
-      "name": "Space Engineers - Economy 2 Pack",
-      "base_price_rub": 361,
-      "markup_rub": 500,
-      "price_rub": 861,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4502100/5b6aea4ef1ebe6894bcc8e2a244f15958e264b11/header.jpg?t=1777915084"
-    },
-    {
-      "id": 4116960,
-      "name": "Space Engineers - Core Systems Pack",
-      "base_price_rub": 361,
-      "markup_rub": 500,
-      "price_rub": 861,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4116960/843769efa8bcbc74b78b50092c808c6f25b3d469/header.jpg?t=1781865629"
-    },
-    {
-      "id": 3858380,
-      "name": "Space Engineers - Apex Survival Pack",
-      "base_price_rub": 361,
-      "markup_rub": 500,
-      "price_rub": 861,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3858380/56712b3aca4ad744aaab68f0182abbe33eb843e0/header.jpg?t=1757352087"
-    },
-    {
-      "id": 3601770,
-      "name": "Space Engineers - Fieldwork Pack",
-      "base_price_rub": 361,
-      "markup_rub": 500,
-      "price_rub": 861,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3601770/67105a27880374eb9e54ad512744e97116eae722/header.jpg?t=1781865706"
-    },
-    {
-      "id": 3066290,
-      "name": "Space Engineers - Contact Pack",
-      "base_price_rub": 361,
-      "markup_rub": 500,
-      "price_rub": 861,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3066290/header.jpg?t=1781865623"
-    },
-    {
-      "id": 2914120,
-      "name": "Space Engineers - Signal Pack",
-      "base_price_rub": 361,
-      "markup_rub": 500,
-      "price_rub": 861,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2914120/header.jpg?t=1739191754"
-    },
-    {
-      "id": 2504720,
-      "name": "Space Engineers - Decorative Pack #3",
-      "base_price_rub": 361,
-      "markup_rub": 500,
-      "price_rub": 861,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2504720/header.jpg?t=1781610122"
-    },
-    {
-      "id": 1958640,
-      "name": "Space Engineers - Automatons",
-      "base_price_rub": 361,
-      "markup_rub": 500,
-      "price_rub": 861,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1958640/header.jpg?t=1781865616"
-    },
-    {
-      "id": 1783760,
-      "name": "Space Engineers - Warfare 2",
-      "base_price_rub": 361,
-      "markup_rub": 500,
-      "price_rub": 861,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1783760/header.jpg?t=1781610313"
-    },
-    {
-      "id": 1676100,
-      "name": "Space Engineers - Heavy Industry",
-      "base_price_rub": 361,
-      "markup_rub": 500,
-      "price_rub": 861,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1676100/header.jpg?t=1739191573"
-    },
-    {
-      "id": 1475830,
-      "name": "Space Engineers - Warfare 1",
-      "base_price_rub": 361,
-      "markup_rub": 500,
-      "price_rub": 861,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1475830/header.jpg?t=1739191504"
-    },
-    {
-      "id": 1374610,
-      "name": "Space Engineers - Wasteland",
-      "base_price_rub": 361,
-      "markup_rub": 500,
-      "price_rub": 861,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374610/header.jpg?t=1781610933"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-12T13:39:14Z"
+  "updated_at": "2026-07-15T14:46:26Z"
 }

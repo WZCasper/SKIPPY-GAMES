@@ -15,9 +15,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 514,
+  "base_price_rub": 515,
   "markup_rub": 500,
-  "price_rub": 1014,
+  "price_rub": 1015,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -33,7 +33,40 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455060/ss_5f24ea47f89e0262ff5bf073ea37ede6fcbfe08e.1920x1080.jpg?t=1781942247",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455060/ss_861453c6fdd83874a63428638d65f9b9b7126f83.1920x1080.jpg?t=1781942247"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 2609780,
+      "name": "禁忌试炼 Taboo Trial DLC 诗蔻蒂",
+      "base_price_rub": 257,
+      "markup_rub": 500,
+      "price_rub": 757,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2609780/header.jpg?t=1720189826"
+    },
+    {
+      "id": 2609790,
+      "name": "禁忌试炼 Taboo Trial DLC 斯卡蒂",
+      "base_price_rub": 257,
+      "markup_rub": 500,
+      "price_rub": 757,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2609790/header.jpg?t=1720189828"
+    },
+    {
+      "id": 2742100,
+      "name": "禁忌试炼 Taboo Trial DLC 罗丝薇瑟",
+      "base_price_rub": 45,
+      "markup_rub": 500,
+      "price_rub": 545,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2742100/header.jpg?t=1720189830"
+    },
+    {
+      "id": 2742110,
+      "name": "禁忌试炼 Taboo Trial DLC 希露德",
+      "base_price_rub": 45,
+      "markup_rub": 500,
+      "price_rub": 545,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2742110/header.jpg?t=1720189834"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-12T09:17:48Z"
+  "updated_at": "2026-07-15T14:45:38Z"
 }

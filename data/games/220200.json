@@ -13,9 +13,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 1545,
+  "base_price_rub": 1549,
   "markup_rub": 500,
-  "price_rub": 2045,
+  "price_rub": 2049,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -31,24 +31,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/ss_56a37855f26e4737222e912a2e309cb26386ae68.1920x1080.jpg?t=1738037585",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220200/ss_65398e623d014d17fbf963b94ae69c4034d95c40.1920x1080.jpg?t=1738037585"
   ],
-  "upsells": [
-    {
-      "id": 283740,
-      "name": "Kerbal Space Program: Making History Expansion",
-      "base_price_rub": 617,
-      "markup_rub": 500,
-      "price_rub": 1117,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/283740/header.jpg?t=1738037589"
-    },
-    {
-      "id": 982970,
-      "name": "Kerbal Space Program: Breaking Ground Expansion",
-      "base_price_rub": 617,
-      "markup_rub": 500,
-      "price_rub": 1117,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/982970/header.jpg?t=1738037588"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-12T13:39:33Z"
+  "updated_at": "2026-07-15T14:46:34Z"
 }

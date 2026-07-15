@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 34,
+  "base_price_rub": 69,
   "markup_rub": 500,
-  "price_rub": 534,
-  "original_price_rub": 569,
-  "discount_percent": 50,
+  "price_rub": 569,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -37,28 +37,28 @@
     {
       "id": 559860,
       "name": "Street Warriors Online: Premium Pack",
-      "base_price_rub": 57,
+      "base_price_rub": 291,
       "markup_rub": 500,
-      "price_rub": 557,
+      "price_rub": 791,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/559860/header.jpg?t=1517188835"
     },
     {
       "id": 572310,
       "name": "Street Warriors Online: Police & Bikers (Skin Pack)",
-      "base_price_rub": 50,
+      "base_price_rub": 102,
       "markup_rub": 500,
-      "price_rub": 550,
+      "price_rub": 602,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/572310/header.jpg?t=1482926078"
     },
     {
       "id": 572311,
       "name": "Street Warriors Online: Foolery Set (Skin Pack)",
-      "base_price_rub": 50,
+      "base_price_rub": 102,
       "markup_rub": 500,
-      "price_rub": 550,
+      "price_rub": 602,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/572311/header.jpg?t=1482926011"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-12T08:52:03Z"
+  "updated_at": "2026-07-15T14:20:02Z"
 }

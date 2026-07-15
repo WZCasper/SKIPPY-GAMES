@@ -15,9 +15,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 1031,
+  "base_price_rub": 1034,
   "markup_rub": 500,
-  "price_rub": 1531,
+  "price_rub": 1534,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -37,9 +37,9 @@
     {
       "id": 4756020,
       "name": "Beat Saber - YUNGBLUD - Zombie",
-      "base_price_rub": 89,
+      "base_price_rub": 90,
       "markup_rub": 500,
-      "price_rub": 589,
+      "price_rub": 590,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4756020/140f0447bd186901881d32dbbe0892cd2fadd1ac/header.jpg?t=1782391485"
     },
     {
@@ -107,22 +107,6 @@
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4374210/0a2b8ee9182d8e19b775f337536ab69218dc5311/header.jpg?t=1770633607"
     },
     {
-      "id": 4185610,
-      "name": "Beat Saber - Coldplay - A Sky Full of Stars",
-      "base_price_rub": 86,
-      "markup_rub": 500,
-      "price_rub": 586,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4185610/8e17a90553f579833d8bddc5d2ebfcd6415e570f/header.jpg?t=1768770915"
-    },
-    {
-      "id": 4185640,
-      "name": "Beat Saber - Coldplay - feelslikeimfallinginlove",
-      "base_price_rub": 86,
-      "markup_rub": 500,
-      "price_rub": 586,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4185640/2c0c906ce77730cda72ddeff0373ff9135de9de2/header.jpg?t=1768770724"
-    },
-    {
       "id": 4185620,
       "name": "Beat Saber - Coldplay - Adventure of a Lifetime",
       "base_price_rub": 86,
@@ -132,5 +116,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-12T09:11:39Z"
+  "updated_at": "2026-07-15T14:39:35Z"
 }

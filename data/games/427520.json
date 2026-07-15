@@ -14,9 +14,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 515,
+  "base_price_rub": 517,
   "markup_rub": 500,
-  "price_rub": 1015,
+  "price_rub": 1017,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -36,12 +36,28 @@
     {
       "id": 645390,
       "name": "Factorio: Space Age",
-      "base_price_rub": 515,
+      "base_price_rub": 517,
       "markup_rub": 500,
-      "price_rub": 1015,
+      "price_rub": 1017,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/645390/header.jpg?t=1729525903"
+    },
+    {
+      "id": 436090,
+      "name": "Factorio - Soundtrack",
+      "base_price_rub": 224,
+      "markup_rub": 500,
+      "price_rub": 724,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/436090/header.jpg?t=1581557703"
+    },
+    {
+      "id": 3311770,
+      "name": "Factorio: Space Age - Soundtrack",
+      "base_price_rub": 224,
+      "markup_rub": 500,
+      "price_rub": 724,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3311770/header.jpg?t=1732277579"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-12T09:00:25Z"
+  "updated_at": "2026-07-15T14:25:27Z"
 }

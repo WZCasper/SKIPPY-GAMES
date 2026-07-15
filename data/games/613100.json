@@ -16,9 +16,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 885,
+  "base_price_rub": 887,
   "markup_rub": 500,
-  "price_rub": 1385,
+  "price_rub": 1387,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -34,72 +34,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613100/ss_76bacf38b6c6391b26d47ae9088aa1fd5a8d0165.1920x1080.jpg?t=1782384318",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613100/ss_48948693e47ab6a31dd663ca1a5d54b5ae8343b4.1920x1080.jpg?t=1782384318"
   ],
-  "upsells": [
-    {
-      "id": 2819590,
-      "name": "House Flipper - Dine Out DLC",
-      "base_price_rub": 558,
-      "markup_rub": 500,
-      "price_rub": 1058,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2819590/header.jpg?t=1780684839"
-    },
-    {
-      "id": 3363170,
-      "name": "House Flipper - Party Furniture Pack",
-      "base_price_rub": 213,
-      "markup_rub": 500,
-      "price_rub": 713,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3363170/header.jpg?t=1780683506"
-    },
-    {
-      "id": 1569190,
-      "name": "House Flipper - Pets DLC",
-      "base_price_rub": 558,
-      "markup_rub": 500,
-      "price_rub": 1058,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569190/52dbd48692072ed3d8f39c4022d287c9c10319e5/header.jpg?t=1780686200"
-    },
-    {
-      "id": 1832960,
-      "name": "House Flipper - Farm DLC",
-      "base_price_rub": 558,
-      "markup_rub": 500,
-      "price_rub": 1058,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1832960/d9110679fcfc7b775b19468c2263dd4d174d861c/header.jpg?t=1780685189"
-    },
-    {
-      "id": 1021110,
-      "name": "House Flipper - Luxury DLC",
-      "base_price_rub": 558,
-      "markup_rub": 500,
-      "price_rub": 1058,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1021110/c0363c30b753f2d17df2b8990cf97309fff9b1a3/header.jpg?t=1780687808"
-    },
-    {
-      "id": 942290,
-      "name": "House Flipper - Garden DLC",
-      "base_price_rub": 558,
-      "markup_rub": 500,
-      "price_rub": 1058,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/942290/7218322a21d987b8f2e522141cbfb9a26ed95476/header.jpg?t=1780688660"
-    },
-    {
-      "id": 1126050,
-      "name": "House Flipper - HGTV DLC",
-      "base_price_rub": 387,
-      "markup_rub": 500,
-      "price_rub": 887,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126050/2366bc67a3d283f5bb554380c50a6ce4ce51df6d/header.jpg?t=1780585953"
-    },
-    {
-      "id": 2910200,
-      "name": "House Flipper - Pop Art Furniture Pack",
-      "base_price_rub": 213,
-      "markup_rub": 500,
-      "price_rub": 713,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2910200/header.jpg?t=1780687603"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-12T13:38:29Z"
+  "updated_at": "2026-07-15T14:46:06Z"
 }

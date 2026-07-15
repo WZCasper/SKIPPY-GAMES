@@ -14,9 +14,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 2919,
+  "base_price_rub": 2927,
   "markup_rub": 500,
-  "price_rub": 3419,
+  "price_rub": 3427,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -32,40 +32,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42700/ss_02f61572344252870b28b6ca0fd990c80a82dd0b.1920x1080.jpg?t=1780962720",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42700/ss_29c0e5cf576f4ab7535440d619283d47c2ef6677.1920x1080.jpg?t=1780962720"
   ],
-  "upsells": [
-    {
-      "id": 42719,
-      "name": "Call of Duty®: Black Ops - Rezurrection Content Pack",
-      "base_price_rub": 730,
-      "markup_rub": 500,
-      "price_rub": 1230,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42719/header.jpg?t=1646763488"
-    },
-    {
-      "id": 42722,
-      "name": "Call of Duty®: Black Ops Annihilation Content Pack",
-      "base_price_rub": 730,
-      "markup_rub": 500,
-      "price_rub": 1230,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42722/header.jpg?t=1646763439"
-    },
-    {
-      "id": 42718,
-      "name": "Call of Duty®: Black Ops Escalation Content Pack",
-      "base_price_rub": 730,
-      "markup_rub": 500,
-      "price_rub": 1230,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42718/header.jpg?t=1646763628"
-    },
-    {
-      "id": 42716,
-      "name": "Call of Duty®: Black Ops First Strike Content Pack",
-      "base_price_rub": 730,
-      "markup_rub": 500,
-      "price_rub": 1230,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/42716/header.jpg?t=1646763631"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-12T13:39:01Z"
+  "updated_at": "2026-07-15T14:46:22Z"
 }

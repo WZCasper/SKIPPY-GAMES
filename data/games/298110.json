@@ -16,9 +16,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 789,
+  "base_price_rub": 791,
   "markup_rub": 500,
-  "price_rub": 1289,
+  "price_rub": 1291,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -31,48 +31,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/ss_2e7b8e01e12b4932b83b802318d8aae5eb59bacb.1920x1080.jpg?t=1778697412",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298110/ss_738eb6ad93238c22b8042074119032fb3d0cb5e0.1920x1080.jpg?t=1778697412"
   ],
-  "upsells": [
-    {
-      "id": 324340,
-      "name": "Far Cry® 4 Season Pass",
-      "base_price_rub": 789,
-      "markup_rub": 500,
-      "price_rub": 1289,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/324340/header.jpg?t=1455815595"
-    },
-    {
-      "id": 324344,
-      "name": "Far Cry® 4 Valley of the Yetis",
-      "base_price_rub": 387,
-      "markup_rub": 500,
-      "price_rub": 887,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/324344/header_russian.jpg?t=1455815592"
-    },
-    {
-      "id": 324342,
-      "name": "Far Cry® 4 – Hurk Deluxe Pack",
-      "base_price_rub": 180,
-      "markup_rub": 500,
-      "price_rub": 680,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/324342/header_russian.jpg?t=1455815597"
-    },
-    {
-      "id": 324343,
-      "name": "Far Cry® 4 – Overrun",
-      "base_price_rub": 129,
-      "markup_rub": 500,
-      "price_rub": 629,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/324343/header_russian.jpg?t=1455815600"
-    },
-    {
-      "id": 338620,
-      "name": "Far Cry® 4 – Escape From Durgesh Prison",
-      "base_price_rub": 258,
-      "markup_rub": 500,
-      "price_rub": 758,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/338620/header_russian.jpg?t=1455815602"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-12T13:38:59Z"
+  "updated_at": "2026-07-15T14:46:21Z"
 }

@@ -14,9 +14,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 428,
+  "base_price_rub": 429,
   "markup_rub": 500,
-  "price_rub": 928,
+  "price_rub": 929,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -32,16 +32,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20900/ss_995cf6cab41b23e2cafa9a719f0a3f27d05e6bb1.1920x1080.jpg?t=1749200362",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20900/ss_ddd36794809eb8c9e9e11270f217ddcd7bfb4d39.1920x1080.jpg?t=1749200362"
   ],
-  "upsells": [
-    {
-      "id": 1229370,
-      "name": "The Witcher: Enhanced Edition Soundtrack",
-      "base_price_rub": 222,
-      "markup_rub": 500,
-      "price_rub": 722,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229370/header_russian.jpg?t=1659617984"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-12T13:39:44Z"
+  "updated_at": "2026-07-15T14:46:40Z"
 }

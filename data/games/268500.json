@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 174,
+  "base_price_rub": 1170,
   "markup_rub": 500,
-  "price_rub": 674,
-  "original_price_rub": 1667,
-  "discount_percent": 85,
+  "price_rub": 1670,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,9 +35,9 @@
     {
       "id": 593380,
       "name": "XCOM 2: War of the Chosen",
-      "base_price_rub": 180,
+      "base_price_rub": 911,
       "markup_rub": 500,
-      "price_rub": 680,
+      "price_rub": 1411,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/593380/header.jpg?t=1728669045"
     },
     {
@@ -51,12 +51,12 @@
     {
       "id": 399620,
       "name": "XCOM 2: Resistance Warrior Pack",
-      "base_price_rub": 100,
+      "base_price_rub": 112,
       "markup_rub": 500,
-      "price_rub": 600,
+      "price_rub": 612,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/399620/header.jpg?t=1599495347"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-12T08:57:00Z"
+  "updated_at": "2026-07-15T14:25:01Z"
 }
