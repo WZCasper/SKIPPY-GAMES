@@ -13,9 +13,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 713,
+  "base_price_rub": 715,
   "markup_rub": 500,
-  "price_rub": 1213,
+  "price_rub": 1215,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -43,17 +43,17 @@
     {
       "id": 750031,
       "name": "This War of Mine: Stories - Season Pass",
-      "base_price_rub": 280,
+      "base_price_rub": 281,
       "markup_rub": 500,
-      "price_rub": 780,
+      "price_rub": 781,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750031/header.jpg?t=1733932090"
     },
     {
       "id": 481090,
       "name": "This War of Mine: The Little Ones",
-      "base_price_rub": 213,
+      "base_price_rub": 214,
       "markup_rub": 500,
-      "price_rub": 713,
+      "price_rub": 714,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/481090/header.jpg?t=1733932125"
     },
     {
@@ -67,12 +67,28 @@
     {
       "id": 974610,
       "name": "This War of Mine: Stories - The Last Broadcast (ep.2)",
-      "base_price_rub": 170,
+      "base_price_rub": 171,
       "markup_rub": 500,
-      "price_rub": 670,
+      "price_rub": 671,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/974610/header.jpg?t=1733932070"
+    },
+    {
+      "id": 1125630,
+      "name": "This War of Mine: Stories - Fading Embers (ep. 3)",
+      "base_price_rub": 171,
+      "markup_rub": 500,
+      "price_rub": 671,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1125630/header.jpg?t=1733932053"
+    },
+    {
+      "id": 348040,
+      "name": "This War of Mine: War Child Charity",
+      "base_price_rub": 45,
+      "markup_rub": 500,
+      "price_rub": 545,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/348040/header.jpg?t=1733932143"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-12T13:48:30Z"
+  "updated_at": "2026-07-15T19:24:46Z"
 }

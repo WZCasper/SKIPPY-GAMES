@@ -16,10 +16,10 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 419,
+  "base_price_rub": 420,
   "markup_rub": 500,
-  "price_rub": 919,
-  "original_price_rub": 1735,
+  "price_rub": 920,
+  "original_price_rub": 1739,
   "discount_percent": 66,
   "is_free": false,
   "trailer_video": null,
@@ -70,9 +70,9 @@
     {
       "id": 335030,
       "name": "Total War: ATTILA - Blood & Burning",
-      "base_price_rub": 94,
+      "base_price_rub": 95,
       "markup_rub": 500,
-      "price_rub": 594,
+      "price_rub": 595,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335030/header.jpg?t=1782985213"
     },
     {
@@ -82,8 +82,24 @@
       "markup_rub": 500,
       "price_rub": 593,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/343460/header.jpg?t=1782985211"
+    },
+    {
+      "id": 343461,
+      "name": "Total War: ATTILA - Celts Culture Pack",
+      "base_price_rub": 93,
+      "markup_rub": 500,
+      "price_rub": 593,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/343461/header.jpg?t=1782985209"
+    },
+    {
+      "id": 335020,
+      "name": "Total War: ATTILA - Viking Forefathers Culture Pack",
+      "base_price_rub": 93,
+      "markup_rub": 500,
+      "price_rub": 593,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335020/header.jpg?t=1782985179"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-12T14:03:38Z"
+  "updated_at": "2026-07-15T19:40:42Z"
 }

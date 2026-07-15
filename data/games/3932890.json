@@ -1,7 +1,7 @@
 {
   "id": 3932890,
   "title": "Escape from Tarkov",
-  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932890/e1367f10d469137a2ced522b642a9b1ee10450da/header.jpg?t=1779703783",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932890/e1367f10d469137a2ced522b642a9b1ee10450da/header.jpg?t=1783942603",
   "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3932890/library_hero.jpg",
   "description": "Escape from Tarkov - хардкорный шутер, где каждый рейд - это игра со смертью. Готовься к рейдам, превозмогай и пробивайся сквозь беспощадных бойцов ЧВК и Диких, пользуйся тактическим преимуществом и забирай самый ценный лут. Ты либо выйдешь живым, либо потеряешь все.",
   "description_short": "Escape from Tarkov - хардкорный шутер, где каждый рейд - это игра со смертью. Готовься к рейдам, превозмогай и пробивайся сквозь беспощадных бойцов ЧВК и Диких, пользуйся тактическим преимуществом и забирай самый ценный лут. Ты либо выйдешь живым, либо потеряешь все.",
@@ -11,42 +11,58 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 3522,
+  "base_price_rub": 2648,
   "markup_rub": 500,
-  "price_rub": 4022,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 3148,
+  "original_price_rub": 4031,
+  "discount_percent": 25,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932890/90ac6ab7f74f40b50d5ee5aee0c0614002790fd5/ss_90ac6ab7f74f40b50d5ee5aee0c0614002790fd5.1920x1080.jpg?t=1779703783",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932890/c394a10373a4e013e7664f0a0d23f710ef5c610a/ss_c394a10373a4e013e7664f0a0d23f710ef5c610a.1920x1080.jpg?t=1779703783",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932890/d10b95c68e8b8263a73ef2e3a7d22c9e6989d71f/ss_d10b95c68e8b8263a73ef2e3a7d22c9e6989d71f.1920x1080.jpg?t=1779703783",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932890/ec49a0fb7ee1ad4c3fd5da9b1d371bdbe6a9ea12/ss_ec49a0fb7ee1ad4c3fd5da9b1d371bdbe6a9ea12.1920x1080.jpg?t=1779703783",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932890/758b029822d4d5b49080152d9f23f87ba472c074/ss_758b029822d4d5b49080152d9f23f87ba472c074.1920x1080.jpg?t=1779703783",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932890/ce1407465e6207a69dafd22e7e071097c4a56757/ss_ce1407465e6207a69dafd22e7e071097c4a56757.1920x1080.jpg?t=1779703783",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932890/f29f026332bb8a50d71ebbaf9befc8db534d3fe0/ss_f29f026332bb8a50d71ebbaf9befc8db534d3fe0.1920x1080.jpg?t=1779703783",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932890/51c37696972faeba2addde8a1330b950a229b774/ss_51c37696972faeba2addde8a1330b950a229b774.1920x1080.jpg?t=1779703783"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932890/90ac6ab7f74f40b50d5ee5aee0c0614002790fd5/ss_90ac6ab7f74f40b50d5ee5aee0c0614002790fd5.1920x1080.jpg?t=1783942603",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932890/c394a10373a4e013e7664f0a0d23f710ef5c610a/ss_c394a10373a4e013e7664f0a0d23f710ef5c610a.1920x1080.jpg?t=1783942603",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932890/d10b95c68e8b8263a73ef2e3a7d22c9e6989d71f/ss_d10b95c68e8b8263a73ef2e3a7d22c9e6989d71f.1920x1080.jpg?t=1783942603",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932890/ec49a0fb7ee1ad4c3fd5da9b1d371bdbe6a9ea12/ss_ec49a0fb7ee1ad4c3fd5da9b1d371bdbe6a9ea12.1920x1080.jpg?t=1783942603",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932890/758b029822d4d5b49080152d9f23f87ba472c074/ss_758b029822d4d5b49080152d9f23f87ba472c074.1920x1080.jpg?t=1783942603",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932890/ce1407465e6207a69dafd22e7e071097c4a56757/ss_ce1407465e6207a69dafd22e7e071097c4a56757.1920x1080.jpg?t=1783942603",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932890/f29f026332bb8a50d71ebbaf9befc8db534d3fe0/ss_f29f026332bb8a50d71ebbaf9befc8db534d3fe0.1920x1080.jpg?t=1783942603",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3932890/51c37696972faeba2addde8a1330b950a229b774/ss_51c37696972faeba2addde8a1330b950a229b774.1920x1080.jpg?t=1783942603"
   ],
   "upsells": [
     {
+      "id": 4898900,
+      "name": "Escape from Tarkov: TarCoin Special Offer",
+      "base_price_rub": 687,
+      "markup_rub": 500,
+      "price_rub": 1187,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4898900/0dfbc1a55fe94b4f5b905a0d68177f7628b4f670/header.jpg?t=1783519366"
+    },
+    {
       "id": 4091290,
       "name": "Escape from Tarkov: PVE Zone",
-      "base_price_rub": 2148,
+      "base_price_rub": 1938,
       "markup_rub": 500,
-      "price_rub": 2648,
+      "price_rub": 2438,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4091290/62e262392dea665e8b507f423d04c8e14eaf6d9e/header.jpg?t=1763204182"
     },
     {
       "id": 4490930,
       "name": "Escape from Tarkov: TarCoin Ingame Currency",
-      "base_price_rub": 342,
+      "base_price_rub": 343,
       "markup_rub": 500,
-      "price_rub": 842,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4490930/0200cf85c6d46a3f2d10bd8060705c1e787fc1a7/header.jpg?t=1783516232"
+      "price_rub": 843,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4490930/0200cf85c6d46a3f2d10bd8060705c1e787fc1a7/header.jpg?t=1783946240"
+    },
+    {
+      "id": 4898900,
+      "name": "Escape from Tarkov: TarCoin Special Offer",
+      "base_price_rub": 687,
+      "markup_rub": 500,
+      "price_rub": 1187,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4898900/0dfbc1a55fe94b4f5b905a0d68177f7628b4f670/header.jpg?t=1783519366"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-12T08:26:24Z"
+  "updated_at": "2026-07-15T19:19:04Z"
 }

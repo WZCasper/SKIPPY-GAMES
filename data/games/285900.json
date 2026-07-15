@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 668,
+  "base_price_rub": 267,
   "markup_rub": 500,
-  "price_rub": 1168,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 767,
+  "original_price_rub": 1170,
+  "discount_percent": 60,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,12 +35,12 @@
     {
       "id": 1003800,
       "name": "Gang Beasts Soundtrack",
-      "base_price_rub": 230,
+      "base_price_rub": 115,
       "markup_rub": 500,
-      "price_rub": 730,
+      "price_rub": 615,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1003800/header.jpg?t=1581548807"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-12T13:43:33Z"
+  "updated_at": "2026-07-15T19:19:38Z"
 }

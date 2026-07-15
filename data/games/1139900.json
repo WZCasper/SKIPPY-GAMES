@@ -16,9 +16,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 1091,
+  "base_price_rub": 1094,
   "markup_rub": 500,
-  "price_rub": 1591,
+  "price_rub": 1594,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -38,9 +38,9 @@
     {
       "id": 1760190,
       "name": "Ghostrunner - Project_Hel",
-      "base_price_rub": 387,
+      "base_price_rub": 388,
       "markup_rub": 500,
-      "price_rub": 887,
+      "price_rub": 888,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1760190/header.jpg?t=1652380887"
     },
     {
@@ -62,28 +62,36 @@
     {
       "id": 1647450,
       "name": "Ghostrunner - Neon Pack",
-      "base_price_rub": 170,
+      "base_price_rub": 171,
       "markup_rub": 500,
-      "price_rub": 670,
+      "price_rub": 671,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1647450/header.jpg?t=1645585204"
     },
     {
       "id": 1741240,
       "name": "Ghostrunner - Soundtrack",
-      "base_price_rub": 170,
+      "base_price_rub": 171,
       "markup_rub": 500,
-      "price_rub": 670,
+      "price_rub": 671,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1741240/header.jpg?t=1631195515"
     },
     {
       "id": 1741380,
       "name": "Ghostrunner - Digital Artbook",
-      "base_price_rub": 101,
+      "base_price_rub": 102,
       "markup_rub": 500,
-      "price_rub": 601,
+      "price_rub": 602,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1741380/header.jpg?t=1645120917"
+    },
+    {
+      "id": 1760130,
+      "name": "Ghostrunner - Halloween Pack",
+      "base_price_rub": 171,
+      "markup_rub": 500,
+      "price_rub": 671,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1760130/header.jpg?t=1635522789"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-12T14:07:18Z"
+  "updated_at": "2026-07-15T19:46:05Z"
 }

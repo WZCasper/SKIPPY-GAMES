@@ -16,9 +16,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 713,
+  "base_price_rub": 715,
   "markup_rub": 500,
-  "price_rub": 1213,
+  "price_rub": 1215,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -34,24 +34,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337320/ss_2c51121b8af18b65d41e884edf94d4f8509a41c1.1920x1080.jpg?t=1747124279",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337320/ss_50c9fa5564df19f1c5b25b0d0fd1e0f6f1e6831c.1920x1080.jpg?t=1747124279"
   ],
-  "upsells": [
-    {
-      "id": 2474710,
-      "name": "Paint the Town Red VR",
-      "base_price_rub": 387,
-      "markup_rub": 500,
-      "price_rub": 887,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2474710/header.jpg?t=1710643106"
-    },
-    {
-      "id": 1703630,
-      "name": "Paint the Town Red Soundtrack",
-      "base_price_rub": 387,
-      "markup_rub": 500,
-      "price_rub": 887,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1703630/header.jpg?t=1627560242"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-12T19:14:08Z"
+  "updated_at": "2026-07-15T20:12:21Z"
 }

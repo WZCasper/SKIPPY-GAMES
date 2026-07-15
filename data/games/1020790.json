@@ -15,10 +15,10 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 1235,
+  "base_price_rub": 1239,
   "markup_rub": 500,
-  "price_rub": 1735,
-  "original_price_rub": 3591,
+  "price_rub": 1739,
+  "original_price_rub": 3599,
   "discount_percent": 60,
   "is_free": false,
   "trailer_video": null,
@@ -31,7 +31,72 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1020790/ss_a0b87a40e03a8e172ea9d9ed6569d1cb75031c1c.1920x1080.jpg?t=1727301927",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1020790/ss_7148349d63019945d71d6057c002994807eb5c9d.1920x1080.jpg?t=1727301927"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 2171330,
+      "name": "NBUNSC - DLC Pack 5",
+      "base_price_rub": 153,
+      "markup_rub": 500,
+      "price_rub": 653,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2171330/header.jpg?t=1727301585"
+    },
+    {
+      "id": 2171332,
+      "name": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS - Season Pass",
+      "base_price_rub": 644,
+      "markup_rub": 500,
+      "price_rub": 1144,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2171332/header.jpg?t=1727302004"
+    },
+    {
+      "id": 2171329,
+      "name": "NBUNSC - DLC Pack 4",
+      "base_price_rub": 153,
+      "markup_rub": 500,
+      "price_rub": 653,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2171329/header.jpg?t=1724205365"
+    },
+    {
+      "id": 2171328,
+      "name": "NBUNSC - DLC Pack 3",
+      "base_price_rub": 153,
+      "markup_rub": 500,
+      "price_rub": 653,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2171328/header.jpg?t=1719196740"
+    },
+    {
+      "id": 2171327,
+      "name": "NBUNSC - DLC Pack 2",
+      "base_price_rub": 153,
+      "markup_rub": 500,
+      "price_rub": 653,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2171327/header.jpg?t=1717121158"
+    },
+    {
+      "id": 2171326,
+      "name": "NBUNSC -  DLC Pack 1",
+      "base_price_rub": 153,
+      "markup_rub": 500,
+      "price_rub": 653,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2171326/header.jpg?t=1717121143"
+    },
+    {
+      "id": 2171321,
+      "name": "NBUNSC - Pre-Order Pack",
+      "base_price_rub": 127,
+      "markup_rub": 500,
+      "price_rub": 627,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2171321/header.jpg?t=1717121220"
+    },
+    {
+      "id": 2542820,
+      "name": "NBUNSC - Nostalgic Anime Song & Item Pack",
+      "base_price_rub": 1032,
+      "markup_rub": 500,
+      "price_rub": 1532,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2542820/header.jpg?t=1717121282"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-12T14:31:17Z"
+  "updated_at": "2026-07-15T20:08:03Z"
 }

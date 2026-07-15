@@ -16,9 +16,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 885,
+  "base_price_rub": 887,
   "markup_rub": 500,
-  "price_rub": 1385,
+  "price_rub": 1387,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -38,73 +38,89 @@
     {
       "id": 2955520,
       "name": "Generation Zero® - Heavy Weapons Pack",
-      "base_price_rub": 213,
+      "base_price_rub": 214,
       "markup_rub": 500,
-      "price_rub": 713,
+      "price_rub": 714,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2955520/788801844ca763ddbb8e54d1aa1199eff6b80128/header.jpg?t=1746006817"
     },
     {
       "id": 2689180,
       "name": "Generation Zero® - Reinforced Flakmoped Pack",
-      "base_price_rub": 280,
+      "base_price_rub": 281,
       "markup_rub": 500,
-      "price_rub": 780,
+      "price_rub": 781,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2689180/b54b513bf81425615ab237803a2bbcf34c9d5932/header.jpg?t=1746006437"
     },
     {
       "id": 2591100,
       "name": "Generation Zero® - Advanced Intelligence Cosmetics Pack",
-      "base_price_rub": 170,
+      "base_price_rub": 171,
       "markup_rub": 500,
-      "price_rub": 670,
+      "price_rub": 671,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2591100/660754ab2c106de62ffa67dab6f0cb13ec714b5f/header.jpg?t=1745943446"
+    },
+    {
+      "id": 2473770,
+      "name": "Generation Zero® - Companion Accessories Pack",
+      "base_price_rub": 281,
+      "markup_rub": 500,
+      "price_rub": 781,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2473770/6521c0bdbfbdf0c8748d5e67fe75c56a1b9f9a27/header.jpg?t=1745943251"
+    },
+    {
+      "id": 2334430,
+      "name": "Generation Zero® - Tactical Equipment Pack 2",
+      "base_price_rub": 257,
+      "markup_rub": 500,
+      "price_rub": 757,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2334430/428564bb9522ed1e28b3b585ab48ef5b0cdb7ed5/header.jpg?t=1745942972"
     },
     {
       "id": 2200740,
       "name": "Generation Zero® - Eastern European Weapons Pack",
-      "base_price_rub": 213,
+      "base_price_rub": 214,
       "markup_rub": 500,
-      "price_rub": 713,
+      "price_rub": 714,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2200740/40d253eab99088be1656060433873954d94ebb8e/header.jpg?t=1745942681"
     },
     {
       "id": 2144760,
       "name": "Generation Zero® - Camo Weapon Skins Pack",
-      "base_price_rub": 170,
+      "base_price_rub": 171,
       "markup_rub": 500,
-      "price_rub": 670,
+      "price_rub": 671,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144760/f12db2004721cbfea2f683ac1686be2049517b07/header.jpg?t=1745941130"
     },
     {
       "id": 2144761,
       "name": "Generation Zero® - Motorbikes Pack",
-      "base_price_rub": 280,
+      "base_price_rub": 281,
       "markup_rub": 500,
-      "price_rub": 780,
+      "price_rub": 781,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2144761/eafbeda9790a911637ee42ad3401283d7f5109a9/header.jpg?t=1746011740"
     },
     {
       "id": 2009530,
       "name": "Generation Zero® - Tactical Equipment Pack",
-      "base_price_rub": 256,
+      "base_price_rub": 257,
       "markup_rub": 500,
-      "price_rub": 756,
+      "price_rub": 757,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2009530/67733130ceccd005cdf40cedc6481c35a7bab51d/header.jpg?t=1746009977"
     },
     {
       "id": 1771050,
       "name": "Generation Zero® - Resistance Weapons Pack",
-      "base_price_rub": 170,
+      "base_price_rub": 171,
       "markup_rub": 500,
-      "price_rub": 670,
+      "price_rub": 671,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771050/125dba6823187d2906b8f44c39d7b5a963ce5b23/header.jpg?t=1745940379"
     },
     {
       "id": 1850670,
       "name": "Generation Zero® - Base Support Pack",
-      "base_price_rub": 213,
+      "base_price_rub": 214,
       "markup_rub": 500,
-      "price_rub": 713,
+      "price_rub": 714,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1850670/29fa756230696e8c2b4f1ecd52ef94eb0eb28ff4/header.jpg?t=1746008900"
     },
     {
@@ -117,5 +133,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-12T14:19:51Z"
+  "updated_at": "2026-07-15T19:56:06Z"
 }

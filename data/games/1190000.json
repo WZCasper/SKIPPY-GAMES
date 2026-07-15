@@ -16,11 +16,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 88,
+  "base_price_rub": 887,
   "markup_rub": 500,
-  "price_rub": 588,
-  "original_price_rub": 1385,
-  "discount_percent": 90,
+  "price_rub": 1387,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -34,104 +34,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190000/ss_d5241d3da441cf0bcb5721f1f452d9121f5b41f7.1920x1080.jpg?t=1782933444",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1190000/ss_ce17d430f8e4945dc639048135aff147d2eafb6b.1920x1080.jpg?t=1782933444"
   ],
-  "upsells": [
-    {
-      "id": 2112231,
-      "name": "Car Mechanic Simulator 2021 - Drag Racing DLC",
-      "base_price_rub": 94,
-      "markup_rub": 500,
-      "price_rub": 594,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2112231/header.jpg?t=1750427248"
-    },
-    {
-      "id": 1685721,
-      "name": "Car Mechanic Simulator 2021 - Electric Car DLC",
-      "base_price_rub": 33,
-      "markup_rub": 500,
-      "price_rub": 533,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1685721/header.jpg?t=1750426724"
-    },
-    {
-      "id": 1748990,
-      "name": "Car Mechanic Simulator 2021 - Jaguar DLC",
-      "base_price_rub": 34,
-      "markup_rub": 500,
-      "price_rub": 534,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1748990/header.jpg?t=1750426616"
-    },
-    {
-      "id": 1748991,
-      "name": "Car Mechanic Simulator 2021 - Land Rover DLC",
-      "base_price_rub": 33,
-      "markup_rub": 500,
-      "price_rub": 533,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1748991/header.jpg?t=1750426779"
-    },
-    {
-      "id": 1773800,
-      "name": "Car Mechanic Simulator 2021 - Pagani Remastered DLC",
-      "base_price_rub": 34,
-      "markup_rub": 500,
-      "price_rub": 534,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1773800/header.jpg?t=1750426891"
-    },
-    {
-      "id": 1773801,
-      "name": "Car Mechanic Simulator 2021 - Porsche Remastered DLC",
-      "base_price_rub": 34,
-      "markup_rub": 500,
-      "price_rub": 534,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1773801/header.jpg?t=1750427107"
-    },
-    {
-      "id": 1931780,
-      "name": "Car Mechanic Simulator 2021 - Hot Rod Remastered DLC",
-      "base_price_rub": 31,
-      "markup_rub": 500,
-      "price_rub": 531,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1931780/header.jpg?t=1750426943"
-    },
-    {
-      "id": 1981550,
-      "name": "Car Mechanic Simulator 2021 - Lotus Remastered DLC",
-      "base_price_rub": 31,
-      "markup_rub": 500,
-      "price_rub": 531,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1981550/header.jpg?t=1750426873"
-    },
-    {
-      "id": 2085260,
-      "name": "Car Mechanic Simulator 2021 - Mazda Remastered DLC",
-      "base_price_rub": 31,
-      "markup_rub": 500,
-      "price_rub": 531,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2085260/header.jpg?t=1750426783"
-    },
-    {
-      "id": 2112230,
-      "name": "Car Mechanic Simulator 2021 - Aston Martin DLC",
-      "base_price_rub": 36,
-      "markup_rub": 500,
-      "price_rub": 536,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2112230/header.jpg?t=1750426684"
-    },
-    {
-      "id": 1685720,
-      "name": "Car Mechanic Simulator 2021 - Nissan DLC",
-      "base_price_rub": 33,
-      "markup_rub": 500,
-      "price_rub": 533,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1685720/header.jpg?t=1767629145"
-    },
-    {
-      "id": 2112232,
-      "name": "Car Mechanic Simulator 2021 - Mercedes-Benz Remastered DLC",
-      "base_price_rub": 43,
-      "markup_rub": 500,
-      "price_rub": 543,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2112232/header.jpg?t=1750426947"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-12T19:13:56Z"
+  "updated_at": "2026-07-15T20:12:13Z"
 }

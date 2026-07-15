@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 1271,
+  "base_price_rub": 892,
   "markup_rub": 500,
-  "price_rub": 1771,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 1392,
+  "original_price_rub": 1775,
+  "discount_percent": 30,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,20 +35,20 @@
     {
       "id": 2893270,
       "name": "Solium Infernum — Бельфегор, образец нечестивости",
-      "base_price_rub": 387,
+      "base_price_rub": 310,
       "markup_rub": 500,
-      "price_rub": 887,
+      "price_rub": 810,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2893270/header.jpg?t=1713923660"
     },
     {
       "id": 2801640,
       "name": "Solium Infernum (Original Game Soundtrack)",
-      "base_price_rub": 387,
+      "base_price_rub": 310,
       "markup_rub": 500,
-      "price_rub": 887,
+      "price_rub": 810,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2801640/header.jpg?t=1711421905"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-12T14:30:30Z"
+  "updated_at": "2026-07-15T20:07:02Z"
 }

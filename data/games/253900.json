@@ -15,9 +15,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 387,
+  "base_price_rub": 388,
   "markup_rub": 500,
-  "price_rub": 887,
+  "price_rub": 888,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -31,16 +31,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253900/ss_c350701c364835e9da18835a7d52f31dd851c9a1.1920x1080.jpg?t=1597837870",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253900/ss_f956ec4ddec5f08e9bfcec9db42ac0c55bc54b2a.1920x1080.jpg?t=1597837870"
   ],
-  "upsells": [
-    {
-      "id": 986240,
-      "name": "Knights and Merchants - Digital Deluxe Content",
-      "base_price_rub": 280,
-      "markup_rub": 500,
-      "price_rub": 780,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/986240/header.jpg?t=1545220713"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-12T19:18:08Z"
+  "updated_at": "2026-07-15T20:12:49Z"
 }
