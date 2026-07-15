@@ -1,43 +1,27 @@
 'use strict';
 
-/* =====================================================================
-   СОСТОЯНИЕ КАТАЛОГА
-   ===================================================================== */
-
 var allGames = [];
 var filteredGames = [];
-var activeFilters = { platform: '', genres: [], priceMax: '', freeOnly: false };
+var activeGenre = '';
+var activePlatform = '';
 var searchQuery = '';
 var sortMode = 'default';
+var maxPrice = 10000;
+var freeOnly = false;
 var currentPage = 1;
 var GAMES_PER_PAGE = 24;
-var searchDebounceTimer = null;
-
-var allGenres = [
-    'Экшен', 'Шутеры от первого лица (FPS)', 'Шутеры от третьего лица (TPS)',
-    'Тактические шутеры', 'Геройские шутеры', 'Файтинги', 'Слэшеры',
-    "Beat 'em up", 'Платформеры', 'Королевская битва (Battle Royale)',
-    'Классические ролевые игры (CRPG)', 'Экшен-РПГ (Action-RPG)',
-    'Японские ролевые игры (JRPG)', 'MMORPG', 'Стратегии в реальном времени (RTS)',
-    'Пошаговые стратегии (TBS)', 'Глобальные стратегии (4X)', 'MOBA',
-    'Башенная защита (Tower Defense)', 'Автобатлеры', 'Приключения',
-    'Квесты (Point-and-Click)', 'Интерактивное кино', 'Визуальные новеллы',
-    'Головоломки', 'Градостроительные симуляторы', 'Экономические симуляторы',
-    'Симуляторы жизни', 'Технические симуляторы', 'Иммерсивные симуляторы (Immersive Sim)',
-    'Спортивные симуляторы', 'Гоночные симуляторы (Simracing)', 'Аркадные гонки',
-    'Выживание (Survival)', 'Хорроры на выживание (Survival Horror)',
-    'Психологические хорроры', 'Экшен-адвенчуры', 'Песочницы (Sandbox)',
-    'Рогалики (Roguelike/Roguelite)', 'Метроидвании', 'Стелс-экшен',
-    'Ритм-игры', 'Казуальные игры'
-];
+var searchDebounce = null;
+var sliderIndex = 0;
+var sliderCardWidth = 271; // 255px card + 16px gap
 
 document.addEventListener('DOMContentLoaded', () => {
-    document.getElementById('footer-year').textContent = new Date().getFullYear();
-    renderGenreCheckboxes();
-    setupFilterEvents();
+    document.getElementById('footYear').textContent = new Date().getFullYear();
+    renderPlatformTabs();
+    renderGenreList();
+    showSkeletons();
+    wireControls();
+    initScrollSpy(['hotSlider', 'store', 'about']);
     loadIndex();
-    window.addEventListener('scroll', handleScrollUi);
-    document.addEventListener('click', handleOutsideClickForDropdown);
 });
 
 /* =====================================================================
@@ -46,233 +30,230 @@ document.addEventListener('DOMContentLoaded', () => {
 
 function loadIndex() {
     fetch(GAMES_INDEX_URL, { cache: 'no-store' })
-        .then(resp => { if (!resp.ok) throw new Error('HTTP ' + resp.status); return resp.json(); })
+        .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
         .then(payload => {
             allGames = Array.isArray(payload.games) ? payload.games : [];
             filteredGames = allGames.slice();
-            document.getElementById('stat-games').textContent = allGames.length.toLocaleString('ru-RU');
-            const platformsSeen = new Set();
-            allGames.forEach(g => (g.platforms || []).forEach(p => platformsSeen.add(p)));
-            document.getElementById('stat-platforms').textContent = Math.max(platformsSeen.size, 1);
+            document.getElementById('statGames').textContent = allGames.length.toLocaleString('ru-RU');
+            const plats = new Set();
+            allGames.forEach(g => (g.platforms || []).forEach(p => plats.add(p)));
+            document.getElementById('statPlatforms').textContent = Math.max(plats.size, 1);
+            renderHotSlider();
             applyFilters();
-            renderHotDeals();
         })
         .catch(err => {
             console.error('Не удалось загрузить data/index.json:', err);
-            document.getElementById('gamesGrid').innerHTML =
-                '<div class="col-span-full text-center py-20 text-neutral-500"><i class="fa-solid fa-triangle-exclamation text-4xl mb-3"></i><p>Не удалось загрузить каталог. Попробуйте обновить страницу позже.</p></div>';
+            document.getElementById('gamesGrid').innerHTML = '<div class="no-results">Не удалось загрузить каталог. Попробуйте обновить страницу позже.</div>';
         });
 }
 
+function showSkeletons() {
+    const grid = document.getElementById('gamesGrid');
+    let html = '';
+    for (let i = 0; i < 8; i++) {
+        html += '<div class="shimmer-card"><div class="shimmer-img"></div><div class="shimmer-body"><div class="shimmer-line w40"></div><div class="shimmer-line w70"></div><div class="shimmer-line w55"></div></div></div>';
+    }
+    grid.innerHTML = html;
+}
+
 /* =====================================================================
-   ГОРЯЩИЕ ПРЕДЛОЖЕНИЯ (реальные скидки Steam, discount_percent > 0)
+   ХИТЫ (реальные скидки Steam, discount_percent > 0)
    ===================================================================== */
 
-function renderHotDeals() {
-    const section = document.getElementById('hotdeals-section');
-    const deals = allGames.filter(g => g.discount_percent > 0).sort((a, b) => b.discount_percent - a.discount_percent).slice(0, 10);
-    if (deals.length === 0) {
-        section.style.display = 'none';
-        return;
-    }
+function renderHotSlider() {
+    const section = document.getElementById('hotSlider');
+    const deals = allGames.filter(g => g.discount_percent > 0).sort((a, b) => b.discount_percent - a.discount_percent).slice(0, 12);
+    if (deals.length === 0) { section.style.display = 'none'; return; }
     section.style.display = 'block';
-    section.innerHTML = `
-        <h3 class="text-2xl font-extrabold text-white mb-4">🔥 Горящие предложения</h3>
-        <div class="flex gap-4 overflow-x-auto hot-deals-scroll pb-3">
-            ${deals.map(g => `
-                <a href="game.html?id=${g.id}" class="hot-deal-card shrink-0 w-64 bg-neutral-800 rounded-2xl overflow-hidden border border-neutral-700 hover:border-yellow-500 transition-colors block">
-                    <div class="relative h-36">
-                        <img src="${g.cover}" alt="${escapeHtml(g.title)}" loading="lazy" class="w-full h-full object-cover">
-                        <div class="cover-shade"></div>
-                        <div class="absolute top-2 right-2 bg-red-600 text-white text-xs font-extrabold px-2 py-1 rounded-lg">−${g.discount_percent}%</div>
-                    </div>
-                    <div class="p-4">
-                        <p class="font-bold text-white text-sm mb-2 line-clamp-1">${escapeHtml(g.title)}</p>
-                        <div class="flex items-baseline gap-2">
-                            <span class="text-neutral-500 text-xs line-through">${formatRub(g.original_price_rub)}</span>
-                            <span class="text-yellow-500 font-extrabold">${formatRub(g.price_rub)}</span>
-                        </div>
-                    </div>
-                </a>
-            `).join('')}
-        </div>
-    `;
+
+    const track = document.getElementById('sliderTrack');
+    track.innerHTML = deals.map(g => `
+        <a href="game.html?id=${g.id}" class="slider-card">
+            <div class="slider-img">
+                <img src="${g.cover}" alt="${escapeHtml(g.title)}" loading="lazy">
+                <div class="slider-discount">−${g.discount_percent}%</div>
+            </div>
+            <div class="slider-info">
+                <div class="slider-title">${escapeHtml(g.title)}</div>
+                <div class="slider-price-row">
+                    <span class="slider-price-old">${formatRub(g.original_price_rub)}</span>
+                    <span class="slider-price">${formatRub(g.price_rub)}</span>
+                </div>
+            </div>
+        </a>
+    `).join('');
+
+    const dotsWrap = document.getElementById('sliderDots');
+    const maxIndex = Math.max(0, deals.length - Math.floor(track.parentElement.clientWidth / sliderCardWidth || 3));
+    const dotCount = Math.min(deals.length, 8);
+    dotsWrap.innerHTML = Array.from({ length: dotCount }).map((_, i) => `<div class="slider-dot${i === 0 ? ' active' : ''}" data-i="${i}"></div>`).join('');
+    sliderIndex = 0;
+
+    document.getElementById('slPrev').onclick = () => slideBy(-1, deals.length);
+    document.getElementById('slNext').onclick = () => slideBy(1, deals.length);
+    dotsWrap.querySelectorAll('.slider-dot').forEach(d => d.addEventListener('click', () => { sliderIndex = Number(d.dataset.i); updateSlider(); }));
+}
+
+function slideBy(dir, total) {
+    sliderIndex = Math.max(0, Math.min(total - 1, sliderIndex + dir));
+    updateSlider();
+}
+function updateSlider() {
+    const track = document.getElementById('sliderTrack');
+    track.style.transform = `translateX(-${sliderIndex * sliderCardWidth}px)`;
+    document.querySelectorAll('.slider-dot').forEach((d, i) => d.classList.toggle('active', i === sliderIndex));
 }
 
 /* =====================================================================
-   ФИЛЬТРЫ / ПОИСК / СОРТИРОВКА / ПАГИНАЦИЯ
+   ФИЛЬТРЫ
    ===================================================================== */
 
-function renderGenreCheckboxes() {
-    const wrap = document.getElementById('genre-dropdown');
-    wrap.innerHTML = allGenres.map(g => `
-        <label class="flex items-center gap-2 text-neutral-300 hover:text-white cursor-pointer text-sm py-1 select-none">
-            <input type="checkbox" value="${escapeHtml(g)}" class="genre-checkbox accent-yellow-500 w-4 h-4" onchange="onGenreChange()">
-            ${escapeHtml(g)}
-        </label>
+function renderPlatformTabs() {
+    const wrap = document.getElementById('ptabs');
+    const items = [{ key: '', label: 'Все платформы', icon: '🎮' }]
+        .concat(Object.keys(PLATFORM_SHORT).map(k => ({ key: k, label: PLATFORM_SHORT[k], icon: PLATFORM_ICON_SVG[k] })));
+    wrap.innerHTML = items.map(it => `
+        <button class="ptab${it.key === '' ? ' active' : ''}" data-p="${it.key}">${it.icon.startsWith('<svg') ? it.icon : it.icon + ' '}${escapeHtml(it.label)}</button>
     `).join('');
-}
-
-function toggleGenreDropdown() {
-    document.getElementById('genre-dropdown').classList.toggle('hidden-dd');
-}
-
-function handleOutsideClickForDropdown(e) {
-    const dd = document.getElementById('genre-dropdown');
-    const btn = document.getElementById('genre-dd-btn');
-    if (!dd.contains(e.target) && !btn.contains(e.target)) {
-        dd.classList.add('hidden-dd');
-    }
-}
-
-function onGenreChange() {
-    activeFilters.genres = Array.from(document.querySelectorAll('.genre-checkbox:checked')).map(el => el.value);
-    const badge = document.getElementById('genre-count-badge');
-    if (activeFilters.genres.length > 0) {
-        badge.textContent = String(activeFilters.genres.length);
-        badge.classList.remove('hidden');
-    } else {
-        badge.classList.add('hidden');
-    }
-    currentPage = 1;
-    applyFilters();
-}
-
-function setupFilterEvents() {
-    document.getElementById('searchInput').addEventListener('input', (e) => {
-        clearTimeout(searchDebounceTimer);
-        const value = e.target.value;
-        searchDebounceTimer = setTimeout(() => {
-            searchQuery = value.toLowerCase().trim();
-            currentPage = 1;
-            applyFilters();
-        }, 200);
-    });
-
-    document.querySelectorAll('.platform-tab').forEach(btn => {
+    wrap.querySelectorAll('.ptab').forEach(btn => {
         btn.addEventListener('click', () => {
-            document.querySelectorAll('.platform-tab').forEach(b => b.classList.remove('active'));
+            wrap.querySelectorAll('.ptab').forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
-            activeFilters.platform = btn.dataset.platform;
+            activePlatform = btn.dataset.p;
             currentPage = 1;
             applyFilters();
         });
     });
+}
 
-    document.getElementById('priceMaxSelect').addEventListener('change', (e) => {
-        activeFilters.priceMax = e.target.value;
-        currentPage = 1;
-        applyFilters();
+function renderGenreList() {
+    const wrap = document.getElementById('genreList');
+    let html = `<button class="genre-btn active" data-g="">🎮 <span class="gt">Все жанры</span></button>`;
+    html += ALL_GENRES.map(g => `<button class="genre-btn" data-g="${escapeHtml(g)}"><span class="gi">${GENRE_ICONS[g] || '🎮'}</span><span class="gt">${escapeHtml(g)}</span></button>`).join('');
+    wrap.innerHTML = html;
+    wrap.querySelectorAll('.genre-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+            wrap.querySelectorAll('.genre-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            activeGenre = btn.dataset.g;
+            currentPage = 1;
+            applyFilters();
+        });
+    });
+}
+
+function wireControls() {
+    document.getElementById('searchInput').addEventListener('input', e => {
+        clearTimeout(searchDebounce);
+        const v = e.target.value;
+        searchDebounce = setTimeout(() => { searchQuery = v.toLowerCase().trim(); currentPage = 1; applyFilters(); }, 200);
     });
 
-    document.getElementById('freeOnlyCheckbox').addEventListener('change', (e) => {
-        activeFilters.freeOnly = e.target.checked;
-        currentPage = 1;
-        applyFilters();
+    const priceRange = document.getElementById('priceRange');
+    const priceValShow = document.getElementById('priceValShow');
+    priceRange.addEventListener('input', () => {
+        maxPrice = Number(priceRange.value);
+        priceValShow.textContent = maxPrice >= 10000 ? 'Любая' : formatRub(maxPrice);
     });
+    priceRange.addEventListener('change', () => { currentPage = 1; applyFilters(); });
 
-    document.getElementById('sortSelect').addEventListener('change', (e) => {
-        sortMode = e.target.value;
-        renderGames();
-    });
+    document.getElementById('freeOnly').addEventListener('change', e => { freeOnly = e.target.checked; currentPage = 1; applyFilters(); });
+    document.getElementById('sortSel').addEventListener('change', e => { sortMode = e.target.value; renderGames(); });
+
+    document.getElementById('navWishBtn').addEventListener('click', openWishModal);
+    document.getElementById('wishClose').addEventListener('click', closeWishModal);
+    document.getElementById('wishOverlay').addEventListener('click', e => { if (e.target.id === 'wishOverlay') closeWishModal(); });
 }
 
 function applyFilters() {
-    filteredGames = allGames.filter(game => {
-        if (searchQuery && !game.title.toLowerCase().includes(searchQuery)) return false;
-        if (activeFilters.platform && !(game.platforms || []).includes(activeFilters.platform)) return false;
-        if (activeFilters.genres.length > 0 && !activeFilters.genres.some(g => (game.genres || []).includes(g))) return false;
-        if (activeFilters.freeOnly && !game.is_free) return false;
-        if (activeFilters.priceMax && !game.is_free && game.price_rub > Number(activeFilters.priceMax)) return false;
+    filteredGames = allGames.filter(g => {
+        if (searchQuery && !g.title.toLowerCase().includes(searchQuery)) return false;
+        if (activePlatform && !(g.platforms || []).includes(activePlatform)) return false;
+        if (activeGenre && !(g.genres || []).includes(activeGenre)) return false;
+        if (freeOnly && !g.is_free) return false;
+        if (maxPrice < 10000 && !g.is_free && g.price_rub > maxPrice) return false;
         return true;
     });
     renderGames();
 }
 
-function sortGames(list) {
-    const arr = list.slice();
-    if (sortMode === 'price_asc') arr.sort((a, b) => a.price_rub - b.price_rub);
-    else if (sortMode === 'price_desc') arr.sort((a, b) => b.price_rub - a.price_rub);
-    else if (sortMode === 'az') arr.sort((a, b) => a.title.localeCompare(b.title, 'ru'));
+function sortedList() {
+    const arr = filteredGames.slice();
+    if (sortMode === 'price-asc') arr.sort((a, b) => a.price_rub - b.price_rub);
+    else if (sortMode === 'price-desc') arr.sort((a, b) => b.price_rub - a.price_rub);
+    else if (sortMode === 'name') arr.sort((a, b) => a.title.localeCompare(b.title, 'ru'));
     return arr;
 }
 
+/* =====================================================================
+   РЕНДЕР СЕТКИ + ПАГИНАЦИЯ
+   ===================================================================== */
+
 function renderGames() {
     const grid = document.getElementById('gamesGrid');
-    const noRes = document.getElementById('noResults');
-    const paginationEl = document.getElementById('pagination');
-    const sorted = sortGames(filteredGames);
-
-    document.getElementById('resultsCount').textContent = `Показано: ${sorted.length.toLocaleString('ru-RU')} игр`;
+    const sorted = sortedList();
+    document.getElementById('gamesShown').textContent = sorted.length.toLocaleString('ru-RU');
+    document.getElementById('gamesTotal').textContent = 'из ' + allGames.length.toLocaleString('ru-RU');
 
     if (sorted.length === 0) {
-        grid.innerHTML = '';
-        grid.classList.add('hidden');
-        noRes.classList.remove('hidden');
-        paginationEl.innerHTML = '';
+        grid.innerHTML = '<div class="no-results">🔍 Игры не найдены. Попробуйте изменить фильтры.</div>';
+        document.getElementById('pagination').innerHTML = '';
         return;
     }
-    grid.classList.remove('hidden');
-    noRes.classList.add('hidden');
 
     const totalPages = Math.max(1, Math.ceil(sorted.length / GAMES_PER_PAGE));
     currentPage = Math.min(currentPage, totalPages);
     const start = (currentPage - 1) * GAMES_PER_PAGE;
-    const pageItems = sorted.slice(start, start + GAMES_PER_PAGE);
+    const page = sorted.slice(start, start + GAMES_PER_PAGE);
 
-    grid.innerHTML = pageItems.map(game => gameCardHtml(game)).join('');
+    grid.innerHTML = page.map(gameCardHtml).join('');
     attachCardTilt();
+    grid.querySelectorAll('.card-wish').forEach(btn => {
+        btn.addEventListener('click', e => {
+            e.preventDefault(); e.stopPropagation();
+            const id = Number(btn.dataset.id);
+            const wished = toggleWishlist(id);
+            btn.classList.toggle('wished', wished);
+        });
+    });
+
     renderPagination(totalPages);
 }
 
-function gameCardHtml(game) {
-    const platHTML = (game.platforms || []).map(platformIconHtml).join('');
-    const priceLabel = game.is_free ? 'Бесплатно' : formatRub(game.price_rub);
-    const wished = isInWishlist(game.id);
+function gameCardHtml(g) {
+    const platBadge = g.platforms && g.platforms[0] ? platformShortBadge(g.platforms[0]) : '';
+    const priceLabel = g.is_free ? 'Бесплатно' : formatRub(g.price_rub);
+    const oldPrice = (!g.is_free && g.discount_percent > 0 && g.original_price_rub) ? `<span class="card-price-old">${formatRub(g.original_price_rub)}</span>` : '';
+    const wished = isInWishlist(g.id);
     return `
-        <div class="card-container">
-            <a href="game.html?id=${game.id}" class="card-3d bg-neutral-800 rounded-2xl overflow-hidden border border-neutral-700 h-full flex flex-col block">
-                <div class="relative h-48 w-full">
-                    <img src="${game.cover}" alt="${escapeHtml(game.title)}" loading="lazy" class="w-full h-full object-cover">
-                    <div class="cover-shade"></div>
-                    <div class="absolute bottom-3 left-4 flex gap-2 text-sm">${platHTML}</div>
-                    <div class="absolute top-3 right-3 bg-neutral-900/80 backdrop-blur-sm px-2 py-1 rounded-lg border border-neutral-700 text-xs text-yellow-400 font-bold">${escapeHtml((game.genres || [])[0] || '')}</div>
-                    <button onclick="event.preventDefault(); event.stopPropagation(); handleWishlistClick(${game.id}, this)" class="absolute top-3 left-3 w-9 h-9 rounded-full bg-neutral-900/80 backdrop-blur-sm flex items-center justify-center hover:bg-neutral-900 transition-colors">
-                        <i class="fa-solid fa-heart ${wished ? 'text-red-500' : 'text-neutral-500'}"></i>
-                    </button>
+        <a href="game.html?id=${g.id}" class="game-card">
+            <div class="card-img">
+                <img src="${g.cover}" alt="${escapeHtml(g.title)}" loading="lazy">
+                ${g.discount_percent > 0 ? `<div class="hot-badge">−${g.discount_percent}%</div>` : ''}
+                ${platBadge}
+                <button class="card-wish${wished ? ' wished' : ''}" data-id="${g.id}">♥</button>
+            </div>
+            <div class="card-body">
+                <div class="card-genre">${escapeHtml((g.genres || [])[0] || '')}</div>
+                <div class="card-title">${escapeHtml(g.title)}</div>
+                <div class="card-footer">
+                    <div><span class="card-price${g.is_free ? ' free' : ''}">${oldPrice}${priceLabel}</span></div>
+                    <span class="card-buy">Открыть</span>
                 </div>
-                <div class="p-5 flex-grow flex flex-col justify-between">
-                    <h3 class="font-bold text-lg text-white mb-1 line-clamp-2">${escapeHtml(game.title)}</h3>
-                    <div class="mt-4 flex items-end justify-between">
-                        <span class="text-2xl font-extrabold text-white">${priceLabel}</span>
-                        <div class="w-10 h-10 rounded-xl bg-yellow-500 flex items-center justify-center text-neutral-900">
-                            <i class="fa-solid fa-arrow-right"></i>
-                        </div>
-                    </div>
-                </div>
-            </a>
-        </div>
+            </div>
+        </a>
     `;
 }
 
-function handleWishlistClick(id, btnEl) {
-    const nowWished = toggleWishlist(id);
-    const icon = btnEl.querySelector('i');
-    icon.classList.toggle('text-red-500', nowWished);
-    icon.classList.toggle('text-neutral-500', !nowWished);
-}
-
 function attachCardTilt() {
-    document.querySelectorAll('.card-container').forEach(container => {
-        const card = container.querySelector('.card-3d');
-        container.addEventListener('mousemove', (e) => {
-            const rect = container.getBoundingClientRect();
-            const x = e.clientX - rect.left, y = e.clientY - rect.top;
-            const rotateX = ((y - rect.height / 2) / (rect.height / 2)) * -15;
-            const rotateY = ((x - rect.width / 2) / (rect.width / 2)) * 15;
-            card.style.transform = `rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
+    document.querySelectorAll('.game-card').forEach(card => {
+        card.addEventListener('mousemove', e => {
+            const r = card.getBoundingClientRect();
+            const rx = ((e.clientY - r.top - r.height / 2) / (r.height / 2)) * -6;
+            const ry = ((e.clientX - r.left - r.width / 2) / (r.width / 2)) * 6;
+            card.style.transform = `perspective(700px) rotateX(${rx}deg) rotateY(${ry}deg)`;
         });
-        container.addEventListener('mouseleave', () => { card.style.transform = 'rotateX(0deg) rotateY(0deg)'; });
+        card.addEventListener('mouseleave', () => { card.style.transform = ''; });
     });
 }
 
@@ -280,75 +261,50 @@ function renderPagination(totalPages) {
     const el = document.getElementById('pagination');
     el.innerHTML = '';
     if (totalPages <= 1) return;
-    const makeBtn = (label, page, isActive, disabled) => {
-        const btn = document.createElement('button');
-        btn.className = 'pagination-btn px-4 py-2 rounded-lg bg-neutral-800 border border-neutral-700 text-neutral-300 text-sm font-semibold hover:border-yellow-500 transition-colors disabled:opacity-40 disabled:cursor-not-allowed' + (isActive ? ' active' : '');
-        btn.textContent = label;
-        btn.disabled = !!disabled;
-        btn.addEventListener('click', () => { currentPage = page; renderGames(); document.getElementById('store').scrollIntoView({ behavior: 'smooth' }); });
-        return btn;
+    const mk = (label, page, active, disabled) => {
+        const b = document.createElement('button');
+        b.className = 'page-btn' + (active ? ' active' : '');
+        b.textContent = label;
+        b.disabled = !!disabled;
+        b.addEventListener('click', () => { currentPage = page; renderGames(); document.getElementById('store').scrollIntoView({ behavior: 'smooth' }); });
+        return b;
     };
-    el.appendChild(makeBtn('«', Math.max(1, currentPage - 1), false, currentPage === 1));
-    const windowSize = 2;
+    el.appendChild(mk('«', Math.max(1, currentPage - 1), false, currentPage === 1));
+    const w = 2;
     for (let p = 1; p <= totalPages; p++) {
-        if (p === 1 || p === totalPages || Math.abs(p - currentPage) <= windowSize) {
-            el.appendChild(makeBtn(String(p), p, p === currentPage, false));
-        } else if (Math.abs(p - currentPage) === windowSize + 1) {
-            const dots = document.createElement('span');
-            dots.className = 'text-neutral-600 px-1';
-            dots.textContent = '…';
-            el.appendChild(dots);
-        }
+        if (p === 1 || p === totalPages || Math.abs(p - currentPage) <= w) el.appendChild(mk(String(p), p, p === currentPage, false));
+        else if (Math.abs(p - currentPage) === w + 1) { const d = document.createElement('span'); d.className = 'page-dots'; d.textContent = '…'; el.appendChild(d); }
     }
-    el.appendChild(makeBtn('»', Math.min(totalPages, currentPage + 1), false, currentPage === totalPages));
+    el.appendChild(mk('»', Math.min(totalPages, currentPage + 1), false, currentPage === totalPages));
 }
 
 /* =====================================================================
-   WISHLIST DRAWER
+   WISHLIST MODAL
    ===================================================================== */
 
-function openWishlistDrawer() {
-    renderWishlistDrawer();
-    document.getElementById('wishlist-overlay').classList.remove('closed');
-    document.getElementById('wishlist-drawer').classList.remove('closed');
+function openWishModal() {
+    renderWishModal();
+    document.getElementById('wishOverlay').classList.add('open');
 }
-function closeWishlistDrawer() {
-    document.getElementById('wishlist-overlay').classList.add('closed');
-    document.getElementById('wishlist-drawer').classList.add('closed');
-}
-function renderWishlistDrawer() {
+function closeWishModal() { document.getElementById('wishOverlay').classList.remove('open'); }
+function renderWishModal() {
     const ids = getWishlist();
-    const container = document.getElementById('wishlist-items');
     const items = allGames.filter(g => ids.includes(g.id));
-    if (items.length === 0) {
-        container.innerHTML = '<p class="text-neutral-500 text-sm text-center py-10">Список желаний пуст.<br>Добавляйте игры значком ♥ на карточках.</p>';
-        return;
-    }
-    container.innerHTML = items.map(g => `
-        <div class="flex items-center gap-3 bg-neutral-800 rounded-xl p-3 border border-neutral-700">
-            <img src="${g.cover}" alt="${escapeHtml(g.title)}" class="w-16 h-12 rounded-lg object-cover shrink-0">
-            <a href="game.html?id=${g.id}" class="flex-grow min-w-0">
-                <p class="text-sm font-bold text-white truncate">${escapeHtml(g.title)}</p>
-                <p class="text-yellow-500 text-sm font-extrabold">${g.is_free ? 'Бесплатно' : formatRub(g.price_rub)}</p>
-            </a>
-            <button onclick="removeFromWishlistDrawer(${g.id})" class="w-8 h-8 rounded-lg bg-neutral-900 hover:bg-red-600 flex items-center justify-center text-neutral-400 hover:text-white transition-colors shrink-0">
-                <i class="fa-solid fa-xmark"></i>
-            </button>
-        </div>
+    const el = document.getElementById('wishList');
+    if (items.length === 0) { el.innerHTML = '<div class="wish-empty">Список желаний пуст.<br>Добавляйте игры значком ♥ на карточках.</div>'; return; }
+    el.innerHTML = items.map(g => `
+        <a href="game.html?id=${g.id}" class="wish-item">
+            <div class="wish-img"><img src="${g.cover}" alt="${escapeHtml(g.title)}"></div>
+            <div class="wish-info"><div class="wish-title">${escapeHtml(g.title)}</div><div class="wish-price">${g.is_free ? 'Бесплатно' : formatRub(g.price_rub)}</div></div>
+            <button class="wish-del" data-id="${g.id}">✕</button>
+        </a>
     `).join('');
-}
-function removeFromWishlistDrawer(id) {
-    toggleWishlist(id);
-    renderWishlistDrawer();
-    renderGames();
-}
-
-/* =====================================================================
-   SCROLL UI (кнопка "наверх")
-   ===================================================================== */
-
-function handleScrollUi() {
-    const btt = document.getElementById('back-to-top');
-    if (window.scrollY > 400) btt.classList.remove('hidden-btt');
-    else btt.classList.add('hidden-btt');
+    el.querySelectorAll('.wish-del').forEach(btn => {
+        btn.addEventListener('click', e => {
+            e.preventDefault(); e.stopPropagation();
+            toggleWishlist(Number(btn.dataset.id));
+            renderWishModal();
+            renderGames();
+        });
+    });
 }

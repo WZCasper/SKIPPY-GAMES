@@ -536,7 +536,7 @@ def fetch_dlc_upsells(dlc_ids, uah_to_rub):
 def fetch_appdetails(appid):
     resp = http_get(
         STEAM_APPDETAILS_URL,
-        params={"appids": appid, "cc": REGION_CC, "l": REGION_LANG, "filters": ""},
+        params={"appids": appid, "cc": REGION_CC, "l": REGION_LANG},
     )
     if resp is None:
         return None, "network_error"
@@ -913,6 +913,12 @@ def main():
         log.info("Удалён устаревший games.json (заменён на data/index.json + data/games/*.json)")
 
     log.info("Записано/обновлено файлов игр: %s, удалено: %s", written, removed)
+
+    with_trailer = sum(1 for g in games_list if g.get("trailer_video") or g.get("trailer_youtube_id"))
+    log.info(
+        "Диагностика трейлеров: %s из %s игр (%.1f%%) имеют trailer_video/trailer_youtube_id",
+        with_trailer, len(games_list), (100 * with_trailer / len(games_list)) if games_list else 0,
+    )
 
     log.info(
         "Итого: обработано=%s, обновлено=%s, добавлено новых=%s, всего в каталоге=%s (цель %s)",

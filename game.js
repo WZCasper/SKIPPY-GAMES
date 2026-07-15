@@ -5,229 +5,147 @@ var lightboxImages = [];
 var lightboxIndex = 0;
 
 document.addEventListener('DOMContentLoaded', () => {
-    document.getElementById('footer-year').textContent = new Date().getFullYear();
+    document.getElementById('footYear').textContent = new Date().getFullYear();
+    document.getElementById('lbClose').addEventListener('click', closeLightbox);
+    document.getElementById('lbPrev').addEventListener('click', () => lightboxNav(-1));
+    document.getElementById('lbNext').addEventListener('click', () => lightboxNav(1));
+    document.getElementById('lightbox').addEventListener('click', e => { if (e.target.id === 'lightbox') closeLightbox(); });
     document.addEventListener('keydown', handleLightboxKeys);
-    loadGameFromUrl();
+    loadGame();
 });
 
 function getGameIdFromUrl() {
-    const params = new URLSearchParams(window.location.search);
-    const raw = params.get('id');
+    const p = new URLSearchParams(window.location.search);
+    const raw = p.get('id');
     return raw ? (isNaN(Number(raw)) ? raw : Number(raw)) : null;
 }
 
-function loadGameFromUrl() {
+function loadGame() {
     const id = getGameIdFromUrl();
-    if (!id) {
-        renderNotFound();
-        return;
-    }
+    if (!id) { renderNotFound(); return; }
     fetch(GAME_DETAIL_URL(id), { cache: 'no-store' })
-        .then(resp => { if (!resp.ok) throw new Error('HTTP ' + resp.status); return resp.json(); })
-        .then(detail => {
-            currentGame = detail;
-            renderGame(currentGame);
-        })
-        .catch(err => {
-            console.error('Не удалось загрузить игру ' + id + ':', err);
-            renderNotFound();
-        });
+        .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+        .then(g => { currentGame = g; renderGame(g); })
+        .catch(err => { console.error('Не удалось загрузить игру ' + id + ':', err); renderNotFound(); });
 }
 
 function renderNotFound() {
-    document.querySelector('main').innerHTML = `
-        <div class="text-center py-24 text-neutral-500">
-            <i class="fa-solid fa-ghost text-5xl mb-4"></i>
-            <h2 class="text-2xl font-bold text-white mb-2">Игра не найдена</h2>
-            <p class="mb-6">Возможно, ссылка устарела или игра была удалена из каталога.</p>
-            <a href="index.html" class="inline-block px-6 py-3 rounded-xl bg-yellow-500 hover:bg-yellow-400 text-neutral-900 font-bold transition-colors">Вернуться в каталог</a>
-        </div>
-    `;
+    document.getElementById('gameContent').innerHTML = `
+        <div class="no-results" style="padding:4rem 1rem">
+            👻 Игра не найдена.<br><a href="index.html" style="color:var(--cyan);text-decoration:none;font-weight:700">Вернуться в каталог</a>
+        </div>`;
 }
 
-function renderGame(game) {
-    document.title = game.title + ' — SkippyGames';
-    document.getElementById('page-title').textContent = game.title + ' — SkippyGames';
-    document.getElementById('detail-title').textContent = game.title;
-    document.getElementById('detail-genres').textContent = (game.genres || []).join(' • ');
-    document.getElementById('detail-desc').textContent = game.description || game.description_short || 'Описание пока недоступно.';
+function renderGame(g) {
+    document.title = g.title + ' — SkippyGames';
+    document.getElementById('pageTitle').textContent = g.title + ' — SkippyGames';
 
-    renderPriceBlock(game);
-    renderPlatforms(game);
-    renderMedia(game);
-    renderScreenshots(game);
-    renderUpsells(game);
-    updateWishlistDetailIcon();
+    const plats = (g.platforms || []).map(p => `<span class="g-plat-badge">${PLATFORM_ICON_SVG[p] || ''} ${escapeHtml(PLATFORM_LABELS[p] || p)}</span>`).join('');
+    const genres = (g.genres || []).join(' • ');
+    const wished = isInWishlist(g.id);
+
+    document.getElementById('gameContent').innerHTML = `
+        <div class="game-hero" id="gameHero"></div>
+        <div id="galleryWrap"></div>
+        <div class="game-body">
+            <div class="g-plat">${plats}</div>
+            <h1 class="g-title">${escapeHtml(g.title)}</h1>
+            <div class="g-genre">${escapeHtml(genres)}</div>
+            <button class="g-wish-btn${wished ? ' wished' : ''}" id="wishBtn">♥ <span id="wishBtnLabel">${wished ? 'В избранном' : 'В избранное'}</span></button>
+            <div class="g-desc">${escapeHtml(g.description || g.description_short || 'Описание пока недоступно.')}</div>
+            <div class="g-price-card" id="priceCard"></div>
+            <div id="upsellsSection"></div>
+        </div>
+    `;
+
+    renderHero(g);
+    renderGallery(g);
+    renderPriceCard(g);
+    renderUpsells(g);
+
+    document.getElementById('wishBtn').addEventListener('click', () => {
+        const now = toggleWishlist(g.id);
+        document.getElementById('wishBtn').classList.toggle('wished', now);
+        document.getElementById('wishBtnLabel').textContent = now ? 'В избранном' : 'В избранное';
+    });
 
     window.scrollTo(0, 0);
 }
 
 /* =====================================================================
-   ЦЕНА — прозрачный расчёт: база + фиксированная наценка 500 ₽
+   ТРЕЙЛЕР: Steam → YouTube (найден бэкендом) → честная ссылка на поиск
    ===================================================================== */
 
-function renderPriceBlock(game) {
-    const priceEl = document.getElementById('detail-price');
-    const breakdownEl = document.getElementById('detail-price-breakdown');
-    const discountRow = document.getElementById('detail-discount-row');
-
-    if (game.is_free) {
-        priceEl.textContent = 'Бесплатно';
-        breakdownEl.textContent = '';
-        discountRow.classList.add('hidden');
+function renderHero(g) {
+    const hero = document.getElementById('gameHero');
+    if (g.trailer_video) {
+        hero.innerHTML = `<video controls preload="metadata" poster="${g.hero || g.cover}"><source src="${g.trailer_video}" type="video/mp4"></video>`;
         return;
     }
-
-    priceEl.textContent = formatRub(game.price_rub);
-
-    if (typeof game.base_price_rub === 'number' && typeof game.markup_rub === 'number') {
-        breakdownEl.textContent = `Цена в Steam: ${formatRub(game.base_price_rub)} + сервисный сбор ${formatRub(game.markup_rub)} = ${formatRub(game.price_rub)}`;
-    } else {
-        breakdownEl.textContent = '';
+    if (g.trailer_youtube_id) {
+        hero.innerHTML = `<iframe src="https://www.youtube-nocookie.com/embed/${encodeURIComponent(g.trailer_youtube_id)}?rel=0" title="Трейлер ${escapeHtml(g.title)}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>`;
+        return;
     }
-
-    if (game.discount_percent > 0 && game.original_price_rub) {
-        document.getElementById('detail-original-price').textContent = formatRub(game.original_price_rub);
-        document.getElementById('detail-discount-badge').textContent = '−' + game.discount_percent + '%';
-        discountRow.classList.remove('hidden');
-    } else {
-        discountRow.classList.add('hidden');
-    }
-}
-
-function renderPlatforms(game) {
-    const html = (game.platforms || []).map(p => {
-        const cfg = PLATFORM_ICONS[p] || { icon: 'fa-gamepad', color: 'text-white' };
-        let bg = 'bg-neutral-800';
-        if (p === 'PC') bg = 'bg-black';
-        if (p === 'PlayStation') bg = 'bg-blue-600';
-        if (p === 'Xbox') bg = 'bg-green-600';
-        if (p === 'Nintendo Switch') bg = 'bg-red-600';
-        return `<div class="${bg} px-3 py-1.5 rounded-lg flex items-center gap-2 border border-white/20"><i class="fa-brands ${cfg.icon} text-white"></i><span class="text-xs font-bold text-white">${escapeHtml(PLATFORM_LABELS[p] || p)}</span></div>`;
-    }).join('');
-    document.getElementById('detail-platforms').innerHTML = html;
+    const searchUrl = 'https://www.youtube.com/results?search_query=' + encodeURIComponent(g.title + ' trailer');
+    hero.innerHTML = `
+        <img src="${g.hero || g.cover}" alt="${escapeHtml(g.title)}" style="opacity:.55">
+        <div class="game-hero-grad"></div>
+        <div class="game-hero-fallback" style="position:absolute;inset:0;">
+            <div>🎬 Трейлер не найден автоматически</div>
+            <a href="${searchUrl}" target="_blank" rel="noopener">Искать на YouTube →</a>
+        </div>`;
 }
 
 /* =====================================================================
-   ТРЕЙЛЕР: Steam -> YouTube (найден бэкендом) -> честная ссылка на поиск
+   ГАЛЕРЕЯ + ЛАЙТБОКС
    ===================================================================== */
 
-function renderMedia(game) {
-    const media = document.getElementById('detail-media');
-
-    if (game.trailer_video) {
-        media.innerHTML = `
-            <video controls preload="metadata" poster="${game.hero || game.cover}" class="w-full h-full object-cover">
-                <source src="${game.trailer_video}" type="video/mp4">
-                Ваш браузер не поддерживает встроенное видео.
-            </video>
-        `;
-        return;
-    }
-
-    if (game.trailer_youtube_id) {
-        media.innerHTML = `
-            <div class="relative w-full h-full">
-                <iframe class="absolute inset-0 w-full h-full"
-                        src="https://www.youtube-nocookie.com/embed/${encodeURIComponent(game.trailer_youtube_id)}?rel=0"
-                        title="Трейлер ${escapeHtml(game.title)}"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                        allowfullscreen loading="lazy"></iframe>
-            </div>
-        `;
-        return;
-    }
-
-    const searchUrl = 'https://www.youtube.com/results?search_query=' + encodeURIComponent(game.title + ' trailer');
-    media.innerHTML = `
-        <img src="${game.hero || game.cover}" alt="${escapeHtml(game.title)}" class="absolute inset-0 w-full h-full object-cover opacity-70">
-        <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent"></div>
-        <div class="relative z-10 text-center px-6">
-            <i class="fa-solid fa-clapperboard text-4xl text-neutral-500 mb-2"></i>
-            <p class="text-neutral-400 text-sm mb-3">Трейлер для этой игры пока не найден автоматически</p>
-            <a href="${searchUrl}" target="_blank" rel="noopener" class="inline-flex items-center gap-2 text-sm font-semibold text-yellow-500 hover:text-yellow-400 transition-colors">
-                <i class="fa-brands fa-youtube"></i> Искать на YouTube
-            </a>
-        </div>
-    `;
+function renderGallery(g) {
+    const wrap = document.getElementById('galleryWrap');
+    const shots = g.screenshots || [];
+    if (shots.length === 0) { wrap.innerHTML = ''; return; }
+    wrap.innerHTML = `<div class="game-gallery">${shots.map((src, i) => `<img src="${src}" alt="Скриншот ${i + 1}" loading="lazy" onclick="openLightbox(${i})">`).join('')}</div>`;
+    lightboxImages = shots;
 }
-
-/* =====================================================================
-   СКРИНШОТЫ + ЛАЙТБОКС
-   ===================================================================== */
-
-function renderScreenshots(game) {
-    const block = document.getElementById('detail-screens-block');
-    const container = document.getElementById('detail-screens');
-    const screenshots = game.screenshots || [];
-    if (screenshots.length === 0) {
-        block.classList.add('hidden');
-        container.innerHTML = '';
-        return;
-    }
-    block.classList.remove('hidden');
-    container.innerHTML = screenshots.map((src, idx) => `
-        <img src="${src}" alt="Скриншот ${idx + 1}" loading="lazy"
-             class="screenshot-thumb w-full h-28 md:h-36 object-cover rounded-xl border border-neutral-700"
-             onclick="openLightbox(${idx})">
-    `).join('');
-    lightboxImages = screenshots;
-}
-
-function openLightbox(index) {
-    lightboxIndex = index;
-    updateLightboxImage();
-    document.getElementById('lightbox').classList.remove('hidden-lightbox');
-}
-function closeLightbox() { document.getElementById('lightbox').classList.add('hidden-lightbox'); }
-function lightboxNav(delta) {
-    if (lightboxImages.length === 0) return;
-    lightboxIndex = (lightboxIndex + delta + lightboxImages.length) % lightboxImages.length;
-    updateLightboxImage();
-}
-function updateLightboxImage() {
-    document.getElementById('lightbox-img').src = lightboxImages[lightboxIndex];
-    document.getElementById('lightbox-counter').textContent = (lightboxIndex + 1) + ' / ' + lightboxImages.length;
+function openLightbox(i) { lightboxIndex = i; updateLightbox(); document.getElementById('lightbox').classList.add('open'); }
+function closeLightbox() { document.getElementById('lightbox').classList.remove('open'); }
+function lightboxNav(d) { if (!lightboxImages.length) return; lightboxIndex = (lightboxIndex + d + lightboxImages.length) % lightboxImages.length; updateLightbox(); }
+function updateLightbox() {
+    document.getElementById('lbImg').src = lightboxImages[lightboxIndex];
+    document.getElementById('lbCounter').textContent = (lightboxIndex + 1) + ' / ' + lightboxImages.length;
 }
 function handleLightboxKeys(e) {
-    const lb = document.getElementById('lightbox');
-    if (lb.classList.contains('hidden-lightbox')) return;
+    if (!document.getElementById('lightbox').classList.contains('open')) return;
     if (e.key === 'Escape') closeLightbox();
     if (e.key === 'ArrowLeft') lightboxNav(-1);
     if (e.key === 'ArrowRight') lightboxNav(1);
 }
 
 /* =====================================================================
-   ДОПОЛНЕНИЯ / ВНУТРИИГРОВАЯ ВАЛЮТА
+   ЦЕНА — прозрачно: база + фиксированная наценка 500 ₽
    ===================================================================== */
 
-function renderUpsells(game) {
-    const block = document.getElementById('detail-upsells-block');
-    const container = document.getElementById('detail-upsells');
-    const upsells = game.upsells || [];
-    if (upsells.length === 0) {
-        block.classList.add('hidden');
-        container.innerHTML = '';
-        return;
+function renderPriceCard(g) {
+    const el = document.getElementById('priceCard');
+    if (g.is_free) {
+        el.innerHTML = `
+            <div class="g-price free">Бесплатно</div>
+            <button class="g-buy-btn" id="buyBtn">🛒 Получить в Steam</button>
+            <div class="g-buy-note">Оплата не требуется — оформление через менеджера ВКонтакте или Telegram</div>`;
+    } else {
+        const discountRow = (g.discount_percent > 0 && g.original_price_rub) ? `
+            <div class="g-price-old-row"><span class="g-price-old">${formatRub(g.original_price_rub)}</span><span class="g-discount-badge">−${g.discount_percent}%</span></div>` : '';
+        const breakdown = (typeof g.base_price_rub === 'number' && typeof g.markup_rub === 'number')
+            ? `Цена в Steam: ${formatRub(g.base_price_rub)} + сервисный сбор ${formatRub(g.markup_rub)} = ${formatRub(g.price_rub)}` : '';
+        el.innerHTML = `
+            ${discountRow}
+            <div class="g-price">${formatRub(g.price_rub)}</div>
+            <div class="g-price-breakdown">${breakdown}</div>
+            <button class="g-buy-btn" id="buyBtn">🛒 Купить игру</button>
+            <div class="g-buy-note">Оплата происходит через менеджера ВКонтакте или Telegram</div>`;
     }
-    block.classList.remove('hidden');
-    container.innerHTML = upsells.map(item => `
-        <div class="bg-neutral-900 rounded-2xl p-4 border border-neutral-700 flex items-center gap-4">
-            ${item.cover ? `<img src="${item.cover}" alt="${escapeHtml(item.name)}" class="w-16 h-16 rounded-lg object-cover shrink-0">` : ''}
-            <div class="flex-grow min-w-0">
-                <p class="text-sm font-bold text-white truncate">${escapeHtml(item.name)}</p>
-                <p class="text-yellow-500 font-extrabold">${formatRub(item.price_rub)}</p>
-            </div>
-            <button onclick='buyUpsell(${JSON.stringify(item.name)}, ${item.price_rub})' class="shrink-0 w-10 h-10 rounded-xl bg-yellow-500 hover:bg-yellow-400 flex items-center justify-center text-neutral-900 transition-colors">
-                <i class="fa-solid fa-cart-plus"></i>
-            </button>
-        </div>
-    `).join('');
+    document.getElementById('buyBtn').addEventListener('click', buyGame);
 }
-
-/* =====================================================================
-   ПОКУПКА
-   ===================================================================== */
 
 function buyGame() {
     if (!currentGame) return;
@@ -237,25 +155,32 @@ function buyGame() {
     completePurchaseFlow(text);
 }
 
+/* =====================================================================
+   ДОПОЛНЕНИЯ / ВНУТРИИГРОВАЯ ВАЛЮТА (только для этой игры)
+   ===================================================================== */
+
+function renderUpsells(g) {
+    const el = document.getElementById('upsellsSection');
+    const items = g.upsells || [];
+    if (items.length === 0) { el.innerHTML = ''; return; }
+    el.innerHTML = `
+        <div class="g-section">
+            <div class="g-section-ttl">💎 Дополнения и внутриигровая валюта</div>
+            <div class="g-section-sub">Дополнительный контент для этой игры</div>
+            <div class="ig-grid">
+                ${items.map(it => `
+                    <div class="ig-item">
+                        ${it.cover ? `<img src="${it.cover}" alt="${escapeHtml(it.name)}">` : ''}
+                        <div class="ig-info"><div class="ig-nm">${escapeHtml(it.name)}</div><div class="ig-pr">${formatRub(it.price_rub)}</div></div>
+                        <button class="ig-buy" onclick='buyUpsell(${JSON.stringify(it.name)}, ${it.price_rub})'>+</button>
+                    </div>
+                `).join('')}
+            </div>
+        </div>`;
+}
+
 function buyUpsell(name, price) {
     if (!currentGame) return;
     const text = `Здравствуйте! Хочу купить «${name}» для игры ${currentGame.title} за ${price.toLocaleString('ru-RU')} ₽.`;
     completePurchaseFlow(text);
-}
-
-/* =====================================================================
-   WISHLIST на странице игры
-   ===================================================================== */
-
-function updateWishlistDetailIcon() {
-    if (!currentGame) return;
-    const icon = document.getElementById('wishlistDetailIcon');
-    const wished = isInWishlist(currentGame.id);
-    icon.classList.toggle('text-red-500', wished);
-    icon.classList.toggle('text-neutral-500', !wished);
-}
-function handleWishlistToggleDetail() {
-    if (!currentGame) return;
-    toggleWishlist(currentGame.id);
-    updateWishlistDetailIcon();
 }
