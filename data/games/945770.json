@@ -13,9 +13,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 1031,
+  "base_price_rub": 1034,
   "markup_rub": 500,
-  "price_rub": 1531,
+  "price_rub": 1534,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -31,7 +31,24 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945770/ss_518c4ab5fac00020262609e2bba9417bd8c4ec8e.1920x1080.jpg?t=1777135245",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945770/ss_0128bb6f6f0b6ac4e4eae7617d66a3358570377e.1920x1080.jpg?t=1777135245"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 2660910,
+      "name": "Dark Envoy Soundtrack",
+      "base_price_rub": 214,
+      "markup_rub": 500,
+      "price_rub": 714,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2660910/header.jpg?t=1753270660"
+    },
+    {
+      "id": 2660940,
+      "name": "Dark Envoy Artbook",
+      "base_price_rub": 214,
+      "markup_rub": 500,
+      "price_rub": 714,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2660940/header.jpg?t=1753270908"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-11T20:04:38Z"
+  "updated_at": "2026-07-15T03:24:43Z"
 }

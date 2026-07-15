@@ -13,9 +13,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 558,
+  "base_price_rub": 560,
   "markup_rub": 500,
-  "price_rub": 1058,
+  "price_rub": 1060,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -31,7 +31,32 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/766280/ss_4c510f83982e7f784e36d05ee57b3bd672089f8f.1920x1080.jpg?t=1726607245",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/766280/ss_074c46ff76d97866e914a1f057e2803acf3308da.1920x1080.jpg?t=1726607245"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 882890,
+      "name": "A Light in the Dark - Original Soundtrack",
+      "base_price_rub": 388,
+      "markup_rub": 500,
+      "price_rub": 888,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/882890/header.jpg?t=1634682993"
+    },
+    {
+      "id": 889630,
+      "name": "A Light in the Dark - Prologue Manga",
+      "base_price_rub": 214,
+      "markup_rub": 500,
+      "price_rub": 714,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/889630/header.jpg?t=1634683111"
+    },
+    {
+      "id": 889640,
+      "name": "A Light in the Dark - The Art of A Light in the Dark",
+      "base_price_rub": 322,
+      "markup_rub": 500,
+      "price_rub": 822,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/889640/header.jpg?t=1634683018"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-11T20:05:07Z"
+  "updated_at": "2026-07-15T03:25:06Z"
 }

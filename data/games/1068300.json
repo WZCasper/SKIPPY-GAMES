@@ -1,0 +1,32 @@
+{
+  "id": 1068300,
+  "title": "Logitech VR Ink Driver",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1068300/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1068300/library_hero.jpg",
+  "description": "This driver enables customization of certain features of your VR Ink, such as changing parameters for the analog inputs (tip and primary), changing the activation threshold of the grip buttons and reviewing the status of the stylus. Ultimately it will allow you to tailor the behaviour of VR Ink to your specific needs.\n\nThe main UI allows you control over:\n• Pressure response for the Analog Tip (Drawing on a surface)\n\n• Pressure response for the Primary Button (Drawing in Air)\n\n• Adjusting the threshold for the Grip Buttons (Grip action)\n\n• Settings for the Touchstrip\n\nThe UI is accessible from the Desktop (Windows system tray). Your device specific settings are stored on your PC. The VR Ink Driver creates a “virtual device” (identified with a different icon in the SteamVR status window). This is essentially a software duplicate of a physical device, via which the driver applies specific smart processing on the raw inputs of the device such as pressure curves, touchstrip rejection handling, etc.",
+  "description_short": "This driver enables customization of certain features of your VR Ink, such as changing parameters for the analog inputs (tip and primary), changing the activation threshold of the grip buttons and reviewing the status of the stylus.",
+  "genres": [
+    "Технические симуляторы"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 0,
+  "markup_rub": 0,
+  "price_rub": 0,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1068300/ss_064302921d1a84b12a858e992b20d66f9862de40.1920x1080.jpg?t=1592322822",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1068300/ss_1e47147863ab7e390f8c9cb3683589f72ac724ed.1920x1080.jpg?t=1592322822",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1068300/ss_724ea453f0ac8bf752d03ab57b2565a9aa985a93.1920x1080.jpg?t=1592322822",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1068300/ss_7f92d3b7f9ceb7f9f6d1f3ec297bd1d1842ac0e2.1920x1080.jpg?t=1592322822",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1068300/ss_7ba569f22973284d5dc0972559efbb7353d8a179.1920x1080.jpg?t=1592322822"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-07-15T03:40:27Z"
+}

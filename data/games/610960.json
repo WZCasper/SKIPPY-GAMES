@@ -1,0 +1,46 @@
+{
+  "id": 610960,
+  "title": "红石遗迹 - Red Obsidian Remnant",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/610960/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/610960/library_hero.jpg",
+  "description": "Game System Introduction• ★ A Roguelike gameplay and action system combined dungeon game.\n\n• ★ Up to three weapons—used alternately in the battle, forming intricate attacks.\n\n• ★ Props with many varying results to enrich your decisions in adventure as well as your outfits. \n\n• ★ Monster differentiation system—the same monster may be affected by various differentiation elements, becoming tough to deal with.\n\n• ★ With similar event mechanism like TPRG, all kinds events contain a certain choice and randomness.\n\nWhat are the creative motive, game plot and game mechanism of the Red Obsidian Remnant? Which games do you use for reference in the process of designing? \n As our first independent game, we choose the Roguelike dungeon type, because it is relatively well controlled. All the game experience is concentrated in a single hour of the game time, so that we can be more focused to make it rich and harmonious. Faced with the emerging of more and more roguelike dungeon games, what we can think of is to combine our game with ACT in order to make a difference. We hope the finally added plot can make the game more complete though the story is not the main part of the game. \n\n Speaking of reference, we’ve seen a lot of good works and I think that encourages us to make our own. So, you may feel intimacy while playing the game. Since we all have been more or less influenced by Falcom, I think our game style is somewhat similar to that. In the aspect of Roguelike elements, we borrow a lot from The Binding of Isaac. I am an old player of the retro arcade games. I played a lot of SNK’s classical fighting games and the Last Blade is my favorite. I like to play on the arcade fighting platform occasionally, to recall the past. \n\nWhat elements of the Red Obsidian Remnant do you think are interesting and innovative? In your opinion, what’s the core of the dungeon exploration roguelike game? \n It’s our first time to make a Roguelike game, but we played a lot and we learn from others. The Roguelike game is the concentration of the long-term RPG, in which players have to experience a time to develop, and to develop changing routines in order to maintain freshness in each play. \nThe Red Obsidian Remnant is an action game and its fighting routine changes reflect more in moves. Besides, the equipment in the Red Obsidian Remnant is the key to influencing the development of the role. So we let the roles carry more weapons. The moves of each weapon can be used alternately and the combination of different weapons can directly form a fighting style. This can be counted as a solution, which just solved problems in the design. I think rules are born under various restrictions. \n\nWhat are the characteristics of the monster system in the game? How to keep the balance of the monster system and the difficulty of the game? \n As the action game, its basic part is to design monsters with different moves, based on which we add monster differentiation system. The differentiated monster will be attached around with spinning balls and each kind of the balls carries various effects, which may cause the monster explode or parasitize, split after death. You can simply do the math. Besides, there exist no monsters with pure armors since the armor will lead to the invalidity of the ACT basic system after the attack, and the failure to attack consistently, which will make you feel suck. Therefore, the characteristic of armors here is only adopted as part of the monster’s moves. \nAs for the difficulty and the relationships among monsters, we will enhance the AI initiative of the monsters, times of differentiation and the probability of the emergence of dangerous houses in the high difficulty mode. The premise is to maintain the basic value of monsters.Sina Weibo",
+  "description_short": "A Roguelike gameplay and action system combined dungeon game.",
+  "genres": [
+    "Экшен",
+    "Приключения",
+    "Слэшеры"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 274,
+  "markup_rub": 500,
+  "price_rub": 774,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610960/ss_f11f90f0e5e2af5ec2ab6ad29a343793052817d9.1920x1080.jpg?t=1574320654",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610960/ss_c7d73efe0c25160a96c99b0cdeccbb8c0a069ce2.1920x1080.jpg?t=1574320654",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610960/ss_7170d32694771b9036553734004fb8363723a455.1920x1080.jpg?t=1574320654",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610960/ss_edbc85bbfa16edb315e80517920081388b47d736.1920x1080.jpg?t=1574320654",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610960/ss_8291caf2684024672087831596bdf3eb7c1168b8.1920x1080.jpg?t=1574320654",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610960/ss_102b948a38884c46c54dbd4074bc0fda2b58da20.1920x1080.jpg?t=1574320654",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610960/ss_d8769147ae4aa43608814740cf99e88879665cee.1920x1080.jpg?t=1574320654",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610960/ss_8f852147d49ea0f2f78cfe071a9ae630880f99ba.1920x1080.jpg?t=1574320654"
+  ],
+  "upsells": [
+    {
+      "id": 950430,
+      "name": "Red Obsidian Remnant - Soundtrack",
+      "base_price_rub": 69,
+      "markup_rub": 500,
+      "price_rub": 569,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/950430/header.jpg?t=1621351014"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-07-15T03:34:43Z"
+}

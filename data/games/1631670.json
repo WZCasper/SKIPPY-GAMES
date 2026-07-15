@@ -13,9 +13,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 490,
+  "base_price_rub": 491,
   "markup_rub": 500,
-  "price_rub": 990,
+  "price_rub": 991,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -30,7 +30,32 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1631670/ss_1458c1a27aee5b467f4f7ea3623bb20b8438245b.1920x1080.jpg?t=1777042470",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1631670/ss_72a62e53db1a2b8fade94f924b360c7bd0741d8c.1920x1080.jpg?t=1777042470"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 2077730,
+      "name": "《倒轉方舟 Project: AHNO's Ark》 Soundtrack",
+      "base_price_rub": 322,
+      "markup_rub": 500,
+      "price_rub": 822,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2077730/header.jpg?t=1726732886"
+    },
+    {
+      "id": 2717490,
+      "name": "《倒轉方舟 Project: AHNO's Ark》美術集",
+      "base_price_rub": 322,
+      "markup_rub": 500,
+      "price_rub": 822,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2717490/header.jpg?t=1726732844"
+    },
+    {
+      "id": 3819400,
+      "name": "倒轉方舟外傳漫畫《神明製造之後》",
+      "base_price_rub": 86,
+      "markup_rub": 500,
+      "price_rub": 586,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3819400/0f7ee6ea4b892467b751807ee68edf7c323755a4/header.jpg?t=1762265974"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-11T20:05:16Z"
+  "updated_at": "2026-07-15T03:28:14Z"
 }

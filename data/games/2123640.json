@@ -16,9 +16,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 619,
+  "base_price_rub": 620,
   "markup_rub": 500,
-  "price_rub": 1119,
+  "price_rub": 1120,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -34,7 +34,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2123640/ss_93dcdf3c69592095692f1bab3a22188fc8ea42c8.1920x1080.jpg?t=1761582802",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2123640/ss_7912f859100345ba97a5b6345321e10656a3de87.1920x1080.jpg?t=1761582802"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 3175850,
+      "name": "Hollowbody Soundtrack",
+      "base_price_rub": 214,
+      "markup_rub": 500,
+      "price_rub": 714,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3175850/header.jpg?t=1726160478"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-11T20:05:03Z"
+  "updated_at": "2026-07-15T03:25:03Z"
 }
