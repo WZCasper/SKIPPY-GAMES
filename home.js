@@ -161,6 +161,7 @@ function wireControls() {
     document.getElementById('sortSel').addEventListener('change', e => { sortMode = e.target.value; renderGames(); });
 
     document.getElementById('navWishBtn').addEventListener('click', openWishModal);
+    document.getElementById('mobileWishBtn').addEventListener('click', e => { e.preventDefault(); closeMobileNav(); openWishModal(); });
     document.getElementById('wishClose').addEventListener('click', closeWishModal);
     document.getElementById('wishOverlay').addEventListener('click', e => { if (e.target.id === 'wishOverlay') closeWishModal(); });
 }
