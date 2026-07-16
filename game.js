@@ -131,19 +131,22 @@ function renderPriceCard(g) {
         el.innerHTML = `
             <div class="g-price free">Бесплатно</div>
             <button class="g-buy-btn" id="buyBtn">🛒 Получить в Steam</button>
-            <div class="g-buy-note">Оплата не требуется — оформление через менеджера ВКонтакте или Telegram</div>`;
-    } else {
-        const discountRow = (g.discount_percent > 0 && g.original_price_rub) ? `
-            <div class="g-price-old-row"><span class="g-price-old">${formatRub(g.original_price_rub)}</span><span class="g-discount-badge">−${g.discount_percent}%</span></div>` : '';
-        const breakdown = (typeof g.base_price_rub === 'number' && typeof g.markup_rub === 'number')
-            ? `Цена в Steam: ${formatRub(g.base_price_rub)} + сервисный сбор ${formatRub(g.markup_rub)} = ${formatRub(g.price_rub)}` : '';
-        el.innerHTML = `
-            ${discountRow}
-            <div class="g-price">${formatRub(g.price_rub)}</div>
-            <div class="g-price-breakdown">${breakdown}</div>
-            <button class="g-buy-btn" id="buyBtn">🛒 Купить игру</button>
-            <div class="g-buy-note">Оплата происходит через менеджера ВКонтакте или Telegram</div>`;
+            <div class="g-buy-note">Откроется страница игры в Steam — установка бесплатна</div>`;
+        document.getElementById('buyBtn').addEventListener('click', () => {
+            window.open(`https://store.steampowered.com/app/${g.id}/`, '_blank', 'noopener');
+        });
+        return;
     }
+    const discountRow = (g.discount_percent > 0 && g.original_price_rub) ? `
+        <div class="g-price-old-row"><span class="g-price-old">${formatRub(g.original_price_rub)}</span><span class="g-discount-badge">−${g.discount_percent}%</span></div>` : '';
+    const breakdown = (typeof g.base_price_rub === 'number' && typeof g.markup_rub === 'number')
+        ? `Цена в Steam: ${formatRub(g.base_price_rub)} + сервисный сбор ${formatRub(g.markup_rub)} = ${formatRub(g.price_rub)}` : '';
+    el.innerHTML = `
+        ${discountRow}
+        <div class="g-price">${formatRub(g.price_rub)}</div>
+        <div class="g-price-breakdown">${breakdown}</div>
+        <button class="g-buy-btn" id="buyBtn">🛒 Купить игру</button>
+        <div class="g-buy-note">Оплата происходит через менеджера ВКонтакте или Telegram</div>`;
     document.getElementById('buyBtn').addEventListener('click', buyGame);
 }
 
