@@ -85,6 +85,14 @@ YOUTUBE_SEARCH_URL = "https://www.googleapis.com/youtube/v3/search"
 # его в коде. Если ключ не задан — фолбэк на YouTube просто не работает,
 # и на сайте вместо видео покажется честная ссылка "Искать на YouTube".
 YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", "").strip()
+RAWG_API_KEY = os.environ.get("RAWG_API_KEY", "").strip()
+RAWG_SEARCH_URL = "https://api.rawg.io/api/games"
+RAWG_PLATFORM_MAP = (
+    ("playstation", "PlayStation"),
+    ("xbox", "Xbox"),
+    ("nintendo", "Nintendo Switch"),
+    ("pc", "PC"),
+)
 
 REGION_CC = "ua"
 REGION_LANG = "russian"
@@ -490,6 +498,33 @@ def extract_platforms(platforms_obj):
     return ["PC"]
 
 
+def fetch_real_platforms(title):
+    """Steam всегда означает PC, но не сообщает о релизах на PlayStation/
+    Xbox/Switch. RAWG.io — независимая база данных игр по 50+ платформам —
+    даёт эту информацию по реальному названию игры. Без ключа функция
+    просто ничего не добавляет (см. README про получение бесплатного ключа
+    RAWG_API_KEY), и платформой остаётся честный PC."""
+    if not RAWG_API_KEY:
+        return None
+    resp = http_get(RAWG_SEARCH_URL, params={"key": RAWG_API_KEY, "search": title, "page_size": 1}, retries=1)
+    if resp is None:
+        return None
+    try:
+        data = resp.json()
+    except ValueError:
+        return None
+    results = data.get("results", [])
+    if not results:
+        return None
+    found = set()
+    for p in results[0].get("platforms", []) or []:
+        name = ((p.get("platform") or {}).get("name") or "").lower()
+        for needle, label in RAWG_PLATFORM_MAP:
+            if needle in name:
+                found.add(label)
+    return found or None
+
+
 def build_hires_images(appid, api_header_image, api_background):
     """Собирает изображения высокого разрешения из Steam CDN, с фолбэками."""
     capsule = f"{STEAM_CDN_BASE}/{appid}/capsule_616x353.jpg"
@@ -668,6 +703,10 @@ def build_game_record(appid, uah_to_rub):
     tags = fetch_steamspy_tags(appid)
     genres_ru = map_genres(tags, details["steam_genres"])
     platforms = extract_platforms(details["platforms_raw"])
+    if time_budget_left() > 60:
+        real_platforms = fetch_real_platforms(details["title"])
+        if real_platforms:
+            platforms = sorted(set(platforms) | real_platforms)
     cover, hero = build_hires_images(appid, details["header_image"], details["background"])
     trailer_video = extract_trailer(details["movies"])
 

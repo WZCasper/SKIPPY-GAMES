@@ -135,10 +135,8 @@ function completePurchaseFlow(text) {
 function setupChatAvatar() {
     const dayOfWeek = new Date().getDay();
     const manager = MANAGER_AVATARS[dayOfWeek % MANAGER_AVATARS.length];
-    const toggleImg = document.getElementById('chat-toggle-img');
     const headImg = document.getElementById('chat-av-img');
     const nameEl = document.getElementById('ch-name');
-    if (toggleImg) toggleImg.src = manager.url;
     if (headImg) headImg.src = manager.url;
     if (nameEl) nameEl.textContent = manager.name;
 }
