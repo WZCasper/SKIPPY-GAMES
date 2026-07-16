@@ -13,25 +13,50 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 167,
+  "base_price_rub": 168,
   "markup_rub": 500,
-  "price_rub": 667,
-  "original_price_rub": 979,
+  "price_rub": 668,
+  "original_price_rub": 984,
   "discount_percent": 65,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_b0e2f164f94d531f6c49785598f2a444d3e965a4.1920x1080.jpg?t=1776463820",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/96ebab7085fb8651ce237ee32dfa8c67b8dc7f6c/ss_96ebab7085fb8651ce237ee32dfa8c67b8dc7f6c.1920x1080.jpg?t=1776463820",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_735de402cde4c061b74c0b7bc0f4c7762e1eff74.1920x1080.jpg?t=1776463820",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/f081fb0e9475a85dc9e077600a222f6ab83b4282/ss_f081fb0e9475a85dc9e077600a222f6ab83b4282.1920x1080.jpg?t=1776463820",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_9f0e774f099b1a4eb2dfa97aab629acbf18c7b9e.1920x1080.jpg?t=1776463820",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/4dbcdeca81994353342e7554925787d06c90cab9/ss_4dbcdeca81994353342e7554925787d06c90cab9.1920x1080.jpg?t=1776463820",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_aeb33da5fd0a8bccd3b4e11ed9489a1abac3e56d.1920x1080.jpg?t=1776463820",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_2dd9b99d36d6fd1cee26f383ed36a34fb9a56010.1920x1080.jpg?t=1776463820"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_b0e2f164f94d531f6c49785598f2a444d3e965a4.1920x1080.jpg?t=1784069375",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/96ebab7085fb8651ce237ee32dfa8c67b8dc7f6c/ss_96ebab7085fb8651ce237ee32dfa8c67b8dc7f6c.1920x1080.jpg?t=1784069375",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_735de402cde4c061b74c0b7bc0f4c7762e1eff74.1920x1080.jpg?t=1784069375",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/f081fb0e9475a85dc9e077600a222f6ab83b4282/ss_f081fb0e9475a85dc9e077600a222f6ab83b4282.1920x1080.jpg?t=1784069375",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_9f0e774f099b1a4eb2dfa97aab629acbf18c7b9e.1920x1080.jpg?t=1784069375",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/4dbcdeca81994353342e7554925787d06c90cab9/ss_4dbcdeca81994353342e7554925787d06c90cab9.1920x1080.jpg?t=1784069375",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_aeb33da5fd0a8bccd3b4e11ed9489a1abac3e56d.1920x1080.jpg?t=1784069375",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/ss_2dd9b99d36d6fd1cee26f383ed36a34fb9a56010.1920x1080.jpg?t=1784069375"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 4833360,
+      "name": "Clone Drone in the Danger Zone - Night Mode Pack",
+      "base_price_rub": 94,
+      "markup_rub": 500,
+      "price_rub": 594,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4833360/b0f178efba1f3d981b9a65e7814c07752d55b4da/header.jpg?t=1783526828"
+    },
+    {
+      "id": 4824790,
+      "name": "Clone Drone in the Danger Zone - Fast Lane Pack",
+      "base_price_rub": 94,
+      "markup_rub": 500,
+      "price_rub": 594,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4824790/9208095bd36e579eccd479b970446cb29bd231c6/header.jpg?t=1783526485"
+    },
+    {
+      "id": 4833350,
+      "name": "Clone Drone in the Danger Zone - Horse Power Pack",
+      "base_price_rub": 94,
+      "markup_rub": 500,
+      "price_rub": 594,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4833350/8bc2bd9a16707e530a8b3aea7af5c255ee3ee35f/header.jpg?t=1783526801"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-12T19:45:28Z"
+  "updated_at": "2026-07-16T03:24:54Z"
 }

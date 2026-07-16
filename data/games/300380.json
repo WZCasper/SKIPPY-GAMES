@@ -14,10 +14,10 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 70,
+  "base_price_rub": 71,
   "markup_rub": 500,
-  "price_rub": 570,
-  "original_price_rub": 979,
+  "price_rub": 571,
+  "original_price_rub": 984,
   "discount_percent": 85,
   "is_free": false,
   "trailer_video": null,
@@ -33,6 +33,22 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300380/ss_a7b334f885d1f3c37c011ad62de49b058d7d6b77.1920x1080.jpg?t=1764612541"
   ],
   "upsells": [
+    {
+      "id": 1180010,
+      "name": "Road Redemption - Revengers Assemble",
+      "base_price_rub": 33,
+      "markup_rub": 500,
+      "price_rub": 533,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1180010/header.jpg?t=1706910775"
+    },
+    {
+      "id": 625500,
+      "name": "Road Redemption: Name A Character",
+      "base_price_rub": 33,
+      "markup_rub": 500,
+      "price_rub": 533,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/625500/header.jpg?t=1706910713"
+    },
     {
       "id": 725880,
       "name": "Road Redemption - Concept Art and Videos",
@@ -59,5 +75,5 @@
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-12T19:38:29Z"
+  "updated_at": "2026-07-16T03:14:41Z"
 }
