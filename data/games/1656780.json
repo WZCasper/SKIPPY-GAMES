@@ -14,9 +14,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 602,
+  "base_price_rub": 605,
   "markup_rub": 500,
-  "price_rub": 1102,
+  "price_rub": 1105,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -32,24 +32,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1656780/ss_098c991faca4052cca3fd2fc431061b05c284c13.1920x1080.jpg?t=1742571869",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1656780/ss_88f52c50779b236303059a5564740a43b018c435.1920x1080.jpg?t=1742571869"
   ],
-  "upsells": [
-    {
-      "id": 1783690,
-      "name": "Hero's Hour - Supporter Pack",
-      "base_price_rub": 205,
-      "markup_rub": 500,
-      "price_rub": 705,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1783690/header.jpg?t=1646847741"
-    },
-    {
-      "id": 2007040,
-      "name": "Hero’s Hour - Rogue Realms",
-      "base_price_rub": 148,
-      "markup_rub": 500,
-      "price_rub": 648,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2007040/header.jpg?t=1677776088"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-13T09:37:39Z"
+  "updated_at": "2026-07-16T14:58:32Z"
 }

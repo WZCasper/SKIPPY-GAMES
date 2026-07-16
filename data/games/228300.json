@@ -16,10 +16,10 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 171,
+  "base_price_rub": 172,
   "markup_rub": 500,
-  "price_rub": 671,
-  "original_price_rub": 2224,
+  "price_rub": 672,
+  "original_price_rub": 2233,
   "discount_percent": 90,
   "is_free": false,
   "trailer_video": null,
@@ -34,16 +34,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/228300/ss_750e0d52f55b66ea50d62112187f097c1626aa1c.1920x1080.jpg?t=1779340218",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/228300/ss_b46b25624ae2e7c559b442bb2c58d4d676b51cd6.1920x1080.jpg?t=1779340218"
   ],
-  "upsells": [
-    {
-      "id": 237800,
-      "name": "Remember Me: Combo Lab Pack DLC",
-      "base_price_rub": 223,
-      "markup_rub": 500,
-      "price_rub": 723,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/237800/header.jpg?t=1447357814"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-13T03:31:48Z"
+  "updated_at": "2026-07-16T14:08:01Z"
 }

@@ -14,9 +14,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 602,
+  "base_price_rub": 605,
   "markup_rub": 500,
-  "price_rub": 1102,
+  "price_rub": 1105,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -31,16 +31,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1435670/ss_a711fb4b32f3ee3b96c7a2aac486072d59b21256.1920x1080.jpg?t=1769408189",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1435670/ss_66c4cc343dc92c43d8e5784af6e708ea671d1c98.1920x1080.jpg?t=1769408189"
   ],
-  "upsells": [
-    {
-      "id": 1707340,
-      "name": "Song of Farca Original Soundtrack",
-      "base_price_rub": 257,
-      "markup_rub": 500,
-      "price_rub": 757,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1707340/header.jpg?t=1702627642"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-13T09:37:22Z"
+  "updated_at": "2026-07-16T14:58:26Z"
 }

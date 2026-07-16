@@ -14,9 +14,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 999,
+  "base_price_rub": 1004,
   "markup_rub": 500,
-  "price_rub": 1499,
+  "price_rub": 1504,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -32,104 +32,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1372280/ss_261bfb202635361ed3079e6223401220557d2f27.1920x1080.jpg?t=1759740620",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1372280/ss_40bf06e79686922f14bb389cb426ee43c8d5d0b7.1920x1080.jpg?t=1759740620"
   ],
-  "upsells": [
-    {
-      "id": 1590580,
-      "name": "MELTY BLOOD ARCHIVES",
-      "base_price_rub": 380,
-      "markup_rub": 500,
-      "price_rub": 880,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1590580/header.jpg?t=1697099635"
-    },
-    {
-      "id": 1645470,
-      "name": "MELTY BLOOD: TYPE LUMINA - Shiki Tohno : Голос, оглащающий раунды",
-      "base_price_rub": 102,
-      "markup_rub": 500,
-      "price_rub": 602,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1645470/header.jpg?t=1679302441"
-    },
-    {
-      "id": 1645450,
-      "name": "MELTY BLOOD: TYPE LUMINA - Arcueid : Голос, оглащающий раунды",
-      "base_price_rub": 102,
-      "markup_rub": 500,
-      "price_rub": 602,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1645450/header.jpg?t=1679302586"
-    },
-    {
-      "id": 1645540,
-      "name": "MELTY BLOOD: TYPE LUMINA - Ciel : Голос, оглащающий раунды",
-      "base_price_rub": 102,
-      "markup_rub": 500,
-      "price_rub": 602,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1645540/header.jpg?t=1679302635"
-    },
-    {
-      "id": 1645452,
-      "name": "MELTY BLOOD: TYPE LUMINA - Akiha Tohno : Голос, оглащающий раунды",
-      "base_price_rub": 102,
-      "markup_rub": 500,
-      "price_rub": 602,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1645452/header.jpg?t=1679302703"
-    },
-    {
-      "id": 1645460,
-      "name": "MELTY BLOOD: TYPE LUMINA - Hisui : Голос, оглащающий раунды",
-      "base_price_rub": 102,
-      "markup_rub": 500,
-      "price_rub": 602,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1645460/header.jpg?t=1679302732"
-    },
-    {
-      "id": 1645480,
-      "name": "MELTY BLOOD: TYPE LUMINA - Kohaku : Голос, оглащающий раунды",
-      "base_price_rub": 102,
-      "markup_rub": 500,
-      "price_rub": 602,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1645480/header.jpg?t=1679302768"
-    },
-    {
-      "id": 1645510,
-      "name": "MELTY BLOOD: TYPE LUMINA - Noel : Голос, оглащающий раунды",
-      "base_price_rub": 102,
-      "markup_rub": 500,
-      "price_rub": 602,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1645510/header.jpg?t=1679302785"
-    },
-    {
-      "id": 1645520,
-      "name": "MELTY BLOOD: TYPE LUMINA - Vlov : Голос, оглащающий раунды",
-      "base_price_rub": 102,
-      "markup_rub": 500,
-      "price_rub": 602,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1645520/header.jpg?t=1679302842"
-    },
-    {
-      "id": 1645490,
-      "name": "MELTY BLOOD: TYPE LUMINA - Roa : Голос, оглащающий раунды",
-      "base_price_rub": 102,
-      "markup_rub": 500,
-      "price_rub": 602,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1645490/header.jpg?t=1679302860"
-    },
-    {
-      "id": 1645500,
-      "name": "MELTY BLOOD: TYPE LUMINA - Kouma Kishima : Голос, оглащающий раунды",
-      "base_price_rub": 102,
-      "markup_rub": 500,
-      "price_rub": 602,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1645500/header.jpg?t=1679302880"
-    },
-    {
-      "id": 1649930,
-      "name": "MELTY BLOOD: TYPE LUMINA - Miyako Arima : Голос, оглащающий раунды",
-      "base_price_rub": 102,
-      "markup_rub": 500,
-      "price_rub": 602,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1649930/header.jpg?t=1679302898"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-13T09:37:34Z"
+  "updated_at": "2026-07-16T14:58:28Z"
 }

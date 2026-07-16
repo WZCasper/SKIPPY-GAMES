@@ -15,9 +15,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 309,
+  "base_price_rub": 310,
   "markup_rub": 500,
-  "price_rub": 809,
+  "price_rub": 810,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -37,12 +37,20 @@
     {
       "id": 954060,
       "name": "West of Loathing: Reckonin' at Gun Manor",
-      "base_price_rub": 171,
+      "base_price_rub": 172,
       "markup_rub": 500,
-      "price_rub": 671,
+      "price_rub": 672,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/954060/header.jpg?t=1549660796"
+    },
+    {
+      "id": 696230,
+      "name": "West of Loathing OST",
+      "base_price_rub": 172,
+      "markup_rub": 500,
+      "price_rub": 672,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/696230/header.jpg?t=1582586814"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-13T04:10:57Z"
+  "updated_at": "2026-07-16T14:47:25Z"
 }

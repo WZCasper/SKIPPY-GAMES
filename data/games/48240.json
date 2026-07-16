@@ -16,9 +16,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 516,
+  "base_price_rub": 519,
   "markup_rub": 500,
-  "price_rub": 1016,
+  "price_rub": 1019,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -38,9 +38,9 @@
     {
       "id": 204290,
       "name": "Anno 2070™ - Deep Ocean",
-      "base_price_rub": 259,
+      "base_price_rub": 260,
       "markup_rub": 500,
-      "price_rub": 759,
+      "price_rub": 760,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204290/header.jpg?t=1681859537"
     },
     {
@@ -78,9 +78,9 @@
     {
       "id": 204285,
       "name": "Anno 2070™ - The Crisis Response Package",
-      "base_price_rub": 112,
+      "base_price_rub": 113,
       "markup_rub": 500,
-      "price_rub": 612,
+      "price_rub": 613,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204285/header.jpg?t=1681859412"
     },
     {
@@ -106,8 +106,16 @@
       "markup_rub": 500,
       "price_rub": 526,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204281/header.jpg?t=1681859280"
+    },
+    {
+      "id": 204282,
+      "name": "Anno 2070™: The Development Package",
+      "base_price_rub": 78,
+      "markup_rub": 500,
+      "price_rub": 578,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/204282/header.jpg?t=1681859300"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-13T03:38:33Z"
+  "updated_at": "2026-07-16T14:15:44Z"
 }

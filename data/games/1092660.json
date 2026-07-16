@@ -15,9 +15,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 654,
+  "base_price_rub": 657,
   "markup_rub": 500,
-  "price_rub": 1154,
+  "price_rub": 1157,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -31,24 +31,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092660/ss_cf8ec6372f611605fe4b34b9db2bddc8a2866b41.1920x1080.jpg?t=1773944489",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092660/ss_53f527a82bc1c1fb632214744d3137769784032d.1920x1080.jpg?t=1773944489"
   ],
-  "upsells": [
-    {
-      "id": 1141710,
-      "name": "Blair Witch Original Soundtrack",
-      "base_price_rub": 171,
-      "markup_rub": 500,
-      "price_rub": 671,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1141710/header.jpg?t=1646430043"
-    },
-    {
-      "id": 1141711,
-      "name": "The Art of Blair Witch",
-      "base_price_rub": 171,
-      "markup_rub": 500,
-      "price_rub": 671,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1141711/header.jpg?t=1646430050"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-13T09:37:37Z"
+  "updated_at": "2026-07-16T14:58:31Z"
 }

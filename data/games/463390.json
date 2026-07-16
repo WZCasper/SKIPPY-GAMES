@@ -29,32 +29,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463390/ss_6ab9089b166365f7e18c6e01b18b1182143b0ecd.1920x1080.jpg?t=1666983369",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463390/ss_374fedf63e51450c3ff8b970b9fc6b22523f4c81.1920x1080.jpg?t=1666983369"
   ],
-  "upsells": [
-    {
-      "id": 751700,
-      "name": "Donation Small",
-      "base_price_rub": 69,
-      "markup_rub": 500,
-      "price_rub": 569,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/751700/header.jpg?t=1510183427"
-    },
-    {
-      "id": 751701,
-      "name": "Donation Medium",
-      "base_price_rub": 171,
-      "markup_rub": 500,
-      "price_rub": 671,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/751701/header.jpg?t=1510183466"
-    },
-    {
-      "id": 751702,
-      "name": "Donation Big",
-      "base_price_rub": 292,
-      "markup_rub": 500,
-      "price_rub": 792,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/751702/header.jpg?t=1510183472"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-13T04:20:35Z"
+  "updated_at": "2026-07-16T14:57:43Z"
 }

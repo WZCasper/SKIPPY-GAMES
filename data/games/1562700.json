@@ -14,9 +14,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 561,
+  "base_price_rub": 564,
   "markup_rub": 500,
-  "price_rub": 1061,
+  "price_rub": 1064,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -32,7 +32,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562700/ss_0dd29b06d3816a7f8973ed1f6e504fbc7b6b32dd.1920x1080.jpg?t=1764564242",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562700/ss_070f0842cdda7efc85511cfeb9f8dc5534b4d72e.1920x1080.jpg?t=1764564242"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 2610780,
+      "name": "SANABI Soundtrack",
+      "base_price_rub": 215,
+      "markup_rub": 500,
+      "price_rub": 715,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2610780/header.jpg?t=1765328280"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-13T04:05:37Z"
+  "updated_at": "2026-07-16T14:41:58Z"
 }
