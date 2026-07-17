@@ -14,9 +14,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 716,
+  "base_price_rub": 724,
   "markup_rub": 500,
-  "price_rub": 1216,
+  "price_rub": 1224,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -32,16 +32,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/466300/ss_d76be0bc88998a1323a30fe937a82e090c640f1b.1920x1080.jpg?t=1746122996",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/466300/ss_b41e121833c7b592a53455454c5516558186f3c2.1920x1080.jpg?t=1746122996"
   ],
-  "upsells": [
-    {
-      "id": 613230,
-      "name": "Planescape: Torment: Enhanced Edition Official Soundtrack",
-      "base_price_rub": 388,
-      "markup_rub": 500,
-      "price_rub": 888,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613230/header.jpg?t=1746123032"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-13T10:10:19Z"
+  "updated_at": "2026-07-17T20:11:15Z"
 }
