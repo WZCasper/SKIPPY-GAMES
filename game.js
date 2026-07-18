@@ -45,13 +45,15 @@ function renderGame(g) {
     const wished = isInWishlist(g.id);
 
     document.getElementById('gameContent').innerHTML = `
-        <div class="game-hero" id="gameHero"></div>
+        <div class="hero-wrap">
+            <div class="game-hero" id="gameHero"></div>
+            <button class="hero-wish${wished ? ' wished' : ''}" id="wishBtn" title="В избранное">♥</button>
+        </div>
         <div id="galleryWrap"></div>
         <div class="game-body">
             <div class="g-plat">${plats}</div>
             <h1 class="g-title">${escapeHtml(g.title)}</h1>
             <div class="g-genre">${escapeHtml(genres)}</div>
-            <button class="g-wish-btn${wished ? ' wished' : ''}" id="wishBtn">♥ <span id="wishBtnLabel">${wished ? 'В избранном' : 'В избранное'}</span></button>
             <div class="g-desc">${escapeHtml(g.description || g.description_short || 'Описание пока недоступно.')}</div>
             <div class="g-price-card" id="priceCard"></div>
             <div id="upsellsSection"></div>
@@ -66,7 +68,6 @@ function renderGame(g) {
     document.getElementById('wishBtn').addEventListener('click', () => {
         const now = toggleWishlist(g.id);
         document.getElementById('wishBtn').classList.toggle('wished', now);
-        document.getElementById('wishBtnLabel').textContent = now ? 'В избранном' : 'В избранное';
     });
 
     window.scrollTo(0, 0);
