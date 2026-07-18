@@ -16,9 +16,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 1035,
+  "base_price_rub": 1050,
   "markup_rub": 500,
-  "price_rub": 1535,
+  "price_rub": 1550,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -34,7 +34,32 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1566390/ss_3d1f286e48b1d8bb7d31f14fd8b9ada3e00eddf0.1920x1080.jpg?t=1757831964",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1566390/ss_cc625ab03c2458df2ed0e284af82afeb287cf8e7.1920x1080.jpg?t=1757831964"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 2452270,
+      "name": "Seed of the Dead: Charm Song",
+      "base_price_rub": 726,
+      "markup_rub": 500,
+      "price_rub": 1226,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2452270/header.jpg?t=1725095989"
+    },
+    {
+      "id": 1724110,
+      "name": "Seed of the Dead: Sweet Home Theme Songs",
+      "base_price_rub": 217,
+      "markup_rub": 500,
+      "price_rub": 717,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1724110/header.jpg?t=1697469916"
+    },
+    {
+      "id": 2651960,
+      "name": "Seed of the Dead: Charm Song Vocal Album",
+      "base_price_rub": 394,
+      "markup_rub": 500,
+      "price_rub": 894,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651960/header.jpg?t=1700268639"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-13T10:30:25Z"
+  "updated_at": "2026-07-18T13:51:18Z"
 }

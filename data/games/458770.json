@@ -14,9 +14,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 395,
+  "base_price_rub": 401,
   "markup_rub": 500,
-  "price_rub": 895,
+  "price_rub": 901,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -32,7 +32,24 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/458770/ss_68b1af5c383702bdc23f9c4cc1ff970accfba694.1920x1080.jpg?t=1725354005",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/458770/ss_be3876b9ee81939c9b344085504a7549c386bf56.1920x1080.jpg?t=1725354005"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 526640,
+      "name": "WRC 6 YARIS WRC Test car",
+      "base_price_rub": 103,
+      "markup_rub": 500,
+      "price_rub": 603,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/526640/header.jpg?t=1592484788"
+    },
+    {
+      "id": 538080,
+      "name": "WRC 6 - Calendar and WRC + Pack",
+      "base_price_rub": 226,
+      "markup_rub": 500,
+      "price_rub": 726,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/538080/header.jpg?t=1592484790"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-13T10:30:29Z"
+  "updated_at": "2026-07-18T13:52:51Z"
 }

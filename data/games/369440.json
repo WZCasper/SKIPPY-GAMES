@@ -15,9 +15,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 309,
+  "base_price_rub": 313,
   "markup_rub": 500,
-  "price_rub": 809,
+  "price_rub": 813,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -32,7 +32,32 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/369440/ss_36db989b0ce3216245ba1855cd0ba626a7ed2f02.1920x1080.jpg?t=1612196773",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/369440/ss_5c18bc2197f0141f12eccaadad149113656fe7a0.1920x1080.jpg?t=1612196773"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 883200,
+      "name": "Immortal: Unchained - Midas Touched",
+      "base_price_rub": 130,
+      "markup_rub": 500,
+      "price_rub": 630,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883200/header.jpg?t=1536306766"
+    },
+    {
+      "id": 883210,
+      "name": "Immortal: Unchained - Primes Pack",
+      "base_price_rub": 217,
+      "markup_rub": 500,
+      "price_rub": 717,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883210/header.jpg?t=1555579753"
+    },
+    {
+      "id": 884000,
+      "name": "Immortal: Unchained - Storm Breaker",
+      "base_price_rub": 278,
+      "markup_rub": 500,
+      "price_rub": 778,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/884000/header.jpg?t=1562747879"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-13T10:30:33Z"
+  "updated_at": "2026-07-18T13:54:56Z"
 }

@@ -16,9 +16,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 481,
+  "base_price_rub": 488,
   "markup_rub": 500,
-  "price_rub": 981,
+  "price_rub": 988,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -34,7 +34,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111360/ss_01eb8d3a658e9a16f150a0c050668c3f6f3bd0c8.1920x1080.jpg?t=1766254003",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2111360/ss_ea7601cca38ce9e19171bb843f638aca9d7f98c5.1920x1080.jpg?t=1766254003"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 2762350,
+      "name": "Extreme Evolution: Drive to Divinity Soundtrack",
+      "base_price_rub": 285,
+      "markup_rub": 500,
+      "price_rub": 785,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2762350/header.jpg?t=1705434892"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-13T10:30:43Z"
+  "updated_at": "2026-07-18T13:59:37Z"
 }

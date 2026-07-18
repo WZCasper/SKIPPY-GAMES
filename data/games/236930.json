@@ -12,9 +12,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 292,
+  "base_price_rub": 296,
   "markup_rub": 500,
-  "price_rub": 792,
+  "price_rub": 796,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -30,7 +30,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236930/ss_be344a3a31c75ab2f453ca349fbe032eee510aee.1920x1080.jpg?t=1728037695",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/236930/ss_239a3f506e50e251173258973140aaf47ce75697.1920x1080.jpg?t=1728037695"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 1935690,
+      "name": "Blackwell Epiphany Official Soundtrack",
+      "base_price_rub": 103,
+      "markup_rub": 500,
+      "price_rub": 603,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1935690/header.jpg?t=1728037752"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-13T10:30:40Z"
+  "updated_at": "2026-07-18T13:58:34Z"
 }

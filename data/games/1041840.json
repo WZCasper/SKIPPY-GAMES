@@ -16,9 +16,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 481,
+  "base_price_rub": 488,
   "markup_rub": 500,
-  "price_rub": 981,
+  "price_rub": 988,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -34,7 +34,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1041840/ss_57f3bc09aa9baf9ecead834fb3cbe8b557262d58.1920x1080.jpg?t=1626804245",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1041840/ss_c3c227fb575b167a4e8c966f50439aecf6c4902e.1920x1080.jpg?t=1626804245"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 1298210,
+      "name": "Fight Angel SE Clothes Expansion Pack",
+      "base_price_rub": 285,
+      "markup_rub": 500,
+      "price_rub": 785,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1298210/header.jpg?t=1588008400"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-13T10:30:17Z"
+  "updated_at": "2026-07-18T13:47:39Z"
 }

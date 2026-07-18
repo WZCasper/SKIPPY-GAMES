@@ -11,9 +11,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 561,
+  "base_price_rub": 569,
   "markup_rub": 500,
-  "price_rub": 1061,
+  "price_rub": 1069,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -28,7 +28,24 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292230/ss_c20312359d9750c786bf6d0ae9c188f5555da744.1920x1080.jpg?t=1681233935",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292230/ss_71006940b7019f1986edac750c3a33ff5d30275e.1920x1080.jpg?t=1681233935"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 437560,
+      "name": "Game Character Hub: DS Generator Parts",
+      "base_price_rub": 327,
+      "markup_rub": 500,
+      "price_rub": 827,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/437560/header.jpg?t=1681233947"
+    },
+    {
+      "id": 372710,
+      "name": "Game Character Hub: Second Story",
+      "base_price_rub": 173,
+      "markup_rub": 500,
+      "price_rub": 673,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/372710/header.jpg?t=1681233951"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-13T10:30:21Z"
+  "updated_at": "2026-07-18T13:49:13Z"
 }

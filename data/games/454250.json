@@ -15,9 +15,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 395,
+  "base_price_rub": 401,
   "markup_rub": 500,
-  "price_rub": 895,
+  "price_rub": 901,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -33,7 +33,32 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454250/ss_057ec233675f27e2d19f82d1e3f95ebc19c65efb.1920x1080.jpg?t=1775539072",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454250/ss_2cad84d96d9959f9bd7a2ce82ceb74a4b8e80305.1920x1080.jpg?t=1775539072"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 534930,
+      "name": "The Eyes of Ara Original Soundtrack",
+      "base_price_rub": 173,
+      "markup_rub": 500,
+      "price_rub": 673,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534930/header_russian.jpg?t=1683080142"
+    },
+    {
+      "id": 534931,
+      "name": "The Eyes of Ara Castle Maps",
+      "base_price_rub": 103,
+      "markup_rub": 500,
+      "price_rub": 603,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/534931/header_russian.jpg?t=1508282897"
+    },
+    {
+      "id": 695580,
+      "name": "The Art and Design of The Eyes of Ara",
+      "base_price_rub": 173,
+      "markup_rub": 500,
+      "price_rub": 673,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/695580/header_russian.jpg?t=1508281350"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-13T10:30:42Z"
+  "updated_at": "2026-07-18T13:59:06Z"
 }
