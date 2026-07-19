@@ -39,16 +39,6 @@ var GENRE_ICONS = {
 
 var ALL_GENRES = Object.keys(GENRE_ICONS);
 
-var MANAGER_AVATARS = [
-    { name: 'Дежурный №1', url: 'https://placehold.co/100x100/0c0c1a/00e5ff?text=01' },
-    { name: 'Дежурный №2', url: 'https://placehold.co/100x100/0c0c1a/00e5ff?text=02' },
-    { name: 'Дежурный №3', url: 'https://placehold.co/100x100/0c0c1a/00e5ff?text=03' },
-    { name: 'Дежурный №4', url: 'https://placehold.co/100x100/0c0c1a/00e5ff?text=04' },
-    { name: 'Дежурный №5', url: 'https://placehold.co/100x100/0c0c1a/00e5ff?text=05' },
-    { name: 'Дежурный №6', url: 'https://placehold.co/100x100/0c0c1a/00e5ff?text=06' },
-    { name: 'Дежурный №7', url: 'https://placehold.co/100x100/0c0c1a/00e5ff?text=07' },
-];
-
 var WISHLIST_KEY = 'skippygames_wishlist_v1';
 
 /* =============================================================================
@@ -131,15 +121,6 @@ function completePurchaseFlow(text) {
    ЧАТ: гарантированно рабочие прямые ссылки VK/Telegram + опциональный
    встроенный виджет ВК как бонус (см. README про причины такого подхода)
    ============================================================================= */
-
-function setupChatAvatar() {
-    const dayOfWeek = new Date().getDay();
-    const manager = MANAGER_AVATARS[dayOfWeek % MANAGER_AVATARS.length];
-    const headImg = document.getElementById('chat-av-img');
-    const nameEl = document.getElementById('ch-name');
-    if (headImg) headImg.src = manager.url;
-    if (nameEl) nameEl.textContent = manager.name;
-}
 
 function openChat() {
     const w = document.getElementById('chatWin');
@@ -258,7 +239,6 @@ function loadOwnerAvatar() {
 }
 
 document.addEventListener('DOMContentLoaded', () => {
-    setupChatAvatar();
     updateWishlistBadges();
     initMobileMenu();
     initBackToTop();
