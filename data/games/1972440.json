@@ -14,9 +14,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 481,
+  "base_price_rub": 488,
   "markup_rub": 500,
-  "price_rub": 981,
+  "price_rub": 988,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -31,16 +31,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1972440/ss_fea6236d468086ee971d505739827c97f3a105a8.1920x1080.jpg?t=1779871580",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1972440/ss_e8d02df25f0fbb7e0abb6bba076318cb1f8568d8.1920x1080.jpg?t=1779871580"
   ],
-  "upsells": [
-    {
-      "id": 1996410,
-      "name": "Shotgun King: The Final Checkmate Soundtrack",
-      "base_price_rub": 86,
-      "markup_rub": 500,
-      "price_rub": 586,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1996410/header.jpg?t=1653482121"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-13T15:02:26Z"
+  "updated_at": "2026-07-19T04:16:16Z"
 }
