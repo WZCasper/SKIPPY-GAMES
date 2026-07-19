@@ -264,6 +264,7 @@ footer a:hover{color:var(--cyan);}
 .chat-close{margin-left:auto;background:none;border:none;color:var(--text2);font-size:1.1rem;cursor:pointer;}
 .chat-actions{padding:.9rem;display:flex;flex-direction:column;gap:.5rem;flex-shrink:0;}
 .chat-btn-vk,.chat-btn-tg{display:flex;align-items:center;justify-content:center;gap:.5rem;padding:.7rem;border-radius:11px;border:none;color:#fff;font-family:'Rajdhani',sans-serif;font-size:.85rem;font-weight:700;text-decoration:none;transition:transform .13s;}
+.chat-btn-badge{font-family:'Orbitron',sans-serif;font-size:.62rem;font-weight:900;background:rgba(255,255,255,.22);border-radius:5px;padding:.2rem .35rem;letter-spacing:.02em;line-height:1;}
 .chat-btn-vk{background:linear-gradient(135deg,#0077ff,#4a90e2);}
 .chat-btn-tg{background:linear-gradient(135deg,#29b6f6,#0288d1);}
 .chat-btn-vk:hover,.chat-btn-tg:hover{transform:translateY(-1px);}
