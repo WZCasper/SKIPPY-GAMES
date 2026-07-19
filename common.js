@@ -118,72 +118,18 @@ function completePurchaseFlow(text) {
 }
 
 /* =============================================================================
-   ЧАТ: гарантированно рабочие прямые ссылки VK/Telegram + опциональный
-   встроенный виджет ВК как бонус (см. README про причины такого подхода)
+   ЧАТ: гарантированно рабочие прямые ссылки VK/Telegram
    ============================================================================= */
 
 function openChat() {
     const w = document.getElementById('chatWin');
     if (w) w.classList.add('open');
-    mountVkWidget();
 }
 function toggleChatWin() {
     const w = document.getElementById('chatWin');
     if (!w) return;
     w.classList.toggle('open');
-    if (w.classList.contains('open')) mountVkWidget();
 }
-
-var vkWidgetMounted = false;
-var vkWidgetCheckTimer = null;
-
-function renderVkFallback(reason) {
-    const el = document.getElementById('vk_community_messages');
-    if (!el) return;
-    console.warn('Встроенный виджет VK не поднялся (' + reason + '). Прямые кнопки VK/Telegram выше по-прежнему работают.');
-    el.innerHTML = `<div class="chat-embed-note">Встроенный чат сейчас недоступен в этом браузере — кнопки выше работают точно.<br><button onclick="retryVkWidget()">Попробовать снова</button></div>`;
-}
-function retryVkWidget() {
-    vkWidgetMounted = false;
-    const el = document.getElementById('vk_community_messages');
-    if (el) el.innerHTML = '';
-    mountVkWidget();
-}
-function mountVkWidget() {
-    if (vkWidgetMounted) return;
-    vkWidgetMounted = true;
-    const container = document.getElementById('vk_community_messages');
-    if (!container) return;
-    container.innerHTML = '<div class="chat-embed-note">Загружаем встроенный чат...</div>';
-    loadVkScript((loaded) => {
-        if (!loaded || !window.VK || !window.VK.Widgets || !window.VK.Widgets.CommunityMessages) {
-            renderVkFallback('скрипт VK не загрузился'); return;
-        }
-        try {
-            window.VK.Widgets.CommunityMessages('vk_community_messages', VK_GROUP_NUMERIC_ID, { expandTimeout: 200, tooltipButtonText: 'Написать нам' });
-        } catch (err) {
-            console.error('VK.Widgets.CommunityMessages выбросил ошибку:', err);
-            renderVkFallback('ошибка инициализации виджета'); return;
-        }
-        clearTimeout(vkWidgetCheckTimer);
-        vkWidgetCheckTimer = setTimeout(() => {
-            if (!container.querySelector('iframe')) renderVkFallback('виджет не ответил вовремя');
-        }, 6000);
-    });
-}
-function loadVkScript(callback) {
-    if (window.VK && window.VK.Widgets) { callback(true); return; }
-    const script = document.createElement('script');
-    script.src = 'https://vk.com/js/api/openapi.js';
-    script.async = true;
-    const timeoutId = setTimeout(() => callback(false), 8000);
-    script.onload = () => { clearTimeout(timeoutId); callback(true); };
-    script.onerror = () => { clearTimeout(timeoutId); callback(false); };
-    document.head.appendChild(script);
-}
-window.addEventListener('load', () => {
-    setTimeout(() => { if (!window.VK || !window.VK.Widgets) loadVkScript(() => {}); }, 1500);
-});
 
 /* =============================================================================
    МОБИЛЬНОЕ МЕНЮ / BACK-TO-TOP / SCROLL SPY
