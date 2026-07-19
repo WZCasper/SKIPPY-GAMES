@@ -356,15 +356,42 @@ def load_search_term_appids(max_terms=40, pages_per_term=2):
     return collected
 
 
-def load_steamspy_bulk_appids(max_pages=15, per_page_delay=2.0):
+STEAMSPY_PROGRESS_FILE = BACKEND_DIR / "steamspy_page_progress.txt"
+STEAMSPY_MAX_PAGE = 70  # за этой границей у SteamSpy почти нулевые owners — не имеет смысла
+
+
+def load_steamspy_progress():
+    if STEAMSPY_PROGRESS_FILE.exists():
+        try:
+            return int(STEAMSPY_PROGRESS_FILE.read_text(encoding="utf-8").strip())
+        except ValueError:
+            return 0
+    return 0
+
+
+def save_steamspy_progress(next_page):
+    STEAMSPY_PROGRESS_FILE.write_text(str(next_page % STEAMSPY_MAX_PAGE), encoding="utf-8")
+
+
+def load_steamspy_bulk_appids(max_pages=8, per_page_delay=61.0):
     """Собирает appid через SteamSpy — отдельный от Steam сервис (другой
     хост, другая инфраструктура), поэтому не подвержен блокировке
     api.steampowered.com на стороне облачных раннеров. SteamSpy отдаёт
     списки игр по 1000 штук на страницу, отсортированные по популярности.
-    per_page_delay намеренно консервативный, чтобы не перегружать
-    бесплатный сервис SteamSpy."""
+
+    ВАЖНО: официальный лимит SteamSpy для request=all — 1 запрос В МИНУТУ
+    (не в секунду!). per_page_delay=61 секунда — это не перестраховка, а
+    буквальное соблюдение их лимита; более частые запросы просто режутся
+    сервисом. Чтобы не тратить весь бюджет времени прогона на один этот
+    источник, забираем только max_pages страниц за раз и запоминаем, на
+    какой странице остановились (steamspy_page_progress.txt), — за
+    несколько прогонов проходим весь каталог SteamSpy (0..70 страниц),
+    затем начинаем заново с нуля, попутно освежая данные."""
     collected = []
-    for page in range(max_pages):
+    start_page = load_steamspy_progress()
+    pages_done = 0
+    page = start_page
+    while pages_done < max_pages:
         if time_budget_left() < 120:
             log.info("Бюджет времени исчерпан на этапе SteamSpy bulk-обхода")
             break
@@ -384,8 +411,12 @@ def load_steamspy_bulk_appids(max_pages=15, per_page_delay=2.0):
                 collected.append(int(appid_str))
             except ValueError:
                 continue
-        time.sleep(per_page_delay)
-    log.info("SteamSpy bulk-обход дал %s appid за %s страниц", len(collected), max_pages)
+        page += 1
+        pages_done += 1
+        save_steamspy_progress(page)
+        if pages_done < max_pages:
+            time.sleep(per_page_delay)
+    log.info("SteamSpy bulk-обход: страницы %s-%s (%s шт.), собрано %s appid", start_page, page - 1, pages_done, len(collected))
     return collected
 
 
@@ -844,7 +875,7 @@ def main():
     # Источник 3: SteamSpy bulk-листинг — независимый от Steam сервис,
     # не подвержен блокировке api.steampowered.com для облачных IP.
     if len(candidate_ids) < CANDIDATE_POOL_TARGET and time_budget_left() > 300:
-        steamspy_ids = load_steamspy_bulk_appids(max_pages=15)
+        steamspy_ids = load_steamspy_bulk_appids(max_pages=8)
         added_from_steamspy = 0
         for aid in steamspy_ids:
             if aid not in catalog and aid not in skipped_ids and aid not in candidate_ids:
