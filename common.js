@@ -175,12 +175,18 @@ function initScrollSpy(ids) {
    ============================================================================= */
 
 function loadOwnerAvatar() {
-    const av = document.getElementById('ownerAv');
-    if (!av) return;
+    const targets = [document.getElementById('ownerAv'), document.getElementById('logoIcon')].filter(Boolean);
+    if (targets.length === 0) return;
     const img = new Image();
     img.alt = 'SkippyGames';
-    img.onload = () => { av.innerHTML = ''; av.appendChild(img); };
-    img.onerror = () => { /* остаётся SVG-заглушка с инициалами, уже в разметке */ };
+    img.onload = () => {
+        targets.forEach(el => {
+            const clone = img.cloneNode();
+            el.innerHTML = '';
+            el.appendChild(clone);
+        });
+    };
+    img.onerror = () => { /* остаются SVG-заглушки, уже в разметке */ };
     img.src = 'https://unavatar.io/youtube/SkippyGames';
 }
 

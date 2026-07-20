@@ -53,7 +53,18 @@ jobs:
           git add -u games.json 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "Нет изменений — коммит не нужен."
-          else
-            git commit -m "chore: автообновление каталога игр ($(date -u +'%Y-%m-%d %H:%M UTC'))"
-            git push
+            exit 0
           fi
+          git commit -m "chore: автообновление каталога игр ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+          for i in 1 2 3 4 5; do
+            if git push; then
+              echo "Push succeeded"
+              exit 0
+            fi
+            echo "Push отклонён (кто-то запушил параллельно), попытка $i/5: rebase и повтор..."
+            git fetch origin main
+            git rebase origin/main || { echo "Rebase conflict, aborting rebase"; git rebase --abort; sleep 5; continue; }
+            sleep 3
+          done
+          echo "Не удалось запушить после 5 попыток"
+          exit 1
