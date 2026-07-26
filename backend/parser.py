@@ -726,6 +726,156 @@ def fetch_exchange_rate():
     return 2.35
 
 
+def fetch_usd_to_rub_rate():
+    """Курс USD -> RUB, нужен для цен Nintendo eShop (американский магазин
+    отдаёт цены в USD). Используем тот же бесплатный сервис, что и для
+    UAH -> RUB, просто с другой базовой валютой."""
+    resp = http_get("https://open.er-api.com/v6/latest/USD")
+    if resp is None:
+        log.error("Не удалось получить курс USD -> RUB, используем резервное значение 95.0")
+        return 95.0
+    try:
+        data = resp.json()
+        rate = data.get("rates", {}).get("RUB")
+        if rate:
+            log.info("Курс USD -> RUB: %s", rate)
+            return float(rate)
+    except (ValueError, KeyError, TypeError) as exc:
+        log.warning("Ошибка разбора курса USD -> RUB: %s", exc)
+    log.error("Резервный курс USD -> RUB: 95.0")
+    return 95.0
+
+
+# ---------------------------------------------------------------------------
+# Nintendo Switch (eShop) — через публичный поисковый индекс Algolia,
+# которым пользуется сам сайт eshop.nintendo.com (тот же приём, что и с
+# Steam Store API: не официальный B2B-контракт, но открытый интерфейс,
+# которым пользуется сама витрина). Ключ поиска Algolia намеренно публичный
+# ("search-only key") — им же пользуется браузер любого посетителя eshop.
+# ---------------------------------------------------------------------------
+
+NINTENDO_ALGOLIA_URL = "https://u3b6gr4ua3-dsn.algolia.net/1/indexes/*/queries"
+NINTENDO_ALGOLIA_APP_ID = "U3B6GR4UA3"
+NINTENDO_ALGOLIA_API_KEY = "c4da8be7fd29f0f5bfa42920b0a99dc7"
+NINTENDO_INDEX = "ncom_game_en_us"
+
+
+def load_nintendo_hits(max_pages=3, hits_per_page=100):
+    """Тянет страницы каталога Nintendo Switch (eShop, регион US) через
+    их же публичный Algolia-индекс. Возвращает сырые hit-объекты."""
+    hits = []
+    headers = {
+        "X-Algolia-Application-Id": NINTENDO_ALGOLIA_APP_ID,
+        "X-Algolia-API-Key": NINTENDO_ALGOLIA_API_KEY,
+        "Content-Type": "application/json",
+    }
+    for page in range(max_pages):
+        if time_budget_left() < 90:
+            log.info("Бюджет времени исчерпан на этапе Nintendo eShop")
+            break
+        payload = {
+            "requests": [{
+                "indexName": NINTENDO_INDEX,
+                "params": f"query=&hitsPerPage={hits_per_page}&page={page}&filters=platform:%22Nintendo%20Switch%22",
+            }]
+        }
+        try:
+            resp = session.post(NINTENDO_ALGOLIA_URL, json=payload, headers=headers, timeout=REQUEST_TIMEOUT)
+        except requests.RequestException as exc:
+            log.warning("Nintendo eShop: ошибка сети на странице %s: %s", page, exc)
+            break
+        if resp.status_code != 200:
+            log.warning("Nintendo eShop: HTTP %s на странице %s, прекращаем этот источник", resp.status_code, page)
+            break
+        try:
+            data = resp.json()
+            page_hits = data["results"][0]["hits"]
+        except (ValueError, KeyError, IndexError) as exc:
+            log.warning("Nintendo eShop: не удалось разобрать ответ (%s), прекращаем", exc)
+            break
+        if not page_hits:
+            break
+        hits.extend(page_hits)
+        time.sleep(0.5)
+    log.info("Nintendo eShop: получено %s карточек за %s стр.", len(hits), max_pages)
+    return hits
+
+
+def build_nintendo_record(hit, usd_to_rub):
+    """Собирает запись игры из одного hit-объекта Algolia. Часть полей у
+    Nintendo названа непредсказуемо в разных региональных индексах, поэтому
+    проверяем по нескольку вариантов имени поля (защитный код, а не догадки
+    наугад — если ни один вариант не найден, honestly пропускаем игру)."""
+    nsuid = hit.get("nsuid") or hit.get("id") or hit.get("objectID")
+    title = hit.get("title") or hit.get("name")
+    if not nsuid or not title:
+        return None
+
+    msrp = hit.get("msrp")
+    if msrp is None:
+        msrp = hit.get("price")
+    if msrp is None:
+        return None  # без цены честно не добавляем игру в каталог
+    try:
+        msrp = float(msrp)
+    except (TypeError, ValueError):
+        return None
+
+    sale_price = hit.get("salePrice", hit.get("sale_price"))
+    is_free = msrp == 0
+
+    cover = hit.get("boxart") or hit.get("horizontalHeaderImage") or hit.get("image") or ""
+    description = (hit.get("description") or "").strip()
+    genres_raw = hit.get("genres") or hit.get("categories") or []
+    genres_ru = [TAG_MAP.get(str(g).lower(), str(g)) for g in genres_raw][:6] or ["Экшен"]
+
+    if is_free:
+        base_price_rub = 0
+        markup_rub = 0
+        price_rub = 0
+        original_price_rub = None
+        discount_percent = 0
+    else:
+        base_price_rub = round(msrp * usd_to_rub)
+        markup_rub = MARKUP_RUB
+        price_rub = base_price_rub + markup_rub
+        discount_percent = 0
+        original_price_rub = None
+        if sale_price is not None:
+            try:
+                sale_price = float(sale_price)
+                if sale_price < msrp:
+                    discount_percent = round((1 - sale_price / msrp) * 100)
+                    base_price_rub = round(sale_price * usd_to_rub)
+                    price_rub = base_price_rub + markup_rub
+                    original_price_rub = round(msrp * usd_to_rub) + markup_rub
+            except (TypeError, ValueError):
+                pass
+
+    return {
+        "id": f"ns{nsuid}",
+        "title": title,
+        "cover": cover,
+        "hero": cover,
+        "description": description or "Описание пока недоступно.",
+        "description_short": description[:200],
+        "genres": genres_ru,
+        "platforms": ["Nintendo Switch"],
+        "base_price_rub": base_price_rub,
+        "markup_rub": markup_rub,
+        "price_rub": price_rub,
+        "original_price_rub": original_price_rub,
+        "discount_percent": discount_percent,
+        "is_free": is_free,
+        "trailer_video": None,
+        "trailer_youtube_id": None,
+        "screenshots": [],
+        "upsells": [],
+        "source": "nintendo_eshop",
+        "updated_at": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+    }
+
+
 def build_game_record(appid, uah_to_rub):
     details, status = fetch_appdetails(appid)
     if details is None:
@@ -915,6 +1065,27 @@ def main():
             skipped_ids.add(appid)
         time.sleep(REQUEST_DELAY)
 
+    # --- Этап 3: Nintendo Switch (eShop) -------------------------------------
+    MAX_NINTENDO_PER_RUN = 300
+    added_nintendo = 0
+    if time_budget_left() > 180:
+        usd_to_rub = fetch_usd_to_rub_rate()
+        nintendo_hits = load_nintendo_hits(max_pages=3)
+        for hit in nintendo_hits:
+            if added_nintendo >= MAX_NINTENDO_PER_RUN:
+                log.info("Достигнут лимит новых игр Nintendo Switch за прогон (%s)", MAX_NINTENDO_PER_RUN)
+                break
+            if time_budget_left() < 30:
+                log.warning("Бюджет времени исчерпан на этапе Nintendo Switch")
+                break
+            record = build_nintendo_record(hit, usd_to_rub)
+            if record and record["id"] not in catalog:
+                catalog[record["id"]] = record
+                added_nintendo += 1
+        log.info("Nintendo Switch: добавлено/обновлено %s игр", added_nintendo)
+    else:
+        log.info("Недостаточно времени на этап Nintendo Switch в этом прогоне — пропускаем")
+
     # --- Сохранение ----------------------------------------------------------
     if not catalog:
         log.error("Каталог пуст — прерываем запись, чтобы не затирать данные пустым каталогом")
@@ -991,8 +1162,8 @@ def main():
     )
 
     log.info(
-        "Итого: обработано=%s, обновлено=%s, добавлено новых=%s, всего в каталоге=%s (цель %s)",
-        processed, refreshed, added, len(games_list), TARGET_CATALOG_SIZE,
+        "Итого: обработано=%s, обновлено=%s, добавлено новых Steam=%s, добавлено Nintendo=%s, всего в каталоге=%s (цель %s)",
+        processed, refreshed, added, added_nintendo, len(games_list), TARGET_CATALOG_SIZE,
     )
     log.info("=== SkippyGames parser v2: завершено ===")
 

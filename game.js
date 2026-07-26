@@ -128,7 +128,7 @@ function handleLightboxKeys(e) {
 
 function renderPriceCard(g) {
     const el = document.getElementById('priceCard');
-    if (g.is_free) {
+    if (g.is_free && g.source === 'steam') {
         el.innerHTML = `
             <div class="g-price free">Бесплатно</div>
             <button class="g-buy-btn" id="buyBtn">🛒 Получить в Steam</button>
@@ -136,6 +136,14 @@ function renderPriceCard(g) {
         document.getElementById('buyBtn').addEventListener('click', () => {
             window.open(`https://store.steampowered.com/app/${g.id}/`, '_blank', 'noopener');
         });
+        return;
+    }
+    if (g.is_free) {
+        el.innerHTML = `
+            <div class="g-price free">Бесплатно</div>
+            <button class="g-buy-btn" id="buyBtn">🛒 Получить</button>
+            <div class="g-buy-note">Оформление через менеджера ВКонтакте или Telegram</div>`;
+        document.getElementById('buyBtn').addEventListener('click', buyGame);
         return;
     }
     const discountRow = (g.discount_percent > 0 && g.original_price_rub) ? `
