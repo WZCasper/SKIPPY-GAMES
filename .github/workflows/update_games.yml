@@ -56,15 +56,26 @@ jobs:
             exit 0
           fi
           git commit -m "chore: автообновление каталога игр ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+
           for i in 1 2 3 4 5; do
-            if git push; then
-              echo "Push succeeded"
+            if git push 2>push_err.txt; then
+              echo "Push succeeded on attempt $i"
               exit 0
             fi
-            echo "Push отклонён (кто-то запушил параллельно), попытка $i/5: rebase и повтор..."
+            echo "=== Попытка $i/5 не удалась, реальная ошибка git push: ==="
+            cat push_err.txt
+            echo "=== Забираем свежий main и переносим наш коммит поверх (наши данные — самые свежие, конфликтов по содержимому тут в принципе не может быть) ==="
             git fetch origin main
-            git rebase origin/main || { echo "Rebase conflict, aborting rebase"; git rebase --abort; sleep 5; continue; }
-            sleep 3
+            git reset --soft origin/main
+            git add data/ backend/skipped_ids.json backend/steamspy_page_progress.txt
+            git add -u games.json 2>/dev/null || true
+            if git diff --cached --quiet; then
+              echo "После синхронизации с main изменений не осталось — уже актуально."
+              exit 0
+            fi
+            git commit -m "chore: автообновление каталога игр ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            sleep 5
           done
-          echo "Не удалось запушить после 5 попыток"
+          echo "=== Не удалось запушить после 5 попыток, последняя ошибка: ==="
+          cat push_err.txt
           exit 1
