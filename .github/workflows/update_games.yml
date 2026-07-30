@@ -49,7 +49,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/ backend/skipped_ids.json backend/steamspy_page_progress.txt
+          git add data/ backend/skipped_ids.json
+          [ -f backend/steamspy_page_progress.txt ] && git add backend/steamspy_page_progress.txt
           git add -u games.json 2>/dev/null || true
           if git diff --cached --quiet; then
             echo "Нет изменений — коммит не нужен."
@@ -67,7 +68,8 @@ jobs:
             echo "=== Забираем свежий main и переносим наш коммит поверх (наши данные — самые свежие, конфликтов по содержимому тут в принципе не может быть) ==="
             git fetch origin main
             git reset --soft origin/main
-            git add data/ backend/skipped_ids.json backend/steamspy_page_progress.txt
+            git add data/ backend/skipped_ids.json
+          [ -f backend/steamspy_page_progress.txt ] && git add backend/steamspy_page_progress.txt
             git add -u games.json 2>/dev/null || true
             if git diff --cached --quiet; then
               echo "После синхронизации с main изменений не осталось — уже актуально."
