@@ -14,14 +14,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 214,
+  "base_price_rub": 222,
   "markup_rub": 500,
-  "price_rub": 714,
+  "price_rub": 722,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "pkxE_3WqUR8",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610780/ss_61c6b8fb07cfece223b568e326e09ac04cc8645a.1920x1080.jpg?t=1492025773",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610780/ss_baeab68f8cfc02b23b615a16206dbad5301a9004.1920x1080.jpg?t=1492025773",
@@ -32,7 +32,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610780/ss_2c89b2cd54e319ffc206e04e82335ca375cf1e78.1920x1080.jpg?t=1492025773",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610780/ss_71c75b4bf6f453d56cdce44572b0f513a66a76d3.1920x1080.jpg?t=1492025773"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 622390,
+      "name": "Crazy Buggy Racing Soundtracks",
+      "base_price_rub": 132,
+      "markup_rub": 500,
+      "price_rub": 632,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/622390/header.jpg?t=1492025817"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-13T15:38:50Z"
+  "updated_at": "2026-07-31T08:56:59Z"
 }

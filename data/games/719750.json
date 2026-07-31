@@ -12,14 +12,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 240,
+  "base_price_rub": 248,
   "markup_rub": 500,
-  "price_rub": 740,
+  "price_rub": 748,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "QgZKTcxLiq8",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/719750/ss_2adc2183caa906e75e9344621508490dcc3672b1.1920x1080.jpg?t=1763061946",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/719750/ss_0da900d03dbdc14c9f383ab414eab55f40526ca3.1920x1080.jpg?t=1763061946",
@@ -28,7 +28,32 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/719750/ss_ba5e0fef340af9aca2bbc8a42bc87406662c87d6.1920x1080.jpg?t=1763061946",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/719750/ss_f40e71fd0e2e1d7cae26936176aadc4948f80079.1920x1080.jpg?t=1763061946"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 3374800,
+      "name": "PUSS! 【﻿♄】ｏｔｈｅｒｗｏｒｌｄ",
+      "base_price_rub": 222,
+      "markup_rub": 500,
+      "price_rub": 722,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3374800/header.jpg?t=1751405733"
+    },
+    {
+      "id": 895720,
+      "name": "PUSS! ｓｏｕｎｄｔｒａｃｋ",
+      "base_price_rub": 132,
+      "markup_rub": 500,
+      "price_rub": 632,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/895720/header.jpg?t=1742554128"
+    },
+    {
+      "id": 3596550,
+      "name": "PUSS! 【﻿♄】ｓｏｕｎｄｔｒａｃｋ",
+      "base_price_rub": 89,
+      "markup_rub": 500,
+      "price_rub": 589,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3596550/aa7f1dd985ddb9e8de44b84fbf67e0f51b386f99/header.jpg?t=1751405771"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-13T15:39:01Z"
+  "updated_at": "2026-07-31T08:57:17Z"
 }

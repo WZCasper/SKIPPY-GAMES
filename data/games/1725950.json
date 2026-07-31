@@ -13,14 +13,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 128,
+  "base_price_rub": 132,
   "markup_rub": 500,
-  "price_rub": 628,
+  "price_rub": 632,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "Qx3UsPgiaI4",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1725950/dd4605a2c69214da9fd63041d5f98e57d71f71bc/ss_dd4605a2c69214da9fd63041d5f98e57d71f71bc.1920x1080.jpg?t=1761704330",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1725950/df3de3c4b1c5a1598fcc008a0c41823ec1bab93d/ss_df3de3c4b1c5a1598fcc008a0c41823ec1bab93d.1920x1080.jpg?t=1761704330",
@@ -30,7 +30,32 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1725950/ad9aa2e79eb32691b17f1e3fc5f0b16f8eb1c311/ss_ad9aa2e79eb32691b17f1e3fc5f0b16f8eb1c311.1920x1080.jpg?t=1761704330",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1725950/cea87ba3fbb8055bdf6e36787b33b0560923cfe3/ss_cea87ba3fbb8055bdf6e36787b33b0560923cfe3.1920x1080.jpg?t=1761704330"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 2402970,
+      "name": "魔塔地牢 - 浅水沼泽拓展包",
+      "base_price_rub": 89,
+      "markup_rub": 500,
+      "price_rub": 589,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402970/header.jpg?t=1682481317"
+    },
+    {
+      "id": 1726320,
+      "name": "魔塔地牢-角色DLC支持者包",
+      "base_price_rub": 368,
+      "markup_rub": 500,
+      "price_rub": 868,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1726320/header.jpg?t=1750513997"
+    },
+    {
+      "id": 2402971,
+      "name": "魔塔地牢 - 双职业功能",
+      "base_price_rub": 1072,
+      "markup_rub": 500,
+      "price_rub": 1572,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402971/header.jpg?t=1682481333"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-13T15:38:51Z"
+  "updated_at": "2026-07-31T08:57:02Z"
 }

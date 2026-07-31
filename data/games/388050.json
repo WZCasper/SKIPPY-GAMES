@@ -12,14 +12,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 102,
+  "base_price_rub": 105,
   "markup_rub": 500,
-  "price_rub": 602,
+  "price_rub": 605,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "SwMx9pwmZoI",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/388050/ss_d77b38cd861a504a6cdb8d339db89921d48a7674.1920x1080.jpg?t=1478260553",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/388050/ss_51e1492bd557c672f8e379a42316f9cf5f108463.1920x1080.jpg?t=1478260553",
@@ -28,7 +28,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/388050/ss_e68c888bb2b79fbdb218d5d906d5e8086669200e.1920x1080.jpg?t=1478260553",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/388050/ss_09cca6902d77fbf71c6b85145fb9958259d3f640.1920x1080.jpg?t=1478260553"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 399460,
+      "name": "Snik - Soundtrack",
+      "base_price_rub": 38,
+      "markup_rub": 500,
+      "price_rub": 538,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/399460/header.jpg?t=1447377792"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-13T15:39:29Z"
+  "updated_at": "2026-07-31T08:58:00Z"
 }

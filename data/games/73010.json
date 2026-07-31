@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 844,
+  "base_price_rub": 218,
   "markup_rub": 500,
-  "price_rub": 1344,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 718,
+  "original_price_rub": 1374,
+  "discount_percent": 75,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,92 +36,100 @@
     {
       "id": 206718,
       "name": "Cities in Motion: Design Quirks",
-      "base_price_rub": 136,
+      "base_price_rub": 70,
       "markup_rub": 500,
-      "price_rub": 636,
+      "price_rub": 570,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206718/header.jpg?t=1764844053"
     },
     {
       "id": 206716,
       "name": "Cities in Motion: St. Petersburg",
-      "base_price_rub": 223,
+      "base_price_rub": 114,
       "markup_rub": 500,
-      "price_rub": 723,
+      "price_rub": 614,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206716/header.jpg?t=1764844009"
     },
     {
       "id": 206714,
       "name": "Cities in Motion: Paris",
-      "base_price_rub": 223,
+      "base_price_rub": 114,
       "markup_rub": 500,
-      "price_rub": 723,
+      "price_rub": 614,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206714/header.jpg?t=1764843956"
     },
     {
       "id": 206712,
       "name": "Cities in Motion: Ulm",
-      "base_price_rub": 85,
+      "base_price_rub": 43,
       "markup_rub": 500,
-      "price_rub": 585,
+      "price_rub": 543,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206712/header.jpg?t=1764843916"
     },
     {
       "id": 206710,
       "name": "Cities In Motion: Design Dreams",
-      "base_price_rub": 171,
+      "base_price_rub": 88,
       "markup_rub": 500,
-      "price_rub": 671,
+      "price_rub": 588,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/206710/header.jpg?t=1764843821"
     },
     {
       "id": 73187,
       "name": "Cities in Motion: US Cities",
-      "base_price_rub": 223,
+      "base_price_rub": 114,
       "markup_rub": 500,
-      "price_rub": 723,
+      "price_rub": 614,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/73187/header.jpg?t=1764843737"
     },
     {
       "id": 73185,
       "name": "Cities in Motion: German Cities",
-      "base_price_rub": 257,
+      "base_price_rub": 132,
       "markup_rub": 500,
-      "price_rub": 757,
+      "price_rub": 632,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/73185/header.jpg?t=1764843684"
     },
     {
       "id": 73183,
       "name": "Cities in Motion: Metro Stations",
-      "base_price_rub": 136,
+      "base_price_rub": 46,
       "markup_rub": 500,
-      "price_rub": 636,
+      "price_rub": 546,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/73183/header.jpg?t=1764843619"
     },
     {
       "id": 73181,
       "name": "Cities in Motion: Tokyo",
-      "base_price_rub": 257,
+      "base_price_rub": 132,
       "markup_rub": 500,
-      "price_rub": 757,
+      "price_rub": 632,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/73181/header.jpg?t=1764843579"
     },
     {
       "id": 73014,
       "name": "Cities in Motion: Design Now",
-      "base_price_rub": 171,
+      "base_price_rub": 88,
       "markup_rub": 500,
-      "price_rub": 671,
+      "price_rub": 588,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/73014/header.jpg?t=1764843536"
     },
     {
       "id": 73013,
       "name": "Cities in Motion: Design Marvels",
-      "base_price_rub": 171,
+      "base_price_rub": 88,
       "markup_rub": 500,
-      "price_rub": 671,
+      "price_rub": 588,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/73013/header.jpg?t=1764844139"
+    },
+    {
+      "id": 73012,
+      "name": "Cities in Motion: Design Classics",
+      "base_price_rub": 88,
+      "markup_rub": 500,
+      "price_rub": 588,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/73012/header.jpg?t=1764843417"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-13T19:39:40Z"
+  "updated_at": "2026-07-31T09:32:14Z"
 }
