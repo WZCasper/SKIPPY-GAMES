@@ -16,9 +16,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 171,
+  "base_price_rub": 177,
   "markup_rub": 500,
-  "price_rub": 671,
+  "price_rub": 677,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -34,16 +34,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381120/ss_874d52e33a4ffc7e53edb4332267dee6b1e27ffa.1920x1080.jpg?t=1726150362",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381120/ss_40fc4c07081a32b307b26e8a9369b3de75a1dbee.1920x1080.jpg?t=1726150362"
   ],
-  "upsells": [
-    {
-      "id": 473090,
-      "name": "Shoppe Keep - Original Soundtrack",
-      "base_price_rub": 69,
-      "markup_rub": 500,
-      "price_rub": 569,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/473090/header.jpg?t=1645007976"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-13T19:47:31Z"
+  "updated_at": "2026-07-31T15:14:44Z"
 }
