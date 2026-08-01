@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 2414,
+  "base_price_rub": 996,
   "markup_rub": 500,
-  "price_rub": 2914,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 1496,
+  "original_price_rub": 2993,
+  "discount_percent": 60,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -34,20 +34,20 @@
     {
       "id": 1694060,
       "name": "The Great Ace Attorney: Adventures Grand Performance Recording",
-      "base_price_rub": 1120,
+      "base_price_rub": 1157,
       "markup_rub": 500,
-      "price_rub": 1620,
+      "price_rub": 1657,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1694060/header.jpg?t=1631899539"
     },
     {
       "id": 1694080,
       "name": "The Great Ace Attorney 2: Resolve Grand Performance Recording",
-      "base_price_rub": 861,
+      "base_price_rub": 889,
       "markup_rub": 500,
-      "price_rub": 1361,
+      "price_rub": 1389,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1694080/header.jpg?t=1631899566"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-13T20:08:33Z"
+  "updated_at": "2026-08-01T08:48:12Z"
 }
