@@ -14,9 +14,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 982,
+  "base_price_rub": 1014,
   "markup_rub": 500,
-  "price_rub": 1482,
+  "price_rub": 1514,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -34,14 +34,30 @@
   ],
   "upsells": [
     {
+      "id": 4714330,
+      "name": "Void Crew - Calamity Supporter's Pack",
+      "base_price_rub": 586,
+      "markup_rub": 500,
+      "price_rub": 1086,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4714330/7393e211c10d49bf050834ed5aee10155a6d4379/header.jpg?t=1782407347"
+    },
+    {
+      "id": 2445890,
+      "name": "Void Crew - Founder's Pack",
+      "base_price_rub": 444,
+      "markup_rub": 500,
+      "price_rub": 944,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445890/header.jpg?t=1732554040"
+    },
+    {
       "id": 3065730,
       "name": "Void Crew - Original Soundtrack",
-      "base_price_rub": 309,
+      "base_price_rub": 319,
       "markup_rub": 500,
-      "price_rub": 809,
+      "price_rub": 819,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3065730/header.jpg?t=1725895657"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-13T20:01:46Z"
+  "updated_at": "2026-08-01T04:14:35Z"
 }
