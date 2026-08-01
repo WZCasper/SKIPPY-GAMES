@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 292,
+  "base_price_rub": 579,
   "markup_rub": 500,
-  "price_rub": 792,
-  "original_price_rub": 1061,
-  "discount_percent": 48,
+  "price_rub": 1079,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,12 +36,12 @@
     {
       "id": 2688710,
       "name": "沉默的蟋蟀 - 异虫扩展包",
-      "base_price_rub": 217,
+      "base_price_rub": 266,
       "markup_rub": 500,
-      "price_rub": 717,
+      "price_rub": 766,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688710/header.jpg?t=1772596427"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-13T20:20:15Z"
+  "updated_at": "2026-08-01T20:01:33Z"
 }
