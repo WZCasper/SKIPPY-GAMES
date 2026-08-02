@@ -12,14 +12,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 171,
+  "base_price_rub": 176,
   "markup_rub": 500,
-  "price_rub": 671,
+  "price_rub": 676,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "af8-Lfbxxl0",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1508740/ss_288a35ebea3de10c8d5bef8cd95e48da7ee8df8d.1920x1080.jpg?t=1731351157",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1508740/ss_28f6581d043a519a1db0ba331e295af298114e28.1920x1080.jpg?t=1731351157",
@@ -30,7 +30,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1508740/ss_08b4cb66a394460ff94ed82cf11c8ec0b46db964.1920x1080.jpg?t=1731351157",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1508740/ss_697870a25b69be36e616625c5f5e9ac42d40c229.1920x1080.jpg?t=1731351157"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 1511180,
+      "name": "Xuan-Yuan Sword I & II Art Conllection",
+      "base_price_rub": 46,
+      "markup_rub": 500,
+      "price_rub": 546,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1511180/header.jpg?t=1728460317"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-13T20:28:42Z"
+  "updated_at": "2026-08-02T08:31:40Z"
 }

@@ -14,14 +14,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 4484,
+  "base_price_rub": 4632,
   "markup_rub": 500,
-  "price_rub": 4984,
+  "price_rub": 5132,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "07_F68J-H9w",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878960/5ef1ba4047e35f6c45e841fa41ac5db1088d515a/ss_5ef1ba4047e35f6c45e841fa41ac5db1088d515a.1920x1080.jpg?t=1770054352",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878960/7e6459ddf860a66d527860c600679edfed9b8c8e/ss_7e6459ddf860a66d527860c600679edfed9b8c8e.1920x1080.jpg?t=1770054352",
@@ -32,7 +32,104 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878960/ss_7adc40c010c02b60411cb69b7f28a94f43c6133f.1920x1080.jpg?t=1770054352",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878960/ss_4eb01e0ede11951b874306b62f3cf21594801ad7.1920x1080.jpg?t=1770054352"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 3934190,
+      "name": "Набор WWE 2K25 Farewell Tour Edition Pack",
+      "base_price_rub": 1157,
+      "markup_rub": 500,
+      "price_rub": 1657,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3934190/999c628c9da892efd59500e46e69b9038348a3db/header.jpg?t=1761227326"
+    },
+    {
+      "id": 3401690,
+      "name": "Набор WWE 2K25 «Главное событие субботней ночи»",
+      "base_price_rub": 782,
+      "markup_rub": 500,
+      "price_rub": 1282,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3401690/6fc083aa63df905f4497fbcbef14ae1b14a64e30/header.jpg?t=1762970701"
+    },
+    {
+      "id": 3401680,
+      "name": "Набор WWE 2K25 Attitude Era Superstars Pack",
+      "base_price_rub": 782,
+      "markup_rub": 500,
+      "price_rub": 1282,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3401680/b0a935725667f6e200188bf8ad5379b8a891d2e0/header.jpg?t=1758128094"
+    },
+    {
+      "id": 3401650,
+      "name": "Набор WWE 2K25 New Wave Pack",
+      "base_price_rub": 782,
+      "markup_rub": 500,
+      "price_rub": 1282,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3401650/d34204ba73e3b30b91fb8bdc04c8642e1579bbfa/header.jpg?t=1757350909"
+    },
+    {
+      "id": 3401670,
+      "name": "Набор WWE 2K25 Fearless Pack",
+      "base_price_rub": 782,
+      "markup_rub": 500,
+      "price_rub": 1282,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3401670/45d3e5d850c3c313cb09833d020d0e440d36bbf7/header.jpg?t=1754324289"
+    },
+    {
+      "id": 3482630,
+      "name": "Сезонный абонемент WWE 2K25",
+      "base_price_rub": 3206,
+      "markup_rub": 500,
+      "price_rub": 3706,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3482630/b6d154495c5c7a23eb459ed25a3eece6c0a8e26b/header.jpg?t=1762970883"
+    },
+    {
+      "id": 3482640,
+      "name": "WWE 2K25 Ringside Pass",
+      "base_price_rub": 4703,
+      "markup_rub": 500,
+      "price_rub": 5203,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3482640/header.jpg?t=1762971001"
+    },
+    {
+      "id": 3401660,
+      "name": "Набор WWE 2K25 Dunk & Destruction Pack",
+      "base_price_rub": 782,
+      "markup_rub": 500,
+      "price_rub": 1282,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3401660/37f0c5ddd2db4c6cf92ccbb2b1f751a56c7197f7/header.jpg?t=1750870708"
+    },
+    {
+      "id": 3785270,
+      "name": "Набор WWE 2K25 MyFACTION Diamond Plus Pack",
+      "base_price_rub": 3206,
+      "markup_rub": 500,
+      "price_rub": 3706,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3785270/79d44df03bed74ef8b1e63048a17e548aa221e62/header.jpg?t=1753305356"
+    },
+    {
+      "id": 3785260,
+      "name": "Набор WWE 2K25 MyFACTION Diamond Pack",
+      "base_price_rub": 1567,
+      "markup_rub": 500,
+      "price_rub": 2067,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3785260/d795a174f36f2bc063687f3b9b313d36f7de5543/header.jpg?t=1753305220"
+    },
+    {
+      "id": 3331100,
+      "name": "Набор WWE 2K25 Wyatt Sicks Pack",
+      "base_price_rub": 1157,
+      "markup_rub": 500,
+      "price_rub": 1657,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3331100/header.jpg?t=1744819807"
+    },
+    {
+      "id": 3482860,
+      "name": "Мегабуст WWE 2K25 Superstar",
+      "base_price_rub": 2315,
+      "markup_rub": 500,
+      "price_rub": 2815,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3482860/header.jpg?t=1741907032"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-13T20:28:37Z"
+  "updated_at": "2026-08-02T08:31:33Z"
 }
