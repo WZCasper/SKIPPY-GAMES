@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 1548,
+  "base_price_rub": 800,
   "markup_rub": 500,
-  "price_rub": 2048,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 1300,
+  "original_price_rub": 2101,
+  "discount_percent": 50,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,12 +35,12 @@
     {
       "id": 2841900,
       "name": "Metro Awakening - Deluxe Upgrade",
-      "base_price_rub": 515,
+      "base_price_rub": 533,
       "markup_rub": 500,
-      "price_rub": 1015,
+      "price_rub": 1033,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2841900/0134b257e369916affcfd554605cd49a67ff039b/header.jpg?t=1768379422"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-14T03:31:25Z"
+  "updated_at": "2026-08-03T10:43:41Z"
 }
