@@ -15,58 +15,34 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 601,
+  "base_price_rub": 465,
   "markup_rub": 500,
-  "price_rub": 1101,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 965,
+  "original_price_rub": 1122,
+  "discount_percent": 25,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1609230/b5291dad2f6f1abf3a75b7e6099e9fdc7195d511/ss_b5291dad2f6f1abf3a75b7e6099e9fdc7195d511.1920x1080.jpg?t=1775751742",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1609230/77081062df8dd83dc540115d14c960b5cfe8fcd7/ss_77081062df8dd83dc540115d14c960b5cfe8fcd7.1920x1080.jpg?t=1775751742",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1609230/d4a5f37196182d616b382a21c21c307d35333d49/ss_d4a5f37196182d616b382a21c21c307d35333d49.1920x1080.jpg?t=1775751742",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1609230/d4455c13d51ebf409a861ea91a77c1a4104820e4/ss_d4455c13d51ebf409a861ea91a77c1a4104820e4.1920x1080.jpg?t=1775751742",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1609230/387ab4a3d2bea008d83ea4d0ed10d334564d0cf2/ss_387ab4a3d2bea008d83ea4d0ed10d334564d0cf2.1920x1080.jpg?t=1775751742",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1609230/a23287c246a5f5330df2141fd4014a35de487caf/ss_a23287c246a5f5330df2141fd4014a35de487caf.1920x1080.jpg?t=1775751742",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1609230/96f6cef185e8fb9944fb789fbdf221e6e02f8731/ss_96f6cef185e8fb9944fb789fbdf221e6e02f8731.1920x1080.jpg?t=1775751742",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1609230/f709406b7a0389c07b132ab9b0cffbe23b218b49/ss_f709406b7a0389c07b132ab9b0cffbe23b218b49.1920x1080.jpg?t=1775751742"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1609230/b5291dad2f6f1abf3a75b7e6099e9fdc7195d511/ss_b5291dad2f6f1abf3a75b7e6099e9fdc7195d511.1920x1080.jpg?t=1785275689",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1609230/77081062df8dd83dc540115d14c960b5cfe8fcd7/ss_77081062df8dd83dc540115d14c960b5cfe8fcd7.1920x1080.jpg?t=1785275689",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1609230/d4a5f37196182d616b382a21c21c307d35333d49/ss_d4a5f37196182d616b382a21c21c307d35333d49.1920x1080.jpg?t=1785275689",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1609230/d4455c13d51ebf409a861ea91a77c1a4104820e4/ss_d4455c13d51ebf409a861ea91a77c1a4104820e4.1920x1080.jpg?t=1785275689",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1609230/387ab4a3d2bea008d83ea4d0ed10d334564d0cf2/ss_387ab4a3d2bea008d83ea4d0ed10d334564d0cf2.1920x1080.jpg?t=1785275689",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1609230/a23287c246a5f5330df2141fd4014a35de487caf/ss_a23287c246a5f5330df2141fd4014a35de487caf.1920x1080.jpg?t=1785275689",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1609230/96f6cef185e8fb9944fb789fbdf221e6e02f8731/ss_96f6cef185e8fb9944fb789fbdf221e6e02f8731.1920x1080.jpg?t=1785275689",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1609230/f709406b7a0389c07b132ab9b0cffbe23b218b49/ss_f709406b7a0389c07b132ab9b0cffbe23b218b49.1920x1080.jpg?t=1785275689"
   ],
   "upsells": [
     {
-      "id": 1658330,
-      "name": "Scarlet Hollow Soundtrack — Episode 2",
-      "base_price_rub": 205,
+      "id": 4979150,
+      "name": "Scarlet Hollow Supporters Pack",
+      "base_price_rub": 410,
       "markup_rub": 500,
-      "price_rub": 705,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1658330/header.jpg?t=1623846963"
-    },
-    {
-      "id": 1658340,
-      "name": "Scarlet Hollow Soundtrack — Episode 1",
-      "base_price_rub": 222,
-      "markup_rub": 500,
-      "price_rub": 722,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1658340/header.jpg?t=1623846799"
-    },
-    {
-      "id": 2262430,
-      "name": "Scarlet Hollow Soundtrack — Episode 3",
-      "base_price_rub": 281,
-      "markup_rub": 500,
-      "price_rub": 781,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2262430/header.jpg?t=1672497364"
-    },
-    {
-      "id": 2262500,
-      "name": "Scarlet Hollow Soundtrack — Episode 4",
-      "base_price_rub": 257,
-      "markup_rub": 500,
-      "price_rub": 757,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2262500/header.jpg?t=1672497380"
+      "price_rub": 910,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4979150/3a764a5a669171219476bf245a6b07aac2cb1efa/header.jpg?t=1785439793"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-14T03:34:36Z"
+  "updated_at": "2026-08-03T15:04:12Z"
 }
