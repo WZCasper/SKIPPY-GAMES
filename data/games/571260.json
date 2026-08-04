@@ -14,14 +14,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 1204,
+  "base_price_rub": 280,
   "markup_rub": 500,
-  "price_rub": 1704,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 780,
+  "original_price_rub": 2372,
+  "discount_percent": 85,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "rgTXu88iMHU",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571260/ss_d38cc2e7f6f95111a6cd289f79ce97f412e6eb7d.1920x1080.jpg?t=1727160512",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571260/ss_2ab612c406e55bc40e2b4dafb8ba9a8014cc4c1e.1920x1080.jpg?t=1727160512",
@@ -36,20 +36,20 @@
     {
       "id": 590390,
       "name": "THE KING OF FIGHTERS XIV STEAM EDITION UPGRADE PACK #1",
-      "base_price_rub": 481,
+      "base_price_rub": 498,
       "markup_rub": 500,
-      "price_rub": 981,
+      "price_rub": 998,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590390/header.jpg?t=1523551091"
     },
     {
       "id": 590391,
       "name": "THE KING OF FIGHTERS XIV STEAM EDITION UPGRADE PACK #2",
-      "base_price_rub": 481,
+      "base_price_rub": 498,
       "markup_rub": 500,
-      "price_rub": 981,
+      "price_rub": 998,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590391/header.jpg?t=1523551243"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-14T08:20:04Z"
+  "updated_at": "2026-08-04T08:48:25Z"
 }

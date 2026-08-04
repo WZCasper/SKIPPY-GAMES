@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-04T05:59:15Z",
+  "generated_at": "2026-08-04T09:34:14Z",
   "uah_to_rub_rate": 1.784343,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 12297,
+  "count": 12335,
   "games": [
     {
       "id": 633080,
@@ -18,7 +18,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1215,
+      "price_rub": 1241,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -292,7 +292,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 636,
+      "price_rub": 641,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -701,7 +701,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 602,
+      "price_rub": 605,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -945,7 +945,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1153,
+      "price_rub": 1176,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -1688,6 +1688,26 @@
         "PC"
       ],
       "price_rub": 569,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 416700,
+      "title": "5 Minutes Rage - Hatred Edition",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/416700/capsule_616x353.jpg",
+      "genres": [
+        "Спортивные симуляторы",
+        "Платформеры",
+        "Шутеры от первого лица (FPS)",
+        "Аркадные гонки",
+        "Экшен",
+        "Тактические шутеры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 834,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -2600,9 +2620,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 888,
-      "original_price_rub": null,
-      "discount_percent": 0,
+      "price_rub": 700,
+      "original_price_rub": 901,
+      "discount_percent": 50,
       "is_free": false
     },
     {
@@ -7197,7 +7217,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1060,
+      "price_rub": 1080,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -8836,7 +8856,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 627,
+      "price_rub": 632,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -9383,7 +9403,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 714,
+      "price_rub": 721,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -11435,6 +11455,21 @@
       "is_free": false
     },
     {
+      "id": "ns70010000024591",
+      "title": "Apex Legends™",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/a/apex-legends-switch/boxart050421",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 0,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": true
+    },
+    {
       "id": 1172470,
       "title": "Apex Legends™",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/capsule_616x353.jpg",
@@ -11448,21 +11483,6 @@
       ],
       "platforms": [
         "PC"
-      ],
-      "price_rub": 0,
-      "original_price_rub": null,
-      "discount_percent": 0,
-      "is_free": true
-    },
-    {
-      "id": "ns70010000024591",
-      "title": "Apex Legends™",
-      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/a/apex-legends-switch/boxart050421",
-      "genres": [
-        "Экшен"
-      ],
-      "platforms": [
-        "Nintendo Switch"
       ],
       "price_rub": 0,
       "original_price_rub": null,
@@ -13176,7 +13196,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 888,
+      "price_rub": 901,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -14982,6 +15002,23 @@
       "is_free": false
     },
     {
+      "id": "ns70010000038761",
+      "title": "Autonauts",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/a/autonauts-switch/hero",
+      "genres": [
+        "Strategy",
+        "Education",
+        "Технические симуляторы"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2099,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 979120,
       "title": "Autonauts",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/979120/capsule_616x353.jpg",
@@ -14995,23 +15032,6 @@
         "PC"
       ],
       "price_rub": 1195,
-      "original_price_rub": null,
-      "discount_percent": 0,
-      "is_free": false
-    },
-    {
-      "id": "ns70010000038761",
-      "title": "Autonauts",
-      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/a/autonauts-switch/hero",
-      "genres": [
-        "Strategy",
-        "Education",
-        "Технические симуляторы"
-      ],
-      "platforms": [
-        "Nintendo Switch"
-      ],
-      "price_rub": 2099,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -15733,6 +15753,23 @@
       "price_rub": 533,
       "original_price_rub": 848,
       "discount_percent": 90,
+      "is_free": false
+    },
+    {
+      "id": 2684420,
+      "title": "BALL PIT KING 3D",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2684420/capsule_616x353.jpg",
+      "genres": [
+        "Казуальные игры",
+        "Аркадные гонки",
+        "Головоломки"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 589,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -17110,7 +17147,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 757,
+      "price_rub": 766,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -19227,7 +19264,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 981,
+      "price_rub": 998,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -20489,7 +20526,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1387,
+      "price_rub": 1419,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -20674,9 +20711,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 660,
-      "original_price_rub": 1394,
-      "discount_percent": 82,
+      "price_rub": 1089,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -21311,7 +21348,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 888,
+      "price_rub": 901,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -22484,7 +22521,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 888,
+      "price_rub": 901,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -24848,9 +24885,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 751,
-      "original_price_rub": 1060,
-      "discount_percent": 55,
+      "price_rub": 1080,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -26621,9 +26658,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 922,
-      "original_price_rub": null,
-      "discount_percent": 0,
+      "price_rub": 762,
+      "original_price_rub": 937,
+      "discount_percent": 40,
       "is_free": false
     },
     {
@@ -26682,6 +26719,21 @@
       "is_free": true
     },
     {
+      "id": "ns70010000032650",
+      "title": "CHRONO CROSS: THE RADICAL DREAMERS EDITION",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/c/chrono-cross-the-radical-dreamers-edition-switch/hero",
+      "genres": [
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2099,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 1133760,
       "title": "CHRONO CROSS: THE RADICAL DREAMERS EDITION",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1133760/capsule_616x353.jpg",
@@ -26694,21 +26746,6 @@
         "PC"
       ],
       "price_rub": 1206,
-      "original_price_rub": null,
-      "discount_percent": 0,
-      "is_free": false
-    },
-    {
-      "id": "ns70010000032650",
-      "title": "CHRONO CROSS: THE RADICAL DREAMERS EDITION",
-      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/c/chrono-cross-the-radical-dreamers-edition-switch/hero",
-      "genres": [
-        "Role-Playing"
-      ],
-      "platforms": [
-        "Nintendo Switch"
-      ],
-      "price_rub": 2099,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -32368,6 +32405,25 @@
       "is_free": true
     },
     {
+      "id": 408650,
+      "title": "ChromaGun",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/408650/capsule_616x353.jpg",
+      "genres": [
+        "Головоломки",
+        "Шутеры от первого лица (FPS)",
+        "Экшен",
+        "Приключения",
+        "Платформеры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1009,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 1790560,
       "title": "Chronicles of Deeps",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1790560/capsule_616x353.jpg",
@@ -33058,7 +33114,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 774,
+      "price_rub": 784,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -34372,7 +34428,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 894,
+      "price_rub": 909,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -35614,6 +35670,22 @@
       "is_free": false
     },
     {
+      "id": 1721360,
+      "title": "Constellation Tango",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1721360/capsule_616x353.jpg",
+      "genres": [
+        "Пошаговые стратегии (TBS)",
+        "Тактические шутеры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 730,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 920500,
       "title": "Construction Charlie",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/920500/capsule_616x353.jpg",
@@ -35933,9 +36005,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 745,
-      "original_price_rub": 991,
-      "discount_percent": 50,
+      "price_rub": 1009,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -36651,9 +36723,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 533,
-      "original_price_rub": 714,
-      "discount_percent": 85,
+      "price_rub": 721,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -40243,23 +40315,6 @@
       "is_free": false
     },
     {
-      "id": 570940,
-      "title": "DARK SOULS™: REMASTERED",
-      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/570940/capsule_616x353.jpg",
-      "genres": [
-        "Экшен",
-        "Экшен-РПГ (Action-RPG)",
-        "Приключения"
-      ],
-      "platforms": [
-        "PC"
-      ],
-      "price_rub": 1876,
-      "original_price_rub": null,
-      "discount_percent": 0,
-      "is_free": false
-    },
-    {
       "id": "ns70010000008122",
       "title": "DARK SOULS™: REMASTERED",
       "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/d/dark-souls-remastered-switch/boxart",
@@ -40273,6 +40328,23 @@
         "Nintendo Switch"
       ],
       "price_rub": 3698,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 570940,
+      "title": "DARK SOULS™: REMASTERED",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/570940/capsule_616x353.jpg",
+      "genres": [
+        "Экшен",
+        "Экшен-РПГ (Action-RPG)",
+        "Приключения"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1876,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -43723,6 +43795,21 @@
       "is_free": false
     },
     {
+      "id": 2693730,
+      "title": "Dawnsbury Days",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2693730/capsule_616x353.jpg",
+      "genres": [
+        "Классические ролевые игры (CRPG)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 721,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 423550,
       "title": "Day D: Tower Rush",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/423550/capsule_616x353.jpg",
@@ -43943,9 +44030,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 564,
-      "original_price_rub": 1153,
-      "discount_percent": 90,
+      "price_rub": 1176,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -45042,7 +45129,7 @@
     {
       "id": 3228590,
       "title": "Deadzone: Rogue",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/e96bd8ad3067f931a3b8008c4453c58d0d2acd19/header.jpg?t=1779206710",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3228590/e96bd8ad3067f931a3b8008c4453c58d0d2acd19/header.jpg?t=1784756793",
       "genres": [
         "Шутеры от первого лица (FPS)",
         "Психологические хорроры",
@@ -45051,9 +45138,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 886,
-      "original_price_rub": 1273,
-      "discount_percent": 50,
+      "price_rub": 1301,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -46613,7 +46700,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 896,
+      "price_rub": 910,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -50301,6 +50388,23 @@
       "is_free": false
     },
     {
+      "id": "ns70010000019795",
+      "title": "Don't Starve Together",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/d/dont-starve-together-switch/hero",
+      "genres": [
+        "Приключения",
+        "Multiplayer",
+        "Indie"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1699,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 322330,
       "title": "Don't Starve Together",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/322330/capsule_616x353.jpg",
@@ -50316,23 +50420,6 @@
         "PC"
       ],
       "price_rub": 894,
-      "original_price_rub": null,
-      "discount_percent": 0,
-      "is_free": false
-    },
-    {
-      "id": "ns70010000019795",
-      "title": "Don't Starve Together",
-      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/d/dont-starve-together-switch/hero",
-      "genres": [
-        "Приключения",
-        "Multiplayer",
-        "Indie"
-      ],
-      "platforms": [
-        "Nintendo Switch"
-      ],
-      "price_rub": 1699,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -51552,7 +51639,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 981,
+      "price_rub": 998,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -59429,7 +59516,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 722,
+      "price_rub": 730,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -60716,6 +60803,23 @@
       "is_free": false
     },
     {
+      "id": 2492040,
+      "title": "FATAL FURY: City of the Wolves",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2492040/capsule_616x353.jpg",
+      "genres": [
+        "Экшен",
+        "Файтинги",
+        "Аркадные гонки"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1658,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 246840,
       "title": "FATE",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/246840/capsule_616x353.jpg",
@@ -60839,7 +60943,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 931,
+      "price_rub": 946,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -61326,6 +61430,25 @@
       "is_free": false
     },
     {
+      "id": 265000,
+      "title": "FORCED SHOWDOWN",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/265000/capsule_616x353.jpg",
+      "genres": [
+        "Экшен",
+        "Экшен-РПГ (Action-RPG)",
+        "Аркадные гонки",
+        "Слэшеры",
+        "Экшен-адвенчуры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 998,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 249990,
       "title": "FORCED: Slightly Better Edition",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/249990/capsule_616x353.jpg",
@@ -61413,7 +61536,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1756,
+      "price_rub": 1801,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -61523,6 +61646,25 @@
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": true
+    },
+    {
+      "id": 243220,
+      "title": "FRACT OSC",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/243220/capsule_616x353.jpg",
+      "genres": [
+        "Головоломки",
+        "Шутеры от первого лица (FPS)",
+        "Приключения",
+        "Казуальные игры",
+        "Песочницы (Sandbox)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1080,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
     },
     {
       "id": 890880,
@@ -62238,9 +62380,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 633,
-      "original_price_rub": 894,
-      "discount_percent": 66,
+      "price_rub": 909,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -63344,7 +63486,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 781,
+      "price_rub": 791,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -64754,7 +64896,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1153,
+      "price_rub": 1176,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -64853,6 +64995,22 @@
         "Технические симуляторы",
         "Автобатлеры",
         "MMORPG"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": true
+    },
+    {
+      "id": 1850070,
+      "title": "Fireteam",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1850070/capsule_616x353.jpg",
+      "genres": [
+        "Экшен",
+        "Шутеры от первого лица (FPS)"
       ],
       "platforms": [
         "PC"
@@ -66077,9 +66235,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 782,
-      "original_price_rub": 1067,
-      "discount_percent": 50,
+      "price_rub": 1087,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -67864,9 +68022,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 526,
-      "original_price_rub": 634,
-      "discount_percent": 81,
+      "price_rub": 639,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -68040,6 +68198,23 @@
         "PC"
       ],
       "price_rub": 791,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 1477980,
+      "title": "Freud's Bones-the game",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1477980/capsule_616x353.jpg",
+      "genres": [
+        "Квесты (Point-and-Click)",
+        "Приключения",
+        "Головоломки"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 937,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -68954,6 +69129,23 @@
       "is_free": false
     },
     {
+      "id": 2463250,
+      "title": "GAIA Survivors",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2463250/capsule_616x353.jpg",
+      "genres": [
+        "Экшен",
+        "Казуальные игры",
+        "Экшен-РПГ (Action-RPG)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 632,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 300580,
       "title": "GALAK-Z",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/300580/capsule_616x353.jpg",
@@ -69303,6 +69495,22 @@
       "price_rub": 1226,
       "original_price_rub": null,
       "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 1034860,
+      "title": "GRANDIA HD Remaster",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1034860/capsule_616x353.jpg",
+      "genres": [
+        "Приключения",
+        "Японские ролевые игры (JRPG)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 748,
+      "original_price_rub": 998,
+      "discount_percent": 50,
       "is_free": false
     },
     {
@@ -70176,9 +70384,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 531,
-      "original_price_rub": 627,
-      "discount_percent": 76,
+      "price_rub": 632,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -70391,6 +70599,22 @@
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": true
+    },
+    {
+      "id": 951640,
+      "title": "Gangsta Sniper",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/951640/capsule_616x353.jpg",
+      "genres": [
+        "Экшен",
+        "Казуальные игры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 721,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
     },
     {
       "id": 347620,
@@ -71693,7 +71917,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 958,
+      "price_rub": 975,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -73238,9 +73462,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1189,
-      "original_price_rub": null,
-      "discount_percent": 0,
+      "price_rub": 589,
+      "original_price_rub": 1392,
+      "discount_percent": 90,
       "is_free": false
     },
     {
@@ -73259,6 +73483,26 @@
       "price_rub": 671,
       "original_price_rub": null,
       "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 1082450,
+      "title": "Gold Hunter",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1082450/capsule_616x353.jpg",
+      "genres": [
+        "Технические симуляторы",
+        "Песочницы (Sandbox)",
+        "Приключения",
+        "Казуальные игры",
+        "Шутеры от первого лица (FPS)",
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1162,
+      "original_price_rub": 1446,
+      "discount_percent": 30,
       "is_free": false
     },
     {
@@ -75178,7 +75422,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 705,
+      "price_rub": 712,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -76954,7 +77198,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 757,
+      "price_rub": 766,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -80978,7 +81222,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 627,
+      "price_rub": 632,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -82448,7 +82692,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1060,
+      "price_rub": 1080,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -83875,6 +84119,26 @@
       "is_free": false
     },
     {
+      "id": 2445440,
+      "title": "Hunter Nightmare",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2445440/capsule_616x353.jpg",
+      "genres": [
+        "Казуальные игры",
+        "Приключения",
+        "Экшен-адвенчуры",
+        "Экшен-РПГ (Action-RPG)",
+        "Психологические хорроры",
+        "Хорроры на выживание (Survival Horror)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 546,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 12690,
       "title": "Hunting Unlimited 2010",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12690/header.jpg?t=1580944276",
@@ -84712,9 +84976,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 705,
-      "original_price_rub": null,
-      "discount_percent": 0,
+      "price_rub": 648,
+      "original_price_rub": 712,
+      "discount_percent": 30,
       "is_free": false
     },
     {
@@ -85340,7 +85604,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1136,
+      "price_rub": 1158,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -88658,7 +88922,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 822,
+      "price_rub": 834,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -89681,7 +89945,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 894,
+      "price_rub": 909,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -90079,7 +90343,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 545,
+      "price_rub": 593,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -90402,9 +90666,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 734,
-      "original_price_rub": 1172,
-      "discount_percent": 65,
+      "price_rub": 1196,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -90421,7 +90685,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 714,
+      "price_rub": 721,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -95337,6 +95601,22 @@
       "is_free": false
     },
     {
+      "id": 2056210,
+      "title": "LONESTAR",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2056210/capsule_616x353.jpg",
+      "genres": [
+        "Пошаговые стратегии (TBS)",
+        "Тактические шутеры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1035,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 1107340,
       "title": "LONN",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1107340/capsule_616x353.jpg",
@@ -95922,6 +96202,22 @@
       "is_free": false
     },
     {
+      "id": "ns70010000049060",
+      "title": "Lamplight City",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/l/lamplight-city-switch/hero",
+      "genres": [
+        "Приключения",
+        "Головоломки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1699,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 761460,
       "title": "Lamplight City",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/761460/capsule_616x353.jpg",
@@ -95934,22 +96230,6 @@
         "PC"
       ],
       "price_rub": 1060,
-      "original_price_rub": null,
-      "discount_percent": 0,
-      "is_free": false
-    },
-    {
-      "id": "ns70010000049060",
-      "title": "Lamplight City",
-      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/l/lamplight-city-switch/hero",
-      "genres": [
-        "Приключения",
-        "Головоломки"
-      ],
-      "platforms": [
-        "Nintendo Switch"
-      ],
-      "price_rub": 1699,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -97140,7 +97420,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1215,
+      "price_rub": 1241,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -97376,7 +97656,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 894,
+      "price_rub": 909,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -97866,7 +98146,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 791,
+      "price_rub": 802,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -99256,7 +99536,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 671,
+      "price_rub": 677,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -99273,7 +99553,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 791,
+      "price_rub": 802,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -100515,9 +100795,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 591,
-      "original_price_rub": 870,
-      "discount_percent": 75,
+      "price_rub": 884,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -101400,7 +101680,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 860,
+      "price_rub": 873,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -102229,7 +102509,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1129,
+      "price_rub": 1151,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -102418,6 +102698,21 @@
       "is_free": true
     },
     {
+      "id": "ns70010000029016",
+      "title": "MONSTER HUNTER RISE",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/m/monster-hunter-rise-switch/boxart",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2946,
+      "original_price_rub": 5297,
+      "discount_percent": 49,
+      "is_free": false
+    },
+    {
       "id": 1446780,
       "title": "MONSTER HUNTER RISE",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1446780/capsule_616x353.jpg",
@@ -102433,21 +102728,6 @@
       "price_rub": 2910,
       "original_price_rub": null,
       "discount_percent": 0,
-      "is_free": false
-    },
-    {
-      "id": "ns70010000029016",
-      "title": "MONSTER HUNTER RISE",
-      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/m/monster-hunter-rise-switch/boxart",
-      "genres": [
-        "Экшен"
-      ],
-      "platforms": [
-        "Nintendo Switch"
-      ],
-      "price_rub": 2946,
-      "original_price_rub": 5297,
-      "discount_percent": 49,
       "is_free": false
     },
     {
@@ -105718,6 +105998,22 @@
       "is_free": false
     },
     {
+      "id": 1640810,
+      "title": "Maybe Immortal",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1640810/capsule_616x353.jpg",
+      "genres": [
+        "Экшен-РПГ (Action-RPG)",
+        "Казуальные игры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 571,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 18600,
       "title": "Mayhem Intergalactic",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/18600/capsule_616x353.jpg",
@@ -107645,9 +107941,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 545,
-      "original_price_rub": null,
-      "discount_percent": 0,
+      "price_rub": 523,
+      "original_price_rub": 546,
+      "discount_percent": 50,
       "is_free": false
     },
     {
@@ -111771,6 +112067,24 @@
       "is_free": true
     },
     {
+      "id": "ns70010000051680",
+      "title": "Mr. Prepper",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/m/mr-prepper-switch/hero",
+      "genres": [
+        "Экшен",
+        "Приключения",
+        "Платформеры",
+        "Технические симуляторы"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1739,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 761830,
       "title": "Mr. Prepper",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/761830/capsule_616x353.jpg",
@@ -111786,24 +112100,6 @@
         "PC"
       ],
       "price_rub": 1240,
-      "original_price_rub": null,
-      "discount_percent": 0,
-      "is_free": false
-    },
-    {
-      "id": "ns70010000051680",
-      "title": "Mr. Prepper",
-      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/m/mr-prepper-switch/hero",
-      "genres": [
-        "Экшен",
-        "Приключения",
-        "Платформеры",
-        "Технические симуляторы"
-      ],
-      "platforms": [
-        "Nintendo Switch"
-      ],
-      "price_rub": 1739,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -112798,6 +113094,23 @@
       "is_free": false
     },
     {
+      "id": "ns70010000046514",
+      "title": "My Lovely Wife",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/m/my-lovely-wife-switch/hero",
+      "genres": [
+        "Приключения",
+        "Технические симуляторы",
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1699,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 1251930,
       "title": "My Lovely Wife",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1251930/capsule_616x353.jpg",
@@ -112815,23 +113128,6 @@
       "price_rub": 624,
       "original_price_rub": 998,
       "discount_percent": 75,
-      "is_free": false
-    },
-    {
-      "id": "ns70010000046514",
-      "title": "My Lovely Wife",
-      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/m/my-lovely-wife-switch/hero",
-      "genres": [
-        "Приключения",
-        "Технические симуляторы",
-        "Other"
-      ],
-      "platforms": [
-        "Nintendo Switch"
-      ],
-      "price_rub": 1699,
-      "original_price_rub": null,
-      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -114149,6 +114445,23 @@
         "PC"
       ],
       "price_rub": 2739,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 544390,
+      "title": "NITE Team 4 - Military Hacking Division",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/544390/capsule_616x353.jpg",
+      "genres": [
+        "Технические симуляторы",
+        "Приключения",
+        "Головоломки"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1241,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -117386,7 +117699,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 981,
+      "price_rub": 998,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -117443,7 +117756,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1533,
+      "price_rub": 1571,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -118092,9 +118405,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 531,
-      "original_price_rub": 627,
-      "discount_percent": 76,
+      "price_rub": 632,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -118217,7 +118530,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 888,
+      "price_rub": 901,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -119514,6 +119827,25 @@
       "price_rub": 1608,
       "original_price_rub": null,
       "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 951240,
+      "title": "Obenseuer",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/951240/capsule_616x353.jpg",
+      "genres": [
+        "Выживание (Survival)",
+        "Симуляторы жизни",
+        "Приключения",
+        "Песочницы (Sandbox)",
+        "Психологические хорроры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 907,
+      "original_price_rub": 1241,
+      "discount_percent": 45,
       "is_free": false
     },
     {
@@ -121276,7 +121608,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 791,
+      "price_rub": 802,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -122095,7 +122427,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 963,
+      "price_rub": 980,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -122223,7 +122555,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 981,
+      "price_rub": 998,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -123117,23 +123449,6 @@
       "is_free": false
     },
     {
-      "id": 728880,
-      "title": "Overcooked! 2",
-      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/728880/capsule_616x353.jpg",
-      "genres": [
-        "Казуальные игры",
-        "Экшен",
-        "Технические симуляторы"
-      ],
-      "platforms": [
-        "PC"
-      ],
-      "price_rub": 1222,
-      "original_price_rub": null,
-      "discount_percent": 0,
-      "is_free": false
-    },
-    {
       "id": "ns70010000003402",
       "title": "Overcooked! 2",
       "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/o/overcooked-2-switch/boxart",
@@ -123149,6 +123464,23 @@
       "price_rub": 999,
       "original_price_rub": 2498,
       "discount_percent": 75,
+      "is_free": false
+    },
+    {
+      "id": 728880,
+      "title": "Overcooked! 2",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/728880/capsule_616x353.jpg",
+      "genres": [
+        "Казуальные игры",
+        "Экшен",
+        "Технические симуляторы"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1222,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -123413,7 +123745,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 671,
+      "price_rub": 677,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -125119,7 +125451,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1533,
+      "price_rub": 1571,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -126479,7 +126811,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 888,
+      "price_rub": 901,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -128933,7 +129265,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2093,
+      "price_rub": 2151,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -129022,9 +129354,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1215,
-      "original_price_rub": null,
-      "discount_percent": 0,
+      "price_rub": 684,
+      "original_price_rub": 1241,
+      "discount_percent": 75,
       "is_free": false
     },
     {
@@ -130291,7 +130623,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 671,
+      "price_rub": 677,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -132988,6 +133320,24 @@
       "is_free": false
     },
     {
+      "id": 1380430,
+      "title": "Pummel Paladins",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1380430/capsule_616x353.jpg",
+      "genres": [
+        "Аркадные гонки",
+        "Файтинги",
+        "Экшен",
+        "Казуальные игры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": true
+    },
+    {
       "id": 880940,
       "title": "Pummel Party",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/880940/capsule_616x353.jpg",
@@ -133308,6 +133658,21 @@
       "is_free": false
     },
     {
+      "id": "ns70010000000113",
+      "title": "Puyo Puyo™Tetris®",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/p/puyo-puyo-tetris-switch/boxart",
+      "genres": [
+        "Головоломки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2099,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 546050,
       "title": "Puyo Puyo™Tetris®",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/546050/capsule_616x353.jpg",
@@ -133324,21 +133689,6 @@
       "price_rub": 826,
       "original_price_rub": 967,
       "discount_percent": 30,
-      "is_free": false
-    },
-    {
-      "id": "ns70010000000113",
-      "title": "Puyo Puyo™Tetris®",
-      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/p/puyo-puyo-tetris-switch/boxart",
-      "genres": [
-        "Головоломки"
-      ],
-      "platforms": [
-        "Nintendo Switch"
-      ],
-      "price_rub": 2099,
-      "original_price_rub": null,
-      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -134547,9 +134897,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 650,
-      "original_price_rub": 801,
-      "discount_percent": 50,
+      "price_rub": 812,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -134906,7 +135256,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2135,
+      "price_rub": 2193,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -137317,7 +137667,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 774,
+      "price_rub": 784,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -137594,9 +137944,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 958,
-      "original_price_rub": null,
-      "discount_percent": 0,
+      "price_rub": 593,
+      "original_price_rub": 975,
+      "discount_percent": 80,
       "is_free": false
     },
     {
@@ -138846,6 +139196,22 @@
         "PC"
       ],
       "price_rub": 714,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 461760,
+      "title": "Reptilian Rebellion",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/461760/capsule_616x353.jpg",
+      "genres": [
+        "Казуальные игры",
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 605,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -140642,7 +141008,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 894,
+      "price_rub": 909,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -141004,9 +141370,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 767,
-      "original_price_rub": null,
-      "discount_percent": 0,
+      "price_rub": 611,
+      "original_price_rub": 777,
+      "discount_percent": 60,
       "is_free": false
     },
     {
@@ -142787,6 +143153,23 @@
         "PC"
       ],
       "price_rub": 791,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 2360210,
+      "title": "Rune Coliseum",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2360210/capsule_616x353.jpg",
+      "genres": [
+        "Файтинги",
+        "Экшен",
+        "Спортивные симуляторы"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1205,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -145885,7 +146268,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 724,
+      "price_rub": 732,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -148696,7 +149079,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 671,
+      "price_rub": 677,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -149799,7 +150182,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 981,
+      "price_rub": 998,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -150157,6 +150540,25 @@
       "is_free": true
     },
     {
+      "id": 1678140,
+      "title": "Shades of Sakura",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1678140/capsule_616x353.jpg",
+      "genres": [
+        "Головоломки",
+        "Визуальные новеллы",
+        "Казуальные игры",
+        "Приключения",
+        "Японские ролевые игры (JRPG)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 571,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 385560,
       "title": "Shadow Complex Remastered",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/385560/capsule_616x353.jpg",
@@ -150269,6 +150671,24 @@
       "original_price_rub": 722,
       "discount_percent": 85,
       "is_free": false
+    },
+    {
+      "id": 316480,
+      "title": "Shadow Puppeteer",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/316480/capsule_616x353.jpg",
+      "genres": [
+        "Приключения",
+        "Платформеры",
+        "Головоломки",
+        "Экшен-адвенчуры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": true
     },
     {
       "id": 2622240,
@@ -150535,7 +150955,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 791,
+      "price_rub": 802,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -151191,7 +151611,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 888,
+      "price_rub": 901,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -151548,9 +151968,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 524,
-      "original_price_rub": 757,
-      "discount_percent": 91,
+      "price_rub": 766,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -151792,6 +152212,22 @@
       "price_rub": 531,
       "original_price_rub": 888,
       "discount_percent": 92,
+      "is_free": false
+    },
+    {
+      "id": 597810,
+      "title": "Shining Plume 2",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/597810/capsule_616x353.jpg",
+      "genres": [
+        "Приключения",
+        "Казуальные игры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 901,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -152067,7 +152503,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1060,
+      "price_rub": 1080,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -155032,7 +155468,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 671,
+      "price_rub": 677,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -156797,7 +157233,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 791,
+      "price_rub": 802,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -158310,9 +158746,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 524,
-      "original_price_rub": 671,
-      "discount_percent": 86,
+      "price_rub": 677,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -158969,7 +159405,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1060,
+      "price_rub": 1080,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -160551,7 +160987,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 545,
+      "price_rub": 593,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -161575,7 +162011,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 705,
+      "price_rub": 712,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -162821,6 +163257,23 @@
       "is_free": true
     },
     {
+      "id": 373290,
+      "title": "Stones of Sorrow",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/373290/capsule_616x353.jpg",
+      "genres": [
+        "Психологические хорроры",
+        "Экшен",
+        "Выживание (Survival)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 632,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 625960,
       "title": "Stoneshard",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/625960/capsule_616x353.jpg",
@@ -163229,6 +163682,24 @@
       "is_free": false
     },
     {
+      "id": 508300,
+      "title": "Strategy & Tactics: Dark Ages",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/508300/capsule_616x353.jpg",
+      "genres": [
+        "Технические симуляторы",
+        "Пошаговые стратегии (TBS)",
+        "Песочницы (Sandbox)",
+        "Стратегии в реальном времени (RTS)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1080,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 338130,
       "title": "Strategy & Tactics: Wargame Collection",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/338130/capsule_616x353.jpg",
@@ -163386,7 +163857,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1215,
+      "price_rub": 1241,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -163746,7 +164217,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 888,
+      "price_rub": 901,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -165379,6 +165850,22 @@
       "is_free": true
     },
     {
+      "id": "ns70010000048334",
+      "title": "Super Cyborg",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/super-cyborg-switch/hero",
+      "genres": [
+        "Экшен",
+        "Платформеры"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 818,
+      "original_price_rub": 1059,
+      "discount_percent": 43,
+      "is_free": false
+    },
+    {
       "id": 341550,
       "title": "Super Cyborg",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/341550/capsule_616x353.jpg",
@@ -165393,22 +165880,6 @@
       "price_rub": 671,
       "original_price_rub": null,
       "discount_percent": 0,
-      "is_free": false
-    },
-    {
-      "id": "ns70010000048334",
-      "title": "Super Cyborg",
-      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/super-cyborg-switch/hero",
-      "genres": [
-        "Экшен",
-        "Платформеры"
-      ],
-      "platforms": [
-        "Nintendo Switch"
-      ],
-      "price_rub": 818,
-      "original_price_rub": 1059,
-      "discount_percent": 43,
       "is_free": false
     },
     {
@@ -168439,24 +168910,6 @@
       "is_free": false
     },
     {
-      "id": 1694600,
-      "title": "THE HOUSE OF THE DEAD: Remake",
-      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1694600/capsule_616x353.jpg",
-      "genres": [
-        "Экшен",
-        "Шутеры от первого лица (FPS)",
-        "Психологические хорроры",
-        "Аркадные гонки"
-      ],
-      "platforms": [
-        "PC"
-      ],
-      "price_rub": 1067,
-      "original_price_rub": null,
-      "discount_percent": 0,
-      "is_free": false
-    },
-    {
       "id": "ns70010000039731",
       "title": "THE HOUSE OF THE DEAD: Remake",
       "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/the-house-of-the-dead-remake-switch/box-eShop",
@@ -168470,6 +168923,24 @@
         "Nintendo Switch"
       ],
       "price_rub": 2498,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 1694600,
+      "title": "THE HOUSE OF THE DEAD: Remake",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1694600/capsule_616x353.jpg",
+      "genres": [
+        "Экшен",
+        "Шутеры от первого лица (FPS)",
+        "Психологические хорроры",
+        "Аркадные гонки"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1067,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -168520,7 +168991,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 894,
+      "price_rub": 909,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -168538,9 +169009,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1704,
-      "original_price_rub": null,
-      "discount_percent": 0,
+      "price_rub": 780,
+      "original_price_rub": 2372,
+      "discount_percent": 85,
       "is_free": false
     },
     {
@@ -169841,9 +170312,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1430,
-      "original_price_rub": null,
-      "discount_percent": 0,
+      "price_rub": 693,
+      "original_price_rub": 1464,
+      "discount_percent": 80,
       "is_free": false
     },
     {
@@ -170749,25 +171220,6 @@
       "is_free": false
     },
     {
-      "id": 1361510,
-      "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
-      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1361510/capsule_616x353.jpg",
-      "genres": [
-        "Beat 'em up",
-        "Экшен-адвенчуры",
-        "Аркадные гонки",
-        "Экшен",
-        "Приключения"
-      ],
-      "platforms": [
-        "PC"
-      ],
-      "price_rub": 1401,
-      "original_price_rub": null,
-      "discount_percent": 0,
-      "is_free": false
-    },
-    {
       "id": "ns70010000039366",
       "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
       "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/teenage-mutant-ninja-turtles-shredders-revenge-switch/box-eShop",
@@ -170784,6 +171236,25 @@
       "price_rub": 2299,
       "original_price_rub": 2498,
       "discount_percent": 10,
+      "is_free": false
+    },
+    {
+      "id": 1361510,
+      "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1361510/capsule_616x353.jpg",
+      "genres": [
+        "Beat 'em up",
+        "Экшен-адвенчуры",
+        "Аркадные гонки",
+        "Экшен",
+        "Приключения"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1401,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -171678,7 +172149,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1187,
+      "price_rub": 1212,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -172279,9 +172750,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 696,
-      "original_price_rub": 1359,
-      "discount_percent": 77,
+      "price_rub": 1390,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -172792,7 +173263,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1060,
+      "price_rub": 1080,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -174520,6 +174991,22 @@
       "is_free": false
     },
     {
+      "id": "ns70010000001369",
+      "title": "The Elder Scrolls V: Skyrim",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/the-elder-scrolls-v-skyrim-switch/boxart",
+      "genres": [
+        "Экшен",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 72850,
       "title": "The Elder Scrolls V: Skyrim",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/72850/capsule_616x353.jpg",
@@ -174534,22 +175021,6 @@
         "PC"
       ],
       "price_rub": 1396,
-      "original_price_rub": null,
-      "discount_percent": 0,
-      "is_free": false
-    },
-    {
-      "id": "ns70010000001369",
-      "title": "The Elder Scrolls V: Skyrim",
-      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/the-elder-scrolls-v-skyrim-switch/boxart",
-      "genres": [
-        "Экшен",
-        "Role-Playing"
-      ],
-      "platforms": [
-        "Nintendo Switch"
-      ],
-      "price_rub": 5297,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -175144,9 +175615,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 888,
-      "original_price_rub": null,
-      "discount_percent": 0,
+      "price_rub": 821,
+      "original_price_rub": 901,
+      "discount_percent": 20,
       "is_free": false
     },
     {
@@ -175314,9 +175785,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 538,
-      "original_price_rub": 888,
-      "discount_percent": 90,
+      "price_rub": 901,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -179438,6 +179909,25 @@
       "is_free": false
     },
     {
+      "id": 1734390,
+      "title": "The Pioneers: Surviving Desolation",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1734390/capsule_616x353.jpg",
+      "genres": [
+        "Выживание (Survival)",
+        "Иммерсивные симуляторы (Immersive Sim)",
+        "Стратегии в реальном времени (RTS)",
+        "Технические симуляторы",
+        "Симуляторы жизни"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1571,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 512470,
       "title": "The Pirate: Caribbean Hunt",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/512470/capsule_616x353.jpg",
@@ -180341,6 +180831,23 @@
         "PC"
       ],
       "price_rub": 826,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 2214840,
+      "title": "The Shadow Over Route 80",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2214840/capsule_616x353.jpg",
+      "genres": [
+        "Приключения",
+        "Шутеры от первого лица (FPS)",
+        "Психологические хорроры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 589,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -181937,6 +182444,26 @@
       "is_free": false
     },
     {
+      "id": 2858390,
+      "title": "The Veiled Ones",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2858390/capsule_616x353.jpg",
+      "genres": [
+        "Экшен",
+        "Психологические хорроры",
+        "Приключения",
+        "Хорроры на выживание (Survival Horror)",
+        "Интерактивное кино",
+        "Стелс-экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": true
+    },
+    {
       "id": 1377540,
       "title": "The Viking Way",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1377540/capsule_616x353.jpg",
@@ -182662,7 +183189,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 946,
+      "price_rub": 962,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -183538,7 +184065,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1533,
+      "price_rub": 1571,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -185876,9 +186403,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 578,
-      "original_price_rub": 758,
-      "discount_percent": 70,
+      "price_rub": 768,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -185915,7 +186442,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 758,
+      "price_rub": 768,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -186712,6 +187239,23 @@
       "is_free": false
     },
     {
+      "id": "ns70010000036167",
+      "title": "Tormented Souls",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/tormented-souls-switch/hero",
+      "genres": [
+        "Экшен",
+        "Приключения",
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2099,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 1367590,
       "title": "Tormented Souls",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1367590/capsule_616x353.jpg",
@@ -186727,23 +187271,6 @@
         "PC"
       ],
       "price_rub": 1632,
-      "original_price_rub": null,
-      "discount_percent": 0,
-      "is_free": false
-    },
-    {
-      "id": "ns70010000036167",
-      "title": "Tormented Souls",
-      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/tormented-souls-switch/hero",
-      "genres": [
-        "Экшен",
-        "Приключения",
-        "Other"
-      ],
-      "platforms": [
-        "Nintendo Switch"
-      ],
-      "price_rub": 2099,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -187960,7 +188487,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1291,
+      "price_rub": 1319,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -190377,7 +190904,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 569,
+      "price_rub": 571,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -191229,6 +191756,23 @@
       "is_free": true
     },
     {
+      "id": 1266820,
+      "title": "Ultimate ADOM - Caverns of Chaos",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1266820/capsule_616x353.jpg",
+      "genres": [
+        "Пошаговые стратегии (TBS)",
+        "Приключения",
+        "Классические ролевые игры (CRPG)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 998,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 1069650,
       "title": "Ultimate Admiral: Age of Sail",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1069650/capsule_616x353.jpg",
@@ -191442,7 +191986,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1533,
+      "price_rub": 1571,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -193562,7 +194106,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 7217,
+      "price_rub": 7459,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -195052,9 +195596,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1060,
-      "original_price_rub": null,
-      "discount_percent": 0,
+      "price_rub": 645,
+      "original_price_rub": 1080,
+      "discount_percent": 75,
       "is_free": false
     },
     {
@@ -195485,9 +196029,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 810,
-      "original_price_rub": 1387,
-      "discount_percent": 65,
+      "price_rub": 1419,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -197367,6 +197911,21 @@
         "Выживание (Survival)",
         "Психологические хорроры",
         "Казуальные игры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": true
+    },
+    {
+      "id": 870820,
+      "title": "Wakaru ver. beta",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/870820/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
       ],
       "platforms": [
         "PC"
@@ -199815,7 +200374,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1215,
+      "price_rub": 1241,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -200233,7 +200792,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 545,
+      "price_rub": 546,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -200469,6 +201028,24 @@
       "is_free": false
     },
     {
+      "id": 1170640,
+      "title": "When The Past Was Around - Prologue",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1170640/capsule_616x353.jpg",
+      "genres": [
+        "Казуальные игры",
+        "Головоломки",
+        "Квесты (Point-and-Click)",
+        "Приключения"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": true
+    },
+    {
       "id": 1021950,
       "title": "When the Darkness comes",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1021950/capsule_616x353.jpg",
@@ -200668,9 +201245,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1060,
-      "original_price_rub": null,
-      "discount_percent": 0,
+      "price_rub": 616,
+      "original_price_rub": 1080,
+      "discount_percent": 80,
       "is_free": false
     },
     {
@@ -203020,6 +203597,21 @@
         "Технические симуляторы",
         "Шутеры от первого лица (FPS)",
         "Шутеры от третьего лица (TPS)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": true
+    },
+    {
+      "id": 2964090,
+      "title": "World of Warships: Legends",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2964090/5bc2527ed6a1f6dd7e90ffd2d76271f102299970/header.jpg?t=1785751898",
+      "genres": [
+        "Экшен"
       ],
       "platforms": [
         "PC"
@@ -205981,7 +206573,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 822,
+      "price_rub": 834,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -207036,7 +207628,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 636,
+      "price_rub": 641,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -209066,9 +209658,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 714,
-      "original_price_rub": null,
-      "discount_percent": 0,
+      "price_rub": 648,
+      "original_price_rub": 721,
+      "discount_percent": 33,
       "is_free": false
     },
     {
@@ -210830,6 +211422,23 @@
       "is_free": false
     },
     {
+      "id": 1487270,
+      "title": "ПОСЛЕДНЯЯ КОМАНДА",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1487270/capsule_616x353.jpg",
+      "genres": [
+        "Экшен-адвенчуры",
+        "Экшен",
+        "Аркадные гонки"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 909,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 3399700,
       "title": "Паркур-Ассасин: Спринт-Бег",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3399700/header.jpg?t=1768646323",
@@ -211375,6 +211984,26 @@
         "PC"
       ],
       "price_rub": 590,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 3149840,
+      "title": "Скуф на рыбалке",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3149840/header.jpg?t=1744256779",
+      "genres": [
+        "Технические симуляторы",
+        "Приключения",
+        "Иммерсивные симуляторы (Immersive Sim)",
+        "Песочницы (Sandbox)",
+        "Шутеры от первого лица (FPS)",
+        "Психологические хорроры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 546,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -213974,6 +214603,22 @@
       "is_free": true
     },
     {
+      "id": 1216080,
+      "title": "坦率的小红帽和爱说谎的狼",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1216080/capsule_616x353.jpg",
+      "genres": [
+        "Казуальные игры",
+        "Визуальные новеллы"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": true
+    },
+    {
       "id": 1546010,
       "title": "堕落千金—黑蔷薇与欲望之火",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1546010/capsule_616x353.jpg",
@@ -214108,6 +214753,23 @@
         "PC"
       ],
       "price_rub": 843,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 2304030,
+      "title": "天下霸圖",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2304030/capsule_616x353.jpg",
+      "genres": [
+        "Градостроительные симуляторы",
+        "Стратегии в реальном времени (RTS)",
+        "Технические симуляторы"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 834,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -215283,7 +215945,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 791,
+      "price_rub": 802,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -218295,7 +218957,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 843,
+      "price_rub": 855,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false

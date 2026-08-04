@@ -13,14 +13,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 560,
+  "base_price_rub": 116,
   "markup_rub": 500,
-  "price_rub": 1060,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 616,
+  "original_price_rub": 1080,
+  "discount_percent": 80,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "9D4ZMe6AtQk",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/631570/ss_3bb9cde35cd7a74978875b47ced0e6c9e78495d1.1920x1080.jpg?t=1726577495",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/631570/ss_56d9d93c116513861c8c52334172cc83c9d52650.1920x1080.jpg?t=1726577495",
@@ -32,12 +32,12 @@
     {
       "id": 1061760,
       "name": "Whispers of a Machine Official Soundtrack",
-      "base_price_rub": 281,
+      "base_price_rub": 57,
       "markup_rub": 500,
-      "price_rub": 781,
+      "price_rub": 557,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1061760/header.jpg?t=1637902954"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-14T08:19:17Z"
+  "updated_at": "2026-08-04T08:47:28Z"
 }
