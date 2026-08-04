@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 112,
+  "base_price_rub": 580,
   "markup_rub": 500,
-  "price_rub": 612,
-  "original_price_rub": 1060,
-  "discount_percent": 80,
+  "price_rub": 1080,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -33,7 +33,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/612390/ss_1070b0f80fd04fc3c090075fe3870b74529585ca.1920x1080.jpg?t=1763673806",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/612390/ss_3e77669a2f96813e67ed0ef8a15f3a5fa5a1db7a.1920x1080.jpg?t=1763673806"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 744990,
+      "name": "Dandara: Trials of Fear Edition Soundtrack 🎵",
+      "base_price_rub": 291,
+      "markup_rub": 500,
+      "price_rub": 791,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/744990/header.jpg?t=1594714791"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-14T03:45:12Z"
+  "updated_at": "2026-08-04T03:38:15Z"
 }

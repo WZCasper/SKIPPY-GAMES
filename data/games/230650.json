@@ -12,9 +12,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 560,
+  "base_price_rub": 580,
   "markup_rub": 500,
-  "price_rub": 1060,
+  "price_rub": 1080,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -30,7 +30,32 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230650/ss_368b13bdeee1fac9f99f638a4d190abf4879ed02.1920x1080.jpg?t=1573219483",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230650/ss_dd0d3c828468c685ddc50890de77c0e0d9515553.1920x1080.jpg?t=1573219483"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 230692,
+      "name": "Lords of Football: United States",
+      "base_price_rub": 89,
+      "markup_rub": 500,
+      "price_rub": 589,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230692/header.jpg?t=1557416123"
+    },
+    {
+      "id": 230691,
+      "name": "Lords of Football: Super Training",
+      "base_price_rub": 221,
+      "markup_rub": 500,
+      "price_rub": 721,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230691/header.jpg?t=1447357320"
+    },
+    {
+      "id": 230690,
+      "name": "Lords of Football: Eastern Europe",
+      "base_price_rub": 89,
+      "markup_rub": 500,
+      "price_rub": 589,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/230690/header.jpg?t=1447357318"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-14T03:45:33Z"
+  "updated_at": "2026-08-04T03:46:39Z"
 }

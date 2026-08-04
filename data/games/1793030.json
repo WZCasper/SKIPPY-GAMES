@@ -11,9 +11,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 896,
+  "base_price_rub": 928,
   "markup_rub": 500,
-  "price_rub": 1396,
+  "price_rub": 1428,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -28,7 +28,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1793030/ss_a0b97ea9b9f6b0019441c9c74ee95bfbc2412543.1920x1080.jpg?t=1777013691",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1793030/ss_ecaf705bee8bf05887c43d103c2651a49f580fe0.1920x1080.jpg?t=1777013691"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 4611970,
+      "name": "Romancing SaGa -Minstrel Song- Original Soundtrack",
+      "base_price_rub": 906,
+      "markup_rub": 500,
+      "price_rub": 1406,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4611970/90007825beedaabf0dc390a5e098f8007f602ce9/header.jpg?t=1776957173"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-14T03:45:20Z"
+  "updated_at": "2026-08-04T03:41:24Z"
 }

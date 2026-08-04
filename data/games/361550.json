@@ -15,9 +15,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 360,
+  "base_price_rub": 373,
   "markup_rub": 500,
-  "price_rub": 860,
+  "price_rub": 873,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -33,16 +33,7 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361550/ss_fa99c4f613b462aed049729505578909dd328f34.1920x1080.jpg?t=1748364096",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361550/ss_86afb0226e8da48ae9dd399eef2b7d721cfc9bfe.1920x1080.jpg?t=1748364096"
   ],
-  "upsells": [
-    {
-      "id": 380710,
-      "name": "Cradle - Soundtrack & Artbook",
-      "base_price_rub": 171,
-      "markup_rub": 500,
-      "price_rub": 671,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/380710/header.jpg?t=1748364082"
-    }
-  ],
+  "upsells": [],
   "source": "steam",
-  "updated_at": "2026-07-14T08:17:12Z"
+  "updated_at": "2026-08-04T03:49:47Z"
 }
