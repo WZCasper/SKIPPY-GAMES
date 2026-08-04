@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-04T03:50:52Z",
+  "generated_at": "2026-08-04T05:59:15Z",
   "uah_to_rub_rate": 1.784343,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 12018,
+  "count": 12297,
   "games": [
     {
       "id": 633080,
@@ -358,6 +358,24 @@
         "PC"
       ],
       "price_rub": 676,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000000141",
+      "title": "1-2-Switch™",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/1/1-2-switch-switch/boxart",
+      "genres": [
+        "Other",
+        "Экшен",
+        "Party",
+        "Multiplayer"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 4498,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -805,6 +823,22 @@
         "PC"
       ],
       "price_rub": 588,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000046471",
+      "title": "13 Sentinels: Aegis Rim",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/1/13-sentinels-aegis-rim-switch/hero",
+      "genres": [
+        "Приключения",
+        "Технические симуляторы"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -4722,6 +4756,23 @@
       "is_free": false
     },
     {
+      "id": "ns70010000000392",
+      "title": "ARMS™",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/a/arms-switch/boxart",
+      "genres": [
+        "Экшен",
+        "Файтинги",
+        "Multiplayer"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 1898300,
       "title": "ASKA",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1898300/capsule_616x353.jpg",
@@ -4755,6 +4806,21 @@
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": true
+    },
+    {
+      "id": "ns70010000018695",
+      "title": "ASTRAL CHAIN",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/a/astral-chain-switch/boxart",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
     },
     {
       "id": 361420,
@@ -5064,6 +5130,24 @@
       "is_free": false
     },
     {
+      "id": "ns70010000048792",
+      "title": "Aaron - The Little Detective",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/a/aaron-the-little-detective-switch/hero",
+      "genres": [
+        "Приключения",
+        "Education",
+        "Study",
+        "Training"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1299,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 551860,
       "title": "Abandon Ship",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/551860/capsule_616x353.jpg",
@@ -5249,9 +5333,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 596,
-      "original_price_rub": 615,
-      "discount_percent": 16,
+      "price_rub": 620,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -5358,6 +5442,22 @@
         "PC"
       ],
       "price_rub": 671,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000049089",
+      "title": "Abyss Memory Fallen Angel and the Path of Magic",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/a/abyss-memory-fallen-angel-and-the-path-of-magic-switch/hero",
+      "genres": [
+        "Экшен",
+        "Головоломки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2099,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -6045,6 +6145,21 @@
       "is_free": false
     },
     {
+      "id": "ns70010000042938",
+      "title": "Advance Wars™ 1+2: Re-Boot Camp",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/a/advance-wars-1-plus-2-re-boot-camp-switch/020922/hero",
+      "genres": [
+        "Strategy"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 3800,
       "title": "Advent Rising",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3800/header.jpg?t=1614819828",
@@ -6232,6 +6347,41 @@
         "PC"
       ],
       "price_rub": 1497,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000053927",
+      "title": "Aery - Last Day of Earth",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/a/aery-last-day-of-earth-switch/hero",
+      "genres": [
+        "Технические симуляторы",
+        "Приключения",
+        "Lifestyle",
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1299,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000037776",
+      "title": "Aery Early Birds Bundle",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/a/aery-early-birds-bundle-switch/hero",
+      "genres": [
+        "Технические симуляторы",
+        "Приключения",
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2498,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -6974,6 +7124,22 @@
         "PC"
       ],
       "price_rub": 776,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000036816",
+      "title": "Agent Intercept",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/a/agent-intercept-switch/hero",
+      "genres": [
+        "Аркадные гонки",
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2099,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -10315,6 +10481,21 @@
       "is_free": false
     },
     {
+      "id": 4126040,
+      "title": "Aniimo",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/43b2a41f5876db8ca407f240e74392fb1badbb2f/header.jpg?t=1784876323",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": true
+    },
+    {
       "id": 1629200,
       "title": "Anima : The Reign of Darkness",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1629200/capsule_616x353.jpg",
@@ -10346,6 +10527,21 @@
         "PC"
       ],
       "price_rub": 981,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000027619",
+      "title": "Animal Crossing™: New Horizons",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/a/animal-crossing-new-horizons-switch/boxart",
+      "genres": [
+        "Технические симуляторы"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -10669,6 +10865,21 @@
       "price_rub": 721,
       "original_price_rub": null,
       "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 3156330,
+      "title": "Anomaly President",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3156330/8195ecc0dd8df38fd61e86de93d4e0b8ebb9cdc8/header_alt_assets_1_russian.jpg?t=1785808525",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 978,
+      "original_price_rub": 1098,
+      "discount_percent": 20,
       "is_free": false
     },
     {
@@ -11044,6 +11255,24 @@
       "is_free": false
     },
     {
+      "id": "ns70010000037670",
+      "title": "Anuchard",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/a/anuchard-switch/hero",
+      "genres": [
+        "Экшен",
+        "Приключения",
+        "Файтинги",
+        "Головоломки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1699,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 2103290,
       "title": "Anvil Life",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2103290/capsule_616x353.jpg",
@@ -11219,6 +11448,21 @@
       ],
       "platforms": [
         "PC"
+      ],
+      "price_rub": 0,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": true
+    },
+    {
+      "id": "ns70010000024591",
+      "title": "Apex Legends™",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/a/apex-legends-switch/boxart050421",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
       ],
       "price_rub": 0,
       "original_price_rub": null,
@@ -11540,6 +11784,54 @@
         "PC"
       ],
       "price_rub": 1714,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000050461",
+      "title": "Arcade Archives FIGHTING HAWK",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/a/arcade-archives-fighting-hawk-switch/hero",
+      "genres": [
+        "Экшен",
+        "Аркадные гонки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1139,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000047696",
+      "title": "Arcade Archives TRIO THE PUNCH",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/a/arcade-archives-trio-the-punch-switch/hero",
+      "genres": [
+        "Экшен",
+        "Аркадные гонки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1139,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000049254",
+      "title": "Arcade Archives WONDER MOMO",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/a/arcade-archives-wonder-momo-switch/hero",
+      "genres": [
+        "Экшен",
+        "Аркадные гонки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1139,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -13880,6 +14172,23 @@
       "is_free": true
     },
     {
+      "id": "ns70010000041592",
+      "title": "Astrodogs",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/a/astrodogs-switch/hero",
+      "genres": [
+        "Аркадные гонки",
+        "Экшен",
+        "Приключения"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1539,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 489560,
       "title": "Astroflux",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/489560/capsule_616x353.jpg",
@@ -14691,6 +15000,23 @@
       "is_free": false
     },
     {
+      "id": "ns70010000038761",
+      "title": "Autonauts",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/a/autonauts-switch/hero",
+      "genres": [
+        "Strategy",
+        "Education",
+        "Технические симуляторы"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2099,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 2224910,
       "title": "Auver",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2224910/capsule_616x353.jpg",
@@ -14777,6 +15103,21 @@
         "PC"
       ],
       "price_rub": 888,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 2424420,
+      "title": "Avatar Legends: The Fighting Game",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2424420/30d44f94173fde20d7338f01611c6b5c7618e07e/header.jpg?t=1784909230",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1571,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -15199,6 +15540,23 @@
       "is_free": false
     },
     {
+      "id": "ns70010000051209",
+      "title": "Axolotl",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/a/axolotl-switch/hero",
+      "genres": [
+        "Платформеры",
+        "Приключения",
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1059,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 517010,
       "title": "Aztecalypse",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/517010/capsule_616x353.jpg",
@@ -15272,14 +15630,14 @@
     {
       "id": 4856850,
       "title": "Aéro: speedrun labyrinthe",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856850/cecdbda465561c4d12bb2000cf9e858b0e5a6ce5/header.jpg?t=1783971669",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4856850/cecdbda465561c4d12bb2000cf9e858b0e5a6ce5/header.jpg?t=1784228259",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 724,
+      "price_rub": 732,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -15577,6 +15935,22 @@
         "PC"
       ],
       "price_rub": 1704,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000045329",
+      "title": "BIG BANG PRO WRESTLING",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/b/big-bang-pro-wrestling-switch/hero",
+      "genres": [
+        "Экшен",
+        "Файтинги"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1139,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -15956,6 +16330,22 @@
       "is_free": false
     },
     {
+      "id": "ns70010000018692",
+      "title": "BOXBOY! + BOXGIRL!",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/b/boxboy-and-boxgirl-switch/boxart",
+      "genres": [
+        "Головоломки",
+        "Платформеры"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1299,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 2795640,
       "title": "BOXHEAD:Immortal",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2795640/capsule_616x353.jpg",
@@ -16151,6 +16541,24 @@
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": true
+    },
+    {
+      "id": "ns70010000052578",
+      "title": "BROKEN MIND",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/b/broken-mind-switch/hero",
+      "genres": [
+        "Экшен",
+        "Приключения",
+        "Шутеры от первого лица (FPS)",
+        "Головоломки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1299,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
     },
     {
       "id": 2437510,
@@ -16634,6 +17042,23 @@
         "PC"
       ],
       "price_rub": 587,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000053692",
+      "title": "Bad Writer",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/b/bad-writer-switch/hero",
+      "genres": [
+        "Технические симуляторы",
+        "Role-Playing",
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 979,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -17341,9 +17766,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 522,
-      "original_price_rub": 724,
-      "discount_percent": 90,
+      "price_rub": 732,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -18611,6 +19036,38 @@
       "is_free": false
     },
     {
+      "id": "ns70010000001109",
+      "title": "Bayonetta™",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/b/bayonetta-switch/boxart",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2898,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000053948",
+      "title": "Beach Boys: The Perfect Date",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/b/beach-boys-the-perfect-date-switch/hero",
+      "genres": [
+        "Экшен",
+        "Головоломки",
+        "Аркадные гонки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 899,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 2194780,
       "title": "BeachHead Rogue",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2194780/capsule_616x353.jpg",
@@ -18742,6 +19199,21 @@
       "is_free": false
     },
     {
+      "id": 2001760,
+      "title": "Beast of Reincarnation",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001760/d068139fe039e26a6a9d9f57ac5d89785b984d33/header.jpg?t=1785818525",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 3175,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 719890,
       "title": "Beasts of Bermuda",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/719890/capsule_616x353.jpg",
@@ -18868,6 +19340,21 @@
         "PC"
       ],
       "price_rub": 801,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000040523",
+      "title": "Beatus Creation Solitaire",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/b/beatus-creation-solitaire-switch/hero",
+      "genres": [
+        "Board Game"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2099,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -19129,6 +19616,25 @@
       "price_rub": 617,
       "original_price_rub": 631,
       "discount_percent": 11,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000047183",
+      "title": "Behind the Frame: The Finest Scenery",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/b/behind-the-frame-the-finest-scenery-switch/hero",
+      "genres": [
+        "Приключения",
+        "Other",
+        "Технические симуляторы",
+        "Головоломки",
+        "Indie"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1539,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -19848,6 +20354,24 @@
       "is_free": false
     },
     {
+      "id": "ns70010000050428",
+      "title": "Bibi & Tina – New adventures with horses",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/b/bibi-and-tina-new-adventures-with-horses-switch/hero",
+      "genres": [
+        "Технические симуляторы",
+        "Спортивные симуляторы",
+        "Гоночные симуляторы (Simracing)",
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2898,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 1331550,
       "title": "Big Ambitions",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1331550/capsule_616x353.jpg",
@@ -19895,6 +20419,22 @@
         "PC"
       ],
       "price_rub": 1497,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000044951",
+      "title": "Big Brain Academy™: Brain vs. Brain",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/b/big-brain-academy-brain-vs-brain-switch/hero",
+      "genres": [
+        "Party",
+        "Головоломки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2898,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -20265,6 +20805,22 @@
       "is_free": false
     },
     {
+      "id": "ns70010000047537",
+      "title": "Birushana: Rising Flower of Genpei",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/b/birushana-rising-flower-of-genpei-switch/hero",
+      "genres": [
+        "Приключения",
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 3698,
+      "original_price_rub": 4498,
+      "discount_percent": 20,
+      "is_free": false
+    },
+    {
       "id": 433950,
       "title": "Bit Blaster XL",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/433950/capsule_616x353.jpg",
@@ -20402,6 +20958,21 @@
       "price_rub": 531,
       "original_price_rub": 888,
       "discount_percent": 92,
+      "is_free": false
+    },
+    {
+      "id": 3100370,
+      "title": "Black Jacket",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3100370/ca230813d924de03d76ce5aecd347d754b0f29f8/header.jpg?t=1784216948",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 900,
+      "original_price_rub": 1034,
+      "discount_percent": 25,
       "is_free": false
     },
     {
@@ -22647,9 +23218,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1118,
-      "original_price_rub": 1532,
-      "discount_percent": 40,
+      "price_rub": 1569,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -23689,6 +24260,22 @@
       "is_free": false
     },
     {
+      "id": "ns70010000042712",
+      "title": "BouncyBoi in Puzzle Land",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/b/bouncyboi-in-puzzle-land-switch/hero",
+      "genres": [
+        "Головоломки",
+        "Аркадные гонки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1696,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 243930,
       "title": "Bound By Flame",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/243930/capsule_616x353.jpg",
@@ -24086,6 +24673,21 @@
         "PC"
       ],
       "price_rub": 1069,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000028643",
+      "title": "Bravely Default™ II",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/b/bravely-default-ii-switch/boxart",
+      "genres": [
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -24800,6 +25402,21 @@
       "is_free": false
     },
     {
+      "id": "ns70010000051297",
+      "title": "Broken Pipe",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/b/broken-pipe-switch/hero",
+      "genres": [
+        "Головоломки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 819,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 757480,
       "title": "Broken Reality",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/757480/capsule_616x353.jpg",
@@ -25122,6 +25739,23 @@
       "is_free": false
     },
     {
+      "id": "ns70010000050082",
+      "title": "Buck Bradley 2",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/b/buck-bradley-2-switch/hero",
+      "genres": [
+        "Приключения",
+        "Головоломки",
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 659,
+      "original_price_rub": 1059,
+      "discount_percent": 72,
+      "is_free": false
+    },
+    {
       "id": 1714590,
       "title": "Buck Up And Drive!",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1714590/capsule_616x353.jpg",
@@ -25428,6 +26062,23 @@
         "PC"
       ],
       "price_rub": 713,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000051967",
+      "title": "Bunny Mahjo",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/b/bunny-mahjo-switch/hero",
+      "genres": [
+        "Головоломки",
+        "Board Game",
+        "Strategy"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 739,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -26048,6 +26699,21 @@
       "is_free": false
     },
     {
+      "id": "ns70010000032650",
+      "title": "CHRONO CROSS: THE RADICAL DREAMERS EDITION",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/c/chrono-cross-the-radical-dreamers-edition-switch/hero",
+      "genres": [
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2099,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 613830,
       "title": "CHRONO TRIGGER®",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/613830/capsule_616x353.jpg",
@@ -26348,6 +27014,22 @@
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": true
+    },
+    {
+      "id": "ns70010000044374",
+      "title": "COSPLAY LOVE! Enchanted princess",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/c/cosplay-love-enchanted-princess-switch/hero",
+      "genres": [
+        "Приключения",
+        "Технические симуляторы"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1459,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
     },
     {
       "id": 384300,
@@ -26709,6 +27391,23 @@
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": true
+    },
+    {
+      "id": "ns70010000021364",
+      "title": "Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/c/cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-switch/boxart",
+      "genres": [
+        "Приключения",
+        "Music",
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2498,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
     },
     {
       "id": 883860,
@@ -27947,6 +28646,22 @@
       "is_free": true
     },
     {
+      "id": "ns70010000002722",
+      "title": "Captain Toad™: Treasure Tracker",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/c/captain-toad-treasure-tracker-switch/boxart",
+      "genres": [
+        "Головоломки",
+        "Платформеры"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 3698,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 1163550,
       "title": "Captain Tsubasa: Rise of New Champions",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1163550/capsule_616x353.jpg",
@@ -28404,6 +29119,23 @@
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": true
+    },
+    {
+      "id": "ns70010000033102",
+      "title": "Card Shark",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/c/card-shark-switch/boxart",
+      "genres": [
+        "Экшен",
+        "Приключения",
+        "Indie"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2099,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
     },
     {
       "id": 1694420,
@@ -29336,6 +30068,24 @@
       "is_free": false
     },
     {
+      "id": "ns70010000040812",
+      "title": "Cat Cafe Manager",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/c/cat-cafe-manager-switch/hero",
+      "genres": [
+        "Технические симуляторы",
+        "Strategy",
+        "Lifestyle",
+        "Music"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2099,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 2797340,
       "title": "Cat God Ranch",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2797340/capsule_616x353.jpg",
@@ -29625,6 +30375,23 @@
         "PC"
       ],
       "price_rub": 1371,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000037538",
+      "title": "Catie in MeowmeowLand",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/c/catie-in-meowmeowland-switch/hero",
+      "genres": [
+        "Приключения",
+        "Головоломки",
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1699,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -30960,7 +31727,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1008,
+      "price_rub": 1026,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -31166,6 +31933,23 @@
         "PC"
       ],
       "price_rub": 781,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000049636",
+      "title": "Chinatown Detective Agency",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/c/chinatown-detective-agency-switch/hero",
+      "genres": [
+        "Приключения",
+        "Головоломки",
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2498,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -33204,6 +33988,22 @@
       "price_rub": 634,
       "original_price_rub": 724,
       "discount_percent": 40,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000029716",
+      "title": "Clubhouse Games™: 51 Worldwide Classics",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/c/clubhouse-games-51-worldwide-classics-switch/boxart",
+      "genres": [
+        "Party",
+        "Multiplayer"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 3698,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -35705,6 +36505,21 @@
       "is_free": false
     },
     {
+      "id": 1368140,
+      "title": "Corsair Cove",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1368140/cafda7c6ff9641cc9ede1823317b835a2b3f38ab/header.jpg?t=1785750972",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1301,
+      "original_price_rub": 1569,
+      "discount_percent": 25,
+      "is_free": false
+    },
+    {
       "id": 209670,
       "title": "Cortex Command",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/209670/capsule_616x353.jpg",
@@ -36071,6 +36886,23 @@
         "PC"
       ],
       "price_rub": 981,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000048293",
+      "title": "Cotton Fantasy",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/c/cotton-fantasy-switch/hero",
+      "genres": [
+        "Приключения",
+        "Экшен",
+        "Аркадные гонки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 3698,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -39306,6 +40138,21 @@
       "is_free": false
     },
     {
+      "id": "ns70010000018502",
+      "title": "DAEMON X MACHINA™",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/d/daemon-x-machina-switch/boxart",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 377870,
       "title": "DARIUSBURST Chronicle Saviours",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/377870/capsule_616x353.jpg",
@@ -39413,6 +40260,24 @@
       "is_free": false
     },
     {
+      "id": "ns70010000008122",
+      "title": "DARK SOULS™: REMASTERED",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/d/dark-souls-remastered-switch/boxart",
+      "genres": [
+        "Приключения",
+        "Экшен",
+        "Role-Playing",
+        "Multiplayer"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 3698,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 433550,
       "title": "DARQ: Complete Edition",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/433550/capsule_616x353.jpg",
@@ -39484,6 +40349,21 @@
         "PC"
       ],
       "price_rub": 1215,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000038627",
+      "title": "DC Super Hero Girls™: Teen Power",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/d/dc-super-hero-girls-teen-power-switch/hero",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -40730,6 +41610,22 @@
       "is_free": false
     },
     {
+      "id": "ns70010000009167",
+      "title": "DRAGON QUEST BUILDERS™ 2",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/d/dragon-quest-builders-2-switch/boxart",
+      "genres": [
+        "Экшен",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 4498,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 574050,
       "title": "DRAGON QUEST HEROES™ II",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/574050/capsule_616x353.jpg",
@@ -40810,6 +41706,22 @@
         "PC"
       ],
       "price_rub": 3599,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000021451",
+      "title": "DRAGON QUEST® XI S: Echoes of an Elusive Age – Definitive Edition",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/d/dragon-quest-xi-s-echoes-of-an-elusive-age-definitive-edition-switch/boxart",
+      "genres": [
+        "Приключения",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 4498,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -41180,6 +42092,24 @@
         "PC"
       ],
       "price_rub": 1224,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000012896",
+      "title": "DYSMANTLE",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/d/dysmantle-switch/hero",
+      "genres": [
+        "Role-Playing",
+        "Приключения",
+        "Экшен",
+        "Головоломки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2099,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -42655,6 +43585,23 @@
       "is_free": true
     },
     {
+      "id": "ns70010000042764",
+      "title": "Dashing Dodgems",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/d/dashing-dodgems-switch/hero",
+      "genres": [
+        "Аркадные гонки",
+        "Party",
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1459,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 329000,
       "title": "Data Hacker: Corruption",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/329000/capsule_616x353.jpg",
@@ -43654,6 +44601,21 @@
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
+    },
+    {
+      "id": 3919900,
+      "title": "Dead Zone Revive",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3919900/774c0da58c69bb0fecb842dc708d40bd7db22ca1/header.jpg?t=1783095094",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": true
     },
     {
       "id": 381210,
@@ -45232,6 +46194,23 @@
       "is_free": false
     },
     {
+      "id": "ns70010000032761",
+      "title": "Delivery From the Pain",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/d/delivery-from-the-pain-switch/hero",
+      "genres": [
+        "Приключения",
+        "Технические симуляторы",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1219,
+      "original_price_rub": 1539,
+      "discount_percent": 31,
+      "is_free": false
+    },
+    {
       "id": 685340,
       "title": "Delivery from the Pain:Survival / 末日方舟:生存",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/685340/capsule_616x353.jpg",
@@ -45569,6 +46548,22 @@
         "PC"
       ],
       "price_rub": 3793,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000048562",
+      "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/d/demon-slayer-kimetsu-no-yaiba-the-hinokami-chronicles-switch/hero",
+      "genres": [
+        "Экшен",
+        "Файтинги"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -46749,6 +47744,22 @@
       "is_free": true
     },
     {
+      "id": "ns70010000038312",
+      "title": "Devastator",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/d/devastator-switch/hero",
+      "genres": [
+        "Аркадные гонки",
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 899,
+      "original_price_rub": 1059,
+      "discount_percent": 29,
+      "is_free": false
+    },
+    {
       "id": 422970,
       "title": "Devil Daggers",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/422970/capsule_616x353.jpg",
@@ -47313,6 +48324,24 @@
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": true
+    },
+    {
+      "id": "ns70010000048271",
+      "title": "Dieselpunk Wars",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/d/dieselpunk-wars-switch/hero",
+      "genres": [
+        "Технические симуляторы",
+        "Other",
+        "Экшен",
+        "Strategy"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1699,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
     },
     {
       "id": 1275590,
@@ -47963,6 +48992,23 @@
         "PC"
       ],
       "price_rub": 1676,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000051962",
+      "title": "Disco Cannon Airlines",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/d/disco-cannon-airlines-switch/hero",
+      "genres": [
+        "Аркадные гонки",
+        "Экшен",
+        "Технические симуляторы"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 579,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -49270,6 +50316,23 @@
         "PC"
       ],
       "price_rub": 894,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000019795",
+      "title": "Don't Starve Together",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/d/dont-starve-together-switch/hero",
+      "genres": [
+        "Приключения",
+        "Multiplayer",
+        "Indie"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1699,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -51445,9 +52508,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 610,
-      "original_price_rub": 671,
-      "discount_percent": 35,
+      "price_rub": 677,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -52648,7 +53711,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 2221,
+      "price_rub": 2283,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -52775,6 +53838,22 @@
       "price_rub": 539,
       "original_price_rub": 901,
       "discount_percent": 90,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000047342",
+      "title": "Dungetris",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/d/dungetris-switch/hero",
+      "genres": [
+        "Приключения",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 739,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -55142,6 +56221,24 @@
       "is_free": false
     },
     {
+      "id": "ns70010000050149",
+      "title": "EleMetals: Death Metal Death Match!",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/e/elemetals-death-metal-death-match-switch/hero",
+      "genres": [
+        "Аркадные гонки",
+        "Экшен",
+        "Файтинги",
+        "Платформеры"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 819,
+      "original_price_rub": 1539,
+      "discount_percent": 69,
+      "is_free": false
+    },
+    {
       "id": 1456880,
       "title": "ElecHead",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1456880/capsule_616x353.jpg",
@@ -56326,6 +57423,24 @@
       "is_free": false
     },
     {
+      "id": "ns70010000025116",
+      "title": "Endling - Extinction is Forever",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/e/endling-extinction-is-forever-switch/hero",
+      "genres": [
+        "Приключения",
+        "Other",
+        "Технические симуляторы",
+        "Indie"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2898,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 2124780,
       "title": "Endoparasitic",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2124780/capsule_616x353.jpg",
@@ -56677,14 +57792,14 @@
     {
       "id": 562770,
       "title": "Enigmo",
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/562770/d44e061c0361bed24ee92f65c487626e683b5eec/header.jpg?t=1783443026",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/562770/d44e061c0361bed24ee92f65c487626e683b5eec/header.jpg?t=1784082673",
       "genres": [
         "Экшен"
       ],
       "platforms": [
         "PC"
       ],
-      "price_rub": 896,
+      "price_rub": 910,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -58320,6 +59435,23 @@
       "is_free": false
     },
     {
+      "id": "ns70010000051393",
+      "title": "Evasion From Hell",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/e/evasion-from-hell-switch/hero",
+      "genres": [
+        "Платформеры",
+        "Экшен",
+        "Приключения"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1299,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 470260,
       "title": "Event[0]",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/470260/capsule_616x353.jpg",
@@ -59253,6 +60385,24 @@
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": true
+    },
+    {
+      "id": "ns70010000053034",
+      "title": "Eye Exercise - Ver. kompeito",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/e/eye-exercise-ver-kompeito-switch/hero",
+      "genres": [
+        "Экшен",
+        "Гоночные симуляторы (Simracing)",
+        "Training",
+        "Utility"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 659,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
     },
     {
       "id": 2343930,
@@ -61333,6 +62483,54 @@
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": true
+    },
+    {
+      "id": "ns70010000039214",
+      "title": "Famicom Detective Club™: The Girl Who Stands Behind",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/f/famicom-detective-club-the-girl-who-stands-behind-switch/famicom-detective-club-the-girl-who-stands-behind-switch-box-eshop",
+      "genres": [
+        "Приключения",
+        "Технические симуляторы"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 3298,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000039215",
+      "title": "Famicom Detective Club™: The Missing Heir",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/f/famicom-detective-club-the-missing-heir-switch/famicom-detective-club-the-missing-heir-switch-box-eshop",
+      "genres": [
+        "Приключения",
+        "Технические симуляторы"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 3298,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70070000012266",
+      "title": "Famicom Detective Club™: The Two-Case Collection",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/f/famicom-detective-club-the-two-case-collection-switch/hero",
+      "genres": [
+        "Приключения",
+        "Технические симуляторы"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
     },
     {
       "id": 1197520,
@@ -63492,6 +64690,58 @@
       "is_free": false
     },
     {
+      "id": "ns70010000000600",
+      "title": "Fire Emblem Warriors",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/f/fire-emblem-warriors-switch/boxart",
+      "genres": [
+        "Технические симуляторы",
+        "Экшен",
+        "Strategy",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000050778",
+      "title": "Fire Emblem Warriors: Three Hopes",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/f/fire-emblem-warriors-three-hopes-switch/hero",
+      "genres": [
+        "Экшен",
+        "Strategy",
+        "Role-Playing",
+        "Технические симуляторы"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000007606",
+      "title": "Fire Emblem™: Three Houses",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/f/fire-emblem-three-houses-switch/boxart",
+      "genres": [
+        "Приключения",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 564230,
       "title": "Fire Pro Wrestling World",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/564230/capsule_616x353.jpg",
@@ -64016,6 +65266,40 @@
       "is_free": false
     },
     {
+      "id": "ns70010000009564",
+      "title": "Fitness Boxing",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/f/fitness-boxing-switch/boxart",
+      "genres": [
+        "Music",
+        "Спортивные симуляторы"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 4498,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000035030",
+      "title": "Fitness Boxing 2: Rhythm & Exercise",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/f/fitness-boxing-2-rhythm-and-exercise-switch/boxart",
+      "genres": [
+        "Training",
+        "Спортивные симуляторы",
+        "Music",
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 4498,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 1353270,
       "title": "Five Dates",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1353270/capsule_616x353.jpg",
@@ -64313,6 +65597,24 @@
       "is_free": false
     },
     {
+      "id": "ns70010000051342",
+      "title": "Flat Kingdom Paper's Cut Edition",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/f/flat-kingdom-papers-cut-edition-switch/hero",
+      "genres": [
+        "Платформеры",
+        "Экшен",
+        "Приключения",
+        "Головоломки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1139,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 6220,
       "title": "FlatOut",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/6220/capsule_616x353.jpg",
@@ -64493,6 +65795,23 @@
       "is_free": false
     },
     {
+      "id": "ns70010000029117",
+      "title": "Flewfie's Adventure",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/f/flewfies-adventure-switch/hero",
+      "genres": [
+        "Экшен",
+        "Приключения",
+        "Головоломки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1299,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 2181550,
       "title": "Flife",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2181550/capsule_616x353.jpg",
@@ -64617,6 +65936,24 @@
       "is_free": false
     },
     {
+      "id": "ns70010000049337",
+      "title": "Floating Farmer",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/f/floating-farmer-switch/hero",
+      "genres": [
+        "Головоломки",
+        "Board Game",
+        "Education",
+        "Технические симуляторы"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 691,
+      "original_price_rub": 739,
+      "discount_percent": 20,
+      "is_free": false
+    },
+    {
       "id": 260330,
       "title": "Flockers™",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/260330/capsule_616x353.jpg",
@@ -64649,6 +65986,24 @@
       "price_rub": 1418,
       "original_price_rub": null,
       "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000050134",
+      "title": "Floogen",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/f/floogen-switch/hero",
+      "genres": [
+        "Аркадные гонки",
+        "Экшен",
+        "Приключения",
+        "Платформеры"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 659,
+      "original_price_rub": 819,
+      "discount_percent": 50,
       "is_free": false
     },
     {
@@ -65865,6 +67220,23 @@
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
+    },
+    {
+      "id": "ns70010000010192",
+      "title": "Fortnite",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/f/fortnite-switch/boxart",
+      "genres": [
+        "Экшен",
+        "Strategy",
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 0,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": true
     },
     {
       "id": 410900,
@@ -67467,6 +68839,22 @@
       "is_free": false
     },
     {
+      "id": "ns70010000052151",
+      "title": "Funny Truck",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/f/funny-truck-switch/hero",
+      "genres": [
+        "Аркадные гонки",
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 579,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 423230,
       "title": "Furi",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/423230/capsule_616x353.jpg",
@@ -68713,6 +70101,38 @@
       "is_free": false
     },
     {
+      "id": "ns7e701e29-97f9-4f80-939f-741a69844bdb",
+      "title": "Game & Watch™: The Legend of Zelda™",
+      "cover": "https://assets.nintendo.com/image/upload/E3/2021/Products/znwxBYWj7Bd3/game-and-watch/header",
+      "genres": [
+        "Приключения",
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 4498,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000041267",
+      "title": "Game Builder Garage™",
+      "cover": "https://assets.nintendo.com/image/upload/f_auto%2Cq_auto/ncom/en_US/games/switch/g/game-builder-garage-switch/box",
+      "genres": [
+        "Education",
+        "Training"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2898,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 292230,
       "title": "Game Character Hub",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/292230/capsule_616x353.jpg",
@@ -69453,6 +70873,21 @@
       "is_free": false
     },
     {
+      "id": 3010850,
+      "title": "Gears of War: E-Day",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3010850/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 4602,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 1114220,
       "title": "Gedonia",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1114220/capsule_616x353.jpg",
@@ -70095,6 +71530,24 @@
         "PC"
       ],
       "price_rub": 991,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000040156",
+      "title": "Get-A-Grip Chip and the Body Bugs",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/g/get-a-grip-chip-and-the-body-bugs-switch/hero",
+      "genres": [
+        "Платформеры",
+        "Education",
+        "Экшен",
+        "Приключения"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 739,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -70882,6 +72335,22 @@
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": true
+    },
+    {
+      "id": "ns70010000047761",
+      "title": "Glitchhikers: The Spaces Between",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/g/glitchhikers-the-spaces-between-switch/hero",
+      "genres": [
+        "Приключения",
+        "Lifestyle"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1279,
+      "original_price_rub": 1539,
+      "discount_percent": 25,
+      "is_free": false
     },
     {
       "id": 290060,
@@ -72985,6 +74454,22 @@
       "is_free": false
     },
     {
+      "id": "ns70010000052492",
+      "title": "Gravitar: Recharged",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/g/gravitar-recharged-switch/hero",
+      "genres": [
+        "Аркадные гонки",
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1299,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 1067310,
       "title": "Gravitas",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1067310/capsule_616x353.jpg",
@@ -74137,7 +75622,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 536,
+      "price_rub": 537,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -74290,6 +75775,23 @@
         "PC"
       ],
       "price_rub": 1033,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000047001",
+      "title": "Guild of Dungeoneering Ultimate Edition",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/g/guild-of-dungeoneering-ultimate-edition-switch/hero",
+      "genres": [
+        "Role-Playing",
+        "Board Game",
+        "Strategy"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2099,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -75597,6 +77099,24 @@
       "is_free": false
     },
     {
+      "id": "ns70010000051737",
+      "title": "HYPER DRONE X",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/h/hyper-drone-x-switch/hero",
+      "genres": [
+        "Гоночные симуляторы (Simracing)",
+        "Экшен",
+        "Party",
+        "Аркадные гонки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1187,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 523660,
       "title": "HYPERCHARGE: Unboxed",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/523660/capsule_616x353.jpg",
@@ -75799,7 +77319,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1067,
+      "price_rub": 1087,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -76636,6 +78156,23 @@
         "PC"
       ],
       "price_rub": 717,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000045023",
+      "title": "Happy's Humble Burger Farm",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/h/happys-humble-burger-farm-switch/hero",
+      "genres": [
+        "Экшен",
+        "Приключения",
+        "Технические симуляторы"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2099,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -81254,6 +82791,22 @@
       "is_free": false
     },
     {
+      "id": "ns70010000050633",
+      "title": "Horgihugh And Friends",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/h/horgihugh-and-friends-switch/hero",
+      "genres": [
+        "Экшен",
+        "Приключения"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2898,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 236130,
       "title": "Horizon",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/236130/capsule_616x353.jpg",
@@ -81271,6 +82824,23 @@
       "price_rub": 707,
       "original_price_rub": 1533,
       "discount_percent": 80,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000050419",
+      "title": "Horizon Midnight Sky Combat Aircraft - War Arena Flight Simulator 2022",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/h/horizon-midnight-sky-combat-aircraft-war-arena-flight-simulator-2022-switch/hero",
+      "genres": [
+        "Экшен",
+        "Технические симуляторы",
+        "Strategy"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1699,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -81363,6 +82933,24 @@
       "price_rub": 714,
       "original_price_rub": null,
       "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000048753",
+      "title": "Horse Stable: Herd Care Simulator",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/h/horse-stable-herd-care-simulator-switch/hero",
+      "genres": [
+        "Приключения",
+        "Role-Playing",
+        "Технические симуляторы",
+        "Гоночные симуляторы (Simracing)"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 755,
+      "original_price_rub": 1139,
+      "discount_percent": 60,
       "is_free": false
     },
     {
@@ -81577,6 +83165,24 @@
       "price_rub": 598,
       "original_price_rub": 999,
       "discount_percent": 80,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000051060",
+      "title": "Hourglass",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/h/hourglass-switch/hero",
+      "genres": [
+        "Приключения",
+        "Головоломки",
+        "Платформеры",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2498,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -82728,6 +84334,23 @@
         "PC"
       ],
       "price_rub": 636,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000034760",
+      "title": "Hyrule Warriors: Age of Calamity",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/h/hyrule-warriors-age-of-calamity-switch/boxart",
+      "genres": [
+        "Экшен",
+        "Приключения",
+        "Файтинги"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -84229,6 +85852,23 @@
       "is_free": false
     },
     {
+      "id": "ns70010000043275",
+      "title": "Ikai",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/i/ikai-switch/hero",
+      "genres": [
+        "Приключения",
+        "Головоломки",
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1699,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 253750,
       "title": "Ikaruga",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/253750/capsule_616x353.jpg",
@@ -84477,6 +86117,23 @@
       "price_rub": 1033,
       "original_price_rub": 3171,
       "discount_percent": 80,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000048147",
+      "title": "Imp of the Sun",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/i/imp-of-the-sun-switch/hero",
+      "genres": [
+        "Экшен",
+        "Приключения",
+        "Платформеры"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2099,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -86661,6 +88318,23 @@
       "is_free": false
     },
     {
+      "id": "ns70010000053633",
+      "title": "Invasion Waves",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/i/invasion-waves-switch/hero",
+      "genres": [
+        "Экшен",
+        "Аркадные гонки",
+        "Practical"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 900,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 423710,
       "title": "Invasion: Brain Craving",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/423710/capsule_616x353.jpg",
@@ -87701,6 +89375,24 @@
       "is_free": true
     },
     {
+      "id": "ns70010000043590",
+      "title": "JUMANJI: The Curse Returns",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/j/jumanji-the-curse-returns-switch/hero",
+      "genres": [
+        "Board Game",
+        "Multiplayer",
+        "Приключения",
+        "Party"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2019,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 220900,
       "title": "Jack Lumber",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/220900/capsule_616x353.jpg",
@@ -87784,6 +89476,23 @@
         "PC"
       ],
       "price_rub": 1380,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000044565",
+      "title": "Jade Order",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/j/jade-order-switch/hero",
+      "genres": [
+        "Головоломки",
+        "Strategy",
+        "Приключения"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1059,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -88006,6 +89715,21 @@
         "PC"
       ],
       "price_rub": 946,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000051191",
+      "title": "Japanese NEKOSAMA Escape -The Mountain Cottage-",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/j/japanese-nekosama-escape-the-mountain-cottage-switch/hero",
+      "genres": [
+        "Головоломки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1299,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -88754,6 +90478,23 @@
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
+    },
+    {
+      "id": "ns70010000032653",
+      "title": "Jump Rope Challenge",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/j/jump-rope-challenge-switch/boxart",
+      "genres": [
+        "Other",
+        "Спортивные симуляторы",
+        "Multiplayer"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 0,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": true
     },
     {
       "id": 1757300,
@@ -90562,6 +92303,22 @@
       "is_free": true
     },
     {
+      "id": "ns70010000053419",
+      "title": "Kiddy Memory",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/k/kiddy-memory-switch/hero",
+      "genres": [
+        "Головоломки",
+        "Board Game"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 819,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 382300,
       "title": "Kidnapped",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/382300/capsule_616x353.jpg",
@@ -91961,6 +93718,37 @@
       "is_free": true
     },
     {
+      "id": "ns70010000034635",
+      "title": "Kirby Fighters™ 2",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/k/kirby-fighters-2-switch/boxart",
+      "genres": [
+        "Файтинги"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2099,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000046405",
+      "title": "Kirby™ and the Forgotten Land",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/k/kirby-and-the-forgotten-land-switch/hero",
+      "genres": [
+        "Платформеры",
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 2107090,
       "title": "KitHack Model Club",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2107090/capsule_616x353.jpg",
@@ -92068,6 +93856,24 @@
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": true
+    },
+    {
+      "id": "ns70010000005724",
+      "title": "KnightOut",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/k/knightout-switch/hero",
+      "genres": [
+        "Party",
+        "Экшен",
+        "Strategy",
+        "Приключения"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1339,
+      "original_price_rub": 1699,
+      "discount_percent": 30,
+      "is_free": false
     },
     {
       "id": 254060,
@@ -92492,6 +94298,24 @@
       "is_free": false
     },
     {
+      "id": "ns70010000045611",
+      "title": "Krut: The Mythic Wings",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/k/krut-the-mythic-wings-switch/hero",
+      "genres": [
+        "Экшен",
+        "Приключения",
+        "Файтинги",
+        "Платформеры"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1299,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 2092850,
       "title": "Krzyżacy - The Knights of the Cross",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2092850/capsule_616x353.jpg",
@@ -92785,6 +94609,21 @@
       "is_free": false
     },
     {
+      "id": "ns70010000016480",
+      "title": "LAYTON’S MYSTERY JOURNEY™: Katrielle and the Millionaires’ Conspiracy - Deluxe Edition",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/l/laytons-mystery-journey-katrielle-and-the-millionaires-conspiracy-deluxe-edition-switch/boxart",
+      "genres": [
+        "Приключения"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 3698,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 2107280,
       "title": "LAZ3RZ",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2107280/capsule_616x353.jpg",
@@ -92892,6 +94731,23 @@
       "is_free": false
     },
     {
+      "id": "ns70010000046171",
+      "title": "LEGO® Brawls",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/l/lego-brawls-switch/hero",
+      "genres": [
+        "Экшен",
+        "Аркадные гонки",
+        "Файтинги"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 3698,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 1898290,
       "title": "LEGO® Bricktales",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1898290/capsule_616x353.jpg",
@@ -92923,7 +94779,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1215,
+      "price_rub": 1241,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -93185,6 +95041,21 @@
       "is_free": false
     },
     {
+      "id": "ns70010000018041",
+      "title": "LEGO® Star Wars™: The Skywalker Saga",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/l/lego-star-wars-the-skywalker-saga-switch/hero",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 285160,
       "title": "LEGO® The Hobbit™",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/285160/capsule_616x353.jpg",
@@ -93396,6 +95267,21 @@
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": true
+    },
+    {
+      "id": "ns70010000050787",
+      "title": "LIVE A LIVE",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/l/live-a-live-switch/hero",
+      "genres": [
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 4498,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
     },
     {
       "id": 2780980,
@@ -93804,6 +95690,22 @@
       "is_free": false
     },
     {
+      "id": "ns70010000049354",
+      "title": "Labyrinth of the Chaka King",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/l/labyrinth-of-the-chaka-king-switch/hero",
+      "genres": [
+        "Головоломки",
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1060,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 1302240,
       "title": "Labyrinthine",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1302240/capsule_616x353.jpg",
@@ -94032,6 +95934,22 @@
         "PC"
       ],
       "price_rub": 1060,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000049060",
+      "title": "Lamplight City",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/l/lamplight-city-switch/hero",
+      "genres": [
+        "Приключения",
+        "Головоломки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1699,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -94610,6 +96528,23 @@
         "PC"
       ],
       "price_rub": 946,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000049445",
+      "title": "Later Daters Premium",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/l/later-daters-premium-switch/hero",
+      "genres": [
+        "Технические симуляторы",
+        "Lifestyle",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1699,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -95312,9 +97247,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 524,
-      "original_price_rub": 627,
-      "discount_percent": 81,
+      "price_rub": 589,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -96053,7 +97988,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 991,
+      "price_rub": 1009,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -97562,6 +99497,24 @@
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": true
+    },
+    {
+      "id": "ns70010000051144",
+      "title": "Logistics Simulator",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/l/logistics-simulator-switch/hero",
+      "genres": [
+        "Технические симуляторы",
+        "Study",
+        "Training",
+        "Strategy"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1299,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
     },
     {
       "id": 1068300,
@@ -99291,6 +101244,22 @@
       "is_free": false
     },
     {
+      "id": "ns70010000001620",
+      "title": "Luigi’s Mansion™ 3",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/l/luigis-mansion-3-switch/boxart",
+      "genres": [
+        "Экшен",
+        "Приключения"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 1389420,
       "title": "Luise and Secret Basement Rooms",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1389420/capsule_616x353.jpg",
@@ -99323,6 +101292,41 @@
       "price_rub": 1064,
       "original_price_rub": null,
       "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000043056",
+      "title": "LumbearJack",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/l/lumbearjack-switch/hero",
+      "genres": [
+        "Приключения",
+        "Головоломки",
+        "Indie"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1539,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000043546",
+      "title": "Lumberhill",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/l/lumberhill-switch/hero",
+      "genres": [
+        "Party",
+        "Технические симуляторы",
+        "Multiplayer",
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1259,
+      "original_price_rub": 1699,
+      "discount_percent": 37,
       "is_free": false
     },
     {
@@ -99758,6 +101762,37 @@
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": true
+    },
+    {
+      "id": 3787240,
+      "title": "MARVEL Tōkon: Fighting Souls",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3787240/943fda32c11b3e3f451458ffa95a4adca1f316a4/header.jpg?t=1784908718",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 4067,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000010079",
+      "title": "MARVEL ULTIMATE ALLIANCE 3: The Black Order",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/m/marvel-ultimate-alliance-3-the-black-order-switch/boxart",
+      "genres": [
+        "Экшен",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
     },
     {
       "id": 2634890,
@@ -100265,6 +102300,22 @@
       "is_free": true
     },
     {
+      "id": "ns70010000044436",
+      "title": "MLB® The Show™ 22",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/m/mlb-the-show-22-switch/hero",
+      "genres": [
+        "Спортивные симуляторы",
+        "Технические симуляторы"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 486860,
       "title": "MMORPG Tycoon 2",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/486860/capsule_616x353.jpg",
@@ -100382,6 +102433,21 @@
       "price_rub": 2910,
       "original_price_rub": null,
       "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000029016",
+      "title": "MONSTER HUNTER RISE",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/m/monster-hunter-rise-switch/boxart",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2946,
+      "original_price_rub": 5297,
+      "discount_percent": 49,
       "is_free": false
     },
     {
@@ -100821,6 +102887,21 @@
       "price_rub": 545,
       "original_price_rub": null,
       "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 4108000,
+      "title": "Machine Party",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/00ae7d0e0fd0ad72635bddb1dd80ee68cc94eed5/header.jpg?t=1785746697",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 802,
+      "original_price_rub": 855,
+      "discount_percent": 15,
       "is_free": false
     },
     {
@@ -101588,6 +103669,24 @@
         "PC"
       ],
       "price_rub": 1060,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000051635",
+      "title": "Mahjong: Magic Casual Puzzle",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/m/mahjong-magic-casual-puzzle-switch/hero",
+      "genres": [
+        "Головоломки",
+        "Board Game",
+        "Training",
+        "Study"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1299,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -102527,6 +104626,21 @@
       "is_free": false
     },
     {
+      "id": "ns70010000049822",
+      "title": "Marco & The Galaxy Dragon",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/m/marco-and-the-galaxy-dragon-switch/hero",
+      "genres": [
+        "Приключения"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2099,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 4660660,
       "title": "Marianara Deep",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4660660/a18ad7b9750294c3f5865c64c2daf99e9425c7ad/header.jpg?t=1783337301",
@@ -102555,6 +104669,100 @@
       "price_rub": 531,
       "original_price_rub": 627,
       "discount_percent": 76,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000038622",
+      "title": "Mario Golf™: Super Rush",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/m/mario-golf-super-rush-switch/mario-golf-super-rush-switch-box-eshop",
+      "genres": [
+        "Спортивные симуляторы",
+        "Multiplayer"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000012352",
+      "title": "Mario Kart Live: Home Circuit™",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/m/mario-kart-live-home-circuit-switch/boxart",
+      "genres": [
+        "Гоночные симуляторы (Simracing)"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 0,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": true
+    },
+    {
+      "id": "ns70010000000153",
+      "title": "Mario Kart™ 8 Deluxe",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/m/mario-kart-8-deluxe-switch/boxart",
+      "genres": [
+        "Гоночные симуляторы (Simracing)",
+        "Multiplayer",
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000042934",
+      "title": "Mario Party™ Superstars",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/m/mario-party-superstars-switch/hero",
+      "genres": [
+        "Party",
+        "Multiplayer"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000049936",
+      "title": "Mario Strikers™: Battle League",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/m/mario-strikers-battle-league-switch/hero",
+      "genres": [
+        "Спортивные симуляторы"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000003889",
+      "title": "Mario Tennis™ Aces",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/m/mario-tennis-aces-switch/boxart",
+      "genres": [
+        "Спортивные симуляторы"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -103824,6 +106032,22 @@
       "is_free": false
     },
     {
+      "id": "ns70010000052699",
+      "title": "Mechanic Battle",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/m/mechanic-battle-switch/hero",
+      "genres": [
+        "Гоночные симуляторы (Simracing)",
+        "Спортивные симуляторы"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1299,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 268240,
       "title": "Mechanic Escape",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/268240/capsule_616x353.jpg",
@@ -105000,6 +107224,23 @@
       "is_free": false
     },
     {
+      "id": "ns70010000021592",
+      "title": "Metal Tales Overkill",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/m/metal-tales-overkill-switch/hero",
+      "genres": [
+        "Аркадные гонки",
+        "Экшен",
+        "Music"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1699,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 1173200,
       "title": "Metal Unit",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1173200/capsule_616x353.jpg",
@@ -105319,6 +107560,22 @@
         "PC"
       ],
       "price_rub": 1418,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000042924",
+      "title": "Metroid™ Dread",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/m/metroid-dread-switch/hero",
+      "genres": [
+        "Экшен",
+        "Приключения"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -105962,6 +108219,22 @@
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": true
+    },
+    {
+      "id": "ns70010000038617",
+      "title": "Miitopia™",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/m/miitopia-switch/miitopia-switch-box",
+      "genres": [
+        "Приключения",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 4498,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
     },
     {
       "id": 332700,
@@ -107122,6 +109395,23 @@
       "is_free": false
     },
     {
+      "id": "ns70010000053001",
+      "title": "Mischief Dungeon Life",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/m/mischief-dungeon-life-switch/hero",
+      "genres": [
+        "Технические симуляторы",
+        "Приключения",
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2091,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 299740,
       "title": "Miscreated",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/299740/capsule_616x353.jpg",
@@ -107591,6 +109881,24 @@
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": true
+    },
+    {
+      "id": "ns70010000031036",
+      "title": "Mokoko X",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/m/mokoko-x-switch/hero",
+      "genres": [
+        "Аркадные гонки",
+        "Головоломки",
+        "Экшен",
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1419,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
     },
     {
       "id": 302790,
@@ -108360,6 +110668,23 @@
         "PC"
       ],
       "price_rub": 981,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000047922",
+      "title": "Moonrise Fall",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/m/moonrise-fall-switch/hero",
+      "genres": [
+        "Приключения",
+        "Экшен",
+        "Головоломки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1299,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -109348,7 +111673,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1222,
+      "price_rub": 1248,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -109466,6 +111791,24 @@
       "is_free": false
     },
     {
+      "id": "ns70010000051680",
+      "title": "Mr. Prepper",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/m/mr-prepper-switch/hero",
+      "genres": [
+        "Экшен",
+        "Приключения",
+        "Платформеры",
+        "Технические симуляторы"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1739,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 1340530,
       "title": "Mr. Prepper: Prologue",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1340530/capsule_616x353.jpg",
@@ -109573,6 +111916,24 @@
         "PC"
       ],
       "price_rub": 1308,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000052422",
+      "title": "Mudness Offroad Car Simulator",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/m/mudness-offroad-car-simulator-switch/hero",
+      "genres": [
+        "Технические симуляторы",
+        "Гоночные симуляторы (Simracing)",
+        "Спортивные симуляторы",
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1699,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -110218,6 +112579,22 @@
       "is_free": false
     },
     {
+      "id": "ns70010000051023",
+      "title": "My Coloring Book 2",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/m/my-coloring-book-2-switch/hero",
+      "genres": [
+        "Головоломки",
+        "Education"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 699,
+      "original_price_rub": 899,
+      "discount_percent": 50,
+      "is_free": false
+    },
+    {
       "id": 2109800,
       "title": "My Dear Sister",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2109800/capsule_616x353.jpg",
@@ -110438,6 +112815,23 @@
       "price_rub": 624,
       "original_price_rub": 998,
       "discount_percent": 75,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000046514",
+      "title": "My Lovely Wife",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/m/my-lovely-wife-switch/hero",
+      "genres": [
+        "Приключения",
+        "Технические симуляторы",
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1699,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -110740,6 +113134,22 @@
       "price_rub": 991,
       "original_price_rub": null,
       "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000053247",
+      "title": "Mysteries Under Lake Ophelia",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/m/mysteries-under-lake-ophelia-switch/hero",
+      "genres": [
+        "Приключения",
+        "Технические симуляторы"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 895,
+      "original_price_rub": 939,
+      "discount_percent": 10,
       "is_free": false
     },
     {
@@ -111216,6 +113626,21 @@
       "price_rub": 981,
       "original_price_rub": 3943,
       "discount_percent": 86,
+      "is_free": false
+    },
+    {
+      "id": 4356430,
+      "title": "NBA 2K27",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/9152438fde7de9f4c20b4fd9072ba69f844dacab/header.jpg?t=1785348570",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 4067,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -112101,6 +114526,22 @@
       "price_rub": 1072,
       "original_price_rub": 1930,
       "discount_percent": 60,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000053359",
+      "title": "Nail Salon: Style and Makeup Bag",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/n/nail-salon-style-and-makeup-bag-switch/hero",
+      "genres": [
+        "Lifestyle",
+        "Технические симуляторы"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 756,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -113215,6 +115656,23 @@
       "is_free": false
     },
     {
+      "id": "ns70010000037795",
+      "title": "Neon White",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/n/neon-white-switch/hero",
+      "genres": [
+        "Шутеры от первого лица (FPS)",
+        "Экшен",
+        "Приключения"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2299,
+      "original_price_rub": 2498,
+      "discount_percent": 10,
+      "is_free": false
+    },
+    {
       "id": 1462760,
       "title": "Neon Wings: Air Race",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1462760/capsule_616x353.jpg",
@@ -113258,6 +115716,22 @@
         "PC"
       ],
       "price_rub": 671,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000047822",
+      "title": "Neptunia X SENRAN KAGURA: Ninja Wars",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/n/neptunia-x-senran-kagura-ninja-wars-switch/hero",
+      "genres": [
+        "Экшен",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 4498,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -113668,6 +116142,21 @@
       "is_free": false
     },
     {
+      "id": "ns70010000037989",
+      "title": "New Pokémon Snap™",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/n/new-pokemon-snap-switch/boxart",
+      "genres": [
+        "Технические симуляторы"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 2217580,
       "title": "New Star™ GP",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2217580/capsule_616x353.jpg",
@@ -113696,6 +116185,22 @@
         "PC"
       ],
       "price_rub": 888,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000006411",
+      "title": "New Super Mario Bros.™ U Deluxe",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/n/new-super-mario-bros-u-deluxe-switch/boxart",
+      "genres": [
+        "Платформеры",
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -114657,6 +117162,38 @@
       "price_rub": 522,
       "original_price_rub": 724,
       "discount_percent": 90,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000046983",
+      "title": "Nintendo 64™ – Nintendo Switch Online",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/n/nintendo-64-nintendo-switch-online-switch/hero",
+      "genres": [
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 0,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": true
+    },
+    {
+      "id": "ns70010000049931",
+      "title": "Nintendo Switch™ Sports",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/n/nintendo-switch-sports-switch/hero",
+      "genres": [
+        "Спортивные симуляторы",
+        "Multiplayer",
+        "Party"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 3698,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -116086,6 +118623,22 @@
       "is_free": false
     },
     {
+      "id": "ns70010000048936",
+      "title": "Nun Massacre",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/n/nun-massacre-switch/hero",
+      "genres": [
+        "Other",
+        "Приключения"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 979,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 2854740,
       "title": "Nunholy",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2854740/capsule_616x353.jpg",
@@ -117198,6 +119751,24 @@
       "is_free": false
     },
     {
+      "id": "ns70010000052177",
+      "title": "Ocean Animals Puzzle - Preschool Animal Learning Puzzles Game for Kids & Toddlers",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/o/ocean-animals-puzzle-preschool-animal-learning-puzzles-game-for-kids-and-toddlers-switch/hero",
+      "genres": [
+        "Education",
+        "Головоломки",
+        "Board Game",
+        "Приключения"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1699,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 2845630,
       "title": "Ocean Keeper: Dome Survival",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2845630/capsule_616x353.jpg",
@@ -117645,6 +120216,22 @@
         "PC"
       ],
       "price_rub": 1568,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000045897",
+      "title": "Ogre: Console Edition",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/o/ogre-console-edition-switch/hero",
+      "genres": [
+        "Strategy",
+        "Board Game"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2299,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -120127,6 +122714,24 @@
       "is_free": false
     },
     {
+      "id": "ns70010000047255",
+      "title": "Outbreak: Contagious Memories",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/o/outbreak-contagious-memories-switch/hero",
+      "genres": [
+        "Приключения",
+        "Экшен",
+        "Шутеры от первого лица (FPS)",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1699,
+      "original_price_rub": 2898,
+      "discount_percent": 50,
+      "is_free": false
+    },
+    {
       "id": 811720,
       "title": "Outbreak: The Nightmare Chronicles",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/811720/capsule_616x353.jpg",
@@ -120526,6 +123131,24 @@
       "price_rub": 1222,
       "original_price_rub": null,
       "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000003402",
+      "title": "Overcooked! 2",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/o/overcooked-2-switch/boxart",
+      "genres": [
+        "Технические симуляторы",
+        "Strategy",
+        "Communication",
+        "Party"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 999,
+      "original_price_rub": 2498,
+      "discount_percent": 75,
       "is_free": false
     },
     {
@@ -121843,6 +124466,24 @@
       "is_free": true
     },
     {
+      "id": "ns70010000041220",
+      "title": "PRIDE DANCE Out & Proud",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/p/pride-dance-out-and-proud-switch/hero",
+      "genres": [
+        "Аркадные гонки",
+        "Music",
+        "Party",
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1699,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 491470,
       "title": "PRINCIPIA: Master of Science",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/491470/capsule_616x353.jpg",
@@ -122568,7 +125209,23 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 929,
+      "price_rub": 632,
+      "original_price_rub": 944,
+      "discount_percent": 70,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000029726",
+      "title": "Paper Mario™: The Origami King",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/p/paper-mario-the-origami-king-switch/boxart",
+      "genres": [
+        "Приключения",
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -122641,6 +125298,24 @@
         "PC"
       ],
       "price_rub": 894,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000054026",
+      "title": "Paradise Island Driver",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/p/paradise-island-driver-switch/hero",
+      "genres": [
+        "Технические симуляторы",
+        "Гоночные симуляторы (Simracing)",
+        "Экшен",
+        "Приключения"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1539,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -122822,6 +125497,23 @@
       "is_free": false
     },
     {
+      "id": "ns70010000037224",
+      "title": "Parkasaurus",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/p/parkasaurus-switch/hero",
+      "genres": [
+        "Технические симуляторы",
+        "Strategy",
+        "Indie"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2498,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 1185370,
       "title": "Parked In The Dark",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1185370/capsule_616x353.jpg",
@@ -122855,6 +125547,22 @@
         "PC"
       ],
       "price_rub": 1541,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000036178",
+      "title": "Part Time UFO™",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/p/part-time-ufo-switch/boxart",
+      "genres": [
+        "Головоломки",
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1219,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -124778,6 +127486,41 @@
       "is_free": false
     },
     {
+      "id": "ns70010000048011",
+      "title": "PigShip and the Giant Wolf",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/p/pigship-and-the-giant-wolf-switch/hero",
+      "genres": [
+        "Экшен",
+        "Аркадные гонки",
+        "Приключения"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1139,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000005302",
+      "title": "Pikmin™ 3 Deluxe",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/p/pikmin-3-deluxe-switch/boxart",
+      "genres": [
+        "Экшен",
+        "Приключения",
+        "Strategy",
+        "Multiplayer"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 572890,
       "title": "Pikuniku",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/572890/capsule_616x353.jpg",
@@ -125008,6 +127751,23 @@
       "is_free": false
     },
     {
+      "id": "ns70010000029110",
+      "title": "Pinku Kult: Hex Mortis",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/p/pinku-kult-hex-mortis-switch/hero",
+      "genres": [
+        "Role-Playing",
+        "Приключения",
+        "Головоломки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1299,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 331480,
       "title": "Pinstripe",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/331480/capsule_616x353.jpg",
@@ -125077,6 +127837,24 @@
       "price_rub": 615,
       "original_price_rub": 757,
       "discount_percent": 55,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000052175",
+      "title": "Pirates Jigsaw Puzzle - Education Adventure Learning Children Puzzles Games for Kids & Toddlers",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/p/pirates-jigsaw-puzzle-education-adventure-learning-children-puzzles-games-for-kids-and-toddlers-switch/hero",
+      "genres": [
+        "Education",
+        "Головоломки",
+        "Board Game",
+        "Приключения"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1699,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -125291,6 +128069,23 @@
         "PC"
       ],
       "price_rub": 3196,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000051827",
+      "title": "Pixel Game Maker Series KINGDOM FIGHTER",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/p/pixel-game-maker-series-kingdom-fighter-switch/hero",
+      "genres": [
+        "Аркадные гонки",
+        "Экшен",
+        "Файтинги"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1619,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -126977,6 +129772,264 @@
       "is_free": true
     },
     {
+      "id": "ns70010000001132",
+      "title": "Pokkén Tournament™ DX",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/p/pokken-tournament-dx-switch/boxart",
+      "genres": [
+        "Файтинги",
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000012523",
+      "title": "Pokémon Mystery Dungeon™: Rescue Team DX",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/p/pokemon-mystery-dungeon-rescue-team-dx-switch/boxart",
+      "genres": [
+        "Приключения",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000053966",
+      "title": "Pokémon Scarlet",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/p/pokemon-scarlet-switch/hero",
+      "genres": [
+        "Приключения",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000026262",
+      "title": "Pokémon Sword and Pokémon Shield Double Pack Digital Version",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/p/pokemon-sword-and-pokemon-shield-double-pack-digital-version-switch/boxart",
+      "genres": [
+        "Приключения",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 10095,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000041440",
+      "title": "Pokémon TV",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/p/pokemon-tv-switch/hero",
+      "genres": [
+        "Video",
+        "Lifestyle",
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 0,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": true
+    },
+    {
+      "id": "ns70010000053971",
+      "title": "Pokémon Violet",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/p/pokemon-violet-switch/hero",
+      "genres": [
+        "Приключения",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000039950",
+      "title": "Pokémon™ Brilliant Diamond",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/p/pokemon-shining-pearl-switch/box-eshop",
+      "genres": [
+        "Приключения",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70070000012398",
+      "title": "Pokémon™ Brilliant Diamond and Pokémon™ Shining Pearl Double Pack",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/p/pokemon-brilliant-diamond-and-pokemon-shining-pearl-double-pack-switch/hero",
+      "genres": [
+        "Приключения",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 10095,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000028523",
+      "title": "Pokémon™ HOME",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/p/pokemon-home-switch/boxart",
+      "genres": [
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 0,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": true
+    },
+    {
+      "id": "ns70010000039945",
+      "title": "Pokémon™ Legends: Arceus",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/p/pokemon-legends-arceus-switch/box-eshop",
+      "genres": [
+        "Экшен",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000004492",
+      "title": "Pokémon™ Shield",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/p/pokemon-shield-switch/boxart",
+      "genres": [
+        "Приключения",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000039955",
+      "title": "Pokémon™ Shining Pearl",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/p/pokemon-shining-pearl-switch/box-eshop",
+      "genres": [
+        "Приключения",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000004496",
+      "title": "Pokémon™ Sword",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/p/pokemon-sword-switch/boxart",
+      "genres": [
+        "Приключения",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns84c3810d-9af4-411f-9aef-125e824fae2a",
+      "title": "Pokémon™ Sword and Pokémon™ Shield Double Pack",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/p/pokemon-sword-and-pokemon-shield-double-pack-switch/boxart",
+      "genres": [
+        "Приключения",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 10095,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000000450",
+      "title": "Pokémon™: Let’s Go, Eevee!",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/p/pokemon-lets-go-eevee-switch/boxart",
+      "genres": [
+        "Приключения",
+        "Role-Playing",
+        "Multiplayer"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000000447",
+      "title": "Pokémon™: Let’s Go, Pikachu!",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/p/pokemon-lets-go-pikachu-switch/boxart",
+      "genres": [
+        "Приключения",
+        "Role-Playing",
+        "Multiplayer"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 418250,
       "title": "Polaris Sector",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/418250/capsule_616x353.jpg",
@@ -127940,7 +130993,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 627,
+      "price_rub": 632,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -128371,6 +131424,21 @@
       "price_rub": 547,
       "original_price_rub": null,
       "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000052520",
+      "title": "Pretty Girls Speed",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/p/pretty-girls-speed-switch/hero",
+      "genres": [
+        "Головоломки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 883,
+      "original_price_rub": 979,
+      "discount_percent": 20,
       "is_free": false
     },
     {
@@ -129712,7 +132780,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 791,
+      "price_rub": 802,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -130259,6 +133327,21 @@
       "is_free": false
     },
     {
+      "id": "ns70010000000113",
+      "title": "Puyo Puyo™Tetris®",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/p/puyo-puyo-tetris-switch/boxart",
+      "genres": [
+        "Головоломки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2099,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 31270,
       "title": "Puzzle Agent",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/31270/capsule_616x353.jpg",
@@ -130295,6 +133378,24 @@
       "price_rub": 673,
       "original_price_rub": null,
       "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000053480",
+      "title": "Puzzle Collection",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/p/puzzle-collection-switch/hero",
+      "genres": [
+        "Головоломки",
+        "Study",
+        "Lifestyle",
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 659,
+      "original_price_rub": 899,
+      "discount_percent": 60,
       "is_free": false
     },
     {
@@ -130474,9 +133575,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 528,
-      "original_price_rub": 547,
-      "discount_percent": 41,
+      "price_rub": 548,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -130489,9 +133590,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 528,
-      "original_price_rub": 547,
-      "discount_percent": 41,
+      "price_rub": 548,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -130602,6 +133703,24 @@
       "price_rub": 833,
       "original_price_rub": null,
       "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000050967",
+      "title": "QUByte Classics: Jim Power: The Lost Dimension by PIKO",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/q/qubyte-classics-jim-power-the-lost-dimension-by-piko-switch/hero",
+      "genres": [
+        "Экшен",
+        "Приключения",
+        "Платформеры",
+        "Аркадные гонки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1099,
+      "original_price_rub": 1299,
+      "discount_percent": 25,
       "is_free": false
     },
     {
@@ -130934,6 +134053,21 @@
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
+    },
+    {
+      "id": 4411570,
+      "title": "Quarantine Zombies - Prologue",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4411570/da16fe7fd44cddcf0b182e0e123485003bc22a6a/header.jpg?t=1782989611",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": true
     },
     {
       "id": 3419520,
@@ -132566,6 +135700,22 @@
         "PC"
       ],
       "price_rub": 981,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000051092",
+      "title": "Radioactive Dwarfs: Evil From the Sewers",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/r/radioactive-dwarfs-evil-from-the-sewers-switch/hero",
+      "genres": [
+        "Приключения",
+        "Аркадные гонки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 899,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -134690,6 +137840,38 @@
       "price_rub": 523,
       "original_price_rub": 546,
       "discount_percent": 50,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000053189",
+      "title": "Red White Yellow Stingray",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/r/red-white-yellow-stingray-switch/hero",
+      "genres": [
+        "Головоломки",
+        "Music"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1460,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000047775",
+      "title": "Red White Yellow Zinger",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/r/red-white-yellow-zinger-switch/hero",
+      "genres": [
+        "Головоломки",
+        "Music"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1460,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -136899,6 +140081,22 @@
       "is_free": false
     },
     {
+      "id": "ns70010000051593",
+      "title": "Richy’s Nightmares",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/r/richys-nightmares-switch/hero",
+      "genres": [
+        "Приключения",
+        "Головоломки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 899,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 469610,
       "title": "Rick and Morty: Virtual Rick-ality",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/469610/capsule_616x353.jpg",
@@ -138361,6 +141559,23 @@
       "is_free": false
     },
     {
+      "id": "ns70010000051716",
+      "title": "Rocket Cows",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/r/rocket-cows-switch/hero",
+      "genres": [
+        "Аркадные гонки",
+        "Экшен",
+        "Приключения"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 579,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 2489710,
       "title": "Rocket Horizon",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2489710/capsule_616x353.jpg",
@@ -139282,6 +142497,22 @@
         "PC"
       ],
       "price_rub": 757,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000050852",
+      "title": "Rotund Rebound",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/r/rotund-rebound-switch/hero",
+      "genres": [
+        "Платформеры",
+        "Приключения"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2099,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -140616,6 +143847,21 @@
       "is_free": false
     },
     {
+      "id": "ns70010000046988",
+      "title": "SEGA Genesis™ – Nintendo Switch Online",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/n/sega-genesis-nintendo-switch-online-switch/hero",
+      "genres": [
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 0,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": true
+    },
+    {
       "id": 889510,
       "title": "SENRAN KAGURA Burst Re:Newal",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/889510/capsule_616x353.jpg",
@@ -141735,6 +144981,21 @@
       "is_free": false
     },
     {
+      "id": 2075800,
+      "title": "STAR WARS Zero Company™",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/2c7d5dad080c4888faaa03c4a955136c50f5bfae/header.jpg?t=1785167713",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 3353,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 32430,
       "title": "STAR WARS™ - The Force Unleashed™ Ultimate Sith Edition",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/32430/capsule_616x353.jpg",
@@ -142151,6 +145412,22 @@
         "PC"
       ],
       "price_rub": 888,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000038880",
+      "title": "STAR WARS™: The Force Unleashed™",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/star-wars-the-force-unleashed-switch/hero",
+      "genres": [
+        "Экшен",
+        "Приключения"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2099,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -142629,6 +145906,24 @@
       "is_free": false
     },
     {
+      "id": "ns70010000050782",
+      "title": "SUPER NANARU",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/super-nanaru-switch/hero",
+      "genres": [
+        "Экшен",
+        "Аркадные гонки",
+        "Приключения",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1299,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 1909950,
       "title": "SUPER ROBOT WARS Y",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1909950/0140613381aeca94a47c0edc87d3056e059b8abc/header.jpg?t=1777020637",
@@ -142641,6 +145936,23 @@
       "price_rub": 3082,
       "original_price_rub": 4805,
       "discount_percent": 40,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000041071",
+      "title": "SUPER UFO FIGHTER",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/super-ufo-fighter-switch/hero",
+      "genres": [
+        "Экшен",
+        "Party",
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1267,
+      "original_price_rub": 1459,
+      "discount_percent": 20,
       "is_free": false
     },
     {
@@ -143823,6 +147135,23 @@
         "PC"
       ],
       "price_rub": 1215,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000014218",
+      "title": "Samurai Riot",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/samurai-riot-switch/hero",
+      "genres": [
+        "Экшен",
+        "Файтинги",
+        "Multiplayer"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1292,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -145691,6 +149020,40 @@
       "is_free": false
     },
     {
+      "id": "ns70010000051502",
+      "title": "Secrets of Magic 3: Happy Halloween",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/secrets-of-magic-3-happy-halloween-switch/hero",
+      "genres": [
+        "Головоломки",
+        "Party",
+        "Lifestyle",
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 659,
+      "original_price_rub": 1299,
+      "discount_percent": 80,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000052666",
+      "title": "Secrets of Magic 4: Potion Master",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/secrets-of-magic-4-potion-master-switch/hero",
+      "genres": [
+        "Головоломки",
+        "Приключения"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2099,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 246680,
       "title": "Secrets of Rætikon",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/246680/capsule_616x353.jpg",
@@ -147178,6 +150541,38 @@
       "is_free": false
     },
     {
+      "id": "ns70010000036589",
+      "title": "Shadowrun Returns",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/shadowrun-returns-switch/hero",
+      "genres": [
+        "Приключения",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2099,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70070000013061",
+      "title": "Shadowrun Trilogy",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/shadowrun-trilogy-switch/hero",
+      "genres": [
+        "Приключения",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2898,
+      "original_price_rub": 3698,
+      "discount_percent": 25,
+      "is_free": false
+    },
+    {
       "id": 300550,
       "title": "Shadowrun: Dragonfall - Director's Cut",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/300550/capsule_616x353.jpg",
@@ -147196,6 +150591,22 @@
       "is_free": false
     },
     {
+      "id": "ns70010000042274",
+      "title": "Shadowrun: Dragonfall - Director's Cut",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/shadowrun-dragonfall-directors-cut-switch/hero",
+      "genres": [
+        "Приключения",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2099,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 346940,
       "title": "Shadowrun: Hong Kong - Extended Edition",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/346940/capsule_616x353.jpg",
@@ -147209,6 +150620,22 @@
         "PC"
       ],
       "price_rub": 1348,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000042281",
+      "title": "Shadowrun: Hong Kong - Extended Edition",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/shadowrun-hong-kong-extended-edition-switch/hero",
+      "genres": [
+        "Приключения",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2099,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -148147,6 +151574,24 @@
       "is_free": false
     },
     {
+      "id": "ns70010000040741",
+      "title": "Sherlock Holmes: The Devil’s Daughter",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/sherlock-holmes-the-devils-daughter-switch/hero",
+      "genres": [
+        "Приключения",
+        "Головоломки",
+        "Экшен",
+        "Lifestyle"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2898,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 11130,
       "title": "Sherlock Holmes: The Mystery of the Mummy",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/11130/capsule_616x353.jpg",
@@ -148231,6 +151676,21 @@
       "price_rub": 522,
       "original_price_rub": 545,
       "discount_percent": 50,
+      "is_free": false
+    },
+    {
+      "id": 3722330,
+      "title": "Shift At Midnight",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/759ecea2ffe1ad3819aefdda79e265b8b332bf8f/header.jpg?t=1785426429",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 910,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -148661,6 +152121,23 @@
         "PC"
       ],
       "price_rub": 1015,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000051802",
+      "title": "Shooting Star Island",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/shooting-star-island-switch/hero",
+      "genres": [
+        "Платформеры",
+        "Приключения",
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 892,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -150446,7 +153923,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 724,
+      "price_rub": 732,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -152508,6 +155985,24 @@
       "is_free": false
     },
     {
+      "id": "ns70010000044503",
+      "title": "Sockventure",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/sockventure-switch/hero",
+      "genres": [
+        "Платформеры",
+        "Экшен",
+        "Приключения",
+        "Аркадные гонки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2099,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 1592670,
       "title": "Soda Crisis",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1592670/capsule_616x353.jpg",
@@ -153460,6 +156955,23 @@
       "is_free": false
     },
     {
+      "id": "ns70010000045649",
+      "title": "Sonic Origins",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/sonic-origins-switch/hero",
+      "genres": [
+        "Экшен",
+        "Платформеры",
+        "Приключения"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 3698,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 202530,
       "title": "Sonic the Hedgehog 4 - Episode I",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/202530/capsule_616x353.jpg",
@@ -153872,6 +157384,23 @@
         "PC"
       ],
       "price_rub": 1546,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000048721",
+      "title": "Souldiers",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/souldiers-switch/hero",
+      "genres": [
+        "Экшен",
+        "Приключения",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2099,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -154617,7 +158146,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 586,
+      "price_rub": 589,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -155824,6 +159353,22 @@
       "is_free": false
     },
     {
+      "id": "ns70010000051475",
+      "title": "Spingram",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/spingram-switch/hero",
+      "genres": [
+        "Головоломки",
+        "Strategy"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 899,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 822990,
       "title": "Spinnortality | cyberpunk management sim",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/822990/capsule_616x353.jpg",
@@ -156095,6 +159640,22 @@
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": true
+    },
+    {
+      "id": "ns70010000000529",
+      "title": "Splatoon™ 2",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/splatoon-2-switch/boxart",
+      "genres": [
+        "Экшен",
+        "Multiplayer"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
     },
     {
       "id": 281920,
@@ -156792,6 +160353,21 @@
       "price_rub": 622,
       "original_price_rub": 714,
       "discount_percent": 43,
+      "is_free": false
+    },
+    {
+      "id": 3837350,
+      "title": "Staffer Retro : A Supernatural Mystery Quest",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3837350/b12632f5f23c31a3e96dbbc09498ac519f213fae/header.jpg?t=1785776682",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1396,
+      "original_price_rub": 1496,
+      "discount_percent": 10,
       "is_free": false
     },
     {
@@ -160950,6 +164526,24 @@
       "is_free": false
     },
     {
+      "id": "ns70010000053502",
+      "title": "Sudocats",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/sudocats-switch/hero",
+      "genres": [
+        "Головоломки",
+        "Board Game",
+        "Education",
+        "Study"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 739,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 733070,
       "title": "Sudoku Universe / 数独宇宙",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/733070/capsule_616x353.jpg",
@@ -161714,6 +165308,24 @@
       "is_free": true
     },
     {
+      "id": "ns70010000048659",
+      "title": "Super Bullet Break",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/super-bullet-break-switch/hero",
+      "genres": [
+        "Strategy",
+        "Экшен",
+        "Board Game",
+        "Аркадные гонки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2099,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 673750,
       "title": "Super Bunny Man",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/673750/capsule_616x353.jpg",
@@ -161730,6 +165342,22 @@
       "price_rub": 835,
       "original_price_rub": 1058,
       "discount_percent": 40,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000051644",
+      "title": "Super Clown Lost Diamonds",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/super-clown-lost-diamonds-switch/hero",
+      "genres": [
+        "Приключения",
+        "Платформеры"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1660,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -161765,6 +165393,22 @@
       "price_rub": 671,
       "original_price_rub": null,
       "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000048334",
+      "title": "Super Cyborg",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/super-cyborg-switch/hero",
+      "genres": [
+        "Экшен",
+        "Платформеры"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 818,
+      "original_price_rub": 1059,
+      "discount_percent": 43,
       "is_free": false
     },
     {
@@ -161851,6 +165495,23 @@
         "PC"
       ],
       "price_rub": 587,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000049780",
+      "title": "Super Hero Driving School",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/super-hero-driving-school-switch/hero",
+      "genres": [
+        "Гоночные симуляторы (Simracing)",
+        "Технические симуляторы",
+        "Спортивные симуляторы"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1299,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -161944,6 +165605,21 @@
       "is_free": false
     },
     {
+      "id": "ns70010000022951",
+      "title": "Super Kirby Clash™",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/super-kirby-clash-switch/boxart",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 0,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": true
+    },
+    {
       "id": 1949960,
       "title": "Super Kiwi 64",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1949960/capsule_616x353.jpg",
@@ -161955,6 +165631,86 @@
         "PC"
       ],
       "price_rub": 627,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000018694",
+      "title": "Super Mario Maker™ 2",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/super-mario-maker-2-switch/boxart",
+      "genres": [
+        "Платформеры",
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000001130",
+      "title": "Super Mario Odyssey™",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/super-mario-odyssey-switch/boxart",
+      "genres": [
+        "Платформеры",
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000014158",
+      "title": "Super Mario Party™",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/super-mario-party-switch/boxart",
+      "genres": [
+        "Party",
+        "Multiplayer"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000029731",
+      "title": "Super Mario™ 3D All-Stars",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/super-mario-3d-all-stars-switch/boxart",
+      "genres": [
+        "Платформеры",
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000034439",
+      "title": "Super Mario™ 3D World + Bowser’s Fury",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/super-mario-3d-world-plus-bowsers-fury-switch/boxart",
+      "genres": [
+        "Платформеры",
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -162135,6 +165891,21 @@
       "is_free": false
     },
     {
+      "id": "ns70010000023176",
+      "title": "Super Nintendo Entertainment System™ - Nintendo Switch Online",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/super-nintendo-entertainment-system-nintendo-switch-online-switch/boxart",
+      "genres": [
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 0,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": true
+    },
+    {
       "id": 1541250,
       "title": "Super Raft Boat Classic",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1541250/capsule_616x353.jpg",
@@ -162237,6 +166008,23 @@
         "PC"
       ],
       "price_rub": 866,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000012332",
+      "title": "Super Smash Bros.™ Ultimate",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/super-smash-bros-ultimate-switch/boxart",
+      "genres": [
+        "Экшен",
+        "Файтинги",
+        "Multiplayer"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -164512,6 +168300,22 @@
       "is_free": false
     },
     {
+      "id": "ns70010000053151",
+      "title": "TEN",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/ten-switch/hero",
+      "genres": [
+        "Платформеры",
+        "Аркадные гонки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 819,
+      "original_price_rub": 899,
+      "discount_percent": 20,
+      "is_free": false
+    },
+    {
       "id": 2230650,
       "title": "TEVI",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2230650/capsule_616x353.jpg",
@@ -164526,6 +168330,24 @@
         "PC"
       ],
       "price_rub": 1533,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000049188",
+      "title": "THE CARD Perfect Collection",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/the-card-perfect-collection-switch/hero",
+      "genres": [
+        "Board Game",
+        "Education",
+        "Training",
+        "Party"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1699,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -164630,6 +168452,24 @@
         "PC"
       ],
       "price_rub": 1067,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000039731",
+      "title": "THE HOUSE OF THE DEAD: Remake",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/the-house-of-the-dead-remake-switch/box-eShop",
+      "genres": [
+        "Аркадные гонки",
+        "Экшен",
+        "Шутеры от первого лица (FPS)",
+        "Indie"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2498,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -165017,6 +168857,23 @@
         "PC"
       ],
       "price_rub": 2910,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000046322",
+      "title": "TRIANGLE STRATEGY™",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/triangle-strategy-switch/020922/hero",
+      "genres": [
+        "Role-Playing",
+        "Strategy",
+        "Приключения"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -165637,6 +169494,22 @@
         "PC"
       ],
       "price_rub": 1972,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000047883",
+      "title": "Take Off – The Flight Simulator",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/take-off-the-flight-simulator-switch/hero",
+      "genres": [
+        "Технические симуляторы",
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1699,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -166466,6 +170339,22 @@
       "is_free": true
     },
     {
+      "id": "ns70010000051396",
+      "title": "Taqoban",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/taqoban-switch/hero",
+      "genres": [
+        "Головоломки",
+        "Multiplayer"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 899,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 4350680,
       "title": "Task Dock",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4350680/af6af935eb16d7e8fde72083810148061f350335/header.jpg?t=1783436589",
@@ -166475,7 +170364,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 672,
+      "price_rub": 678,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -166876,6 +170765,25 @@
       "price_rub": 1401,
       "original_price_rub": null,
       "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000039366",
+      "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/teenage-mutant-ninja-turtles-shredders-revenge-switch/box-eShop",
+      "genres": [
+        "Экшен",
+        "Multiplayer",
+        "Файтинги",
+        "Аркадные гонки",
+        "Indie"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2299,
+      "original_price_rub": 2498,
+      "discount_percent": 10,
       "is_free": false
     },
     {
@@ -167623,6 +171531,22 @@
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
+    },
+    {
+      "id": "ns70010000018547",
+      "title": "Tetris® 99",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/tetris-99-switch/boxart",
+      "genres": [
+        "Головоломки",
+        "Multiplayer"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 0,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": true
     },
     {
       "id": 1003590,
@@ -168591,6 +172515,24 @@
         "PC"
       ],
       "price_rub": 692,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000033330",
+      "title": "The Big Con - GRIFT OF THE YEAR EDITION",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/the-big-con-grift-of-the-year-edition-switch/hero",
+      "genres": [
+        "Приключения",
+        "Головоломки",
+        "Аркадные гонки",
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1699,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -170597,6 +174539,22 @@
       "is_free": false
     },
     {
+      "id": "ns70010000001369",
+      "title": "The Elder Scrolls V: Skyrim",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/the-elder-scrolls-v-skyrim-switch/boxart",
+      "genres": [
+        "Экшен",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 489830,
       "title": "The Elder Scrolls V: Skyrim Special Edition",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/489830/capsule_616x353.jpg",
@@ -171430,6 +175388,23 @@
       "is_free": false
     },
     {
+      "id": "ns70010000053170",
+      "title": "The Fly Plane: Flight Simulator",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/the-fly-plane-flight-simulator-switch/hero",
+      "genres": [
+        "Аркадные гонки",
+        "Экшен",
+        "Технические симуляторы"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 819,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 242760,
       "title": "The Forest",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/242760/capsule_616x353.jpg",
@@ -172010,6 +175985,24 @@
       "price_rub": 612,
       "original_price_rub": 1067,
       "discount_percent": 80,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000043378",
+      "title": "The Hand of Merlin",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/the-hand-of-merlin-switch/hero",
+      "genres": [
+        "Role-Playing",
+        "Приключения",
+        "Strategy",
+        "Board Game"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2898,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -173427,6 +177420,24 @@
       "is_free": false
     },
     {
+      "id": "ns70010000039144",
+      "title": "The Last Friend",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/the-last-friend-switch/hero",
+      "genres": [
+        "Аркадные гонки",
+        "Файтинги",
+        "Приключения",
+        "Strategy"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1699,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 1203930,
       "title": "The Last Haven",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1203930/capsule_616x353.jpg",
@@ -173847,6 +177858,56 @@
         "PC"
       ],
       "price_rub": 1186,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000000025",
+      "title": "The Legend of Zelda™: Breath of the Wild",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/the-legend-of-zelda-breath-of-the-wild-switch/boxart",
+      "genres": [
+        "Приключения",
+        "Экшен",
+        "Role-Playing",
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000020033",
+      "title": "The Legend of Zelda™: Link’s Awakening",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/the-legend-of-zelda-links-awakening-switch/boxart",
+      "genres": [
+        "Экшен",
+        "Приключения"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000038612",
+      "title": "The Legend of Zelda™: Skyward Sword HD",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/the-legend-of-zelda-skyward-sword-hd-switch/the-legend-of-zelda-skyward-sword-hd-switch-box",
+      "genres": [
+        "Приключения",
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -175062,7 +179123,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1446,
+      "price_rub": 1480,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -176712,7 +180773,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1060,
+      "price_rub": 1080,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -176922,6 +180983,22 @@
         "PC"
       ],
       "price_rub": 1569,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000008109",
+      "title": "The Stretchers™",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/the-stretchers-switch/boxart",
+      "genres": [
+        "Головоломки",
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2099,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -178489,6 +182566,23 @@
       "is_free": false
     },
     {
+      "id": "ns70010000052613",
+      "title": "The Wizard and The Slug",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/the-wizard-and-the-slug-switch/hero",
+      "genres": [
+        "Платформеры",
+        "Аркадные гонки",
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 819,
+      "original_price_rub": 899,
+      "discount_percent": 20,
+      "is_free": false
+    },
+    {
       "id": 250320,
       "title": "The Wolf Among Us",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/250320/capsule_616x353.jpg",
@@ -178520,6 +182614,21 @@
         "PC"
       ],
       "price_rub": 791,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000011853",
+      "title": "The World Ends with You®: Final Remix",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/the-world-ends-with-you-final-remix-switch/boxart",
+      "genres": [
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 4498,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -179889,7 +183998,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 912,
+      "price_rub": 926,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -180052,6 +184161,22 @@
       "price_rub": 1335,
       "original_price_rub": null,
       "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000045972",
+      "title": "Thunder Kid II: Null Mission",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/thunder-kid-ii-null-mission-switch/hero",
+      "genres": [
+        "Экшен",
+        "Аркадные гонки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1011,
+      "original_price_rub": 1139,
+      "discount_percent": 20,
       "is_free": false
     },
     {
@@ -180268,6 +184393,24 @@
       "is_free": false
     },
     {
+      "id": "ns70010000052125",
+      "title": "Tile Flip",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/tile-flip-switch/hero",
+      "genres": [
+        "Головоломки",
+        "Аркадные гонки",
+        "Role-Playing",
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 579,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 327140,
       "title": "Tilt Brush",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/327140/capsule_616x353.jpg",
@@ -180412,9 +184555,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 748,
-      "original_price_rub": 857,
-      "discount_percent": 30,
+      "price_rub": 869,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -181639,6 +185782,21 @@
       "is_free": false
     },
     {
+      "id": "ns70010000022886",
+      "title": "Tokyo Mirage Sessions™ #FE Encore",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/tokyo-mirage-sessions-fe-encore-switch/boxart",
+      "genres": [
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 425460,
       "title": "Tokyo Twilight Ghost Hunters Daybreak: Special Gigs",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/425460/capsule_616x353.jpg",
@@ -182360,6 +186518,24 @@
       "is_free": false
     },
     {
+      "id": "ns70010000049694",
+      "title": "Toonkars Racer",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/toonkars-racer-switch/hero",
+      "genres": [
+        "Гоночные симуляторы (Simracing)",
+        "Аркадные гонки",
+        "Training",
+        "Practical"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 622,
+      "original_price_rub": 640,
+      "discount_percent": 13,
+      "is_free": false
+    },
+    {
       "id": 286000,
       "title": "Tooth and Tail",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/286000/capsule_616x353.jpg",
@@ -182551,6 +186727,23 @@
         "PC"
       ],
       "price_rub": 1632,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000036167",
+      "title": "Tormented Souls",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/tormented-souls-switch/hero",
+      "genres": [
+        "Экшен",
+        "Приключения",
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2099,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -184642,7 +188835,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1215,
+      "price_rub": 1241,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -185018,10 +189211,26 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 860,
+      "price_rub": 873,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
+    },
+    {
+      "id": "ns70010000051050",
+      "title": "Tricky Doors",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/tricky-doors-switch/hero",
+      "genres": [
+        "Приключения",
+        "Головоломки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 0,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": true
     },
     {
       "id": 437920,
@@ -185645,9 +189854,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 753,
-      "original_price_rub": 896,
-      "discount_percent": 36,
+      "price_rub": 591,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -186091,6 +190300,21 @@
       "is_free": true
     },
     {
+      "id": "ns70010000052397",
+      "title": "Twin Blades of the Three Kingdoms",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/twin-blades-of-the-three-kingdoms-switch/hero",
+      "genres": [
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1699,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 1552810,
       "title": "Twin Mirror",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1552810/capsule_616x353.jpg",
@@ -186174,6 +190398,22 @@
         "PC"
       ],
       "price_rub": 2156,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000034355",
+      "title": "Two Point Campus",
+      "cover": "https://assets.nintendo.com/image/upload/E3/2021/Games/T_X1p3sZ2N8Viy/two-point-campus-switch/hero",
+      "genres": [
+        "Технические симуляторы",
+        "Strategy"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 3698,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -187322,6 +191562,23 @@
       "is_free": false
     },
     {
+      "id": "ns70010000044567",
+      "title": "Ultionus: A Tale of Petty Revenge",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/u/ultionus-a-tale-of-petty-revenge-switch/hero",
+      "genres": [
+        "Аркадные гонки",
+        "Платформеры",
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1299,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 1026840,
       "title": "Ultra Fight Da ! Kyanta 2",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1026840/capsule_616x353.jpg",
@@ -187406,6 +191663,23 @@
       "price_rub": 888,
       "original_price_rub": null,
       "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000049534",
+      "title": "Ultreïa",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/u/ultreia-switch/hero",
+      "genres": [
+        "Приключения",
+        "Головоломки",
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 659,
+      "original_price_rub": 1539,
+      "discount_percent": 85,
       "is_free": false
     },
     {
@@ -187933,6 +192207,24 @@
         "PC"
       ],
       "price_rub": 717,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000053096",
+      "title": "Underland: The Climb",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/u/underland-the-climb-switch/hero",
+      "genres": [
+        "Головоломки",
+        "Платформеры",
+        "Strategy",
+        "Other"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 819,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -190015,6 +194307,21 @@
         "PC"
       ],
       "price_rub": 890,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000049209",
+      "title": "Valis II",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/v/valis-ii-switch/hero",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1700,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -192769,6 +197076,23 @@
       "is_free": false
     },
     {
+      "id": "ns70010000040133",
+      "title": "WRC 10 The Official Game",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/w/wrc-10-the-official-game-switch/hero",
+      "genres": [
+        "Гоночные симуляторы (Simracing)",
+        "Технические симуляторы",
+        "Спортивные симуляторы"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 4498,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 256330,
       "title": "WRC 4 FIA World Rally Championship",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/256330/capsule_616x353.jpg",
@@ -194372,6 +198696,22 @@
       "price_rub": 564,
       "original_price_rub": 1153,
       "discount_percent": 90,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000042929",
+      "title": "WarioWare™: Get It Together!",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/w/warioware-get-it-together-switch/hero",
+      "genres": [
+        "Экшен",
+        "Party"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 4498,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -197952,6 +202292,23 @@
       "is_free": false
     },
     {
+      "id": "ns70010000005065",
+      "title": "Wolfenstein II®: The New Colossus™",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/w/wolfenstein-ii-the-new-colossus-switch/boxart",
+      "genres": [
+        "Приключения",
+        "Шутеры от первого лица (FPS)",
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 3698,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 201810,
       "title": "Wolfenstein: The New Order",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/201810/capsule_616x353.jpg",
@@ -198041,6 +202398,23 @@
       "is_free": false
     },
     {
+      "id": "ns70010000041386",
+      "title": "Wolfstride",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/w/wolfstride-switch/hero",
+      "genres": [
+        "Role-Playing",
+        "Strategy",
+        "Файтинги"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1699,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 2502760,
       "title": "Wolvesville",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2502760/capsule_616x353.jpg",
@@ -198067,6 +202441,23 @@
         "PC"
       ],
       "price_rub": 546,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000044219",
+      "title": "Wonder Boy Collection",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/w/wonder-boy-collection-switch/hero",
+      "genres": [
+        "Аркадные гонки",
+        "Экшен",
+        "Платформеры"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 2898,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -198721,6 +203112,21 @@
       "is_free": false
     },
     {
+      "id": "ns70010000052247",
+      "title": "Worm Run",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/w/worm-run-switch/hero",
+      "genres": [
+        "Аркадные гонки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 739,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 70640,
       "title": "Worms",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/70640/capsule_616x353.jpg",
@@ -199041,6 +203447,23 @@
         "PC"
       ],
       "price_rub": 1394,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000033987",
+      "title": "Wreckfest",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/w/wreckfest-switch/hero",
+      "genres": [
+        "Экшен",
+        "Гоночные симуляторы (Simracing)",
+        "Спортивные симуляторы"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 3698,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -199801,6 +204224,52 @@
       "is_free": false
     },
     {
+      "id": "ns70010000014081",
+      "title": "Xenoblade Chronicles 2: Torna ~ The Golden Country",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/x/xenoblade-chronicles-2-torna-the-golden-country-switch/boxart",
+      "genres": [
+        "Экшен",
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 3698,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000000707",
+      "title": "Xenoblade Chronicles™ 2",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/x/xenoblade-chronicles-2-switch/boxart",
+      "genres": [
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000029711",
+      "title": "Xenoblade Chronicles™ Definitive Edition",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/x/xenoblade-chronicles-definitive-edition-switch/boxart",
+      "genres": [
+        "Role-Playing"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 587710,
       "title": "Xenobox VR",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/587710/capsule_616x353.jpg",
@@ -200275,6 +204744,23 @@
       "is_free": false
     },
     {
+      "id": "ns70010000049446",
+      "title": "Ye OLDE Cribbage Club: A Later Daters Game",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/y/ye-olde-cribbage-club-a-later-daters-game-switch/hero",
+      "genres": [
+        "Board Game",
+        "Lifestyle",
+        "Технические симуляторы"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 979,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 269050,
       "title": "Year Walk",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/269050/capsule_616x353.jpg",
@@ -200678,6 +205164,22 @@
         "PC"
       ],
       "price_rub": 1533,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000000734",
+      "title": "Yoshi’s Crafted World™",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/y/yoshis-crafted-world-switch/boxart",
+      "genres": [
+        "Платформеры",
+        "Экшен"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 5297,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -201281,6 +205783,22 @@
         "PC"
       ],
       "price_rub": 991,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000050764",
+      "title": "Z-Warp",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/z/z-warp-switch/hero",
+      "genres": [
+        "Экшен",
+        "Аркадные гонки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1059,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -202063,6 +206581,22 @@
       "is_free": false
     },
     {
+      "id": "ns70010000041809",
+      "title": "Zombie Army 4: Dead War",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/z/zombie-army-4-dead-war-switch/hero",
+      "genres": [
+        "Экшен",
+        "Multiplayer"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 4498,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 301640,
       "title": "Zombie Army Trilogy",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/301640/capsule_616x353.jpg",
@@ -202612,6 +207146,23 @@
         "PC"
       ],
       "price_rub": 589,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": "ns70010000048905",
+      "title": "Zorro The Chronicles",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/z/zorro-the-chronicles-switch/hero",
+      "genres": [
+        "Приключения",
+        "Экшен",
+        "Файтинги"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 3298,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -204189,6 +208740,24 @@
       "is_free": false
     },
     {
+      "id": "ns70010000050969",
+      "title": "sCATch: The Painter Cat",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/s/scatch-the-painter-cat-switch/hero",
+      "genres": [
+        "Головоломки",
+        "Экшен",
+        "Strategy",
+        "Приключения"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 900,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 1318690,
       "title": "shapez",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1318690/capsule_616x353.jpg",
@@ -204270,6 +208839,23 @@
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": true
+    },
+    {
+      "id": "ns70010000048947",
+      "title": "tERRORbane",
+      "cover": "https://assets.nintendo.com/image/upload/ncom/en_US/games/switch/t/terrorbane-switch/hero",
+      "genres": [
+        "Other",
+        "Приключения",
+        "Головоломки"
+      ],
+      "platforms": [
+        "Nintendo Switch"
+      ],
+      "price_rub": 1779,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
     },
     {
       "id": 387860,
@@ -204683,6 +209269,21 @@
       "price_rub": 1569,
       "original_price_rub": null,
       "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 4403260,
+      "title": "Бункер Роя: Стальная Похоть",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4403260/3e43d63e46bf7aa1da4bb966d630fe95afb64f31/header_russian.jpg?t=1785775551",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 900,
+      "original_price_rub": 944,
+      "discount_percent": 10,
       "is_free": false
     },
     {
@@ -207893,9 +212494,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 689,
-      "original_price_rub": 724,
-      "discount_percent": 15,
+      "price_rub": 732,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -209681,9 +214282,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 808,
-      "original_price_rub": null,
-      "discount_percent": 0,
+      "price_rub": 659,
+      "original_price_rub": 819,
+      "discount_percent": 50,
       "is_free": false
     },
     {
@@ -213442,9 +218043,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 571,
-      "original_price_rub": 590,
-      "discount_percent": 21,
+      "price_rub": 593,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
