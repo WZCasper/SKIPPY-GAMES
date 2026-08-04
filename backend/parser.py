@@ -978,9 +978,18 @@ def main():
 
     log.info("К обновлению (устаревшие): %s из %s карточек в каталоге", len(stale_ids), len(catalog))
 
+    REFRESH_STAGE_TIME_BUDGET = 20 * 60  # не более 20 минут на обновление старых карточек —
+    # раньше этот этап не имел собственного лимита и мог съедать весь 55-минутный
+    # бюджет прогона целиком, из-за чего новые игры и Nintendo Switch не успевали
+    # обрабатываться НИ РАЗУ, хотя пуш и коммит при этом отрабатывали нормально.
+    refresh_stage_started = time.monotonic()
+
     for appid in stale_ids:
         if time_budget_left() < 60:
             log.warning("Бюджет времени исчерпан на этапе обновления, переходим к сохранению")
+            break
+        if time.monotonic() - refresh_stage_started > REFRESH_STAGE_TIME_BUDGET:
+            log.info("Достигнут собственный лимит времени этапа обновления (%s мин) — остальное время отдаём под новые игры", REFRESH_STAGE_TIME_BUDGET // 60)
             break
         record, status = build_game_record(appid, uah_to_rub)
         processed += 1
@@ -1047,12 +1056,18 @@ def main():
 
     log.info("Итого кандидатов на добавление: %s", len(candidate_ids))
 
+    NEW_GAMES_STAGE_TIME_BUDGET = 20 * 60  # аналогично — свой лимит, чтобы не съесть весь бюджет
+    new_games_stage_started = time.monotonic()
+
     for appid in candidate_ids:
         if added >= MAX_NEW_GAMES_PER_RUN:
             log.info("Достигнут лимит новых игр за прогон (%s)", MAX_NEW_GAMES_PER_RUN)
             break
         if time_budget_left() < 60:
             log.warning("Бюджет времени исчерпан на этапе добавления новых игр")
+            break
+        if time.monotonic() - new_games_stage_started > NEW_GAMES_STAGE_TIME_BUDGET:
+            log.info("Достигнут собственный лимит времени этапа новых игр (%s мин)", NEW_GAMES_STAGE_TIME_BUDGET // 60)
             break
 
         record, status = build_game_record(appid, uah_to_rub)
@@ -1068,23 +1083,33 @@ def main():
     # --- Этап 3: Nintendo Switch (eShop) -------------------------------------
     MAX_NINTENDO_PER_RUN = 300
     added_nintendo = 0
-    if time_budget_left() > 180:
-        usd_to_rub = fetch_usd_to_rub_rate()
-        nintendo_hits = load_nintendo_hits(max_pages=3)
-        for hit in nintendo_hits:
-            if added_nintendo >= MAX_NINTENDO_PER_RUN:
-                log.info("Достигнут лимит новых игр Nintendo Switch за прогон (%s)", MAX_NINTENDO_PER_RUN)
-                break
-            if time_budget_left() < 30:
-                log.warning("Бюджет времени исчерпан на этапе Nintendo Switch")
-                break
-            record = build_nintendo_record(hit, usd_to_rub)
-            if record and record["id"] not in catalog:
-                catalog[record["id"]] = record
-                added_nintendo += 1
-        log.info("Nintendo Switch: добавлено/обновлено %s игр", added_nintendo)
-    else:
-        log.info("Недостаточно времени на этап Nintendo Switch в этом прогоне — пропускаем")
+    try:
+        if time_budget_left() > 180:
+            usd_to_rub = fetch_usd_to_rub_rate()
+            nintendo_hits = load_nintendo_hits(max_pages=3)
+            skipped_no_price = 0
+            for hit in nintendo_hits:
+                if added_nintendo >= MAX_NINTENDO_PER_RUN:
+                    log.info("Достигнут лимит новых игр Nintendo Switch за прогон (%s)", MAX_NINTENDO_PER_RUN)
+                    break
+                if time_budget_left() < 30:
+                    log.warning("Бюджет времени исчерпан на этапе Nintendo Switch")
+                    break
+                record = build_nintendo_record(hit, usd_to_rub)
+                if record is None:
+                    skipped_no_price += 1
+                    continue
+                if record["id"] not in catalog:
+                    catalog[record["id"]] = record
+                    added_nintendo += 1
+            log.info(
+                "Nintendo Switch: получено карточек=%s, добавлено новых=%s, пропущено (нет цены/названия)=%s",
+                len(nintendo_hits), added_nintendo, skipped_no_price,
+            )
+        else:
+            log.info("Недостаточно времени на этап Nintendo Switch в этом прогоне — пропускаем")
+    except Exception as exc:  # noqa: BLE001 — сбой в этом этапе не должен ронять весь прогон
+        log.error("Этап Nintendo Switch упал с ошибкой (не критично, остальные данные сохранятся): %s", exc)
 
     # --- Сохранение ----------------------------------------------------------
     if not catalog:
