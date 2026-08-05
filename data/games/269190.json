@@ -15,14 +15,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 64,
+  "base_price_rub": 683,
   "markup_rub": 500,
-  "price_rub": 564,
-  "original_price_rub": 1153,
-  "discount_percent": 90,
+  "price_rub": 1183,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "zFayjWhFOI0",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269190/ss_1e97bbbfda70ba1f10d5b3a277374335af5f38b2.1920x1080.jpg?t=1776162130",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269190/ss_0313bf20ed65f2eb7f459ea98d74fa3fda2dd54f.1920x1080.jpg?t=1776162130",
@@ -37,36 +37,36 @@
     {
       "id": 1000400,
       "name": "Edge Of Eternity - War Nekaroo Skin",
-      "base_price_rub": 26,
+      "base_price_rub": 38,
       "markup_rub": 500,
-      "price_rub": 526,
+      "price_rub": 538,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1000400/header.jpg?t=1555063275"
     },
     {
       "id": 1654380,
       "name": "Edge Of Eternity - Goodies Pack",
-      "base_price_rub": 67,
+      "base_price_rub": 142,
       "markup_rub": 500,
-      "price_rub": 567,
+      "price_rub": 642,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1654380/header.jpg?t=1623164584"
     },
     {
       "id": 1654381,
       "name": "Edge Of Eternity - Artbook",
-      "base_price_rub": 84,
+      "base_price_rub": 178,
       "markup_rub": 500,
-      "price_rub": 584,
+      "price_rub": 678,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1654381/header.jpg?t=1623164583"
     },
     {
       "id": 1654382,
       "name": "Edge Of Eternity - OST",
-      "base_price_rub": 110,
+      "base_price_rub": 232,
       "markup_rub": 500,
-      "price_rub": 610,
+      "price_rub": 732,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1654382/header.jpg?t=1623231901"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-14T08:33:50Z"
+  "updated_at": "2026-08-05T08:44:27Z"
 }
