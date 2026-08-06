@@ -11,14 +11,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 3167,
+  "base_price_rub": 4176,
   "markup_rub": 500,
-  "price_rub": 3667,
-  "original_price_rub": 4460,
-  "discount_percent": 20,
+  "price_rub": 4676,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "eT_A2gPhTIw",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/702c9ed8dc25f26be07539cd5cfb9f08046d210a/ss_702c9ed8dc25f26be07539cd5cfb9f08046d210a.1920x1080.jpg?t=1774022345",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3280350/9732214efafbe68e6618806556cd448578217a04/ss_9732214efafbe68e6618806556cd448578217a04.1920x1080.jpg?t=1774022345",
@@ -33,12 +33,12 @@
     {
       "id": 3669170,
       "name": "DEATH STRANDING 2: ON THE BEACH - Upgrade to Digital Deluxe Edition",
-      "base_price_rub": 138,
+      "base_price_rub": 182,
       "markup_rub": 500,
-      "price_rub": 638,
+      "price_rub": 682,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669170/7c5801921e19589414ab82b483a27aef5782d36a/header.jpg?t=1774260833"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-14T08:49:07Z"
+  "updated_at": "2026-08-06T08:46:57Z"
 }
