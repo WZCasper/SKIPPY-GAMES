@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-05T20:31:10Z",
-  "uah_to_rub_rate": 1.802142,
+  "generated_at": "2026-08-06T03:44:24Z",
+  "uah_to_rub_rate": 1.816638,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 12570,
+  "count": 12608,
   "games": [
     {
       "id": 633080,
@@ -650,6 +650,23 @@
         "PC"
       ],
       "price_rub": 1215,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 1343680,
+      "title": "1001 Jigsaw: Earth Chronicles 2",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1343680/capsule_616x353.jpg",
+      "genres": [
+        "Казуальные игры",
+        "Головоломки",
+        "Приключения"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1090,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -1312,6 +1329,23 @@
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": true
+    },
+    {
+      "id": 696880,
+      "title": "2D Paintball",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/696880/capsule_616x353.jpg",
+      "genres": [
+        "Экшен",
+        "Спортивные симуляторы",
+        "Технические симуляторы"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 916,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
     },
     {
       "id": 435100,
@@ -13057,6 +13091,24 @@
       "is_free": false
     },
     {
+      "id": 2657750,
+      "title": "Art is dead",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2657750/capsule_616x353.jpg",
+      "genres": [
+        "Экшен",
+        "Шутеры от первого лица (FPS)",
+        "Казуальные игры",
+        "Аркадные гонки"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": true
+    },
+    {
       "id": 836770,
       "title": "Art of Murder - Cards of Destiny",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/836770/capsule_616x353.jpg",
@@ -13482,6 +13534,23 @@
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": true
+    },
+    {
+      "id": 1396010,
+      "title": "Asian Riddles 2",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1396010/capsule_616x353.jpg",
+      "genres": [
+        "Казуальные игры",
+        "Головоломки",
+        "Приключения"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 558,
+      "original_price_rub": 1090,
+      "discount_percent": 90,
+      "is_free": false
     },
     {
       "id": 1773460,
@@ -18228,6 +18297,23 @@
       "is_free": false
     },
     {
+      "id": 658400,
+      "title": "Baseball Mogul 2017",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/658400/capsule_616x353.jpg",
+      "genres": [
+        "Спортивные симуляторы",
+        "Технические симуляторы",
+        "Казуальные игры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1189,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 340150,
       "title": "Basement",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/340150/capsule_616x353.jpg",
@@ -21220,9 +21306,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 808,
-      "original_price_rub": null,
-      "discount_percent": 0,
+      "price_rub": 662,
+      "original_price_rub": 825,
+      "discount_percent": 50,
       "is_free": false
     },
     {
@@ -22383,7 +22469,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 981,
+      "price_rub": 1007,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -26606,6 +26692,23 @@
       "is_free": false
     },
     {
+      "id": 1255030,
+      "title": "Bunny Quest",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1255030/capsule_616x353.jpg",
+      "genres": [
+        "Казуальные игры",
+        "Экшен",
+        "Технические симуляторы"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 796,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 567210,
       "title": "Bunnyrama",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/567210/capsule_616x353.jpg",
@@ -28779,6 +28882,24 @@
       "is_free": false
     },
     {
+      "id": 3155080,
+      "title": "Cam Op Simulator",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3155080/header.jpg?t=1725717553",
+      "genres": [
+        "Технические симуляторы",
+        "Шутеры от первого лица (FPS)",
+        "Аркадные гонки",
+        "Иммерсивные симуляторы (Immersive Sim)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1844,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 341500,
       "title": "Camera Obscura",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/341500/capsule_616x353.jpg",
@@ -29808,6 +29929,23 @@
       "is_free": false
     },
     {
+      "id": 1545350,
+      "title": "Caribbean Jigsaw",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1545350/capsule_616x353.jpg",
+      "genres": [
+        "Казуальные игры",
+        "Приключения",
+        "Головоломки"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1090,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 2230980,
       "title": "Caribbean Legend",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2230980/capsule_616x353.jpg",
@@ -30486,7 +30624,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1017,
+      "price_rub": 1045,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -31690,6 +31828,21 @@
         "PC"
       ],
       "price_rub": 894,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 1284090,
+      "title": "Chariots of War",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1284090/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1090,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -35898,7 +36051,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1060,
+      "price_rub": 1090,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -41720,6 +41873,22 @@
       "is_free": false
     },
     {
+      "id": 1827640,
+      "title": "DINO MERCS",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1827640/capsule_616x353.jpg",
+      "genres": [
+        "Тактические шутеры",
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 587,
+      "original_price_rub": 796,
+      "discount_percent": 71,
+      "is_free": false
+    },
+    {
       "id": 1038250,
       "title": "DIRT 5",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1038250/capsule_616x353.jpg",
@@ -45612,7 +45781,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 627,
+      "price_rub": 634,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -45865,9 +46034,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 526,
-      "original_price_rub": 631,
-      "discount_percent": 80,
+      "price_rub": 638,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -47922,7 +48091,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 627,
+      "price_rub": 634,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -50778,9 +50947,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 528,
-      "original_price_rub": 791,
-      "discount_percent": 91,
+      "price_rub": 807,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -51967,6 +52136,22 @@
         "PC"
       ],
       "price_rub": 672,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 2163800,
+      "title": "Draft Day Sports: Pro Football 2023",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2163800/capsule_616x353.jpg",
+      "genres": [
+        "Технические симуляторы",
+        "Спортивные симуляторы"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1370,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -57450,9 +57635,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 586,
-      "original_price_rub": null,
-      "discount_percent": 0,
+      "price_rub": 545,
+      "original_price_rub": 591,
+      "discount_percent": 50,
       "is_free": false
     },
     {
@@ -57753,7 +57938,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 981,
+      "price_rub": 1007,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -63214,7 +63399,25 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1215,
+      "price_rub": 1254,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 1378120,
+      "title": "Fairy Godmother Stories: Dark Deal Collector's Edition",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1378120/capsule_616x353.jpg",
+      "genres": [
+        "Приключения",
+        "Головоломки",
+        "Казуальные игры",
+        "Квесты (Point-and-Click)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1254,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -67557,6 +67760,23 @@
         "PC"
       ],
       "price_rub": 929,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 2076670,
+      "title": "Fly Me To The Home!",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2076670/capsule_616x353.jpg",
+      "genres": [
+        "Экшен-адвенчуры",
+        "Платформеры",
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 771,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -73974,6 +74194,22 @@
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": true
+    },
+    {
+      "id": 1273180,
+      "title": "Glory Horse Racing",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1273180/capsule_616x353.jpg",
+      "genres": [
+        "Спортивные симуляторы",
+        "Технические симуляторы"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 680,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
     },
     {
       "id": 3154940,
@@ -80856,9 +81092,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 619,
-      "original_price_rub": 981,
-      "discount_percent": 75,
+      "price_rub": 1007,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -82017,7 +82253,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 547,
+      "price_rub": 549,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -87963,7 +88199,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1342,
+      "price_rub": 1388,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -88183,7 +88419,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1215,
+      "price_rub": 1254,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -88956,6 +89192,21 @@
         "PC"
       ],
       "price_rub": 671,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 1743370,
+      "title": "Infinite Widgets",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1743370/capsule_616x353.jpg",
+      "genres": [
+        "Казуальные игры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 680,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -91710,6 +91961,23 @@
         "PC"
       ],
       "price_rub": 822,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 3008190,
+      "title": "Jewel Match Solitaire Seasons - Collector's Edition",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3008190/capsule_616x353.jpg",
+      "genres": [
+        "Казуальные игры",
+        "Квесты (Point-and-Click)",
+        "Головоломки"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1063,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -94487,7 +94755,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 981,
+      "price_rub": 1007,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -98043,6 +98311,25 @@
       "is_free": false
     },
     {
+      "id": 2302210,
+      "title": "Larry's new wheelchair",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2302210/capsule_616x353.jpg",
+      "genres": [
+        "Экшен",
+        "Приключения",
+        "Экшен-адвенчуры",
+        "Аркадные гонки",
+        "Казуальные игры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 547,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 11340,
       "title": "Larva Mortus",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/11340/capsule_616x353.jpg",
@@ -99244,6 +99531,23 @@
         "PC"
       ],
       "price_rub": 1060,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 1747800,
+      "title": "Legendary Mahjong 2",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1747800/capsule_616x353.jpg",
+      "genres": [
+        "Казуальные игры",
+        "Головоломки",
+        "Тактические шутеры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 909,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -101274,6 +101578,23 @@
       "is_free": false
     },
     {
+      "id": 1313350,
+      "title": "Living Legends Remastered: Ice Rose Collector's Edition",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1313350/capsule_616x353.jpg",
+      "genres": [
+        "Приключения",
+        "Казуальные игры",
+        "Квесты (Point-and-Click)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1254,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 2429860,
       "title": "Living With Sister: Monochrome Fantasy",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2429860/capsule_616x353.jpg",
@@ -102085,6 +102406,21 @@
       "price_rub": 630,
       "original_price_rub": null,
       "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 4333200,
+      "title": "Lost & Found: A This Bed We Made Story",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4333200/caf57de3c95418c29f8d3bfdc4e22e8bf87b9cd6/header.jpg?t=1785946517",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 762,
+      "original_price_rub": 809,
+      "discount_percent": 15,
       "is_free": false
     },
     {
@@ -103720,6 +104056,21 @@
         "PC"
       ],
       "price_rub": 1239,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 1363250,
+      "title": "MAGIX Video deluxe 2021 Plus Steam Edition",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1363250/capsule_616x353.jpg",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 3586,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -107498,6 +107849,21 @@
         "PC"
       ],
       "price_rub": 758,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 2074440,
+      "title": "Master of the Tattooverse",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2074440/capsule_616x353.jpg",
+      "genres": [
+        "Казуальные игры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1436,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -111862,7 +112228,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1060,
+      "price_rub": 1090,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -112868,6 +113234,26 @@
         "PC"
       ],
       "price_rub": 1387,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 2209270,
+      "title": "Moorhuhn Piraten - Crazy Chicken Pirates",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2209270/capsule_616x353.jpg",
+      "genres": [
+        "Экшен",
+        "Казуальные игры",
+        "Технические симуляторы",
+        "Спортивные симуляторы",
+        "Аркадные гонки",
+        "Шутеры от первого лица (FPS)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 725,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -115573,6 +115959,22 @@
       "is_free": true
     },
     {
+      "id": 995920,
+      "title": "Myths of the World: Black Rose Collector's Edition",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/995920/capsule_616x353.jpg",
+      "genres": [
+        "Приключения",
+        "Казуальные игры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1254,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 842810,
       "title": "Märchen Forest: Mylne and the Forest Gift [Legacy ver.]",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/842810/capsule_616x353.jpg",
@@ -115807,6 +116209,26 @@
       "price_rub": 762,
       "original_price_rub": 1027,
       "discount_percent": 50,
+      "is_free": false
+    },
+    {
+      "id": 3025770,
+      "title": "NAUS",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/3025770/capsule_616x353.jpg",
+      "genres": [
+        "Приключения",
+        "Экшен",
+        "Аркадные гонки",
+        "Головоломки",
+        "Экшен-РПГ (Action-RPG)",
+        "Казуальные игры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 685,
+      "original_price_rub": 1426,
+      "discount_percent": 80,
       "is_free": false
     },
     {
@@ -121955,7 +122377,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 722,
+      "price_rub": 734,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -124377,7 +124799,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 671,
+      "price_rub": 680,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -125730,7 +126152,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 791,
+      "price_rub": 807,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -132528,6 +132950,25 @@
       "is_free": false
     },
     {
+      "id": 2251240,
+      "title": "Police Car Simulator",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2251240/capsule_616x353.jpg",
+      "genres": [
+        "Гоночные симуляторы (Simracing)",
+        "Технические симуляторы",
+        "Экшен-РПГ (Action-RPG)",
+        "Экшен",
+        "Песочницы (Sandbox)"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 547,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 796860,
       "title": "Police Enforcement VR : 1-King-27",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/796860/capsule_616x353.jpg",
@@ -134946,7 +135387,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 714,
+      "price_rub": 725,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -135696,6 +136137,22 @@
         "PC"
       ],
       "price_rub": 1150,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 1038380,
+      "title": "PuppetShow: Porcelain Smile Collector's Edition",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1038380/capsule_616x353.jpg",
+      "genres": [
+        "Приключения",
+        "Казуальные игры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1254,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -139728,6 +140185,23 @@
       "is_free": false
     },
     {
+      "id": 1658050,
+      "title": "Really Weird Pool",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1658050/capsule_616x353.jpg",
+      "genres": [
+        "Казуальные игры",
+        "Спортивные симуляторы",
+        "Технические симуляторы"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 680,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 610080,
       "title": "Realm Grinder",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/610080/capsule_616x353.jpg",
@@ -140948,6 +141422,23 @@
         "PC"
       ],
       "price_rub": 586,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 815860,
+      "title": "Reframed",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/815860/capsule_616x353.jpg",
+      "genres": [
+        "Экшен",
+        "Шутеры от первого лица (FPS)",
+        "Психологические хорроры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 607,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -151550,9 +152041,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1704,
-      "original_price_rub": null,
-      "discount_percent": 0,
+      "price_rub": 753,
+      "original_price_rub": 1770,
+      "discount_percent": 80,
       "is_free": false
     },
     {
@@ -153403,7 +153894,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 888,
+      "price_rub": 909,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -155610,6 +156101,25 @@
       "price_rub": 543,
       "original_price_rub": 791,
       "discount_percent": 85,
+      "is_free": false
+    },
+    {
+      "id": 2067940,
+      "title": "Siberian Village",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2067940/capsule_616x353.jpg",
+      "genres": [
+        "Технические симуляторы",
+        "Шутеры от первого лица (FPS)",
+        "Песочницы (Sandbox)",
+        "Казуальные игры",
+        "Экономические симуляторы"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 854,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -162326,6 +162836,22 @@
       "is_free": true
     },
     {
+      "id": 2671550,
+      "title": "Spellz: Mastery or Death",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2671550/capsule_616x353.jpg",
+      "genres": [
+        "Слэшеры",
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1018,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 2241390,
       "title": "Spelp",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2241390/capsule_616x353.jpg",
@@ -167865,6 +168391,22 @@
       "is_free": false
     },
     {
+      "id": 1962170,
+      "title": "Suddenly Meow 2",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1962170/capsule_616x353.jpg",
+      "genres": [
+        "Казуальные игры",
+        "Аркадные гонки"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 840,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 233350,
       "title": "Sudeki",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/233350/capsule_616x353.jpg",
@@ -169583,6 +170125,24 @@
       "is_free": false
     },
     {
+      "id": 2560390,
+      "title": "SuperAnthony's Joltzsi",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2560390/capsule_616x353.jpg",
+      "genres": [
+        "Головоломки",
+        "Экшен",
+        "Казуальные игры",
+        "Аркадные гонки"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 725,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 282400,
       "title": "SuperPower 2 Steam Edition",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/282400/capsule_616x353.jpg",
@@ -170594,7 +171154,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 648,
+      "price_rub": 656,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -177564,7 +178124,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 705,
+      "price_rub": 716,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -186313,6 +186873,26 @@
       "is_free": false
     },
     {
+      "id": 2071240,
+      "title": "The Wire Man",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2071240/capsule_616x353.jpg",
+      "genres": [
+        "Психологические хорроры",
+        "Платформеры",
+        "Приключения",
+        "Экшен-адвенчуры",
+        "Аркадные гонки",
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 538,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
       "id": 891170,
       "title": "The Witch & The 66 Mushrooms",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/891170/capsule_616x353.jpg",
@@ -192301,6 +192881,21 @@
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
+    },
+    {
+      "id": 1481930,
+      "title": "Trajectory Fracture",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1481930/capsule_616x353.jpg",
+      "genres": [
+        "Казуальные игры"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": true
     },
     {
       "id": 1314140,
@@ -199556,9 +200151,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 583,
-      "original_price_rub": 836,
-      "discount_percent": 75,
+      "price_rub": 854,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -199756,6 +200351,22 @@
         "PC"
       ],
       "price_rub": 908,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 2023170,
+      "title": "Vimana",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2023170/capsule_616x353.jpg",
+      "genres": [
+        "Экшен",
+        "Аркадные гонки"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 840,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -200546,7 +201157,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 627,
+      "price_rub": 634,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -204635,7 +205246,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 586,
+      "price_rub": 591,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -212452,7 +213063,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 671,
+      "price_rub": 682,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -213100,9 +213711,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 1163,
-      "original_price_rub": null,
-      "discount_percent": 0,
+      "price_rub": 780,
+      "original_price_rub": 1199,
+      "discount_percent": 60,
       "is_free": false
     },
     {
@@ -213929,7 +214540,7 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 822,
+      "price_rub": 840,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -216107,9 +216718,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 636,
-      "original_price_rub": null,
-      "discount_percent": 0,
+      "price_rub": 535,
+      "original_price_rub": 644,
+      "discount_percent": 76,
       "is_free": false
     },
     {
@@ -216391,9 +217002,9 @@
       "platforms": [
         "PC"
       ],
-      "price_rub": 748,
-      "original_price_rub": 1497,
-      "discount_percent": 75,
+      "price_rub": 1552,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
@@ -217529,6 +218140,22 @@
         "PC"
       ],
       "price_rub": 606,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 2229250,
+      "title": "今宵、妖しい口づけを ～綺龍・千影・雪之丞編～",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2229250/capsule_616x353.jpg",
+      "genres": [
+        "Приключения",
+        "Визуальные новеллы"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1254,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
@@ -223070,6 +223697,23 @@
         "PC"
       ],
       "price_rub": 890,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 2085100,
+      "title": "鬼湧村 -ホラーゲーム-",
+      "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2085100/capsule_616x353.jpg",
+      "genres": [
+        "Приключения",
+        "Психологические хорроры",
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 901,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
