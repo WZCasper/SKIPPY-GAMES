@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
 function getGameIdFromUrl() {
     const p = new URLSearchParams(window.location.search);
     const raw = p.get('id');
-    return raw ? (isNaN(Number(raw)) ? raw : Number(raw)) : null;
+    return raw ? raw : null; // always return string id (can be numeric-string or ns...)
 }
 
 function loadGame() {
@@ -25,7 +25,7 @@ function loadGame() {
     if (!id) { renderNotFound(); return; }
     fetch(GAME_DETAIL_URL(id), { cache: 'no-store' })
         .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
-        .then(g => { currentGame = g; renderGame(g); })
+        .then(g => { if (g && typeof g.id !== 'string') g.id = String(g.id); currentGame = g; renderGame(g); })
         .catch(err => { console.error('Не удалось загрузить игру ' + id + ':', err); renderNotFound(); });
 }
 
@@ -80,16 +80,16 @@ function renderGame(g) {
 function renderHero(g) {
     const hero = document.getElementById('gameHero');
     if (g.trailer_video) {
-        hero.innerHTML = `<video controls preload="metadata" poster="${g.hero || g.cover}"><source src="${g.trailer_video}" type="video/mp4"></video>`;
+        hero.innerHTML = `<video controls preload="metadata" poster="${escapeHtml(g.hero || g.cover)}"><source src="${escapeHtml(g.trailer_video)}" type="video/mp4"></video>`;
         return;
     }
     if (g.trailer_youtube_id) {
-        hero.innerHTML = `<iframe src="https://www.youtube-nocookie.com/embed/${encodeURIComponent(g.trailer_youtube_id)}?rel=0" title="Трейлер ${escapeHtml(g.title)}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>`;
+        hero.innerHTML = `<iframe src="https://www.youtube-nocookie.com/embed/${encodeURIComponent(g.trailer_youtube_id)}?rel=0" title="Трейлер ${escapeHtml(g.title)}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen></iframe>`;
         return;
     }
     const searchUrl = 'https://www.youtube.com/results?search_query=' + encodeURIComponent(g.title + ' trailer');
     hero.innerHTML = `
-        <img src="${g.hero || g.cover}" alt="${escapeHtml(g.title)}" style="opacity:.55">
+        <img src="${escapeHtml(g.hero || g.cover)}" alt="${escapeHtml(g.title)}" style="opacity:.55">
         <div class="game-hero-grad"></div>
         <div class="game-hero-fallback" style="position:absolute;inset:0;">
             <div>🎬 Трейлер не найден автоматически</div>
@@ -104,15 +104,30 @@ function renderHero(g) {
 function renderGallery(g) {
     const wrap = document.getElementById('galleryWrap');
     const shots = g.screenshots || [];
-    if (shots.length === 0) { wrap.innerHTML = ''; return; }
-    wrap.innerHTML = `<div class="game-gallery">${shots.map((src, i) => `<img src="${src}" alt="Скриншот ${i + 1}" loading="lazy" onclick="openLightbox(${i})">`).join('')}</div>`;
-    lightboxImages = shots;
+    if (shots.length === 0) { wrap.innerHTML = ''; lightboxImages = []; return; }
+
+    const galleryHtml = `<div class="game-gallery">${shots.map((src, i) => `<img class="gallery-thumb" data-index="${i}" src="${escapeHtml(src)}" alt="Скриншот ${i + 1}" loading="lazy">`).join('')}</div>`;
+    wrap.innerHTML = galleryHtml;
+    lightboxImages = shots.slice();
+
+    // делегированная обработка кликов по миниатюрам
+    const galleryEl = wrap.querySelector('.game-gallery');
+    if (galleryEl) {
+        galleryEl.addEventListener('click', (e) => {
+            const img = e.target.closest('img.gallery-thumb');
+            if (!img) return;
+            const idx = Number(img.dataset.index);
+            openLightbox(idx);
+        });
+    }
 }
 function openLightbox(i) { lightboxIndex = i; updateLightbox(); document.getElementById('lightbox').classList.add('open'); }
 function closeLightbox() { document.getElementById('lightbox').classList.remove('open'); }
 function lightboxNav(d) { if (!lightboxImages.length) return; lightboxIndex = (lightboxIndex + d + lightboxImages.length) % lightboxImages.length; updateLightbox(); }
 function updateLightbox() {
-    document.getElementById('lbImg').src = lightboxImages[lightboxIndex];
+    const imgEl = document.getElementById('lbImg');
+    if (!lightboxImages.length) { imgEl.src = ''; document.getElementById('lbCounter').textContent = '' ; return; }
+    imgEl.src = lightboxImages[lightboxIndex];
     document.getElementById('lbCounter').textContent = (lightboxIndex + 1) + ' / ' + lightboxImages.length;
 }
 function handleLightboxKeys(e) {
@@ -128,13 +143,19 @@ function handleLightboxKeys(e) {
 
 function renderPriceCard(g) {
     const el = document.getElementById('priceCard');
+    if (!g) { el.innerHTML = ''; return; }
+
+    // ensure numeric fields
+    const priceRub = typeof g.price_rub === 'number' ? g.price_rub : (g.price_rub ? Number(g.price_rub) : null);
+
     if (g.is_free && g.source === 'steam') {
         el.innerHTML = `
             <div class="g-price free">Бесплатно</div>
             <button class="g-buy-btn" id="buyBtn">🛒 Получить в Steam</button>
             <div class="g-buy-note">Откроется страница игры в Steam — установка бесплатна</div>`;
         document.getElementById('buyBtn').addEventListener('click', () => {
-            window.open(`https://store.steampowered.com/app/${g.id}/`, '_blank', 'noopener');
+            if (/^\d+$/.test(String(g.id))) window.open(`https://store.steampowered.com/app/${g.id}/`, '_blank', 'noopener');
+            else window.open('https://store.steampowered.com/search/?term=' + encodeURIComponent(g.title), '_blank', 'noopener');
         });
         return;
     }
@@ -152,8 +173,8 @@ function renderPriceCard(g) {
         ? `Цена в Steam: ${formatRub(g.base_price_rub)} + сервисный сбор ${formatRub(g.markup_rub)} = ${formatRub(g.price_rub)}` : '';
     el.innerHTML = `
         ${discountRow}
-        <div class="g-price">${formatRub(g.price_rub)}</div>
-        <div class="g-price-breakdown">${breakdown}</div>
+        <div class="g-price">${priceRub !== null ? formatRub(priceRub) : '—'}</div>
+        <div class="g-price-breakdown">${escapeHtml(breakdown)}</div>
         <button class="g-buy-btn" id="buyBtn">🛒 Купить игру</button>
         <div class="g-buy-note">Оплата происходит через менеджера ВКонтакте или Telegram</div>`;
     document.getElementById('buyBtn').addEventListener('click', buyGame);
@@ -161,7 +182,7 @@ function renderPriceCard(g) {
 
 function buyGame() {
     if (!currentGame) return;
-    const priceLabel = currentGame.is_free ? 'бесплатно' : formatRub(currentGame.price_rub);
+    const priceLabel = currentGame.is_free ? 'бесплатно' : (currentGame.price_rub ? formatRub(currentGame.price_rub) : 'по запросу');
     const platformsLabel = (currentGame.platforms || []).map(p => PLATFORM_LABELS[p] || p).join('/');
     const text = `Здравствуйте! Хочу купить игру ${currentGame.title} на платформу ${platformsLabel} (${priceLabel}).`;
     completePurchaseFlow(text);
@@ -175,6 +196,7 @@ function renderUpsells(g) {
     const el = document.getElementById('upsellsSection');
     const items = g.upsells || [];
     if (items.length === 0) { el.innerHTML = ''; return; }
+
     el.innerHTML = `
         <div class="g-section">
             <div class="g-section-ttl">💎 Дополнения и внутриигровая валюта</div>
@@ -182,13 +204,25 @@ function renderUpsells(g) {
             <div class="ig-grid">
                 ${items.map(it => `
                     <div class="ig-item">
-                        ${it.cover ? `<img src="${it.cover}" alt="${escapeHtml(it.name)}">` : ''}
+                        ${it.cover ? `<img src="${escapeHtml(it.cover)}" alt="${escapeHtml(it.name)}">` : ''}
                         <div class="ig-info"><div class="ig-nm">${escapeHtml(it.name)}</div><div class="ig-pr">${formatRub(it.price_rub)}</div></div>
-                        <button class="ig-buy" onclick='buyUpsell(${JSON.stringify(it.name)}, ${it.price_rub})'>+</button>
+                        <button class="ig-buy" data-name="${escapeHtml(it.name)}" data-price="${Number(it.price_rub) || 0}">+</button>
                     </div>
                 `).join('')}
             </div>
         </div>`;
+
+    // делегирование: обработчик для кнопок покупки дополнений
+    const grid = el.querySelector('.ig-grid');
+    if (grid) {
+        grid.addEventListener('click', (e) => {
+            const btn = e.target.closest('button.ig-buy');
+            if (!btn) return;
+            const name = btn.dataset.name || '';
+            const price = Number(btn.dataset.price) || 0;
+            buyUpsell(name, price);
+        });
+    }
 }
 
 function buyUpsell(name, price) {
