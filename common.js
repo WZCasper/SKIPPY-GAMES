@@ -13,10 +13,10 @@ var GAME_DETAIL_URL = (id) => `data/games/${id}.json`;
 var PLATFORM_LABELS = { PC: 'Steam', PlayStation: 'PlayStation 5', Xbox: 'Xbox Series X|S', 'Nintendo Switch': 'Nintendo Switch' };
 var PLATFORM_SHORT = { PC: 'Steam', PlayStation: 'PS5', Xbox: 'Xbox', 'Nintendo Switch': 'Switch' };
 var PLATFORM_ICON_SVG = {
-    PC: '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M11.979 0C5.678 0 .511 4.86.022 11.037l6.432 2.658c.545-.371 1.203-.59 1.912-.59.063 0 .125.004.188.006l2.861-4.142V8.91c0-2.495 2.028-4.524 4.524-4.524 2.494 0 4.524 2.029 4.524 4.524s-2.03 4.525-4.524 4.525h-.105l-4.076 2.911c0 .052.004.105.004.159 0 1.875-1.515 3.396-3.39 3.396-1.635 0-3.016-1.173-3.331-2.727L.436 15.27C1.862 20.307 6.486 24 11.979 24c6.627 0 11.999-5.373 11.999-12S18.605 0 11.979 0z"/></svg>',
-    PlayStation: '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M8.984 2.596v14.347l3.67 1.066V6.208c0-.67.295-1.136.77-.98.608.19.73.814.73 1.483v5.995c2.746 1.369 4.802-.07 4.802-3.718 0-3.746-1.3-5.25-5.164-6.545-1.03-.35-2.817-.8-4.808-1.847zM2 17.33l6.362 2.17c4.45 1.516 9.162-.052 9.162-4.983v-.078c0-.592-.072-1.156-.21-1.69l-3.588-1.032v4.485c0 .67-.295 1.136-.77.98-.608-.19-.73-.814-.73-1.483v-4.33L6.83 9.6C4.604 10.96 2 12.58 2 17.33z"/></svg>',
-    Xbox: '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M6.018 4.84c.546-.625 2.056-1.75 5.982-1.75s5.436 1.125 5.982 1.75c-5.982-4.36-11.964 0-11.964 0zM12 2c-5.523 0-10 4.477-10 10s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2zm-3.05 14.06c-2.456-2.888-3.282-5.62-2.812-7.562C7.02 8.43 9.148 7 12 7s4.98 1.43 5.862 1.498c.47 1.942-.356 4.674-2.812 7.562C13.684 17.573 12 18 12 18s-1.684-.427-3.05-1.94z"/></svg>',
-    'Nintendo Switch': '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M7 2C4.24 2 2 4.24 2 7v10c0 2.76 2.24 5 5 5 2.76 0 5-2.24 5-5V7c0-2.76-2.24-5-5-5zm0 3a2 2 0 1 1 0 4 2 2 0 0 1 0-4zM17 2a5 5 0 0 0-5 5v10a5 5 0 0 0 5 5 5 5 0 0 0 5-5V7a5 5 0 0 0-5-5zm0 15a2 2 0 1 1 0-4 2 2 0 0 1 0 4z"/></svg>',
+    PC: '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M11.979 0C5.678 0 .511 4.86.022 11.037l6.432 2.658c.545-.371 1.203-.59 1.912-.59.063 0 .125.004.188.006l2.861-4.142V8.91c0-2.495 2.02[...]</svg>',
+    PlayStation: '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M8.984 2.596v14.347l3.67 1.066V6.208c0-.67.295-1.136.77-.98.608.19.73.814.73 1.483v5.995c2.746 1.369 4.802-.07 4.802-3.718 0[...]</svg>',
+    Xbox: '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M6.018 4.84c.546-.625 2.056-1.75 5.982-1.75s5.436 1.125 5.982 1.75c-5.982-4.36-11.964 0-11.964 0zM12 2c-5.523 0-10 4.477-10 10s4.47[...]</svg>',
+    'Nintendo Switch': '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M7 2C4.24 2 2 4.24 2 7v10c0 2.76 2.24 5 5 5 2.76 0 5-2.24 5-5V7c0-2.76-2.24-5-5-5zm0 3a2 2 0 1 1 0 4 2 2 0 0 1 0-4zM17[...]</svg>'
 };
 
 // Иконки жанров — чисто декоративные, не влияют на данные/фильтрацию.
@@ -55,24 +55,29 @@ function platformShortBadge(p) {
 }
 
 /* =============================================================================
-   WISHLIST (реально в localStorage, без бэкенда)
+   WISHLIST (реально в localStorage, без бэкенда) — теперь нормализуем в строки
    ============================================================================= */
 
 function getWishlist() {
-    try { const raw = localStorage.getItem(WISHLIST_KEY); return raw ? JSON.parse(raw) : []; }
+    try {
+        const raw = localStorage.getItem(WISHLIST_KEY);
+        const parsed = raw ? JSON.parse(raw) : [];
+        return Array.isArray(parsed) ? parsed.map(x => String(x)) : [];
+    }
     catch (e) { return []; }
 }
 function setWishlist(ids) {
-    try { localStorage.setItem(WISHLIST_KEY, JSON.stringify(ids)); } catch (e) { /* приватный режим и т.п. */ }
+    try { localStorage.setItem(WISHLIST_KEY, JSON.stringify(ids.map(x => String(x)))); } catch (e) { /* приватный режим и т.п. */ }
     updateWishlistBadges();
 }
-function isInWishlist(id) { return getWishlist().includes(id); }
+function isInWishlist(id) { return getWishlist().includes(String(id)); }
 function toggleWishlist(id) {
+    const sid = String(id);
     const list = getWishlist();
-    const idx = list.indexOf(id);
-    if (idx > -1) list.splice(idx, 1); else list.push(id);
+    const idx = list.indexOf(sid);
+    if (idx > -1) list.splice(idx, 1); else list.push(sid);
     setWishlist(list);
-    return list.includes(id);
+    return list.includes(sid);
 }
 function updateWishlistBadges() {
     const count = getWishlist().length;
