@@ -13,14 +13,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 31,
+  "base_price_rub": 410,
   "markup_rub": 500,
-  "price_rub": 531,
-  "original_price_rub": 888,
-  "discount_percent": 92,
+  "price_rub": 910,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "pGOxv1XXNs4",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332410/ss_aa3cbbf08363ecca40eb042815826934dc54163d.1920x1080.jpg?t=1730550361",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332410/ss_015738d114a3b3c7ab5a7ed2f0312928bb38ac0f.1920x1080.jpg?t=1730550361",
@@ -35,28 +35,28 @@
     {
       "id": 366710,
       "name": "Official Guide - Moonchild",
-      "base_price_rub": 33,
+      "base_price_rub": 180,
       "markup_rub": 500,
-      "price_rub": 533,
+      "price_rub": 680,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366710/header.jpg?t=1630006382"
     },
     {
       "id": 372200,
       "name": "Moonchild - Deluxe Contents",
-      "base_price_rub": 29,
+      "base_price_rub": 217,
       "markup_rub": 500,
-      "price_rub": 529,
+      "price_rub": 717,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/372200/header.jpg?t=1630006379"
     },
     {
       "id": 464130,
       "name": "Moonchild - Super Savefiles",
-      "base_price_rub": 28,
+      "base_price_rub": 38,
       "markup_rub": 500,
-      "price_rub": 528,
+      "price_rub": 538,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464130/header.jpg?t=1630006385"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-14T09:06:39Z"
+  "updated_at": "2026-08-08T07:01:07Z"
 }
