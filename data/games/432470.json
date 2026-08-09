@@ -12,14 +12,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 29,
+  "base_price_rub": 182,
   "markup_rub": 500,
-  "price_rub": 529,
-  "original_price_rub": 672,
-  "discount_percent": 83,
+  "price_rub": 682,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "8LQA6EJcRIM",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/432470/ss_88b3be908378fbe4499a4662c2fe20ecfc9a19a9.1920x1080.jpg?t=1782165412",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/432470/ss_1d6d103b90b0c5bd2f6e3459f662a91604c122eb.1920x1080.jpg?t=1782165412",
@@ -34,12 +34,12 @@
     {
       "id": 456120,
       "name": "Magdalena Soundtrack",
-      "base_price_rub": 29,
+      "base_price_rub": 95,
       "markup_rub": 500,
-      "price_rub": 529,
+      "price_rub": 595,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/456120/header.jpg?t=1782165466"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-14T14:03:25Z"
+  "updated_at": "2026-08-09T07:04:17Z"
 }
