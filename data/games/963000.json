@@ -14,14 +14,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 127,
+  "base_price_rub": 227,
   "markup_rub": 500,
-  "price_rub": 627,
-  "original_price_rub": 714,
-  "discount_percent": 40,
+  "price_rub": 727,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "V1SIWj4QO5A",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/963000/ss_481ae2fef229e200d82beacbe4f3d0175dd89c40.1920x1080.jpg?t=1746201247",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/963000/ss_6d6244720e610fb4126fd9f54439d5ae589c1a36.1920x1080.jpg?t=1746201247",
@@ -34,12 +34,12 @@
     {
       "id": 1212590,
       "name": "Frog Detective 1: Original Soundtrack",
-      "base_price_rub": 52,
+      "base_price_rub": 92,
       "markup_rub": 500,
-      "price_rub": 552,
+      "price_rub": 592,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1212590/header.jpg?t=1581630085"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-14T14:23:10Z"
+  "updated_at": "2026-08-10T07:59:20Z"
 }

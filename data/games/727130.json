@@ -15,14 +15,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 341,
+  "base_price_rub": 1100,
   "markup_rub": 500,
-  "price_rub": 841,
-  "original_price_rub": 1533,
-  "discount_percent": 67,
+  "price_rub": 1600,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "NTrP3rL3--s",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/727130/ss_bf4c9c83fe85a34cb2729103c323e30f7c78a512.1920x1080.jpg?t=1762955708",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/727130/ss_17962b5c44035ea428182e3357d1790679ce4c21.1920x1080.jpg?t=1762955708",
@@ -37,12 +37,12 @@
     {
       "id": 1092490,
       "name": "Between the Stars - Original Soundtrack",
-      "base_price_rub": 69,
+      "base_price_rub": 227,
       "markup_rub": 500,
-      "price_rub": 569,
+      "price_rub": 727,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1092490/header.jpg?t=1666996426"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-14T14:18:48Z"
+  "updated_at": "2026-08-10T07:51:20Z"
 }
