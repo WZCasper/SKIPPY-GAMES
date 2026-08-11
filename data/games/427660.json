@@ -16,9 +16,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 567,
+  "base_price_rub": 606,
   "markup_rub": 500,
-  "price_rub": 1067,
+  "price_rub": 1106,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -36,22 +36,30 @@
   ],
   "upsells": [
     {
+      "id": 455560,
+      "name": "NightCry Soundtrack",
+      "base_price_rub": 514,
+      "markup_rub": 500,
+      "price_rub": 1014,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/455560/header.jpg?t=1581550390"
+    },
+    {
       "id": 455561,
       "name": "NightCry Artbook",
-      "base_price_rub": 360,
+      "base_price_rub": 385,
       "markup_rub": 500,
-      "price_rub": 860,
+      "price_rub": 885,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/455561/header.jpg?t=1566800626"
     },
     {
       "id": 455562,
       "name": "NightCry Storyboards",
-      "base_price_rub": 360,
+      "base_price_rub": 385,
       "markup_rub": 500,
-      "price_rub": 860,
+      "price_rub": 885,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/455562/header.jpg?t=1566800669"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-14T14:43:52Z"
+  "updated_at": "2026-08-11T19:18:35Z"
 }
