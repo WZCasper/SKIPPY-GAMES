@@ -12,14 +12,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 196,
+  "base_price_rub": 422,
   "markup_rub": 500,
-  "price_rub": 696,
-  "original_price_rub": 894,
-  "discount_percent": 50,
+  "price_rub": 922,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "MUGE5P94ehw",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1234940/ss_f3a14f3c339d4204623d5bed6e05191f6367e75d.1920x1080.jpg?t=1774346350",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1234940/ss_b189fe8ac5c95efb1a5ec5803354ecff0f21a321.1920x1080.jpg?t=1774346350",
@@ -34,12 +34,12 @@
     {
       "id": 1595240,
       "name": "Саундтрек Астронарх",
-      "base_price_rub": 214,
+      "base_price_rub": 228,
       "markup_rub": 500,
-      "price_rub": 714,
+      "price_rub": 728,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1595240/header_russian.jpg?t=1639042246"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-14T14:33:56Z"
+  "updated_at": "2026-08-11T07:17:11Z"
 }

@@ -13,114 +13,122 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 1275,
+  "base_price_rub": 1363,
   "markup_rub": 500,
-  "price_rub": 1775,
+  "price_rub": 1863,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072040/ss_3f6fe5b580e46ee3dfe47299a1b7901436230ffd.1920x1080.jpg?t=1781787780",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072040/ss_1b66a6eeec6875b598a062fa22a5cbd9083b7a88.1920x1080.jpg?t=1781787780",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072040/ss_43b89495dacecf706ef0802a0ea0255ef96de5fb.1920x1080.jpg?t=1781787780",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072040/ss_16ed6e01878308bf2240676bc79da367d9fac0b9.1920x1080.jpg?t=1781787780",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072040/ss_3866fd07e1ebb55bddf73e45f9a51bf0a919f30b.1920x1080.jpg?t=1781787780",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072040/ss_2a506503162039492c8b6f714b1ef849567518ca.1920x1080.jpg?t=1781787780",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072040/ss_cdc174e0f25b72b0b9a954b8afe9bbe06ed47a94.1920x1080.jpg?t=1781787780",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072040/ss_21c3a106ba77805a650c897dea6108fed08e8d9f.1920x1080.jpg?t=1781787780"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072040/ss_3f6fe5b580e46ee3dfe47299a1b7901436230ffd.1920x1080.jpg?t=1784796671",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072040/ss_1b66a6eeec6875b598a062fa22a5cbd9083b7a88.1920x1080.jpg?t=1784796671",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072040/ss_43b89495dacecf706ef0802a0ea0255ef96de5fb.1920x1080.jpg?t=1784796671",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072040/ss_16ed6e01878308bf2240676bc79da367d9fac0b9.1920x1080.jpg?t=1784796671",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072040/ss_3866fd07e1ebb55bddf73e45f9a51bf0a919f30b.1920x1080.jpg?t=1784796671",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072040/ss_2a506503162039492c8b6f714b1ef849567518ca.1920x1080.jpg?t=1784796671",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072040/ss_cdc174e0f25b72b0b9a954b8afe9bbe06ed47a94.1920x1080.jpg?t=1784796671",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072040/ss_21c3a106ba77805a650c897dea6108fed08e8d9f.1920x1080.jpg?t=1784796671"
   ],
   "upsells": [
     {
+      "id": 4782610,
+      "name": "Panzer Corps 2: Elite - All American",
+      "base_price_rub": 240,
+      "markup_rub": 500,
+      "price_rub": 740,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4782610/a0eb022506144137e7721015800286fdaa81567e/header.jpg?t=1784729291"
+    },
+    {
       "id": 4193350,
       "name": "Panzer Corps 2: Allied Operations - Italy: Vol.1",
-      "base_price_rub": 560,
+      "base_price_rub": 599,
       "markup_rub": 500,
-      "price_rub": 1060,
+      "price_rub": 1099,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4193350/a7aa97be74ba553ba9feb42d43079e2bc2308a1c/header.jpg?t=1779117505"
     },
     {
       "id": 4093750,
       "name": "Panzer Corps 2: Elite - 1st Guards",
-      "base_price_rub": 214,
+      "base_price_rub": 228,
       "markup_rub": 500,
-      "price_rub": 714,
+      "price_rub": 728,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4093750/a76aa374fdda629d43cc0608cf91cc3060df59d3/header.jpg?t=1763996853"
     },
     {
       "id": 3508950,
       "name": "Panzer Corps 2: Frontlines - Westwall",
-      "base_price_rub": 388,
+      "base_price_rub": 415,
       "markup_rub": 500,
-      "price_rub": 888,
+      "price_rub": 915,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3508950/f3d3c466d3fce5211781bdd5a7e22e90f375b3e6/header.jpg?t=1755703549"
     },
     {
       "id": 3714230,
       "name": "Panzer Corps 2: Elite - Ghost Division",
-      "base_price_rub": 214,
+      "base_price_rub": 228,
       "markup_rub": 500,
-      "price_rub": 714,
+      "price_rub": 728,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3714230/a0d75fbf0dfdbaefc374be9b7dea68e6c13953ee/header.jpg?t=1749458355"
     },
     {
       "id": 3167270,
       "name": "Panzer Corps 2: Frontlines - Cyrenaica",
-      "base_price_rub": 560,
+      "base_price_rub": 599,
       "markup_rub": 500,
-      "price_rub": 1060,
+      "price_rub": 1099,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3167270/header.jpg?t=1746022985"
     },
     {
       "id": 3023770,
       "name": "Panzer Corps 2: War Stories - Fall of Poland",
-      "base_price_rub": 388,
+      "base_price_rub": 415,
       "markup_rub": 500,
-      "price_rub": 888,
+      "price_rub": 915,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3023770/header.jpg?t=1724940378"
     },
     {
       "id": 2711250,
       "name": "Panzer Corps 2: Frontlines - Bulge",
-      "base_price_rub": 388,
+      "base_price_rub": 415,
       "markup_rub": 500,
-      "price_rub": 888,
+      "price_rub": 915,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2711250/header.jpg?t=1711033939"
     },
     {
       "id": 2393021,
       "name": "Panzer Corps 2: Axis Operations - 1946",
-      "base_price_rub": 715,
+      "base_price_rub": 765,
       "markup_rub": 500,
-      "price_rub": 1215,
+      "price_rub": 1265,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2393021/header.jpg?t=1702372808"
     },
     {
       "id": 2393020,
       "name": "Panzer Corps 2: Axis Operations - 1945",
-      "base_price_rub": 388,
+      "base_price_rub": 415,
       "markup_rub": 500,
-      "price_rub": 888,
+      "price_rub": 915,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2393020/header.jpg?t=1687524051"
     },
     {
       "id": 2130950,
       "name": "Panzer Corps 2: Axis Operations - 1944",
-      "base_price_rub": 388,
+      "base_price_rub": 415,
       "markup_rub": 500,
-      "price_rub": 888,
+      "price_rub": 915,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2130950/header.jpg?t=1669805095"
     },
     {
       "id": 1938820,
       "name": "Panzer Corps 2: Axis Operations - 1943",
-      "base_price_rub": 388,
+      "base_price_rub": 415,
       "markup_rub": 500,
-      "price_rub": 888,
+      "price_rub": 915,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1938820/efcd796a211a5023f6364c6e0be848e95cb3376f/header.jpg?t=1761561923"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-14T14:38:50Z"
+  "updated_at": "2026-08-11T07:31:30Z"
 }

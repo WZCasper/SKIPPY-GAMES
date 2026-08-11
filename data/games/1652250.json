@@ -13,25 +13,42 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 646,
+  "base_price_rub": 206,
   "markup_rub": 500,
-  "price_rub": 1146,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 706,
+  "original_price_rub": 1191,
+  "discount_percent": 70,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "wHkRA4Witd4",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1652250/ss_9e7b229d18aa285e70913718c90050e6107a7676.1920x1080.jpg?t=1774969953",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1652250/ss_f97ab500297569b02f61f5557f25961038eee08f.1920x1080.jpg?t=1774969953",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1652250/ss_db2659b3456714c5cb5ef1bd3849fc9ed0a7d371.1920x1080.jpg?t=1774969953",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1652250/ss_8d4d90ae436cb0654b35d7a3137cae395d70a161.1920x1080.jpg?t=1774969953",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1652250/ss_71b406e65a7313577e9993172688a586cbd4a80a.1920x1080.jpg?t=1774969953",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1652250/ss_ed8190bda751c81dca30e337ff76a38122ebb2a3.1920x1080.jpg?t=1774969953",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1652250/ss_8fb5e494432643d226a072e49357d86769259123.1920x1080.jpg?t=1774969953",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1652250/ss_ae33e58488919a0c027ad4f9a1db331c21676f64.1920x1080.jpg?t=1774969953"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1652250/ss_9e7b229d18aa285e70913718c90050e6107a7676.1920x1080.jpg?t=1786102490",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1652250/ss_f97ab500297569b02f61f5557f25961038eee08f.1920x1080.jpg?t=1786102490",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1652250/ss_db2659b3456714c5cb5ef1bd3849fc9ed0a7d371.1920x1080.jpg?t=1786102490",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1652250/ss_8d4d90ae436cb0654b35d7a3137cae395d70a161.1920x1080.jpg?t=1786102490",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1652250/ss_71b406e65a7313577e9993172688a586cbd4a80a.1920x1080.jpg?t=1786102490",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1652250/ss_ed8190bda751c81dca30e337ff76a38122ebb2a3.1920x1080.jpg?t=1786102490",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1652250/ss_8fb5e494432643d226a072e49357d86769259123.1920x1080.jpg?t=1786102490",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1652250/ss_ae33e58488919a0c027ad4f9a1db331c21676f64.1920x1080.jpg?t=1786102490"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 4802820,
+      "name": "Tales & Tactics - Set 2: World Tour",
+      "base_price_rub": 348,
+      "markup_rub": 500,
+      "price_rub": 848,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4802820/7791f02739dfcc1b182c8532098a8ae2b36aee92/header.jpg?t=1786035625"
+    },
+    {
+      "id": 4911570,
+      "name": "Tales And Tactics Soundtrack",
+      "base_price_rub": 140,
+      "markup_rub": 500,
+      "price_rub": 640,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4911570/52c6561be820d922f7608062846ea76ea513ec5e/header.jpg?t=1786035508"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-14T14:35:12Z"
+  "updated_at": "2026-08-11T07:19:28Z"
 }
