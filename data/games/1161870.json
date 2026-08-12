@@ -13,14 +13,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 136,
+  "base_price_rub": 84,
   "markup_rub": 500,
-  "price_rub": 636,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 584,
+  "original_price_rub": 645,
+  "discount_percent": 42,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "-fXdkuNgDpo",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1161870/ss_c76a82071765c02f21a1f8f72f749574f84eb079.1920x1080.jpg?t=1740711251",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1161870/ss_bb9d6d54e7e11dd18d0fabf85c29e2fdbff421ba.1920x1080.jpg?t=1740711251",
@@ -28,7 +28,24 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1161870/ss_3b6d8ce7532f80a274adc50f2e20d132b303f349.1920x1080.jpg?t=1740711251",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1161870/ss_d9dce069de8408f27ac8d4e824d47e60fbbdbd48.1920x1080.jpg?t=1740711251"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 1227170,
+      "name": "Tiny Dream Epiphyllum  - Official Artworks",
+      "base_price_rub": 28,
+      "markup_rub": 500,
+      "price_rub": 528,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1227170/header.jpg?t=1584777171"
+    },
+    {
+      "id": 3540200,
+      "name": "Epiphyllum in Love - Original Soundtrack",
+      "base_price_rub": 28,
+      "markup_rub": 500,
+      "price_rub": 528,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3540200/header.jpg?t=1740711298"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-14T14:49:58Z"
+  "updated_at": "2026-08-12T07:42:29Z"
 }

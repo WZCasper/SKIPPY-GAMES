@@ -12,14 +12,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 715,
+  "base_price_rub": 762,
   "markup_rub": 500,
-  "price_rub": 1215,
+  "price_rub": 1262,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "fuPE2LhZt70",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/73190/ss_10a869092cb9676c3038f4f6200d4fcd640e7b32.1920x1080.jpg?t=1710238888",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/73190/ss_7780c71f9b91a6a9045e2acda30d13b248d861f9.1920x1080.jpg?t=1710238888",
@@ -30,7 +30,40 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/73190/ss_ec5b5230cf0c1988e50725b7a4e9b67e9f1d8a5a.1920x1080.jpg?t=1710238888",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/73190/ss_d4e24ecc354d98a09e0c7cc2da9fc5f534dc823e.1920x1080.jpg?t=1710238888"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 73195,
+      "name": "Pride of Nations: The Scramble for Africa",
+      "base_price_rub": 182,
+      "markup_rub": 500,
+      "price_rub": 682,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/73195/header.jpg?t=1560506759"
+    },
+    {
+      "id": 73192,
+      "name": "Pride of Nations: Spanish-American War 1898",
+      "base_price_rub": 182,
+      "markup_rub": 500,
+      "price_rub": 682,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/73192/header.jpg?t=1560506894"
+    },
+    {
+      "id": 73193,
+      "name": "Pride of Nations: American Civil War 1862",
+      "base_price_rub": 182,
+      "markup_rub": 500,
+      "price_rub": 682,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/73193/header.jpg?t=1560506945"
+    },
+    {
+      "id": 73194,
+      "name": "Pride of Nations: The Franco-Prussian War 1870",
+      "base_price_rub": 182,
+      "markup_rub": 500,
+      "price_rub": 682,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/73194/header.jpg?t=1560506813"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-14T14:49:53Z"
+  "updated_at": "2026-08-12T07:42:21Z"
 }

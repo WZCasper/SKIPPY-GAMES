@@ -14,14 +14,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 877,
+  "base_price_rub": 320,
   "markup_rub": 500,
-  "price_rub": 1377,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 820,
+  "original_price_rub": 1784,
+  "discount_percent": 75,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "AyGZAzHu1QQ",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2386310/ss_94c4b6ae2492fec3672fa1f6f4d07433790d41f6.1920x1080.jpg?t=1733844176",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2386310/ss_ed4348c57384f9a847e9bc8a1ec176dcbcf51e10.1920x1080.jpg?t=1733844176",
@@ -32,7 +32,24 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2386310/ss_8bd055e4e5e52f48825d9a243e4680feec68420a.1920x1080.jpg?t=1733844176",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2386310/ss_d42b54745073ceef882a2ffe4eaa85043f6cc836.1920x1080.jpg?t=1733844176"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 2649730,
+      "name": "Ultros: Digital Artbook",
+      "base_price_rub": 219,
+      "markup_rub": 500,
+      "price_rub": 719,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2649730/header.jpg?t=1733844252"
+    },
+    {
+      "id": 2649740,
+      "name": "Ultros: Soundtrack",
+      "base_price_rub": 292,
+      "markup_rub": 500,
+      "price_rub": 792,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2649740/header.jpg?t=1733844218"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-14T14:50:11Z"
+  "updated_at": "2026-08-12T07:44:48Z"
 }

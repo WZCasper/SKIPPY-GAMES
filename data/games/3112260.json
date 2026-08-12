@@ -15,9 +15,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 1256,
+  "base_price_rub": 1339,
   "markup_rub": 500,
-  "price_rub": 1756,
+  "price_rub": 1839,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -33,7 +33,40 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3112260/ss_91abf4057a13f2582c2529db3603775c181c50b7.1920x1080.jpg?t=1781263170",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3112260/ss_d8cc60fa4b89a81d78b394cdf3e5aa8895aa0d18.1920x1080.jpg?t=1781263170"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 3761410,
+      "name": "Virtua Fighter 5 R.E.V.O. World Stage: новый боец Дюраль",
+      "base_price_rub": 476,
+      "markup_rub": 500,
+      "price_rub": 976,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3761410/747a863eff04faa0f8fe95bee33fb8c9664b9340/header.jpg?t=1781514039"
+    },
+    {
+      "id": 3282770,
+      "name": "Virtua Fighter 5 R.E.V.O. World Stage - Virtua Fighter Legendary Pack DLC",
+      "base_price_rub": 733,
+      "markup_rub": 500,
+      "price_rub": 1233,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282770/d236ed887e0a25e3c3cb74561791ba6bcf6de2ec/header.jpg?t=1781514490"
+    },
+    {
+      "id": 3282760,
+      "name": "Virtua Fighter 5 R.E.V.O. World Stage - Yakuza Series Collaboration Pack DLC",
+      "base_price_rub": 733,
+      "markup_rub": 500,
+      "price_rub": 1233,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282760/06102155e8b07af47737016105308afea9f811b5/header.jpg?t=1781257032"
+    },
+    {
+      "id": 3282780,
+      "name": "Virtua Fighter 5 R.E.V.O. World Stage - TEKKEN 7 Collaboration Pack DLC",
+      "base_price_rub": 733,
+      "markup_rub": 500,
+      "price_rub": 1233,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282780/8df79c6abfbbfec1a0d4267d40a4388ab670e6ac/header.jpg?t=1781514239"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-14T14:50:07Z"
+  "updated_at": "2026-08-12T07:43:43Z"
 }
