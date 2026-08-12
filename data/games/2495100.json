@@ -16,11 +16,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 1064,
+  "base_price_rub": 1892,
   "markup_rub": 500,
-  "price_rub": 1564,
-  "original_price_rub": 2274,
-  "discount_percent": 40,
+  "price_rub": 2392,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -38,20 +38,20 @@
     {
       "id": 4055140,
       "name": "Hello Kitty Island Adventure - City Town",
-      "base_price_rub": 1154,
+      "base_price_rub": 1230,
       "markup_rub": 500,
-      "price_rub": 1654,
+      "price_rub": 1730,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4055140/90d78a804eee7408aa2dac80d15cee0d0fbe295a/header.jpg?t=1776363221"
     },
     {
       "id": 3890520,
       "name": "Hello Kitty Island Adventure - Wheatflour Wonderland",
-      "base_price_rub": 415,
+      "base_price_rub": 738,
       "markup_rub": 500,
-      "price_rub": 915,
+      "price_rub": 1238,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3890520/5dd88e929c5d228d3af03ed67dc8b6070056bd10/header.jpg?t=1758203389"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-14T14:44:55Z"
+  "updated_at": "2026-08-12T02:25:46Z"
 }
