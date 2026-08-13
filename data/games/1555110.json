@@ -13,14 +13,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 38,
+  "base_price_rub": 276,
   "markup_rub": 500,
-  "price_rub": 538,
-  "original_price_rub": 757,
-  "discount_percent": 85,
+  "price_rub": 776,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "jZ65OXW72ok",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1555110/ss_85f310dfd531510895e2d319a72b582c388ad4c6.1920x1080.jpg?t=1745849290",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1555110/ss_b9fabc8185ff17a47f23b9c1e0eb8c3e7fcd9843.1920x1080.jpg?t=1745849290",
@@ -35,20 +35,20 @@
     {
       "id": 1717970,
       "name": "Chasing Tails ~A Promise in the Snow~ Artbook",
-      "base_price_rub": 76,
+      "base_price_rub": 109,
       "markup_rub": 500,
-      "price_rub": 576,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1717970/header.jpg?t=1660926532"
+      "price_rub": 609,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1717970/header.jpg?t=1785367337"
     },
     {
       "id": 1731980,
       "name": "Chasing Tails - Tip the Dev",
-      "base_price_rub": 257,
+      "base_price_rub": 276,
       "markup_rub": 500,
-      "price_rub": 757,
+      "price_rub": 776,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1731980/header.jpg?t=1660926509"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-14T19:37:53Z"
+  "updated_at": "2026-08-13T07:42:41Z"
 }
