@@ -1,0 +1,34 @@
+{
+  "id": 1712430,
+  "title": "Klondike Re-Imagined",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1712430/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1712430/library_hero.jpg",
+  "description": "I started working on this app over twenty years ago. (They weren’t called “apps” back then.) I wanted a Klondike that displayed all the possible moves (without having to hit a hint key). So, I designed a Klondike app where all possible moves are shown as little flags attached to the moveable cards. To make the move, you just click on the flag. \n\nThen I was on to my other pet peeve. All Klondike programs made you go through the talon three cards at a time. If you are a serious player, you need to see them all. Why not display them all in a nice 3-by-x array. With the possible-move-flags attached! Easily done.\n\nI was happy. My program was way more enjoyable to play. But after a while I was bothered by how troublesome it sometimes was to find where a given card (the one you need) might be. So off to the side, I added a Card-Map showing icons for all the cards, color coded by location: grey for face-down cards, blue for face-up cards in the tableau, green for cards built to the foundation and orange for cards in the Talon. Additionally, if you click on the Card Map icon, the corresponding card gets highlighted (well, not the face-down cards, of course). \n\nYears later, I wondered if it was possible for the Card Map to let me know when a build situation occurs where it was possible to flip a face-down card. After much work, I had the algorithm. When the possibility arises, the Card Map highlights the needed builds. Cool. \n\nWould it be possible to do the same thing for stacking moves - if pulling certain cards out of the talon could facilitate flipping a down card, could I highlight them? This needed a pair of new card maps, Stacking Maps, showing all cards’ icons in stacking order (color coded as in the Build Maps). After months of work, I had the algorithm. This was really nice. Stacking Maps quickly became the center for strategy formulation.\n\nOne day in the shower, I had a brainstorm. I could display the Talon twice, once as it is and then again as it will be the next time through, with the possible-move-flags attached to both versions. So, when you make a set-up move in the talon, the move you really want to make instantly appears (in the second Talon) for you to select. This makes the Recycle Talon button essentially superfluous. \n\nBut there was still one very troublesome aspect of playing Klondike – continuing to play when it was impossible to win. Could I come up with a totally accurate algorithm to let you know when continuing was futile. And make it fast enough to execute it in the background, in between moves? Okay, this one took three years of thinking about and then months of programming it. But it works brilliantly. This is really, really nice! No wasting time on doomed games.\n\nI really like Klondike. (I have over 20,000 games played.) And this Re-imagined Klondike improves the play drastically. This allows one to concentrate on Klondike strategy (which is very interesting and deep, by the way). I have improved my winning average to 43%. (On other apps, I can only manage 33%.) And the playing is fun and hassle-free. \n\nIf you are of a similar mind-set, give this program a try. I’ve spent twenty plus years building it.",
+  "description_short": "This &quot;Re-Imagined&quot; Klondike doesn't change any of the rules of standard 3-card draw Klondike. It just provides you the tools that you need to play the game intelligently. If you are a lover of puzzles, you will really like the result of this re-imagining.",
+  "genres": [
+    "Головоломки",
+    "Казуальные игры",
+    "Пошаговые стратегии (TBS)"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 93,
+  "markup_rub": 500,
+  "price_rub": 593,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712430/ss_8648eb204f4212ded35fa71e64bc6f0e478cde4d.1920x1080.jpg?t=1714280144",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712430/ss_8fc738980e8c30a30ab2d225767705f22e9570da.1920x1080.jpg?t=1714280144",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712430/ss_428c85117aa191acc7e0ccb83e848076f51a0e73.1920x1080.jpg?t=1714280144",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712430/ss_323c7172625924edc6728ec7c7bc1ef144dc9397.1920x1080.jpg?t=1714280144",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1712430/ss_843bdfbb84994d75576073e92f861f1e48e0760f.1920x1080.jpg?t=1714280144"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-08-14T19:46:53Z"
+}
