@@ -14,14 +14,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 115,
+  "base_price_rub": 423,
   "markup_rub": 500,
-  "price_rub": 615,
-  "original_price_rub": 888,
-  "discount_percent": 70,
+  "price_rub": 923,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "DiS0RBpoUL0",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/745330/ss_a12bf3292343def6ece75102af50249d2f781dea.1920x1080.jpg?t=1726401400",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/745330/ss_dc16367c234fb08d919e02f4fdeeb9ad43bbeefd.1920x1080.jpg?t=1726401400",
@@ -36,12 +36,12 @@
     {
       "id": 1193750,
       "name": "StrikeForce Kitty - Original Soundtrack",
-      "base_price_rub": 34,
+      "base_price_rub": 75,
       "markup_rub": 500,
-      "price_rub": 534,
+      "price_rub": 575,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1193750/header.jpg?t=1573631365"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-15T03:03:23Z"
+  "updated_at": "2026-08-17T07:08:08Z"
 }

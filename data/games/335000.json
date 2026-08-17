@@ -15,24 +15,33 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 343,
+  "base_price_rub": 374,
   "markup_rub": 500,
-  "price_rub": 843,
+  "price_rub": 874,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "pA2s-7DwoP4",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335000/ss_84a3f392fabe5d86be8687b6a4d98248096881d3.1920x1080.jpg?t=1782295302",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335000/ss_7cf59fb66ad0f68590c85ee925d0e0534863e575.1920x1080.jpg?t=1782295302",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335000/ss_2d9d02313fc03355f143b27a4f330649a7d7633b.1920x1080.jpg?t=1782295302",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335000/ss_50a48cfa320ad7815368cdeac719d09dc3e571ba.1920x1080.jpg?t=1782295302",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335000/ss_0ae8c494d4c4600bdbb29c522504520a918bf73e.1920x1080.jpg?t=1782295302",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335000/ss_5900b032db25389d34cebf4c2c21ef835e4939c7.1920x1080.jpg?t=1782295302",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335000/ss_aed3f6d23e2e0ca6e131b11a175468bc265f9510.1920x1080.jpg?t=1782295302"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335000/ss_84a3f392fabe5d86be8687b6a4d98248096881d3.1920x1080.jpg?t=1786047854",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335000/ss_7cf59fb66ad0f68590c85ee925d0e0534863e575.1920x1080.jpg?t=1786047854",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335000/ss_2d9d02313fc03355f143b27a4f330649a7d7633b.1920x1080.jpg?t=1786047854",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335000/ss_50a48cfa320ad7815368cdeac719d09dc3e571ba.1920x1080.jpg?t=1786047854",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335000/ss_0ae8c494d4c4600bdbb29c522504520a918bf73e.1920x1080.jpg?t=1786047854",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335000/ss_5900b032db25389d34cebf4c2c21ef835e4939c7.1920x1080.jpg?t=1786047854",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335000/ss_aed3f6d23e2e0ca6e131b11a175468bc265f9510.1920x1080.jpg?t=1786047854"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 4876390,
+      "name": "Tormentum: Artbook",
+      "base_price_rub": 143,
+      "markup_rub": 500,
+      "price_rub": 643,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4876390/68b2aa40d8177e94b63b6a69b1418b24e7c9a6b0/header.jpg?t=1784819151"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-15T03:03:10Z"
+  "updated_at": "2026-08-17T07:07:16Z"
 }
