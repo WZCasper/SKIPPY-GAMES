@@ -16,14 +16,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 34,
+  "base_price_rub": 355,
   "markup_rub": 500,
-  "price_rub": 534,
-  "original_price_rub": 822,
-  "discount_percent": 89,
+  "price_rub": 855,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "l7Qx0mJhisU",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836160/ss_efea599794629cc04a964a0f91ca7a009c9e57f5.1920x1080.jpg?t=1776775803",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1836160/ss_f5a8a723907b5954feb42c8a3f715b8e992d05b1.1920x1080.jpg?t=1776775803",
@@ -38,28 +38,28 @@
     {
       "id": 2258920,
       "name": "ПАНЕЛЬКИ - Граффити DLC",
-      "base_price_rub": 33,
+      "base_price_rub": 188,
       "markup_rub": 500,
-      "price_rub": 533,
+      "price_rub": 688,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2258920/header.jpg?t=1689706953"
     },
     {
       "id": 2018100,
       "name": "ПАНЕЛЬКИ – Доставка DLC",
-      "base_price_rub": 38,
+      "base_price_rub": 141,
       "markup_rub": 500,
-      "price_rub": 538,
+      "price_rub": 641,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2018100/header_russian.jpg?t=1689706999"
     },
     {
       "id": 2018070,
       "name": "ПАНЕЛЬКИ Саундтрек",
-      "base_price_rub": 33,
+      "base_price_rub": 188,
       "markup_rub": 500,
-      "price_rub": 533,
+      "price_rub": 688,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2018070/header_russian.jpg?t=1657970868"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-15T03:14:22Z"
+  "updated_at": "2026-08-18T07:04:08Z"
 }
