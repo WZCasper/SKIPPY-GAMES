@@ -15,9 +15,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 896,
+  "base_price_rub": 988,
   "markup_rub": 500,
-  "price_rub": 1396,
+  "price_rub": 1488,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -37,44 +37,52 @@
     {
       "id": 3453350,
       "name": "Farm Together 2 Soundtrack",
-      "base_price_rub": 322,
+      "base_price_rub": 355,
       "markup_rub": 500,
-      "price_rub": 822,
+      "price_rub": 855,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3453350/header.jpg?t=1738774143"
     },
     {
       "id": 3724330,
       "name": "Farm Together 2 - Explorer Pack",
-      "base_price_rub": 127,
+      "base_price_rub": 141,
       "markup_rub": 500,
-      "price_rub": 627,
+      "price_rub": 641,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3724330/0794c1eb9a78e7a3588cc22c4b34a97c8304a045/header.jpg?t=1761140512"
+    },
+    {
+      "id": 3985700,
+      "name": "Farm Together 2 - Meadow Pack",
+      "base_price_rub": 236,
+      "markup_rub": 500,
+      "price_rub": 736,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3985700/d6c70f95e9f31c282fd6bf927e8ad8439e5f6728/header.jpg?t=1761054380"
     },
     {
       "id": 4094000,
       "name": "Farm Together 2 - Gothic Pack",
-      "base_price_rub": 214,
+      "base_price_rub": 236,
       "markup_rub": 500,
-      "price_rub": 714,
+      "price_rub": 736,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4094000/1c2bf383f13a58f2ba374e88d9d32768fd6a5ef0/header.jpg?t=1766067062"
     },
     {
       "id": 4232610,
       "name": "Farm Together 2 - Frosty Pack",
-      "base_price_rub": 214,
+      "base_price_rub": 236,
       "markup_rub": 500,
-      "price_rub": 714,
+      "price_rub": 736,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4232610/cb381e3a4b56a26a619b07da9263bcf1330ac4cd/header.jpg?t=1773334704"
     },
     {
       "id": 4580980,
       "name": "Farm Together 2 - Cyber Pack",
-      "base_price_rub": 202,
+      "base_price_rub": 247,
       "markup_rub": 500,
-      "price_rub": 702,
+      "price_rub": 747,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4580980/bbe225e25429b0090811f875ad975515c728f5d9/header.jpg?t=1783615479"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-15T03:33:30Z"
+  "updated_at": "2026-08-19T18:46:54Z"
 }
