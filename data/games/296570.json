@@ -12,11 +12,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 288,
+  "base_price_rub": 531,
   "markup_rub": 500,
-  "price_rub": 788,
-  "original_price_rub": 981,
-  "discount_percent": 40,
+  "price_rub": 1031,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -34,20 +34,20 @@
     {
       "id": 298880,
       "name": "Lords of Xulima - The Talisman of Golot",
-      "base_price_rub": 60,
+      "base_price_rub": 112,
       "markup_rub": 500,
-      "price_rub": 560,
+      "price_rub": 612,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298880/header.jpg?t=1478104509"
     },
     {
       "id": 319290,
       "name": "Lords of Xulima - Special Digital Rewards",
-      "base_price_rub": 110,
+      "base_price_rub": 245,
       "markup_rub": 500,
-      "price_rub": 610,
+      "price_rub": 745,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/319290/header.jpg?t=1478101202"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-15T03:40:42Z"
+  "updated_at": "2026-08-20T13:06:16Z"
 }
