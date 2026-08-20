@@ -14,9 +14,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 887,
+  "base_price_rub": 979,
   "markup_rub": 500,
-  "price_rub": 1387,
+  "price_rub": 1479,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -32,7 +32,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989070/055c3bf2f80bb76920d6ca152af7af3420ff64e1/ss_055c3bf2f80bb76920d6ca152af7af3420ff64e1.1920x1080.jpg?t=1745317904",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1989070/7fc2f0df43ec7bb814546fbf54412e50589183c0/ss_7fc2f0df43ec7bb814546fbf54412e50589183c0.1920x1080.jpg?t=1745317904"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 2975170,
+      "name": "Synergy - Supporter Pack",
+      "base_price_rub": 164,
+      "markup_rub": 500,
+      "price_rub": 664,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2975170/header.jpg?t=1745856607"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-15T03:44:02Z"
+  "updated_at": "2026-08-20T18:55:46Z"
 }

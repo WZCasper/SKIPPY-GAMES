@@ -31,7 +31,56 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225810/ss_70c272c6f44ecfc2f8328779f29ac68b279a2d79.1920x1080.jpg?t=1623005830",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225810/ss_527535211ecb59d8bd7a77c28db472e4a47ddd5d.1920x1080.jpg?t=1623005830"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 1246210,
+      "name": "FOS - LEGEND SKINS",
+      "base_price_rub": 40,
+      "markup_rub": 500,
+      "price_rub": 540,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1246210/header.jpg?t=1582227517"
+    },
+    {
+      "id": 1252460,
+      "name": "FOS - Pack Airship",
+      "base_price_rub": 112,
+      "markup_rub": 500,
+      "price_rub": 612,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1252460/header.jpg?t=1582275977"
+    },
+    {
+      "id": 1286050,
+      "name": "FOS - CYBER ROBOT 2077",
+      "base_price_rub": 76,
+      "markup_rub": 500,
+      "price_rub": 576,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286050/header.jpg?t=1586465459"
+    },
+    {
+      "id": 1286090,
+      "name": "FOS - SPACE SKINS",
+      "base_price_rub": 40,
+      "markup_rub": 500,
+      "price_rub": 540,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286090/header.jpg?t=1586465521"
+    },
+    {
+      "id": 1311920,
+      "name": "FOS - MYSTICAL SKINS",
+      "base_price_rub": 40,
+      "markup_rub": 500,
+      "price_rub": 540,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1311920/header.jpg?t=1589644944"
+    },
+    {
+      "id": 1342760,
+      "name": "FOS - LEGEND SKINS#2",
+      "base_price_rub": 40,
+      "markup_rub": 500,
+      "price_rub": 540,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1342760/header.jpg?t=1592063344"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-15T03:44:16Z"
+  "updated_at": "2026-08-20T19:02:40Z"
 }

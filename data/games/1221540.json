@@ -12,9 +12,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 214,
+  "base_price_rub": 236,
   "markup_rub": 500,
-  "price_rub": 714,
+  "price_rub": 736,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -28,7 +28,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1221540/ss_d4895fe3987dc97206683c834f89de59ab1b4865.1920x1080.jpg?t=1738205135",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1221540/ss_a18e337f013aa30e01d8e10ad7dfd8c4b4fec4b6.1920x1080.jpg?t=1738205135"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 1710270,
+      "name": "みんなで空気読み。 オリジナル・サウンドトラック",
+      "base_price_rub": 504,
+      "markup_rub": 500,
+      "price_rub": 1004,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1710270/header.jpg?t=1675996799"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-15T03:44:19Z"
+  "updated_at": "2026-08-20T19:03:44Z"
 }
