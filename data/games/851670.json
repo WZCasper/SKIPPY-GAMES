@@ -14,34 +14,42 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 394,
+  "base_price_rub": 435,
   "markup_rub": 500,
-  "price_rub": 894,
+  "price_rub": 935,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851670/ss_1997b6fc9469d6d6a471afaf4af7191d22f712c1.1920x1080.jpg?t=1774037338",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851670/ss_4821ec44d85ebf0922025a8955e0f315bcfde5e4.1920x1080.jpg?t=1774037338",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851670/ss_22916681a4da0301b1383ef8af4ee177bb171c45.1920x1080.jpg?t=1774037338",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851670/ss_d9386c22fd0c27f33b5ba057c1d1ed11e1e9afdd.1920x1080.jpg?t=1774037338",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851670/ss_aa492f9e15fa90488885dbabfee312067a849d49.1920x1080.jpg?t=1774037338",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851670/ss_6c27dacda23a48d0b60102e9e4c4af7d7d076433.1920x1080.jpg?t=1774037338",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851670/ss_1ebe44ef36c14eedb49470dcee188dd6d489b7b9.1920x1080.jpg?t=1774037338",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851670/ss_9760ef3d61ab774104d6f4296d5c436808bdc0b8.1920x1080.jpg?t=1774037338"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851670/ss_1997b6fc9469d6d6a471afaf4af7191d22f712c1.1920x1080.jpg?t=1785432610",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851670/ss_4821ec44d85ebf0922025a8955e0f315bcfde5e4.1920x1080.jpg?t=1785432610",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851670/ss_22916681a4da0301b1383ef8af4ee177bb171c45.1920x1080.jpg?t=1785432610",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851670/ss_d9386c22fd0c27f33b5ba057c1d1ed11e1e9afdd.1920x1080.jpg?t=1785432610",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851670/ss_aa492f9e15fa90488885dbabfee312067a849d49.1920x1080.jpg?t=1785432610",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851670/ss_6c27dacda23a48d0b60102e9e4c4af7d7d076433.1920x1080.jpg?t=1785432610",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851670/ss_1ebe44ef36c14eedb49470dcee188dd6d489b7b9.1920x1080.jpg?t=1785432610",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851670/ss_9760ef3d61ab774104d6f4296d5c436808bdc0b8.1920x1080.jpg?t=1785432610"
   ],
   "upsells": [
     {
+      "id": 4816450,
+      "name": "LUMINES REMASTERED (Original Score)",
+      "base_price_rub": 437,
+      "markup_rub": 500,
+      "price_rub": 937,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4816450/07baf9aa7b545f93ec4543a651993881528b0092/header.jpg?t=1785428149"
+    },
+    {
       "id": 852430,
       "name": "LUMINES REMASTERED Digital Deluxe DLC Bundle",
-      "base_price_rub": 291,
+      "base_price_rub": 321,
       "markup_rub": 500,
-      "price_rub": 791,
+      "price_rub": 821,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/852430/header.jpg?t=1531266643"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-15T03:35:12Z"
+  "updated_at": "2026-08-20T06:59:03Z"
 }

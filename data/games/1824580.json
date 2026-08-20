@@ -11,14 +11,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 887,
+  "base_price_rub": 489,
   "markup_rub": 500,
-  "price_rub": 1387,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 989,
+  "original_price_rub": 1479,
+  "discount_percent": 50,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "aD4513sXm5Q",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1824580/042373dc659b6f9606f93f42a5ae8e2117cd0911/ss_042373dc659b6f9606f93f42a5ae8e2117cd0911.1920x1080.jpg?t=1774494303",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1824580/8ef83dcb4e9ea6df64739a40bf92b3386b444af7/ss_8ef83dcb4e9ea6df64739a40bf92b3386b444af7.1920x1080.jpg?t=1774494303",
@@ -33,12 +33,12 @@
     {
       "id": 2371360,
       "name": "Dungeon Drafters Soundtrack",
-      "base_price_rub": 388,
+      "base_price_rub": 213,
       "markup_rub": 500,
-      "price_rub": 888,
+      "price_rub": 713,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2371360/header.jpg?t=1683014328"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-15T03:39:17Z"
+  "updated_at": "2026-08-20T07:03:30Z"
 }
