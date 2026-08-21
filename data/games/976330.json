@@ -1,0 +1,34 @@
+{
+  "id": 976330,
+  "title": "kHED",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/976330/capsule_616x353.jpg",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/976330?t=1650989578",
+  "description": "kHED is a 3d low-poly model editor for indie game developers and modding enthusiasts. I released it back in 2009 as a freeware tool and it was quite popular among Half-Life modding community for being easy to learn and functional enough for the job.\nCurrently I'm using it to make models for my upcoming game Ostriv and planning it to be the major modding tool for my game.\nI decided to release this updated version of the editor in hope it may be useful for other developers and potentially to fund its further development.FEATURES\nkHED lets you create models of any complexity, but mainly designed for low-poly props (under 10k triangles). There's variety of geometry primitives like Plane, Polygon, Box, Sphere, Cylinder, Tube, Torus, as well as procedural tools like \"lathe\" and \"loft\". Texture mapping tool supports planar, cylindrical, spherical projection, and basic unwrapping functions.\nThere's also a powerful UV editor with a handy model preview and ability to export UV map to use as background for texture creation.Game engines support:• Import/export Wavefront *.obj files\n\n• Import/export Collada *.dae files\n\n• Import/export Filmbox *.fbx files\n\n• Import Blender *.blend files\n\n• Directly import Half-Life (GoldSrc) *.mdl and *.smd files \n\n• Directly export to Half-Life *.mdl files (NOTE: you need to have studiomdl.exe from Half-Life SDK)\n\n• Export to Ostriv assets (buildings, agents, skeletons)\n\n• You can also use Milkshape3D import/export plugins\n\n• Wide range of supported texture file formats including PSD, DDS, VTX and many others\nDifference from old freeware version:• Texture transparency support\n\n• Multisampled rendering (anti-aliasing)\n\n• Rigging and animation feature\n\n• Ghost mode to see hidden groups\n\n• Regroup & Isolate functions don't cancel applied texture\n\n• Added various features to create Ostriv assets\n\n• UV editor: copy texture map as normal map or height map\n\n• Group selection synchronized with a list in groups panel\n\n• Moving groups up/down in a list\n\n• Fixed some issues with 4K screen resolution\n\n• New mode in Polygon Tool: On surface",
+  "description_short": "kHED is a 3d low-poly model editor for indie game developers and modding enthusiasts",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 467,
+  "markup_rub": 500,
+  "price_rub": 967,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976330/ss_70060be95f9862a2b79b694d37340f2695dd5998.1920x1080.jpg?t=1650989578",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976330/ss_80014a57ce844de2edf148fa7e6d60c51edaf5f7.1920x1080.jpg?t=1650989578",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976330/ss_bae5ca060018114a0449aa9c1fdc7119a4baed01.1920x1080.jpg?t=1650989578",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976330/ss_d729a4fce12a3e0415067ebdae030bdbf63f8f06.1920x1080.jpg?t=1650989578",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976330/ss_feec7351df10a7f01bb2b4a5750eb312050c5a27.1920x1080.jpg?t=1650989578",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976330/ss_1ca59bd238df67985b136454b6db3de1aef7e30d.1920x1080.jpg?t=1650989578",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/976330/ss_5d8501cb187a110cd937544d5990fc48c7e51e2a.1920x1080.jpg?t=1650989578"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-08-21T07:28:38Z"
+}
