@@ -1,0 +1,32 @@
+{
+  "id": 3234590,
+  "title": "Scroll Wheel Adjuster",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234590/header.jpg?t=1745024302",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3234590/library_hero.jpg",
+  "description": "This application allows you to adjust the mouse wheel speed on Linux systems. \n\nIt will install the dependencies and make the necessary adjustments so the user can use it in a simplified way. The speed adjustments should persist even after restarting the system. \n\nAttention:\n\nIt has been tested and works well on: Ubuntu 20.04.6 LTS, Linux Mint 22, Linux Mint 21.3.\n\nPartially works on: Ubuntu 22.04.5 LTS (not on Firefox), Ubuntu 24.04 LTS (not on Firefox).\n\nIt does not work on: Ubuntu 23.10, Debian 9 and earlier versions.\n\n \n\nRecommendation:\n\nRun the software directly from the installation folder.\n\nSee more information at Community -> Discussions -> Run the application directly from the folder\n\nDeveloper's note:\n\nThis application uses IMWheel, a tool freely available for Linux. You can install IMWheel on your own and use it at no cost. However, this application will simplify and automate the entire process.\n\nIMWheel does not work with Wayland-based applications. For example, the pre-installed Firefox on Ubuntu 24.04 LTS uses Wayland, so it won't work, but it may work with other X11-based applications such as Chromium.\n\nIf you encounter any issues with the IMWheel installation, you can remove it via terminal using the following commands:\n\nsudo killall imwheel; apt remove imwheel; apt autoremove; apt purge imwheel",
+  "description_short": "This application allows you to adjust the mouse wheel speed on Linux systems.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 49,
+  "markup_rub": 500,
+  "price_rub": 549,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234590/ss_ba69c07ea910710eacc3a8a3798f389eb6f4ecb2.1920x1080.jpg?t=1745024302",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234590/ss_ef199cc73d8caecb6b98606955d758750225d391.1920x1080.jpg?t=1745024302",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234590/ss_e5302b25874d6414b45ba412f18583c566a024f7.1920x1080.jpg?t=1745024302",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234590/ss_a98d9a76eb488a068fcaa77436bf2c0a885e6b6a.1920x1080.jpg?t=1745024302",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3234590/ss_aeef03b5e72927108bd5132985e8377c081c7735.1920x1080.jpg?t=1745024302"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-08-21T13:40:45Z"
+}
