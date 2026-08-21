@@ -16,9 +16,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 281,
+  "base_price_rub": 305,
   "markup_rub": 500,
-  "price_rub": 781,
+  "price_rub": 805,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -33,7 +33,32 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2216690/ss_cfd4044ffa394159b47d0c3ed7ef26608a4f9abf.1920x1080.jpg?t=1671740433",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2216690/ss_f406e65298799b3efa41b0ee3a3934e002859a8f.1920x1080.jpg?t=1671740433"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 2252730,
+      "name": "Turret Girl - Wallpapers & ArtWork",
+      "base_price_rub": 278,
+      "markup_rub": 500,
+      "price_rub": 778,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2252730/header.jpg?t=1671740551"
+    },
+    {
+      "id": 2253150,
+      "name": "Hentai Turret Girl",
+      "base_price_rub": 458,
+      "markup_rub": 500,
+      "price_rub": 958,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2253150/header.jpg?t=1671740539"
+    },
+    {
+      "id": 2253350,
+      "name": "Turret Girl - Wallpapers NSFW",
+      "base_price_rub": 1308,
+      "markup_rub": 500,
+      "price_rub": 1808,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2253350/header.jpg?t=1671908607"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-15T03:44:46Z"
+  "updated_at": "2026-08-21T01:46:59Z"
 }
