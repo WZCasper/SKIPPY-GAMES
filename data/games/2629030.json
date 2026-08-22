@@ -1,0 +1,33 @@
+{
+  "id": 2629030,
+  "title": "Finite State Automaton Challenges",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2629030/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/2629030/library_hero.jpg",
+  "description": "Automaton is a machine that answers a specific question without human intervention once it is turned on, such as: Whether a + b = c?\n\nIn this game, we will use the simplest automaton model, the Finite State Automaton, to cope with 80 challenges. They come from character string manipulation, binary numbers, and daily life. Don't worry if you are unfamiliar with Finite State Automaton; this game contains a tutorial to get started quickly. Also, you can read the following introduction.Finite State Automaton\nFinite State Automaton (FSA) is the simplest automaton type. A finite state automaton consists of several states and transition rules. A transition rule describes when a state transits to another. So, it looks like a metro map. The clients of a finite state automaton are the character strings. It decides which strings are accepted and which strings are rejected. For example, an FSA can accept valid emails, phone numbers, etc. Now, let's dive into the first example:\n\nIt has two states: the left state \"1,\" and the right state \"2\". \"1\" marked with the green color means the automaton starts here. \"2\" marked with the blue color means that the automaton accepts the input string only if it stops here and read all characters in the order of the string. Consequently, this automaton is to accept \"a\" and reject any other string.\n\nQuestion: try to design an FSA accepting \"ab\" and an FSA accepting \"a\" or \"b\" (abbr., \"a|b\") on your own (They are two challenges in the game).Finite State Automaton with Various StatesTraditional finite state automata have only three types of states: begin, accept, and normal. In this game, you can play automata with different states at different levels. The picture below shows an example.\nNon-deterministicThe most essential concept of FSA (and other automaton types) is called Non-deterministic. To introduce this concept, here is the second example of an automaton. It accepts all strings (only consisting of 'a' and 'b') ending with 'b':\n\nRun this automaton over \"b\" in your head: (1) It starts at \"1\", runs the self-loop of \"1\", then reads all of \"b\" as well as stops at \"1\", so reject \"b\"; (2) It starts at \"1\" and transits to \"2\", then reads all of \"b\" as well as stops at \"2\", so accept \"b\". A non-deterministic finite state automaton (NFA) accepts a string if at least one trace ends at a state marked with the blue color.\n\nRun this automaton over \"ab\" in your head: (1) It starts at \"1\", runs the self-loop of \"1\" twice, then reads all of \"ab\" as well as stops at \"1\", so reject \"ab\"; (2) It starts at \"1\", run the self-loop of \"1\" once, and transits to \"2\", then reads all of \"b\" as well as stops at \"2\", so accept \"ab.\"\n\nNon-deterministic is essential because it allows the FSA to guess, which lets us design an automaton naturally (since we, human beings, like to guess) and quickly.",
+  "description_short": "In this game, we will play with the simplest automaton model, Finite State Automaton, and use it to cope with 80 challenges.",
+  "genres": [
+    "Головоломки",
+    "Казуальные игры"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 48,
+  "markup_rub": 500,
+  "price_rub": 548,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2629030/ss_4ba206590e865c5e3508d18144faf1297bcaf0a2.1920x1080.jpg?t=1715963956",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2629030/ss_8722cffd63f2a242394971299017fd0574494e22.1920x1080.jpg?t=1715963956",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2629030/ss_8c2a1268f83517403fd5185792ee85d0c94642bb.1920x1080.jpg?t=1715963956",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2629030/ss_94fe9c3d3706f87eea3946d443510ee07ebcdfff.1920x1080.jpg?t=1715963956",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2629030/ss_1fe1c75f1c58a7963902f942953a5ff7a1f414f6.1920x1080.jpg?t=1715963956"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-08-22T07:29:51Z"
+}
