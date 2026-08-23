@@ -14,42 +14,50 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 119,
+  "base_price_rub": 519,
   "markup_rub": 500,
-  "price_rub": 619,
-  "original_price_rub": 981,
-  "discount_percent": 75,
+  "price_rub": 1019,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691320/ss_75d108ea50742db20f18aba492fe0cadeda1175d.1920x1080.jpg?t=1755224450",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691320/ss_ebdbe370c1e1c14ef0560412a0826d6f22ab8ab8.1920x1080.jpg?t=1755224450",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691320/ss_0cea175a008ef86ead8d147b717b55239a666321.1920x1080.jpg?t=1755224450",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691320/ss_31052659dcac193b28d473d64301d403aeb76c50.1920x1080.jpg?t=1755224450",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691320/ss_654f84f312a86222bcfc2aacd58ba1ac2ddd5a91.1920x1080.jpg?t=1755224450",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691320/ss_7c1455c7bf60f1ec48fac554f40fa90e42c09140.1920x1080.jpg?t=1755224450",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691320/ss_750e192c4c34216fa21a7c90a4176f675c2c80fd.1920x1080.jpg?t=1755224450",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691320/ss_04556be3ab3bb4ebfcbec9b430e32e8ef20be01c.1920x1080.jpg?t=1755224450"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691320/ss_75d108ea50742db20f18aba492fe0cadeda1175d.1920x1080.jpg?t=1785475334",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691320/ss_ebdbe370c1e1c14ef0560412a0826d6f22ab8ab8.1920x1080.jpg?t=1785475334",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691320/ss_0cea175a008ef86ead8d147b717b55239a666321.1920x1080.jpg?t=1785475334",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691320/ss_31052659dcac193b28d473d64301d403aeb76c50.1920x1080.jpg?t=1785475334",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691320/ss_654f84f312a86222bcfc2aacd58ba1ac2ddd5a91.1920x1080.jpg?t=1785475334",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691320/ss_7c1455c7bf60f1ec48fac554f40fa90e42c09140.1920x1080.jpg?t=1785475334",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691320/ss_750e192c4c34216fa21a7c90a4176f675c2c80fd.1920x1080.jpg?t=1785475334",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/691320/ss_04556be3ab3bb4ebfcbec9b430e32e8ef20be01c.1920x1080.jpg?t=1785475334"
   ],
   "upsells": [
     {
+      "id": 4549460,
+      "name": "Gun Club VR - Heavy Weapons DLC",
+      "base_price_rub": 363,
+      "markup_rub": 500,
+      "price_rub": 863,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4549460/ac37cbe1c0533f33efd3662456f5d96ee8f56137/header.jpg?t=1785286340"
+    },
+    {
       "id": 1562720,
       "name": "Gun Club VR - SWAT DLC",
-      "base_price_rub": 64,
+      "base_price_rub": 277,
       "markup_rub": 500,
-      "price_rub": 564,
+      "price_rub": 777,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562720/header.jpg?t=1625535331"
     },
     {
       "id": 2113980,
       "name": "Gun Club VR - Wild West DLC",
-      "base_price_rub": 64,
+      "base_price_rub": 277,
       "markup_rub": 500,
-      "price_rub": 564,
+      "price_rub": 777,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2113980/header.jpg?t=1668130089"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-15T08:56:21Z"
+  "updated_at": "2026-08-23T13:08:06Z"
 }
