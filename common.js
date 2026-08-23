@@ -13,10 +13,10 @@ var GAME_DETAIL_URL = (id) => `data/games/${id}.json`;
 var PLATFORM_LABELS = { PC: 'Steam', PlayStation: 'PlayStation 5', Xbox: 'Xbox Series X|S', 'Nintendo Switch': 'Nintendo Switch' };
 var PLATFORM_SHORT = { PC: 'Steam', PlayStation: 'PS5', Xbox: 'Xbox', 'Nintendo Switch': 'Switch' };
 var PLATFORM_ICON_SVG = {
-    PC: '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M11.979 0C5.678 0 .511 4.86.022 11.037l6.432 2.658c.545-.371 1.203-.59 1.912-.59.063 0 .125.004.188.006l2.861-4.142V8.91c0-2.495 2.02[...]</svg>',
-    PlayStation: '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M8.984 2.596v14.347l3.67 1.066V6.208c0-.67.295-1.136.77-.98.608.19.73.814.73 1.483v5.995c2.746 1.369 4.802-.07 4.802-3.718 0[...]</svg>',
-    Xbox: '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M6.018 4.84c.546-.625 2.056-1.75 5.982-1.75s5.436 1.125 5.982 1.75c-5.982-4.36-11.964 0-11.964 0zM12 2c-5.523 0-10 4.477-10 10s4.47[...]</svg>',
-    'Nintendo Switch': '<svg viewBox="0 0 24 24" fill="currentColor"><path d="M7 2C4.24 2 2 4.24 2 7v10c0 2.76 2.24 5 5 5 2.76 0 5-2.24 5-5V7c0-2.76-2.24-5-5-5zm0 3a2 2 0 1 1 0 4 2 2 0 0 1 0-4zM17[...]</svg>'
+    PC: '🖥️',
+    PlayStation: '🎮',
+    Xbox: '🟢',
+    'Nintendo Switch': '🔴'
 };
 
 // Иконки жанров — чисто декоративные, не влияют на данные/фильтрацию.
