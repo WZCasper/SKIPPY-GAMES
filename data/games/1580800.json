@@ -11,14 +11,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 746,
+  "base_price_rub": 803,
   "markup_rub": 500,
-  "price_rub": 1246,
+  "price_rub": 1303,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "1KnzeKzNatM",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1580800/ss_6ff6f9feeb3360a89bfe70df8070e9e46b8e6e35.1920x1080.jpg?t=1696934696",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1580800/ss_8abb65714adc3124013f4e570fc11c96f044aa8e.1920x1080.jpg?t=1696934696",
@@ -33,36 +33,44 @@
     {
       "id": 1900780,
       "name": "Erannorth Chronicles - Ancient Ruins",
-      "base_price_rub": 355,
+      "base_price_rub": 382,
       "markup_rub": 500,
-      "price_rub": 855,
+      "price_rub": 882,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1900780/header.jpg?t=1677648593"
     },
     {
       "id": 1999950,
       "name": "Erannorth Chronicles - Relics and Armaments",
-      "base_price_rub": 355,
+      "base_price_rub": 382,
       "markup_rub": 500,
-      "price_rub": 855,
+      "price_rub": 882,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1999950/header.jpg?t=1677648497"
     },
     {
       "id": 2189290,
       "name": "Erannorth Chronicles - Guilds and Secret Societies",
-      "base_price_rub": 355,
+      "base_price_rub": 382,
       "markup_rub": 500,
-      "price_rub": 855,
+      "price_rub": 882,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2189290/header.jpg?t=1677648311"
     },
     {
       "id": 2310750,
       "name": "Erannorth Chronicles - Untold Tales and Legends",
-      "base_price_rub": 388,
+      "base_price_rub": 417,
       "markup_rub": 500,
-      "price_rub": 888,
+      "price_rub": 917,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2310750/header.jpg?t=1678084390"
+    },
+    {
+      "id": 2444080,
+      "name": "Erannorth Chronicles - Exalted Heroes of Folkswave",
+      "base_price_rub": 417,
+      "markup_rub": 500,
+      "price_rub": 917,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2444080/header.jpg?t=1689575642"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-15T09:04:02Z"
+  "updated_at": "2026-08-24T07:09:54Z"
 }

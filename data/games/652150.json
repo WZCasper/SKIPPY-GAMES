@@ -1,0 +1,36 @@
+{
+  "id": 652150,
+  "title": "Oats Studios - Volume 1 Assets",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/652150/capsule_616x353.jpg",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/652150?t=1500057853",
+  "description": "Zygote DLC - NEWZygote DLC\n\nJuly 12th, 2017\n\nOnce you have installed the base Oats Studios – Volume 1 Assets launcher in your Software Library, you will have a set of optional DLC related to Zygote that you can choose to install from that same location. Please read the description below to find out more information about what’s in each folder and their respective size and below that, a description of how best to unpack the 3d assets.\n\nThe Zygote DLC includes the following:\n\nZygote 3d Models: - 23.6GB\n• Zygote – 13.7GB\n\n• Synthetic Skulls for Print – 509MB\n\nZygote Concept Art Booklet – Total size: 500 MB – File Name: Zygote_Booklet_v2\n• Concept Art\n\n• VFX look-development\n\n• Oats Workshop BTS Selects\n\n• Filming BTS selects\n\nZygote High Resolution Video (Stereo)\n\n• OatsZygoteDLCStereo.mp4 – 5.70GB\n\n• 320 kbps AAC Stereo Audio\n\n• 1920x1080\n\n• h.264 40mbit/sec (approximately Blu-Ray quality)\n\nZygote High Resolution Video (Surround)\n• OatsZygoteDLCSurround.mp4 – 5.77GB\n\n• 640 kbps AAC 5.1 Surround Audio\n\n• 1920x1080\n\n• h.264 40mbit/sec (approximately Blu-Ray quality)\n\nZygote Script\n\nA few general notes about all 3D assets uploaded for Zygote.\n\nLOOKDEV\n• These folders contain the assembled 3dsmax file used for final rendering. \n\n• They also contain all the necessary textures in the directory structure that should ensure everything is correctly linked. It’s a very deep directory structure but it was the easiest way to collect the data to share with the community. You can of course remap the directory structure on your own to simplify it.\n\n• These files (and shaders) are set-up to be used with Redshift (our renderer of choice). However, you can rebuild them to work in whatever renderer you choose.\n\n• The model in this file is our working resolution (with displacement maps to render like the highres sculpt)\n\n• The model in this file is in the T-pose (NOT the pose displayed in the thumbnail)\n\nMODEL\n• We provide a series of various model files and formats.\n\n• Cleaned up mudbox file with high and low resolution meshes (used for exporting our various displacements and working resolution models.\n\n• Two .obj files, one the lowres working model and one high resolution sculpt\n\n• All of these models are in the default T-pose (not the pose displayed in the thumbnail)\n\nRIG\n• There are two files here, both Maya files (the program we use for animation)\n\n• One file is the “fast” animation rig. This file does not contain the final working resolution mesh but instead contains a lower resolution cut-up mesh for fast animation interactivity. Its rig also is a stripped-down version missing some of the slower fancy things. Basically, this is the rig the animators work with 95% of the time.\n\n• The second file contains the same rig but with the full working resolution mesh with skinning. It also contains extra bits in the rig to assist with skinning or secondary motion. It is THIS file that you would export a model cache (whatever format you wish) from to then apply to the lookdev model for rendering.\n\n• The rigs are set-up to make use of the Maya referencing system so that if rig is REFERENCED in you can swap the reference on the fly. To use this do not animate directly in the rig file. \n\n*** As a final note if you have issues or questions pertaining to any of these files please go to the Oats Studios Forum in the DLC category and ask away: \n\nStream Oats Studios Shorts Free on Steam\n\nО программеAt Oats Studios, the creation of Volume 1 required immense resources. Our wish is to receive funding sourced directly from our audience, as we establish a studio fueled by pure creativity and passion. We have many, many more worlds to create and stories to tell, but we need help from people around the globe. Our goal is to create Volumes 2, 3 and more and eventually, full scale-scale features. If you feel positive about what you’ve seen and want more, please support us by purchasing our additional content as it becomes available. \n\nWe plan to include in the Oats Studios - Volume 1 Assets as many pieces of concept art, models, footage etc. for each of our shorts, however as part of supporting Oats we will charge for these.\n\nThe newest DLC available is Zygote: please check out the special announcement below to see whats included. \n\nWe want users to engage with our content and hope that by opening up resources like these, we inspire young filmmakers.\n\nAdditionally if people are interested in licencing material for commercial purposes then please send an email to licensing@oatsstudios.com",
+  "description_short": "If you are a fan of Oats Studios and want to support us, then please purchase the Oats Studios - Volume 1 Assets. Zygote DLC now available.",
+  "genres": [
+    "Экшен",
+    "Приключения",
+    "Технические симуляторы",
+    "Казуальные игры"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 0,
+  "markup_rub": 0,
+  "price_rub": 0,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/652150/ss_ac18b5c67ac96d69f2d0dbef2681a262e6fbff4a.1920x1080.jpg?t=1500057853",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/652150/ss_fcd17df29dcbc8e9e9b49afcbd64d463a9900a76.1920x1080.jpg?t=1500057853",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/652150/ss_69c6ea855c676204f29d078de80ac422ad05be45.1920x1080.jpg?t=1500057853",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/652150/ss_e51e9a129086e3ed73c09773cec577e00f2559cf.1920x1080.jpg?t=1500057853",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/652150/ss_5cc3ef5088e104f0accce1bb0cc3796792604297.1920x1080.jpg?t=1500057853",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/652150/ss_110c344ace34ae50a07a600685652d71c18a3505.1920x1080.jpg?t=1500057853"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-08-24T07:48:49Z"
+}
