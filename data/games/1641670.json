@@ -15,9 +15,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 463,
+  "base_price_rub": 499,
   "markup_rub": 500,
-  "price_rub": 963,
+  "price_rub": 999,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -37,12 +37,20 @@
     {
       "id": 1870080,
       "name": "临渊觉醒 - 角色皮肤 斯巴达",
-      "base_price_rub": 36,
+      "base_price_rub": 39,
       "markup_rub": 500,
-      "price_rub": 536,
+      "price_rub": 539,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1870080/header.jpg?t=1642829325"
+    },
+    {
+      "id": 1880260,
+      "name": "临渊觉醒 - 角色皮肤 忍者姬",
+      "base_price_rub": 39,
+      "markup_rub": 500,
+      "price_rub": 539,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1880260/header.jpg?t=1642656908"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-15T09:10:18Z"
+  "updated_at": "2026-08-24T19:04:27Z"
 }
