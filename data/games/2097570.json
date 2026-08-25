@@ -12,25 +12,42 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 465,
+  "base_price_rub": 504,
   "markup_rub": 500,
-  "price_rub": 965,
+  "price_rub": 1004,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "MgEh9mWKrdo",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097570/facd67fa2843c16d2fdab904679967e29fdef364/ss_facd67fa2843c16d2fdab904679967e29fdef364.1920x1080.jpg?t=1781532214",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097570/9bff48ef93728cb015e1207f38da73f06f11d903/ss_9bff48ef93728cb015e1207f38da73f06f11d903.1920x1080.jpg?t=1781532214",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097570/b86d9765267725ecdb74bec239908ca395c03f3f/ss_b86d9765267725ecdb74bec239908ca395c03f3f.1920x1080.jpg?t=1781532214",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097570/ff8221a99d1232c94c53c109e8b464adc599974a/ss_ff8221a99d1232c94c53c109e8b464adc599974a.1920x1080.jpg?t=1781532214",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097570/92d778321db99eb1ef02e92991a08c92ebacd76c/ss_92d778321db99eb1ef02e92991a08c92ebacd76c.1920x1080.jpg?t=1781532214",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097570/0578f783b0227a531bd3c3c79a64061f13c4c4fd/ss_0578f783b0227a531bd3c3c79a64061f13c4c4fd.1920x1080.jpg?t=1781532214",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097570/036c596605271d132e800fe7392cd5ac25d19ec9/ss_036c596605271d132e800fe7392cd5ac25d19ec9.1920x1080.jpg?t=1781532214",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097570/67ae6cbe6adbbf77289e8707c101360d5e9d59c7/ss_67ae6cbe6adbbf77289e8707c101360d5e9d59c7.1920x1080.jpg?t=1781532214"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097570/facd67fa2843c16d2fdab904679967e29fdef364/ss_facd67fa2843c16d2fdab904679967e29fdef364.1920x1080.jpg?t=1787343129",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097570/9bff48ef93728cb015e1207f38da73f06f11d903/ss_9bff48ef93728cb015e1207f38da73f06f11d903.1920x1080.jpg?t=1787343129",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097570/b86d9765267725ecdb74bec239908ca395c03f3f/ss_b86d9765267725ecdb74bec239908ca395c03f3f.1920x1080.jpg?t=1787343129",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097570/ff8221a99d1232c94c53c109e8b464adc599974a/ss_ff8221a99d1232c94c53c109e8b464adc599974a.1920x1080.jpg?t=1787343129",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097570/92d778321db99eb1ef02e92991a08c92ebacd76c/ss_92d778321db99eb1ef02e92991a08c92ebacd76c.1920x1080.jpg?t=1787343129",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097570/0578f783b0227a531bd3c3c79a64061f13c4c4fd/ss_0578f783b0227a531bd3c3c79a64061f13c4c4fd.1920x1080.jpg?t=1787343129",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097570/036c596605271d132e800fe7392cd5ac25d19ec9/ss_036c596605271d132e800fe7392cd5ac25d19ec9.1920x1080.jpg?t=1787343129",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2097570/67ae6cbe6adbbf77289e8707c101360d5e9d59c7/ss_67ae6cbe6adbbf77289e8707c101360d5e9d59c7.1920x1080.jpg?t=1787343129"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 3631030,
+      "name": "StarVaders - Soundtrack",
+      "base_price_rub": 231,
+      "markup_rub": 500,
+      "price_rub": 731,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3631030/21c5c9df3c434cba3d1a854e3c075b6876673b37/header.jpg?t=1746027380"
+    },
+    {
+      "id": 3632550,
+      "name": "StarVaders - Supporter Pack",
+      "base_price_rub": 231,
+      "markup_rub": 500,
+      "price_rub": 731,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3632550/890c1e320e93868bda1ccee3fce000c7290b871a/header.jpg?t=1779346051"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-15T09:16:19Z"
+  "updated_at": "2026-08-25T07:15:24Z"
 }

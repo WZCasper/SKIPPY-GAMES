@@ -15,9 +15,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 887,
+  "base_price_rub": 960,
   "markup_rub": 500,
-  "price_rub": 1387,
+  "price_rub": 1460,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -33,7 +33,48 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2603020/ss_8816d65839ab4e1b8931d9cfcaf044e7a8774570.1920x1080.jpg?t=1783924981",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2603020/4e62e6fdf3392348732f326bacfb914e8bf4152d/ss_4e62e6fdf3392348732f326bacfb914e8bf4152d.1920x1080.jpg?t=1783924981"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 3896670,
+      "name": "Citadelum Campaign V: The Third Punic War",
+      "base_price_rub": 48,
+      "markup_rub": 500,
+      "price_rub": 548,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3896670/a72580836a654901732a1bbfb8eb3bbe3dfd9456/header.jpg?t=1768232002"
+    },
+    {
+      "id": 3480880,
+      "name": "Citadelum Campaign IV: The Gallic Wars",
+      "base_price_rub": 48,
+      "markup_rub": 500,
+      "price_rub": 548,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3480880/dce33fed76090894801cb7de38c323a2a9353530/header.jpg?t=1784201380"
+    },
+    {
+      "id": 3450060,
+      "name": "Citadelum Campaign III: The Lost Eagles of Germania",
+      "base_price_rub": 48,
+      "markup_rub": 500,
+      "price_rub": 548,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3450060/2b6c59ea8aab8625ebabd9884f14790a38e6f867/header.jpg?t=1768232117"
+    },
+    {
+      "id": 3358500,
+      "name": "Citadelum Campaign II: The Last Conqueror of Britannia",
+      "base_price_rub": 48,
+      "markup_rub": 500,
+      "price_rub": 548,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3358500/header.jpg?t=1768229521"
+    },
+    {
+      "id": 3267950,
+      "name": "Citadelum Original Soundtrack",
+      "base_price_rub": 278,
+      "markup_rub": 500,
+      "price_rub": 778,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3267950/4fe62b308b806640ecb28b585754e2c98e04818e/header.jpg?t=1746785297"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-15T09:16:15Z"
+  "updated_at": "2026-08-25T07:13:47Z"
 }
