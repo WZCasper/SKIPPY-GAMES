@@ -16,82 +16,90 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 172,
+  "base_price_rub": 746,
   "markup_rub": 500,
-  "price_rub": 672,
-  "original_price_rub": 1189,
-  "discount_percent": 75,
+  "price_rub": 1246,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_54100267623179f54731048c91add16c1c3d3d1e.1920x1080.jpg?t=1782839042",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_e040f74641ac21f15e3ec7c2415fc8b4de0b6bf9.1920x1080.jpg?t=1782839042",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_fd675feae669c7fb4ca6dcfb738d49fb7b7a238d.1920x1080.jpg?t=1782839042",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_edbff61a062a49d1d97269e53b8afbffde05bb24.1920x1080.jpg?t=1782839042",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_a944c7f801629bfa0cfb91fa7b23b4ff95e11753.1920x1080.jpg?t=1782839042",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_5dff1bca6580b5df288a4ad061e4f92f62f6a073.1920x1080.jpg?t=1782839042",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/06aa11ece5d3303cfcfeafb3c81734258a7dd614/ss_06aa11ece5d3303cfcfeafb3c81734258a7dd614.1920x1080.jpg?t=1782839042",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/ss_1a455dd625b6d8068c6f1db93887167383275757.1920x1080.jpg?t=1782839042"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/e040f74641ac21f15e3ec7c2415fc8b4de0b6bf9/ss_e040f74641ac21f15e3ec7c2415fc8b4de0b6bf9.1920x1080.jpg?t=1785394779",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/edbff61a062a49d1d97269e53b8afbffde05bb24/ss_edbff61a062a49d1d97269e53b8afbffde05bb24.1920x1080.jpg?t=1785394779",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/c610d985eb21cc22c26507b53cd843cfa0b3a00d/ss_c610d985eb21cc22c26507b53cd843cfa0b3a00d.1920x1080.jpg?t=1785394779",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/a944c7f801629bfa0cfb91fa7b23b4ff95e11753/ss_a944c7f801629bfa0cfb91fa7b23b4ff95e11753.1920x1080.jpg?t=1785394779",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/06aa11ece5d3303cfcfeafb3c81734258a7dd614/ss_06aa11ece5d3303cfcfeafb3c81734258a7dd614.1920x1080.jpg?t=1785394779",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/5dff1bca6580b5df288a4ad061e4f92f62f6a073/ss_5dff1bca6580b5df288a4ad061e4f92f62f6a073.1920x1080.jpg?t=1785394779",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/e76e3816ced57f87dd198b00caa55e7e8eab490e/ss_e76e3816ced57f87dd198b00caa55e7e8eab490e.1920x1080.jpg?t=1785394779",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/5f10a971137a5375cf8a4402dec2f9befbb84ddd/ss_5f10a971137a5375cf8a4402dec2f9befbb84ddd.1920x1080.jpg?t=1785394779"
   ],
   "upsells": [
     {
       "id": 4400940,
       "name": "Euro Truck Simulator 2 - Holland Style Tuning Pack",
-      "base_price_rub": 164,
+      "base_price_rub": 177,
       "markup_rub": 500,
-      "price_rub": 664,
+      "price_rub": 677,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4400940/043ecf0f99aad0ac8d03bbe7ea0c8eba997d7ed1/header.jpg?t=1782955890"
     },
     {
       "id": 4348650,
       "name": "Euro Truck Simulator 2 - Bobcat Cargo Pack",
-      "base_price_rub": 172,
+      "base_price_rub": 186,
       "markup_rub": 500,
-      "price_rub": 672,
+      "price_rub": 686,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348650/dc7858ad8d913631b190d674f6986b8d586d3c08/header.jpg?t=1783076770"
     },
     {
       "id": 2780810,
       "name": "Euro Truck Simulator 2 - Nordic Horizons",
-      "base_price_rub": 574,
+      "base_price_rub": 690,
       "markup_rub": 500,
-      "price_rub": 1074,
+      "price_rub": 1190,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2780810/755876b6f5502e6f99963003277519a3b96ba55b/header.jpg?t=1781093020"
     },
     {
       "id": 1456860,
       "name": "Euro Truck Simulator 2 - Farm Machinery",
-      "base_price_rub": 155,
+      "base_price_rub": 186,
       "markup_rub": 500,
-      "price_rub": 655,
+      "price_rub": 686,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1456860/7146a0a5e05f2d511ba9f2e01a6a51bac2b4f7da/header.jpg?t=1776076785"
     },
     {
       "id": 4159240,
       "name": "Euro Truck Simulator 2 - Forest Machinery",
-      "base_price_rub": 155,
+      "base_price_rub": 186,
       "markup_rub": 500,
-      "price_rub": 655,
+      "price_rub": 686,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4159240/4b8509a668ff03b91fa7063f464dcc1da61f4b98/header.jpg?t=1783068974"
     },
     {
       "id": 2604420,
       "name": "Euro Truck Simulator 2 - Greece",
-      "base_price_rub": 289,
+      "base_price_rub": 448,
       "markup_rub": 500,
-      "price_rub": 789,
+      "price_rub": 948,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2604420/cebe22adfddfdec1d60f73217a85ed2e68df1563/header.jpg?t=1753957826"
     },
     {
       "id": 3335300,
       "name": "Euro Truck Simulator 2 - Greek Mythology Pack",
-      "base_price_rub": 34,
+      "base_price_rub": 75,
       "markup_rub": 500,
-      "price_rub": 534,
+      "price_rub": 575,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3335300/header.jpg?t=1757412805"
+    },
+    {
+      "id": 3034950,
+      "name": "Euro Truck Simulator 2 - Kässbohrer Trailer Pack",
+      "base_price_rub": 177,
+      "markup_rub": 500,
+      "price_rub": 677,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3034950/c54bc9e52b6fb2050c7f98e288e4a5a3dbbd24dd/header.jpg?t=1753957896"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-15T13:55:46Z"
+  "updated_at": "2026-08-25T18:47:59Z"
 }
