@@ -14,14 +14,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 326,
+  "base_price_rub": 357,
   "markup_rub": 500,
-  "price_rub": 826,
+  "price_rub": 857,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "ccFiPVIGxeY",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1116170/ss_a73d3788619f1f6506dd54f192436981db8f0bfa.1920x1080.jpg?t=1778054828",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1116170/ss_a8bad46f47f88cf3d02fa536cb91595f8a03e502.1920x1080.jpg?t=1778054828",
@@ -32,7 +32,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1116170/ss_c34cf7d4e08d5193e24bb90c72f9ed44d8fa8fc4.1920x1080.jpg?t=1778054828",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1116170/ss_fe70ca0a97f4aeb88b30def6876da4f90e100685.1920x1080.jpg?t=1778054828"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 3165160,
+      "name": "CyberCorp Official Soundtrack",
+      "base_price_rub": 198,
+      "markup_rub": 500,
+      "price_rub": 698,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3165160/53861638914ceba24788b83eae446a167a030828/header.jpg?t=1787046872"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-15T14:20:05Z"
+  "updated_at": "2026-08-26T07:16:32Z"
 }
