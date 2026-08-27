@@ -13,9 +13,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 1034,
+  "base_price_rub": 1132,
   "markup_rub": 500,
-  "price_rub": 1534,
+  "price_rub": 1632,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -31,7 +31,24 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627570/ss_0edfd077850661ee4bd2af13ca605d88aac536b6.1920x1080.jpg?t=1757545827",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627570/ss_fcf2f97a5d4e658bc98a0ef36032ade02cf33d6d.1920x1080.jpg?t=1757545827"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 2485260,
+      "name": "The Plucky Squire Soundtrack",
+      "base_price_rub": 424,
+      "markup_rub": 500,
+      "price_rub": 924,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2485260/header.jpg?t=1726588317"
+    },
+    {
+      "id": 3225560,
+      "name": "The Plucky Squire - Digital Art Book",
+      "base_price_rub": 234,
+      "markup_rub": 500,
+      "price_rub": 734,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3225560/header.jpg?t=1726588340"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-15T14:45:41Z"
+  "updated_at": "2026-08-27T22:20:22Z"
 }
