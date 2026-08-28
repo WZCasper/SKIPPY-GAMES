@@ -16,14 +16,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 140,
+  "base_price_rub": 622,
   "markup_rub": 500,
-  "price_rub": 640,
-  "original_price_rub": 1060,
-  "discount_percent": 75,
+  "price_rub": 1122,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "uKA-IA4locM",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238320/ss_de19e8b1f41d9594bf64d02424a0ec5046c733f5.1920x1080.jpg?t=1666817106",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238320/ss_1b4cc24b78f404c69fa18d42e5d5b00873c8852f.1920x1080.jpg?t=1666817106",
@@ -38,12 +38,12 @@
     {
       "id": 273300,
       "name": "Outlast: Whistleblower DLC",
-      "base_price_rub": 53,
+      "base_price_rub": 237,
       "markup_rub": 500,
-      "price_rub": 553,
+      "price_rub": 737,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/273300/header.jpg?t=1618944936"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-15T19:24:42Z"
+  "updated_at": "2026-08-28T11:01:31Z"
 }

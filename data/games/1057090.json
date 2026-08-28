@@ -16,14 +16,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 653,
+  "base_price_rub": 726,
   "markup_rub": 500,
-  "price_rub": 1153,
+  "price_rub": 1226,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "2kPSl2vyu2Y",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/ss_0cf0ec6681ae5771173790dbc99ddb3bf3b886ad.1920x1080.jpg?t=1759530749",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/ss_f8ac174b7949e89fe1939a7bd2c471785dee55f0.1920x1080.jpg?t=1759530749",
@@ -34,7 +34,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/ss_2d23f9ee1da98b25895c65cf39500e18ee55f7a2.1920x1080.jpg?t=1759530749",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/ss_360216e1e58b6fbfcf8892b34f9a80e6648815a4.1920x1080.jpg?t=1759530749"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 1258740,
+      "name": "Ori and the Will of the Wisps Soundtrack",
+      "base_price_rub": 439,
+      "markup_rub": 500,
+      "price_rub": 939,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1258740/header.jpg?t=1583955253"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-15T14:46:42Z"
+  "updated_at": "2026-08-28T10:51:01Z"
 }

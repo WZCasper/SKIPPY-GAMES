@@ -16,25 +16,90 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 887,
+  "base_price_rub": 986,
   "markup_rub": 500,
-  "price_rub": 1387,
+  "price_rub": 1486,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "nh4zuyi7vVM",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613100/ss_66b4628cedb499f8c72661125cc9c800eef17ae1.1920x1080.jpg?t=1782384318",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613100/ss_3f556347267bfb571fbdba2eca76a83888570682.1920x1080.jpg?t=1782384318",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613100/ss_47c2f0a7765e97ff531acac0be7481eaf0084d8f.1920x1080.jpg?t=1782384318",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613100/ss_d60e717912e65c85243393552c96b96efe949d96.1920x1080.jpg?t=1782384318",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613100/ss_b64845472594e09fe51dec5471d8da6599ec57a4.1920x1080.jpg?t=1782384318",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613100/ss_7edd1f1c639fd9d0997078d06d3ae54d255c6880.1920x1080.jpg?t=1782384318",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613100/ss_76bacf38b6c6391b26d47ae9088aa1fd5a8d0165.1920x1080.jpg?t=1782384318",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613100/ss_48948693e47ab6a31dd663ca1a5d54b5ae8343b4.1920x1080.jpg?t=1782384318"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613100/ss_66b4628cedb499f8c72661125cc9c800eef17ae1.1920x1080.jpg?t=1787648005",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613100/ss_3f556347267bfb571fbdba2eca76a83888570682.1920x1080.jpg?t=1787648005",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613100/ss_47c2f0a7765e97ff531acac0be7481eaf0084d8f.1920x1080.jpg?t=1787648005",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613100/ss_d60e717912e65c85243393552c96b96efe949d96.1920x1080.jpg?t=1787648005",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613100/ss_b64845472594e09fe51dec5471d8da6599ec57a4.1920x1080.jpg?t=1787648005",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613100/ss_7edd1f1c639fd9d0997078d06d3ae54d255c6880.1920x1080.jpg?t=1787648005",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613100/ss_76bacf38b6c6391b26d47ae9088aa1fd5a8d0165.1920x1080.jpg?t=1787648005",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/613100/ss_48948693e47ab6a31dd663ca1a5d54b5ae8343b4.1920x1080.jpg?t=1787648005"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 2819590,
+      "name": "House Flipper - Dine Out DLC",
+      "base_price_rub": 622,
+      "markup_rub": 500,
+      "price_rub": 1122,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2819590/header.jpg?t=1780684839"
+    },
+    {
+      "id": 3363170,
+      "name": "House Flipper - Party Furniture Pack",
+      "base_price_rub": 237,
+      "markup_rub": 500,
+      "price_rub": 737,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3363170/header.jpg?t=1780683506"
+    },
+    {
+      "id": 1569190,
+      "name": "House Flipper - Pets DLC",
+      "base_price_rub": 622,
+      "markup_rub": 500,
+      "price_rub": 1122,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569190/52dbd48692072ed3d8f39c4022d287c9c10319e5/header.jpg?t=1780686200"
+    },
+    {
+      "id": 1832960,
+      "name": "House Flipper - Farm DLC",
+      "base_price_rub": 622,
+      "markup_rub": 500,
+      "price_rub": 1122,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1832960/d9110679fcfc7b775b19468c2263dd4d174d861c/header.jpg?t=1780685189"
+    },
+    {
+      "id": 1021110,
+      "name": "House Flipper - Luxury DLC",
+      "base_price_rub": 622,
+      "markup_rub": 500,
+      "price_rub": 1122,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1021110/c0363c30b753f2d17df2b8990cf97309fff9b1a3/header.jpg?t=1780687808"
+    },
+    {
+      "id": 942290,
+      "name": "House Flipper - Garden DLC",
+      "base_price_rub": 622,
+      "markup_rub": 500,
+      "price_rub": 1122,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/942290/7218322a21d987b8f2e522141cbfb9a26ed95476/header.jpg?t=1780688660"
+    },
+    {
+      "id": 1126050,
+      "name": "House Flipper - HGTV DLC",
+      "base_price_rub": 431,
+      "markup_rub": 500,
+      "price_rub": 931,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1126050/2366bc67a3d283f5bb554380c50a6ce4ce51df6d/header.jpg?t=1780585953"
+    },
+    {
+      "id": 2910200,
+      "name": "House Flipper - Pop Art Furniture Pack",
+      "base_price_rub": 237,
+      "markup_rub": 500,
+      "price_rub": 737,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2910200/header.jpg?t=1780687603"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-15T14:46:06Z"
+  "updated_at": "2026-08-28T10:46:20Z"
 }

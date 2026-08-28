@@ -14,14 +14,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 164,
+  "base_price_rub": 917,
   "markup_rub": 500,
-  "price_rub": 664,
-  "original_price_rub": 1325,
-  "discount_percent": 80,
+  "price_rub": 1417,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "tQPLUyzVC9E",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_6054b66e4b0b3beb25abd977526df59bdde0f58e.1920x1080.jpg?t=1763649183",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_2bea34ef7b93555dba96cc1febaf3f752aa3274f.1920x1080.jpg?t=1763649183",
@@ -32,7 +32,72 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_61205ebc6931862bd2d92aaa209dc19b8603c602.1920x1080.jpg?t=1763649183",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201270/ss_6f110960b1c5b1944a5f07d8473a40bf795841a3.1920x1080.jpg?t=1763649183"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 223180,
+      "name": "Total War: SHOGUN 2 – Otomo Clan Pack DLC",
+      "base_price_rub": 170,
+      "markup_rub": 500,
+      "price_rub": 670,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/223180/header.jpg?t=1763649661"
+    },
+    {
+      "id": 201279,
+      "name": "Total War: SHOGUN 2: Saints and Heroes Unit Pack",
+      "base_price_rub": 105,
+      "markup_rub": 500,
+      "price_rub": 605,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201279/header.jpg?t=1769187493"
+    },
+    {
+      "id": 201277,
+      "name": "Total War: SHOGUN 2 - Dragon War Battle Pack",
+      "base_price_rub": 201,
+      "markup_rub": 500,
+      "price_rub": 701,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201277/header.jpg?t=1769187759"
+    },
+    {
+      "id": 34348,
+      "name": "Total War: SHOGUN 2 - The Ikko Ikki Clan Pack",
+      "base_price_rub": 170,
+      "markup_rub": 500,
+      "price_rub": 670,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34348/header.jpg?t=1769186887"
+    },
+    {
+      "id": 34342,
+      "name": "Total War: SHOGUN 2 - Sengoku Jidai Unit Pack",
+      "base_price_rub": 105,
+      "markup_rub": 500,
+      "price_rub": 605,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34342/header.jpg?t=1724864486"
+    },
+    {
+      "id": 34343,
+      "name": "Total War: SHOGUN 2 - Rise of the Samurai Campaign",
+      "base_price_rub": 343,
+      "markup_rub": 500,
+      "price_rub": 843,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34343/header.jpg?t=1769187219"
+    },
+    {
+      "id": 34345,
+      "name": "Total War: SHOGUN 2 - The Hattori Clan Pack",
+      "base_price_rub": 170,
+      "markup_rub": 500,
+      "price_rub": 670,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/34345/header.jpg?t=1769188003"
+    },
+    {
+      "id": 201272,
+      "name": "Total War: Shogun 2 - Blood Pack DLC",
+      "base_price_rub": 105,
+      "markup_rub": 500,
+      "price_rub": 605,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201272/header.jpg?t=1769188250"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-15T14:46:29Z"
+  "updated_at": "2026-08-28T10:47:25Z"
 }

@@ -14,14 +14,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 429,
+  "base_price_rub": 477,
   "markup_rub": 500,
-  "price_rub": 929,
+  "price_rub": 977,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "m3EF-71dodo",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20900/ss_65cf24359fc027e3fed0cc83aa3468ac9721e552.1920x1080.jpg?t=1749200362",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20900/ss_b26db23a0b4b4e07a6466c84f009cbdbb13091f7.1920x1080.jpg?t=1749200362",
@@ -32,7 +32,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20900/ss_995cf6cab41b23e2cafa9a719f0a3f27d05e6bb1.1920x1080.jpg?t=1749200362",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/20900/ss_ddd36794809eb8c9e9e11270f217ddcd7bfb4d39.1920x1080.jpg?t=1749200362"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 1229370,
+      "name": "The Witcher: Enhanced Edition Soundtrack",
+      "base_price_rub": 247,
+      "markup_rub": 500,
+      "price_rub": 747,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229370/header_russian.jpg?t=1659617984"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-15T14:46:40Z"
+  "updated_at": "2026-08-28T10:50:54Z"
 }

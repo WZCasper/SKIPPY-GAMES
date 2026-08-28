@@ -12,22 +12,31 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 388,
+  "base_price_rub": 431,
   "markup_rub": 500,
-  "price_rub": 888,
+  "price_rub": 931,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "mg5s5Dq50Rg",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219150/ss_263387d83df0626c58a484baa8f78f9394074b76.1920x1080.jpg?t=1782406379",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219150/ss_bdf28f59652e53e725d96d94cdc8db97fc277cf2.1920x1080.jpg?t=1782406379",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219150/ss_a868b45895c06a2e45a6f6a8646c4574b0157525.1920x1080.jpg?t=1782406379",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219150/ss_a2aa276b25345368d00338cfe54ebbcfa0c60168.1920x1080.jpg?t=1782406379",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219150/ss_75386edf15a48d844dc28ffdc61eb5c458d68533.1920x1080.jpg?t=1782406379"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219150/ss_263387d83df0626c58a484baa8f78f9394074b76.1920x1080.jpg?t=1785434922",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219150/ss_bdf28f59652e53e725d96d94cdc8db97fc277cf2.1920x1080.jpg?t=1785434922",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219150/ss_a868b45895c06a2e45a6f6a8646c4574b0157525.1920x1080.jpg?t=1785434922",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219150/ss_a2aa276b25345368d00338cfe54ebbcfa0c60168.1920x1080.jpg?t=1785434922",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219150/ss_75386edf15a48d844dc28ffdc61eb5c458d68533.1920x1080.jpg?t=1785434922"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 219152,
+      "name": "Hotline Miami Soundtrack",
+      "base_price_rub": 431,
+      "markup_rub": 500,
+      "price_rub": 931,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/219152/header.jpg?t=1603496621"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-15T14:46:36Z"
+  "updated_at": "2026-08-28T10:47:43Z"
 }

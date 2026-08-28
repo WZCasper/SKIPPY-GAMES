@@ -22,18 +22,43 @@
   "discount_percent": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "Pb8M5P1QKX8",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286830/ss_582b40b9dea8273368826afd425f541aa859bbe6.1920x1080.jpg?t=1779987630",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286830/ss_23613f91ee765a1e4e647a183261aeb2ecbc2c86.1920x1080.jpg?t=1779987630",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286830/ss_b9bf304772e010c91eac9cf8faa791c48749b076.1920x1080.jpg?t=1779987630",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286830/ss_9d45b0d2ab79c146dd7dd2751c21dae4e153d280.1920x1080.jpg?t=1779987630",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286830/ss_5c4a1d2c32449d7f59a91e7087d4b37db49148c3.1920x1080.jpg?t=1779987630",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286830/ss_40af51178b6f01c61267e151ff1949eb5b19807a.1920x1080.jpg?t=1779987630",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286830/ss_b6fafdde1787fe13de505c586399f4a6a8611e66.1920x1080.jpg?t=1779987630",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286830/ss_4c0af2dc7d9d63dee90cb5a8d1ebbe4d630ca70f.1920x1080.jpg?t=1779987630"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286830/ss_582b40b9dea8273368826afd425f541aa859bbe6.1920x1080.jpg?t=1787234538",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286830/ss_23613f91ee765a1e4e647a183261aeb2ecbc2c86.1920x1080.jpg?t=1787234538",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286830/ss_b9bf304772e010c91eac9cf8faa791c48749b076.1920x1080.jpg?t=1787234538",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286830/ss_9d45b0d2ab79c146dd7dd2751c21dae4e153d280.1920x1080.jpg?t=1787234538",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286830/ss_5c4a1d2c32449d7f59a91e7087d4b37db49148c3.1920x1080.jpg?t=1787234538",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286830/ss_40af51178b6f01c61267e151ff1949eb5b19807a.1920x1080.jpg?t=1787234538",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286830/ss_b6fafdde1787fe13de505c586399f4a6a8611e66.1920x1080.jpg?t=1787234538",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1286830/ss_4c0af2dc7d9d63dee90cb5a8d1ebbe4d630ca70f.1920x1080.jpg?t=1787234538"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 4023380,
+      "name": "STAR WARS™: The Old Republic™ — Продолжайте бой",
+      "base_price_rub": 1913,
+      "markup_rub": 500,
+      "price_rub": 2413,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4023380/3d91b588f3dba6dd961ec1052276df0a00f3e5a0/header.jpg?t=1771504960"
+    },
+    {
+      "id": 4005010,
+      "name": "STAR WARS™: The Old Republic™ — Вступайте в бой",
+      "base_price_rub": 956,
+      "markup_rub": 500,
+      "price_rub": 1456,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005010/3d91b588f3dba6dd961ec1052276df0a00f3e5a0/header.jpg?t=1772551909"
+    },
+    {
+      "id": 1303891,
+      "name": "STAR WARS™: The Old Republic - Galactic Leisure Bundle",
+      "base_price_rub": 285,
+      "markup_rub": 500,
+      "price_rub": 785,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1303891/header.jpg?t=1741367564"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-15T14:46:10Z"
+  "updated_at": "2026-08-28T10:46:26Z"
 }
