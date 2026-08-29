@@ -1,0 +1,33 @@
+{
+  "id": 2247080,
+  "title": "Glyph Guesser",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2247080/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/2247080/library_hero.jpg",
+  "description": "One evening, my 5 year old son asked me to \"guess my letters\". It turns out he was thinking of three letters that didn't make a word. Just three random letters. It was kind of fun!\n\r\nGlyph Guesser is a little program I made that builds on this idea. You can adjust the difficulty by setting the size of the pool of characters, the length of the random sequence, and the kind of hints you get about how close your guesses are. The hints are all togglable independently, so you can choose to see:\n\r\n* No hints at all, just guess randomly.\n\r\n* How many of the glyphs are somewhere in the sequence.\n\r\n* Which of the glyphs are in the sequence\n\r\n* Which of the glyphs are in the correct locations.\n\r\nBecause glyph guesser supports 860 glyphs from the UTF-8 character set, you can generate an arcane set of glyphs to guess from, and if you choose a glyph set of 10 or less, you can reference them with the numerals 0-9. Otherwise, you'll need to copy-paste the glyphs from the library printout.\n\r\n\n\r\nEnjoy guessing!",
+  "description_short": "Guess the random sequence of glyphs with optional hints and alternate symbol sets.",
+  "genres": [
+    "Казуальные игры",
+    "Головоломки"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 50,
+  "markup_rub": 500,
+  "price_rub": 550,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "8e3kqGZsgLg",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2247080/ss_30acf4c9e5f0f815133f353fa0c123e65b34cdc8.1920x1080.jpg?t=1673474150",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2247080/ss_5fe63822225eacb246589a918ecfe5d8042e86a3.1920x1080.jpg?t=1673474150",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2247080/ss_51e2c2cdc80577590e7819615d8a208a9ccd5527.1920x1080.jpg?t=1673474150",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2247080/ss_d01bd3b3dd86de56a217c7c230be7159fb019ba6.1920x1080.jpg?t=1673474150",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2247080/ss_9d0ca1c344957c7311cc56f23362bb93f09c0623.1920x1080.jpg?t=1673474150"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-08-29T07:02:18Z"
+}
