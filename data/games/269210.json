@@ -14,82 +14,114 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 322,
+  "base_price_rub": 117,
   "markup_rub": 500,
-  "price_rub": 822,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 617,
+  "original_price_rub": 858,
+  "discount_percent": 67,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "mHNi9pfn050",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269210/4d80795332bc699bb938c7f6218e79d667ad472d/ss_4d80795332bc699bb938c7f6218e79d667ad472d.1920x1080.jpg?t=1775210178",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269210/598f1b591249e531352cf263539c3dcac412efa6/ss_598f1b591249e531352cf263539c3dcac412efa6.1920x1080.jpg?t=1775210178",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269210/0d0fa907adf86fb0069961a2cbfc366872d504bb/ss_0d0fa907adf86fb0069961a2cbfc366872d504bb.1920x1080.jpg?t=1775210178",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269210/36963803a002dc8dbd065c79b8ba51d3407752a8/ss_36963803a002dc8dbd065c79b8ba51d3407752a8.1920x1080.jpg?t=1775210178",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269210/65236bb2b791180e81becf80bb71d4ef492aeb49/ss_65236bb2b791180e81becf80bb71d4ef492aeb49.1920x1080.jpg?t=1775210178",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269210/935cb28c58b9252823ec68dc6c1ee5b58d3c5f3f/ss_935cb28c58b9252823ec68dc6c1ee5b58d3c5f3f.1920x1080.jpg?t=1775210178",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269210/c890bfde8c6bc2c45fc9e5181a1cf7307a7d95a6/ss_c890bfde8c6bc2c45fc9e5181a1cf7307a7d95a6.1920x1080.jpg?t=1775210178",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269210/9965ebfe85230da957363752de0699b75fd610b9/ss_9965ebfe85230da957363752de0699b75fd610b9.1920x1080.jpg?t=1775210178"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269210/4d80795332bc699bb938c7f6218e79d667ad472d/ss_4d80795332bc699bb938c7f6218e79d667ad472d.1920x1080.jpg?t=1787306700",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269210/598f1b591249e531352cf263539c3dcac412efa6/ss_598f1b591249e531352cf263539c3dcac412efa6.1920x1080.jpg?t=1787306700",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269210/0d0fa907adf86fb0069961a2cbfc366872d504bb/ss_0d0fa907adf86fb0069961a2cbfc366872d504bb.1920x1080.jpg?t=1787306700",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269210/36963803a002dc8dbd065c79b8ba51d3407752a8/ss_36963803a002dc8dbd065c79b8ba51d3407752a8.1920x1080.jpg?t=1787306700",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269210/65236bb2b791180e81becf80bb71d4ef492aeb49/ss_65236bb2b791180e81becf80bb71d4ef492aeb49.1920x1080.jpg?t=1787306700",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269210/935cb28c58b9252823ec68dc6c1ee5b58d3c5f3f/ss_935cb28c58b9252823ec68dc6c1ee5b58d3c5f3f.1920x1080.jpg?t=1787306700",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269210/c890bfde8c6bc2c45fc9e5181a1cf7307a7d95a6/ss_c890bfde8c6bc2c45fc9e5181a1cf7307a7d95a6.1920x1080.jpg?t=1787306700",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/269210/9965ebfe85230da957363752de0699b75fd610b9/ss_9965ebfe85230da957363752de0699b75fd610b9.1920x1080.jpg?t=1787306700"
   ],
   "upsells": [
     {
       "id": 1574601,
-      "name": "Hero Siege - Gates of Valhalla Collector's Edition (Expansion Set)",
-      "base_price_rub": 534,
+      "name": "Hero Siege - Gates of Valhalla Collector's Edition",
+      "base_price_rub": 195,
       "markup_rub": 500,
-      "price_rub": 1034,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574601/header.jpg?t=1710866783"
+      "price_rub": 695,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574601/126229228a125028ae2e927ea75434baab8d2003/header.jpg?t=1787328615"
     },
     {
       "id": 1574600,
-      "name": "Hero Siege - Gates of Valhalla (Expansion Set)",
-      "base_price_rub": 355,
+      "name": "Hero Siege - Ghastly Jötunn (Skin)",
+      "base_price_rub": 128,
       "markup_rub": 500,
-      "price_rub": 855,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574600/header.jpg?t=1710866781"
+      "price_rub": 628,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574600/112720275199100f2267d1aa70d66987ba5ef6bd/header.jpg?t=1787308736"
     },
     {
       "id": 3305660,
       "name": "Hero Siege - Bard (Class)",
-      "base_price_rub": 388,
+      "base_price_rub": 142,
       "markup_rub": 500,
-      "price_rub": 888,
+      "price_rub": 642,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3305660/43981483b79ea6159f6a05aad53296fce3612cfb/header.jpg?t=1749206381"
     },
     {
       "id": 2799870,
       "name": "Hero Siege - Stormweaver",
-      "base_price_rub": 322,
+      "base_price_rub": 117,
       "markup_rub": 500,
-      "price_rub": 822,
+      "price_rub": 617,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2799870/header.jpg?t=1711106102"
     },
     {
       "id": 2735920,
       "name": "Hero Siege - Butcher Class",
-      "base_price_rub": 322,
+      "base_price_rub": 117,
       "markup_rub": 500,
-      "price_rub": 822,
+      "price_rub": 617,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2735920/header.jpg?t=1710866468"
     },
     {
       "id": 4204900,
       "name": "Hero Siege - Prophet (Class)",
-      "base_price_rub": 388,
+      "base_price_rub": 142,
       "markup_rub": 500,
-      "price_rub": 888,
+      "price_rub": 642,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4204900/4e87a8e9c247b7339b7236022e96dfcf5ab390f0/header.jpg?t=1775211509"
     },
     {
       "id": 4512060,
       "name": "Hero Siege - Dark Thorn (Skin)",
-      "base_price_rub": 322,
+      "base_price_rub": 117,
       "markup_rub": 500,
-      "price_rub": 822,
+      "price_rub": 617,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4512060/91bfe390e5b312fa804ffd00844f26757dca44fc/header.jpg?t=1775206968"
+    },
+    {
+      "id": 4766880,
+      "name": "Hero Siege - Ebontharn Bundle",
+      "base_price_rub": 440,
+      "markup_rub": 500,
+      "price_rub": 940,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4766880/8c8a0c07f6ff8706f1fac4b0f50a12f4c0367b95/header.jpg?t=1787308780"
+    },
+    {
+      "id": 4766890,
+      "name": "Hero Siege - Templar Knights (Skin)",
+      "base_price_rub": 564,
+      "markup_rub": 500,
+      "price_rub": 1064,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4766890/51201e94007bf888de14ebf894fa7773f56b5c6a/header.jpg?t=1787308777"
+    },
+    {
+      "id": 4950140,
+      "name": "Hero Siege - Neko Bard (Skin)",
+      "base_price_rub": 373,
+      "markup_rub": 500,
+      "price_rub": 873,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4950140/805450f68773a83e689e6986c9448e380a778b5e/header.jpg?t=1787308781"
+    },
+    {
+      "id": 4950150,
+      "name": "Hero Siege - Neko Maid Marksman (Skin)",
+      "base_price_rub": 373,
+      "markup_rub": 500,
+      "price_rub": 873,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4950150/b4375d3d75f90d4e7e259d07df82f8a4e5859e39/header.jpg?t=1787308783"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-15T19:52:25Z"
+  "updated_at": "2026-08-30T11:39:52Z"
 }
