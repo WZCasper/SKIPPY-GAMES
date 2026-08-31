@@ -13,25 +13,34 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 446,
+  "base_price_rub": 499,
   "markup_rub": 500,
-  "price_rub": 946,
+  "price_rub": 999,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "IWmu_Ysf1QY",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296830/ss_2ad98e945a95673ed45464a29d77043abd44ffd4.1920x1080.jpg?t=1773940169",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296830/ss_2bc62b40516c402c8c1f8c3ffc4e664abaae4f7a.1920x1080.jpg?t=1773940169",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296830/ss_c076126830d5c9e4d11db29405191fd4eb86bc06.1920x1080.jpg?t=1773940169",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296830/ss_4df8c6a9bce29c9bceb5f56316f4a74984048240.1920x1080.jpg?t=1773940169",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296830/ss_b2e80079a51d46a1cd82d99db1ce5e153f22d0ca.1920x1080.jpg?t=1773940169",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296830/ss_39e3409df1fa0a54a716394ef1324e1b4cb3221b.1920x1080.jpg?t=1773940169",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296830/ss_7011e92ab7b9c81fcce70d467e106f9e9c26c00f.1920x1080.jpg?t=1773940169",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296830/ss_6af10e4341979aaf994a5a71ad1c28d8ada83b52.1920x1080.jpg?t=1773940169"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296830/ss_2ad98e945a95673ed45464a29d77043abd44ffd4.1920x1080.jpg?t=1784999016",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296830/ss_2bc62b40516c402c8c1f8c3ffc4e664abaae4f7a.1920x1080.jpg?t=1784999016",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296830/ss_c076126830d5c9e4d11db29405191fd4eb86bc06.1920x1080.jpg?t=1784999016",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296830/ss_4df8c6a9bce29c9bceb5f56316f4a74984048240.1920x1080.jpg?t=1784999016",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296830/ss_b2e80079a51d46a1cd82d99db1ce5e153f22d0ca.1920x1080.jpg?t=1784999016",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296830/ss_39e3409df1fa0a54a716394ef1324e1b4cb3221b.1920x1080.jpg?t=1784999016",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296830/ss_7011e92ab7b9c81fcce70d467e106f9e9c26c00f.1920x1080.jpg?t=1784999016",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296830/ss_6af10e4341979aaf994a5a71ad1c28d8ada83b52.1920x1080.jpg?t=1784999016"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 2612950,
+      "name": "暖雪 Warm Snow - 终业",
+      "base_price_rub": 314,
+      "markup_rub": 500,
+      "price_rub": 814,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2612950/header.jpg?t=1702642988"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-15T20:12:59Z"
+  "updated_at": "2026-08-31T13:19:37Z"
 }

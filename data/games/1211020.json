@@ -16,14 +16,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 887,
+  "base_price_rub": 992,
   "markup_rub": 500,
-  "price_rub": 1387,
+  "price_rub": 1492,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "2invlS5ks04",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211020/82aee5b999f2706768f0c9085a0e8c5b84033a66/ss_82aee5b999f2706768f0c9085a0e8c5b84033a66.1920x1080.jpg?t=1761037189",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211020/4ed173389eacc9e6e48d74d7c6c231121cf46233/ss_4ed173389eacc9e6e48d74d7c6c231121cf46233.1920x1080.jpg?t=1761037189",
@@ -34,7 +34,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211020/7cad50baa1fedbea87147d6ca5c1a81831797120/ss_7cad50baa1fedbea87147d6ca5c1a81831797120.1920x1080.jpg?t=1761037189",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211020/e36a13f14bb3544eb861c9042ba655d3862ebc32/ss_e36a13f14bb3544eb861c9042ba655d3862ebc32.1920x1080.jpg?t=1761037189"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 3106460,
+      "name": "Wobbly Life Soundtrack",
+      "base_price_rub": 287,
+      "markup_rub": 500,
+      "price_rub": 787,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3106460/header.jpg?t=1732264242"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-15T20:13:01Z"
+  "updated_at": "2026-08-31T13:19:39Z"
 }
