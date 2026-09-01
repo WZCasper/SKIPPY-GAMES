@@ -12,50 +12,50 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 512,
+  "base_price_rub": 343,
   "markup_rub": 500,
-  "price_rub": 1012,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 843,
+  "original_price_rub": 1072,
+  "discount_percent": 40,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "BktYZWvd1Fg",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_7580f5af5c21da17f7b19b92ca6c6acf8ffb4776.1920x1080.jpg?t=1780935538",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/8823cd46d53efa2bf15862c35ab511937e5cc1c6/ss_8823cd46d53efa2bf15862c35ab511937e5cc1c6.1920x1080.jpg?t=1780935538",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_8dc842e7bd24f6acfffc799117a1513589e02778.1920x1080.jpg?t=1780935538",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_abb2df34612b560519fcea9e62ef9ce0cd09d256.1920x1080.jpg?t=1780935538",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_c36f89fa1bfdc8ac2ef3a5fd4eee4e362da8614c.1920x1080.jpg?t=1780935538",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ed4969562fe30b76429ea11fe66de0edbb77f1da/ss_ed4969562fe30b76429ea11fe66de0edbb77f1da.1920x1080.jpg?t=1780935538",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_cee129fc32e71bb4182e6131bb3d12ac5a7c3fd0.1920x1080.jpg?t=1780935538",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_cc4f43ee2737dd2ff19865b0acf864021c2b2309.1920x1080.jpg?t=1780935538"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_7580f5af5c21da17f7b19b92ca6c6acf8ffb4776.1920x1080.jpg?t=1787051272",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/8823cd46d53efa2bf15862c35ab511937e5cc1c6/ss_8823cd46d53efa2bf15862c35ab511937e5cc1c6.1920x1080.jpg?t=1787051272",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_8dc842e7bd24f6acfffc799117a1513589e02778.1920x1080.jpg?t=1787051272",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_abb2df34612b560519fcea9e62ef9ce0cd09d256.1920x1080.jpg?t=1787051272",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_c36f89fa1bfdc8ac2ef3a5fd4eee4e362da8614c.1920x1080.jpg?t=1787051272",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ed4969562fe30b76429ea11fe66de0edbb77f1da/ss_ed4969562fe30b76429ea11fe66de0edbb77f1da.1920x1080.jpg?t=1787051272",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_cee129fc32e71bb4182e6131bb3d12ac5a7c3fd0.1920x1080.jpg?t=1787051272",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321470/ss_cc4f43ee2737dd2ff19865b0acf864021c2b2309.1920x1080.jpg?t=1787051272"
   ],
   "upsells": [
     {
       "id": 4395500,
       "name": "Deep Rock Galactic: Survivor - Heavy Duty Expansion",
-      "base_price_rub": 399,
+      "base_price_rub": 357,
       "markup_rub": 500,
-      "price_rub": 899,
+      "price_rub": 857,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4395500/bb8f353b4843c499426a722b7be0961af17cb5fb/header.jpg?t=1781855777"
     },
     {
       "id": 3818560,
       "name": "Deep Rock Galactic: Survivor - After Hours Pack",
-      "base_price_rub": 215,
+      "base_price_rub": 241,
       "markup_rub": 500,
-      "price_rub": 715,
+      "price_rub": 741,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3818560/777c4ffe6568ea5dcb7fdd7135c8587ece026541/header.jpg?t=1758106744"
     },
     {
       "id": 2782850,
       "name": "Deep Rock Galactic: Survivor - Supporter Pack",
-      "base_price_rub": 215,
+      "base_price_rub": 241,
       "markup_rub": 500,
-      "price_rub": 715,
+      "price_rub": 741,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2782850/b8afb4a49cfe1a6a6eb8940fe56c51b2b4603d86/header.jpg?t=1758178918"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-16T03:19:28Z"
+  "updated_at": "2026-09-01T16:23:16Z"
 }
