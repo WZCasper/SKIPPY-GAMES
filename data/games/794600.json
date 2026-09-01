@@ -19,18 +19,27 @@
   "discount_percent": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "CJWn--OAqco",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/794600/ss_7e2e7f0bfb1d1023c52a01ec2df13133548467da.1920x1080.jpg?t=1772655611",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/794600/ss_0785890f98e8b418566c5b14b6cb68140509cf18.1920x1080.jpg?t=1772655611",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/794600/ss_705ff3cd98ea7805d44be97e58a68e7fff8161ca.1920x1080.jpg?t=1772655611",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/794600/ss_550ead3a0a4ffda958c3821e8ecdc2c0a585511a.1920x1080.jpg?t=1772655611",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/794600/ss_1d78f073d9101315e3f7c0d5c5b2e6c46b8d11be.1920x1080.jpg?t=1772655611",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/794600/ss_62efccf5696ac50835e65b398ccb36aae1a72815.1920x1080.jpg?t=1772655611",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/794600/ss_a9e2b3881cf8bfd47d288502a317fbfe01171a74.1920x1080.jpg?t=1772655611",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/794600/ss_4d49c7dc810cfbf9355abf1c98664c1ed46c84aa.1920x1080.jpg?t=1772655611"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/794600/ss_7e2e7f0bfb1d1023c52a01ec2df13133548467da.1920x1080.jpg?t=1788208577",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/794600/ss_0785890f98e8b418566c5b14b6cb68140509cf18.1920x1080.jpg?t=1788208577",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/794600/ss_705ff3cd98ea7805d44be97e58a68e7fff8161ca.1920x1080.jpg?t=1788208577",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/794600/ss_550ead3a0a4ffda958c3821e8ecdc2c0a585511a.1920x1080.jpg?t=1788208577",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/794600/ss_1d78f073d9101315e3f7c0d5c5b2e6c46b8d11be.1920x1080.jpg?t=1788208577",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/794600/ss_62efccf5696ac50835e65b398ccb36aae1a72815.1920x1080.jpg?t=1788208577",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/794600/ss_a9e2b3881cf8bfd47d288502a317fbfe01171a74.1920x1080.jpg?t=1788208577",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/794600/ss_4d49c7dc810cfbf9355abf1c98664c1ed46c84aa.1920x1080.jpg?t=1788208577"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 4444640,
+      "name": "LET IT DIE: Offline Key",
+      "base_price_rub": 871,
+      "markup_rub": 500,
+      "price_rub": 1371,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4444640/e41e3922193e7bc48f2e58bd356b308306ad45c0/header.jpg?t=1788230051"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-16T03:13:19Z"
+  "updated_at": "2026-09-01T11:26:44Z"
 }
