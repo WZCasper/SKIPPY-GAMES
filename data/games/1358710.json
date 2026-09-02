@@ -15,11 +15,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 64,
+  "base_price_rub": 242,
   "markup_rub": 500,
-  "price_rub": 564,
-  "original_price_rub": 715,
-  "discount_percent": 70,
+  "price_rub": 742,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -37,20 +37,20 @@
     {
       "id": 2307360,
       "name": "Battle Cry of Freedom - Soundtrack & Art",
-      "base_price_rub": 95,
+      "base_price_rub": 242,
       "markup_rub": 500,
-      "price_rub": 595,
+      "price_rub": 742,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2307360/header.jpg?t=1678375214"
     },
     {
       "id": 2317210,
       "name": "Battle Cry of Freedom - Supporter Pack: Brass Bands",
-      "base_price_rub": 95,
+      "base_price_rub": 242,
       "markup_rub": 500,
-      "price_rub": 595,
+      "price_rub": 742,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2317210/header.jpg?t=1678375123"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-16T03:45:08Z"
+  "updated_at": "2026-09-02T21:02:05Z"
 }
