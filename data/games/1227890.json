@@ -15,14 +15,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 120,
+  "base_price_rub": 544,
   "markup_rub": 500,
-  "price_rub": 620,
-  "original_price_rub": 984,
-  "discount_percent": 75,
+  "price_rub": 1044,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "PnbGwftCM8Y",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1227890/ss_147a3e845f817f286265a0d67630d38dd28a2078.1920x1080.jpg?t=1766085059",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1227890/ss_db465db8b382b7211efa17d480b507123f1142b1.1920x1080.jpg?t=1766085059",
@@ -37,12 +37,12 @@
     {
       "id": 1390150,
       "name": "Summer Memories+ - Expansion DLC",
-      "base_price_rub": 189,
+      "base_price_rub": 330,
       "markup_rub": 500,
-      "price_rub": 689,
+      "price_rub": 830,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1390150/header.jpg?t=1735620127"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-16T03:30:26Z"
+  "updated_at": "2026-09-02T10:58:47Z"
 }

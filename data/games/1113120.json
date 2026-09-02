@@ -15,14 +15,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 1214,
+  "base_price_rub": 410,
   "markup_rub": 500,
-  "price_rub": 1714,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 910,
+  "original_price_rub": 1865,
+  "discount_percent": 70,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "AGlFvRpfiHE",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/ss_1e633861f899ece1221ce6da6c892a9a706ac359.1920x1080.jpg?t=1733140180",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113120/ss_236f68d8b1a0c891b401689fcd0e9030f6550b74.1920x1080.jpg?t=1733140180",
@@ -37,12 +37,12 @@
     {
       "id": 2115940,
       "name": "IXION - Original Soundtrack",
-      "base_price_rub": 390,
+      "base_price_rub": 176,
       "markup_rub": 500,
-      "price_rub": 890,
+      "price_rub": 676,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2115940/header.jpg?t=1670435942"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-16T03:34:49Z"
+  "updated_at": "2026-09-02T11:00:11Z"
 }
