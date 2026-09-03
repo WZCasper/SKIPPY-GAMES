@@ -14,14 +14,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 241,
+  "base_price_rub": 193,
   "markup_rub": 500,
-  "price_rub": 741,
-  "original_price_rub": 845,
-  "discount_percent": 30,
+  "price_rub": 693,
+  "original_price_rub": 887,
+  "discount_percent": 50,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "nHBQ5Vp5ZRo",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2398170/ss_e30d599f585c53810b933bcd0f82ee1b1a1d8534.1920x1080.jpg?t=1773341999",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2398170/ss_cd9dadb5a15d43a81d56a211cfb384c031b964fe.1920x1080.jpg?t=1773341999",
@@ -32,7 +32,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2398170/ss_1dfa0eb13580c5a478e29b31c5610012841cbfb5.1920x1080.jpg?t=1773341999",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2398170/ss_f0377d00e1ad798e65a65b21e50aeb8e6bdf1444.1920x1080.jpg?t=1773341999"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 2583400,
+      "name": "BORE BLASTERS Soundtrack",
+      "base_price_rub": 66,
+      "markup_rub": 500,
+      "price_rub": 566,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2583400/header.jpg?t=1709904729"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-16T03:51:30Z"
+  "updated_at": "2026-09-03T11:00:14Z"
 }

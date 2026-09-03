@@ -14,14 +14,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 720,
+  "base_price_rub": 807,
   "markup_rub": 500,
-  "price_rub": 1220,
+  "price_rub": 1307,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "QgClkXPoia0",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1350840/ss_5769032148511ad222a41eb6131967568cc6dd62.1920x1080.jpg?t=1749086793",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1350840/ss_33365da4993e313f1a4c4970e2b64b30cdb74cb6.1920x1080.jpg?t=1749086793",
@@ -32,7 +32,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1350840/ss_e4a70a2cebd75488a4c08204d785d053400ae2e2.1920x1080.jpg?t=1749086793",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1350840/ss_a6ca78f08598a048fd132a7a9cff9734218155f9.1920x1080.jpg?t=1749086793"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 3068290,
+      "name": "Song Of The Prairie - Soundtrack & Digital Art",
+      "base_price_rub": 251,
+      "markup_rub": 500,
+      "price_rub": 751,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3068290/header.jpg?t=1723099128"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-16T03:50:50Z"
+  "updated_at": "2026-09-03T10:59:23Z"
 }

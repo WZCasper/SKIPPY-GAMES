@@ -12,14 +12,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 146,
+  "base_price_rub": 245,
   "markup_rub": 500,
-  "price_rub": 646,
-  "original_price_rub": 719,
-  "discount_percent": 33,
+  "price_rub": 745,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "bRubGohiCLM",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394220/ss_8e80f6b98c75f8c21da9eebc09f0300010cd1828.1920x1080.jpg?t=1778180397",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394220/ss_c3e09b3373c5c4c5a3d1abe938b13c5e76e0fb97.1920x1080.jpg?t=1778180397",
@@ -28,7 +28,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394220/ss_e15524b14966964f723511f655f62a7dea0c2fc9.1920x1080.jpg?t=1778180397",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394220/ss_72aa1bc809be74c853670f7c0bd5d9c0b3d8641e.1920x1080.jpg?t=1778180397"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 424950,
+      "name": "Last Horizon OST & Supporter Pack",
+      "base_price_rub": 232,
+      "markup_rub": 500,
+      "price_rub": 732,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/424950/header.jpg?t=1581627648"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-16T03:51:11Z"
+  "updated_at": "2026-09-03T10:59:51Z"
 }
