@@ -30,7 +30,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257730/ss_e6b0136afb6a70599dc45fc10b9783f662e006df.1920x1080.jpg?t=1782795400",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257730/ss_21ef1e414e84f170b8bcea1e7d21de2fcdc65a0c.1920x1080.jpg?t=1782795400"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 3855400,
+      "name": "Infinity Wars - Official Soundtrack",
+      "base_price_rub": 379,
+      "markup_rub": 500,
+      "price_rub": 879,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3855400/5daaa25b61c95048ff6ae3e169edb382f9961bc9/header.jpg?t=1785829632"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-16T14:15:31Z"
+  "updated_at": "2026-09-04T03:53:40Z"
 }
