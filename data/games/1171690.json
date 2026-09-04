@@ -16,14 +16,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 114,
+  "base_price_rub": 1000,
   "markup_rub": 500,
-  "price_rub": 614,
-  "original_price_rub": 1393,
-  "discount_percent": 87,
+  "price_rub": 1500,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "r_1iGwuvKv4",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1171690/ss_3021573831e615000a15ac44dc5bd8032e0c776e.1920x1080.jpg?t=1768340055",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1171690/ss_b8da0c4e7dfb638c1c091cf3c468023a2218c784.1920x1080.jpg?t=1768340055",
@@ -38,12 +38,12 @@
     {
       "id": 3230340,
       "name": "Wayfinder - Critical Role Supporter Pack",
-      "base_price_rub": 158,
+      "base_price_rub": 806,
       "markup_rub": 500,
-      "price_rub": 658,
+      "price_rub": 1306,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3230340/header.jpg?t=1729532884"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-16T14:22:04Z"
+  "updated_at": "2026-09-04T11:03:09Z"
 }

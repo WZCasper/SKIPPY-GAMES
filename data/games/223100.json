@@ -16,11 +16,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 92,
+  "base_price_rub": 1035,
   "markup_rub": 500,
-  "price_rub": 592,
-  "original_price_rub": 1424,
-  "discount_percent": 90,
+  "price_rub": 1535,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -38,60 +38,76 @@
     {
       "id": 378520,
       "name": "Homefront®: The Revolution - The Wing Skull Pack",
-      "base_price_rub": 45,
+      "base_price_rub": 155,
       "markup_rub": 500,
-      "price_rub": 545,
+      "price_rub": 655,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/378520/header.jpg?t=1468516100"
     },
     {
       "id": 378521,
       "name": "Homefront®: The Revolution - The Combat Stimulant Pack",
-      "base_price_rub": 45,
+      "base_price_rub": 155,
       "markup_rub": 500,
-      "price_rub": 545,
+      "price_rub": 655,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/378521/header.jpg?t=1468516086"
     },
     {
       "id": 445990,
       "name": "Homefront®: The Revolution - Expansion Pass",
-      "base_price_rub": 104,
+      "base_price_rub": 777,
       "markup_rub": 500,
-      "price_rub": 604,
+      "price_rub": 1277,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445990/header.jpg?t=1492763028"
     },
     {
       "id": 445991,
       "name": "Homefront®: The Revolution - The Liberty Pack",
-      "base_price_rub": 45,
+      "base_price_rub": 155,
       "markup_rub": 500,
-      "price_rub": 545,
+      "price_rub": 655,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445991/header.jpg?t=1468515985"
+    },
+    {
+      "id": 445992,
+      "name": "Homefront®: The Revolution - The Revolutionary Spirit Pack",
+      "base_price_rub": 258,
+      "markup_rub": 500,
+      "price_rub": 758,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445992/header.jpg?t=1468515926"
+    },
+    {
+      "id": 455350,
+      "name": "Homefront®: The Revolution - The Guerrilla Care Package",
+      "base_price_rub": 258,
+      "markup_rub": 500,
+      "price_rub": 758,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/455350/header.jpg?t=1468516074"
     },
     {
       "id": 500270,
       "name": "Homefront®: The Revolution - The Voice of Freedom",
-      "base_price_rub": 43,
+      "base_price_rub": 311,
       "markup_rub": 500,
-      "price_rub": 543,
+      "price_rub": 811,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/500270/header.jpg?t=1477492276"
     },
     {
       "id": 500271,
       "name": "Homefront®: The Revolution - Aftermath",
-      "base_price_rub": 43,
+      "base_price_rub": 311,
       "markup_rub": 500,
-      "price_rub": 543,
+      "price_rub": 811,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/500271/header.jpg?t=1479910765"
     },
     {
       "id": 500272,
       "name": "Homefront: The Revolution - Beyond the Walls",
-      "base_price_rub": 118,
+      "base_price_rub": 672,
       "markup_rub": 500,
-      "price_rub": 618,
+      "price_rub": 1172,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/500272/header.jpg?t=1488960140"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-16T14:25:59Z"
+  "updated_at": "2026-09-04T11:09:20Z"
 }
