@@ -13,9 +13,9 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 4247,
+  "base_price_rub": 4761,
   "markup_rub": 500,
-  "price_rub": 4747,
+  "price_rub": 5261,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
@@ -35,20 +35,28 @@
     {
       "id": 3469450,
       "name": "DOOM: The Dark Ages | «Откровения»",
-      "base_price_rub": 1039,
+      "base_price_rub": 1165,
       "markup_rub": 500,
-      "price_rub": 1539,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3469450/d6c6747deb3a3d20418c1f7a5b2de2304442badf/header.jpg?t=1784122789"
+      "price_rub": 1665,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3469450/d6c6747deb3a3d20418c1f7a5b2de2304442badf/header.jpg?t=1785785087"
+    },
+    {
+      "id": 3363940,
+      "name": "DOOM: The Dark Ages - Premium Content",
+      "base_price_rub": 6803,
+      "markup_rub": 500,
+      "price_rub": 7303,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3363940/header.jpg?t=1788199328"
     },
     {
       "id": 3698350,
       "name": "DOOM: The Dark Ages - Premium Upgrade",
-      "base_price_rub": 1923,
+      "base_price_rub": 2156,
       "markup_rub": 500,
-      "price_rub": 2423,
+      "price_rub": 2656,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3698350/b13a35379a02016b56135a99d618287fda04d307/header.jpg?t=1780928098"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-16T14:32:46Z"
+  "updated_at": "2026-09-05T03:53:34Z"
 }
