@@ -1,0 +1,33 @@
+{
+  "id": 2490420,
+  "title": "Mugen Sweeper",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2490420/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/2490420/library_hero.jpg",
+  "description": "This Game Is An Evolution Of Minesweeper.The Minesweeper board is further spread inside and outside the Minesweeper.\nNo matter how much you zoom in on the inner board, the board will appear further inside.\nAlso, the presence of portals will further confuse your brain.\nIf you like Minesweeper, you should definitely play this game!\n\n【About the Portal】\n\nThe game features a portal-based gimmick.\nThere are red and blue portals, with one or more blue portals connected to one red portal.\nZooming inside a blue portal will bring you out of the red portal.\nHowever, you will not come out of the red portal into the blue portal. If you zoom in inside a red portal, you will emerge from the red portal.\n\n【About Chording】\n\nA system that opens all other safety squares at once when flags are placed in all surrounding mine squares.\nWe decided not to implement Chording in this game because it would have significantly reduced the difficulty level of the game.\n\n【First click】\n\nThe first square clicked is always a safe square and no mines will be stepped on. However, since there are many adjacent squares in this game, making even adjacent squares safe may result in extremely biased mine locations, so only the first square clicked is guaranteed safe.\n\n【Hint type】\n\nYou can choose two types of numbers to indicate the number of mines.\n\nNormal type: indicates the number of mines in the surrounding area.\nSubtraction type: indicates the number of surrounding mines minus the number of surrounding flags.\n\nThe subtraction type is recommended for beginners because it simplifies the game, but it should only be used for levels that cannot be cleared by any means because it drastically reduces the difficulty level.",
+  "description_short": "Evolved minesweeper. Infinitely zoomable board. Portal gimmick.",
+  "genres": [
+    "Казуальные игры",
+    "Головоломки"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 397,
+  "markup_rub": 500,
+  "price_rub": 897,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2490420/ss_fadc9158b6f83a6b55326df96aa834ac2e7d9357.1920x1080.jpg?t=1692943089",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2490420/ss_d46acaa07f01812f83197e054749b440ff424477.1920x1080.jpg?t=1692943089",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2490420/ss_0c562877c475c010f748fc7126f61d3118fd97bb.1920x1080.jpg?t=1692943089",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2490420/ss_0041863b61144c880776ffe2d82ea099f4f985ca.1920x1080.jpg?t=1692943089",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2490420/ss_4fdab1bd692424dbcba7f6b6c52811bbbef7a4f0.1920x1080.jpg?t=1692943089"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-09-05T15:39:01Z"
+}
