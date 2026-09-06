@@ -13,14 +13,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 80,
+  "base_price_rub": 504,
   "markup_rub": 500,
-  "price_rub": 580,
-  "original_price_rub": 949,
-  "discount_percent": 82,
+  "price_rub": 1004,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "25dwyfZx4Vw",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391280/ss_93e7793620ea3df110e9aea129fd9adff6209a0e.1920x1080.jpg?t=1777992184",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391280/ss_c475ba6095616eff698ca760f0e96985cb512dcc.1920x1080.jpg?t=1777992184",
@@ -35,12 +35,12 @@
     {
       "id": 502590,
       "name": "Epic Manager - Epic Original Soundtrack",
-      "base_price_rub": 40,
+      "base_price_rub": 231,
       "markup_rub": 500,
-      "price_rub": 540,
+      "price_rub": 731,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502590/header.jpg?t=1688495146"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-16T14:54:44Z"
+  "updated_at": "2026-09-06T10:39:43Z"
 }

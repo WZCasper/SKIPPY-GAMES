@@ -14,14 +14,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 605,
+  "base_price_rub": 679,
   "markup_rub": 500,
-  "price_rub": 1105,
+  "price_rub": 1179,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "lNA0rLuQf6k",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1435670/ss_3c3af6ec5306448f78375116cfdccc447100e2a5.1920x1080.jpg?t=1769408189",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1435670/ss_b104860efd9e8c33223d8d029ccf1c8cdb1a71f9.1920x1080.jpg?t=1769408189",
@@ -31,7 +31,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1435670/ss_a711fb4b32f3ee3b96c7a2aac486072d59b21256.1920x1080.jpg?t=1769408189",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1435670/ss_66c4cc343dc92c43d8e5784af6e708ea671d1c98.1920x1080.jpg?t=1769408189"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 1707340,
+      "name": "Song of Farca Original Soundtrack",
+      "base_price_rub": 290,
+      "markup_rub": 500,
+      "price_rub": 790,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1707340/header.jpg?t=1702627642"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-16T14:58:26Z"
+  "updated_at": "2026-09-06T10:43:56Z"
 }

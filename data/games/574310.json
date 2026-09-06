@@ -14,14 +14,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 324,
+  "base_price_rub": 364,
   "markup_rub": 500,
-  "price_rub": 824,
+  "price_rub": 864,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "2Uglmlg82H8",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/574310/ss_cffe1fb0549b9f8c9ba69c03533ea409d0ef2652.1920x1080.jpg?t=1746280820",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/574310/ss_b14dcce98dcc584f7781f957e70cce46015035f8.1920x1080.jpg?t=1746280820",
@@ -32,7 +32,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/574310/ss_3107419742a817c7fb33990d57669d1388ea816f.1920x1080.jpg?t=1746280820",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/574310/ss_bb2554febe28692a4b09f855e388506bff67735c.1920x1080.jpg?t=1746280820"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 579890,
+      "name": "The Mooseman Soundtrack and Artbook DLC",
+      "base_price_rub": 115,
+      "markup_rub": 500,
+      "price_rub": 615,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/579890/header_russian.jpg?t=1487319926"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-16T14:57:58Z"
+  "updated_at": "2026-09-06T10:41:00Z"
 }

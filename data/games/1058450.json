@@ -13,14 +13,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 258,
+  "base_price_rub": 290,
   "markup_rub": 500,
-  "price_rub": 758,
-  "original_price_rub": 1539,
+  "price_rub": 790,
+  "original_price_rub": 1665,
   "discount_percent": 75,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "Pkgllk1_uo8",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1058450/ss_9cf1d7e42e1ee5305efc40839627f9f371602efe.1920x1080.jpg?t=1752248468",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1058450/ss_840bb10139792b5174092f6198ceb2b28fb1b831.1920x1080.jpg?t=1752248468",
@@ -28,7 +28,104 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1058450/ss_fe942b3aef6f5872430aa28f8141658e1802ed6c.1920x1080.jpg?t=1752248468",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1058450/ss_0ddda0b27dc6d2cee763aae4ed70639b326623ce.1920x1080.jpg?t=1752248468"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 1708860,
+      "name": "MY HERO ONE'S JUSTICE 2 - Season Pass 2",
+      "base_price_rub": 426,
+      "markup_rub": 500,
+      "price_rub": 926,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1708860/header.jpg?t=1653611532"
+    },
+    {
+      "id": 1677171,
+      "name": "MY HERO ONE'S JUSTICE 2 DLC Pack 6 Hitoshi Shinso",
+      "base_price_rub": 173,
+      "markup_rub": 500,
+      "price_rub": 673,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677171/header.jpg?t=1635936341"
+    },
+    {
+      "id": 1784330,
+      "name": "MY HERO ONE'S JUSTICE 2 DLC Pack 7 Present Mic",
+      "base_price_rub": 173,
+      "markup_rub": 500,
+      "price_rub": 673,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1784330/header.jpg?t=1640307701"
+    },
+    {
+      "id": 1839830,
+      "name": "MY HERO ONE'S JUSTICE 2 DLC Pack 8 Kurogiri",
+      "base_price_rub": 173,
+      "markup_rub": 500,
+      "price_rub": 673,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1839830/header.jpg?t=1643829020"
+    },
+    {
+      "id": 1903570,
+      "name": "MY HERO ONE'S JUSTICE 2 DLC Pack 9 Midnight",
+      "base_price_rub": 86,
+      "markup_rub": 500,
+      "price_rub": 586,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903570/header.jpg?t=1648254165"
+    },
+    {
+      "id": 1951580,
+      "name": "MY HERO ONE'S JUSTICE 2 DLC Pack 10 Yuga Aoyama",
+      "base_price_rub": 86,
+      "markup_rub": 500,
+      "price_rub": 586,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1951580/header.jpg?t=1652911199"
+    },
+    {
+      "id": 1228710,
+      "name": "MY HERO ONE'S JUSTICE 2 - Season Pass",
+      "base_price_rub": 854,
+      "markup_rub": 500,
+      "price_rub": 1354,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1228710/header.jpg?t=1625155643"
+    },
+    {
+      "id": 1237523,
+      "name": "MY HERO ONE'S JUSTICE 2 DLC Pack 1: Hawks",
+      "base_price_rub": 86,
+      "markup_rub": 500,
+      "price_rub": 586,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237523/header.jpg?t=1591865463"
+    },
+    {
+      "id": 1237524,
+      "name": "MY HERO ONE'S JUSTICE 2 DLC Pack 2: Mei Hatsume",
+      "base_price_rub": 173,
+      "markup_rub": 500,
+      "price_rub": 673,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237524/header.jpg?t=1598429738"
+    },
+    {
+      "id": 1237527,
+      "name": "MY HERO ONE'S JUSTICE 2 DLC Pack 3: Itsuka Kendo",
+      "base_price_rub": 86,
+      "markup_rub": 500,
+      "price_rub": 586,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237527/header.jpg?t=1606258783"
+    },
+    {
+      "id": 1237526,
+      "name": "MY HERO ONE'S JUSTICE 2 DLC Pack 4: Tetsutetsu Tetsutetsu",
+      "base_price_rub": 173,
+      "markup_rub": 500,
+      "price_rub": 673,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237526/header.jpg?t=1619204994"
+    },
+    {
+      "id": 1237525,
+      "name": "MY HERO ONE'S JUSTICE 2 DLC Pack 5: Gentle & La Brava",
+      "base_price_rub": 86,
+      "markup_rub": 500,
+      "price_rub": 586,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237525/header.jpg?t=1625155376"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-16T14:57:47Z"
+  "updated_at": "2026-09-06T10:40:41Z"
 }

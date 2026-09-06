@@ -15,14 +15,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 720,
+  "base_price_rub": 161,
   "markup_rub": 500,
-  "price_rub": 1220,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 661,
+  "original_price_rub": 1307,
+  "discount_percent": 80,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "qnm885kLggY",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/764790/ss_8e0fa7f8226d8f8fd0dd313e26e6b4d97562f7a3.1920x1080.jpg?t=1751460481",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/764790/ss_245d381f3b4a280818c73ef3769a92ea3a5a23b7.1920x1080.jpg?t=1751460481",
@@ -33,7 +33,40 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/764790/ss_875fe259c26f29d959efba0eca47e1b63d844c75.1920x1080.jpg?t=1751460481",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/764790/ss_1e3c0e79c6f85bd6700c617a219169851cee9619.1920x1080.jpg?t=1751460481"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 924330,
+      "name": "The Messenger Soundtrack - Disc I: The Past [8-Bit]",
+      "base_price_rub": 121,
+      "markup_rub": 500,
+      "price_rub": 621,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924330/header.jpg?t=1582321427"
+    },
+    {
+      "id": 924331,
+      "name": "The Messenger Soundtrack - Disc II: The Future [16-Bit]",
+      "base_price_rub": 121,
+      "markup_rub": 500,
+      "price_rub": 621,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924331/header.jpg?t=1588350823"
+    },
+    {
+      "id": 924332,
+      "name": "The Messenger EP by Keiji Yamagishi",
+      "base_price_rub": 49,
+      "markup_rub": 500,
+      "price_rub": 549,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/924332/header.jpg?t=1581546462"
+    },
+    {
+      "id": 1108260,
+      "name": "The Messenger Soundtrack - Disc III: Picnic Panic",
+      "base_price_rub": 121,
+      "markup_rub": 500,
+      "price_rub": 621,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1108260/header.jpg?t=1581557362"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-07-16T14:58:20Z"
+  "updated_at": "2026-09-06T10:41:45Z"
 }
