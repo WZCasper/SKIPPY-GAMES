@@ -15,10 +15,10 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 248,
+  "base_price_rub": 275,
   "markup_rub": 500,
-  "price_rub": 748,
-  "original_price_rub": 2156,
+  "price_rub": 775,
+  "original_price_rub": 2340,
   "discount_percent": 85,
   "is_free": false,
   "trailer_video": null,
@@ -34,44 +34,52 @@
     {
       "id": 1613060,
       "name": "Necromunda: Hired Gun - Digital Artbook",
-      "base_price_rub": 85,
+      "base_price_rub": 95,
       "markup_rub": 500,
-      "price_rub": 585,
+      "price_rub": 595,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1613060/header.jpg?t=1649427824"
     },
     {
       "id": 1786041,
       "name": "Necromunda: Hired Gun - Escher Skin Pack",
-      "base_price_rub": 73,
+      "base_price_rub": 81,
       "markup_rub": 500,
-      "price_rub": 573,
+      "price_rub": 581,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1786041/header.jpg?t=1651242960"
     },
     {
       "id": 1786042,
       "name": "Necromunda: Hired Gun - Goliath Skin Pack",
-      "base_price_rub": 73,
+      "base_price_rub": 81,
       "markup_rub": 500,
-      "price_rub": 573,
+      "price_rub": 581,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1786042/header.jpg?t=1651243000"
     },
     {
       "id": 1792910,
       "name": "Necromunda: Hired Gun - Nautica Skin Pack",
-      "base_price_rub": 73,
+      "base_price_rub": 81,
       "markup_rub": 500,
-      "price_rub": 573,
+      "price_rub": 581,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1792910/header.jpg?t=1651243146"
     },
     {
       "id": 1522550,
       "name": "Necromunda: Hired Gun - Hunter’s Bounty Pack",
-      "base_price_rub": 54,
+      "base_price_rub": 60,
       "markup_rub": 500,
-      "price_rub": 554,
+      "price_rub": 560,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1522550/header.jpg?t=1649427946"
+    },
+    {
+      "id": 1613040,
+      "name": "Necromunda: Hired Gun - Original Soundtrack",
+      "base_price_rub": 163,
+      "markup_rub": 500,
+      "price_rub": 663,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1613040/header.jpg?t=1651242870"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-17T08:22:43Z"
+  "updated_at": "2026-09-07T12:05:31Z"
 }
