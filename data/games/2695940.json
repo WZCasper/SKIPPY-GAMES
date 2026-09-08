@@ -16,34 +16,34 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 154,
+  "base_price_rub": 254,
   "markup_rub": 500,
-  "price_rub": 654,
-  "original_price_rub": 729,
-  "discount_percent": 33,
+  "price_rub": 754,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "0sYnMh96qpA",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/48eeba7241dbcb8edd2ce5f162d8fae37146f379/ss_48eeba7241dbcb8edd2ce5f162d8fae37146f379.1920x1080.jpg?t=1774881329",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/91ff367763ca8f6e97d4593cf43a37be5c8a209d/ss_91ff367763ca8f6e97d4593cf43a37be5c8a209d.1920x1080.jpg?t=1774881329",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/ss_b449bafa0f72b1acb9c4963125cc9e80057a928b.1920x1080.jpg?t=1774881329",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/ss_e15e38107b44a7a8ea13e75f83754ba9849ea089.1920x1080.jpg?t=1774881329",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/010750c95d3d5a04cb1e91d54513297014430092/ss_010750c95d3d5a04cb1e91d54513297014430092.1920x1080.jpg?t=1774881329",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/ss_1c21ddfb73039357e815007af0921d4087d04af0.1920x1080.jpg?t=1774881329",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/ea0565c657be6e1afe801ab265b8c66d77260a36/ss_ea0565c657be6e1afe801ab265b8c66d77260a36.1920x1080.jpg?t=1774881329",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/ss_036d4e32a8c61cd14056651a2cd75f21281bb051.1920x1080.jpg?t=1774881329"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/48eeba7241dbcb8edd2ce5f162d8fae37146f379/ss_48eeba7241dbcb8edd2ce5f162d8fae37146f379.1920x1080.jpg?t=1787424195",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/91ff367763ca8f6e97d4593cf43a37be5c8a209d/ss_91ff367763ca8f6e97d4593cf43a37be5c8a209d.1920x1080.jpg?t=1787424195",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/ss_b449bafa0f72b1acb9c4963125cc9e80057a928b.1920x1080.jpg?t=1787424195",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/ss_e15e38107b44a7a8ea13e75f83754ba9849ea089.1920x1080.jpg?t=1787424195",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/010750c95d3d5a04cb1e91d54513297014430092/ss_010750c95d3d5a04cb1e91d54513297014430092.1920x1080.jpg?t=1787424195",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/ss_1c21ddfb73039357e815007af0921d4087d04af0.1920x1080.jpg?t=1787424195",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/ea0565c657be6e1afe801ab265b8c66d77260a36/ss_ea0565c657be6e1afe801ab265b8c66d77260a36.1920x1080.jpg?t=1787424195",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695940/ss_036d4e32a8c61cd14056651a2cd75f21281bb051.1920x1080.jpg?t=1787424195"
   ],
   "upsells": [
     {
       "id": 3010950,
       "name": "PANICORE Soundtrack",
-      "base_price_rub": 65,
+      "base_price_rub": 97,
       "markup_rub": 500,
-      "price_rub": 565,
+      "price_rub": 597,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010950/7ba4bc192562f2fd7267801f965ed93a6f8b61c7/header.jpg?t=1774658689"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-17T19:38:59Z"
+  "updated_at": "2026-09-08T11:03:13Z"
 }

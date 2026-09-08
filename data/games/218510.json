@@ -11,14 +11,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 462,
+  "base_price_rub": 103,
   "markup_rub": 500,
-  "price_rub": 962,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 603,
+  "original_price_rub": 1014,
+  "discount_percent": 80,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "cSc7y0AOMK4",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218510/ss_8751545ef0d5888fb99c23a2a824627d965d6559.1920x1080.jpg?t=1721840744",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218510/ss_89e0ebfd43467c1b6e143d91d8e644f2006f4ea0.1920x1080.jpg?t=1721840744",
@@ -33,20 +33,20 @@
     {
       "id": 3106840,
       "name": "Planets Under Attack Soundtrack",
-      "base_price_rub": 129,
+      "base_price_rub": 35,
       "markup_rub": 500,
-      "price_rub": 629,
+      "price_rub": 535,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3106840/header.jpg?t=1722257703"
     },
     {
       "id": 3106850,
       "name": "Planets under Attack Digital Deluxe Content",
-      "base_price_rub": 216,
+      "base_price_rub": 47,
       "markup_rub": 500,
-      "price_rub": 716,
+      "price_rub": 547,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3106850/header.jpg?t=1722257802"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-17T14:39:37Z"
+  "updated_at": "2026-09-08T10:58:51Z"
 }
