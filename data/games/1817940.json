@@ -14,39 +14,63 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 401,
+  "base_price_rub": 243,
   "markup_rub": 500,
-  "price_rub": 901,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 743,
+  "original_price_rub": 945,
+  "discount_percent": 45,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817940/ss_49ef00395e0caca460c5e981f5ae7fcc95787c8e.1920x1080.jpg?t=1751583920",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817940/ss_4d4ea97d317a96a74bfe965cfd92729a181c209a.1920x1080.jpg?t=1751583920",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817940/ss_9ff447fc622eb5a7374a095cf6631ce77b63f5f9.1920x1080.jpg?t=1751583920",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817940/ss_2bacedd35cfced0a9250ef0a2d8f28566f446ec5.1920x1080.jpg?t=1751583920",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817940/ss_89ef56b9e263d0203e61dd613568eb51db63163f.1920x1080.jpg?t=1751583920"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817940/ss_49ef00395e0caca460c5e981f5ae7fcc95787c8e.1920x1080.jpg?t=1787641532",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817940/ss_4d4ea97d317a96a74bfe965cfd92729a181c209a.1920x1080.jpg?t=1787641532",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817940/ss_9ff447fc622eb5a7374a095cf6631ce77b63f5f9.1920x1080.jpg?t=1787641532",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817940/ss_2bacedd35cfced0a9250ef0a2d8f28566f446ec5.1920x1080.jpg?t=1787641532",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817940/ss_89ef56b9e263d0203e61dd613568eb51db63163f.1920x1080.jpg?t=1787641532"
   ],
   "upsells": [
     {
+      "id": 5018860,
+      "name": "Love Delivery - Juhee Audio Drama",
+      "base_price_rub": 496,
+      "markup_rub": 500,
+      "price_rub": 996,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5018860/3f0c246503add2549d34ecf1308c2afdecab4026/header.jpg?t=1787800075"
+    },
+    {
+      "id": 5018850,
+      "name": "Love Delivery - Latte Audio Drama",
+      "base_price_rub": 496,
+      "markup_rub": 500,
+      "price_rub": 996,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5018850/9aad810331e51e095b2d925bc2741418dca04811/header.jpg?t=1787799972"
+    },
+    {
+      "id": 5018870,
+      "name": "Love Delivery - Seungah Audio Drama",
+      "base_price_rub": 496,
+      "markup_rub": 500,
+      "price_rub": 996,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5018870/d0628735848e525013e46abf437ff11ea1ca03b8/header.jpg?t=1787800197"
+    },
+    {
       "id": 3482900,
       "name": "Love Delivery - Original Soundtrack",
-      "base_price_rub": 173,
+      "base_price_rub": 154,
       "markup_rub": 500,
-      "price_rub": 673,
+      "price_rub": 654,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3482900/header.jpg?t=1741046545"
     },
     {
       "id": 3482910,
       "name": "Love Delivery - Artbook",
-      "base_price_rub": 499,
+      "base_price_rub": 443,
       "markup_rub": 500,
-      "price_rub": 999,
+      "price_rub": 943,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3482910/header.jpg?t=1741046533"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-18T08:42:08Z"
+  "updated_at": "2026-09-09T16:33:43Z"
 }
