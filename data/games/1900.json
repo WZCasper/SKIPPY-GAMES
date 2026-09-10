@@ -14,14 +14,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 394,
+  "base_price_rub": 215,
   "markup_rub": 500,
-  "price_rub": 894,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 715,
+  "original_price_rub": 931,
+  "discount_percent": 50,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "6K-bBW8N4Zw",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1900/ss_8c606472918805d3460d653fd13304bf51a43b34.1920x1080.jpg?t=1623327678",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1900/ss_9d5d8d13165771691de1753f6ab3d7eac3dd1203.1920x1080.jpg?t=1623327678",
@@ -36,20 +36,20 @@
     {
       "id": 986110,
       "name": "Earth 2160 - Soundtrack",
-      "base_price_rub": 261,
+      "base_price_rub": 142,
       "markup_rub": 500,
-      "price_rub": 761,
+      "price_rub": 642,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/986110/header.jpg?t=1544793911"
     },
     {
       "id": 986170,
       "name": "Earth 2160 - Digital Deluxe Content",
-      "base_price_rub": 217,
+      "base_price_rub": 119,
       "markup_rub": 500,
-      "price_rub": 717,
+      "price_rub": 619,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/986170/header.jpg?t=1544793747"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-18T19:49:03Z"
+  "updated_at": "2026-09-10T11:15:38Z"
 }

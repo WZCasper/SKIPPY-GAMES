@@ -16,14 +16,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 1050,
+  "base_price_rub": 1150,
   "markup_rub": 500,
-  "price_rub": 1550,
+  "price_rub": 1650,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "WeAmyHFgIDI",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1220140/ss_e688ecbe539df73e02535c3921c4fd3ff72aada0.1920x1080.jpg?t=1781529139",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1220140/ss_1ebd79d84c3c6cf3fa54cc7976d3780d2a4c9611.1920x1080.jpg?t=1781529139",
@@ -36,62 +36,46 @@
   ],
   "upsells": [
     {
-      "id": 1570090,
-      "name": "Cartel Tycoon - Soundtrack Vol. I",
-      "base_price_rub": 394,
-      "markup_rub": 500,
-      "price_rub": 894,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1570090/header.jpg?t=1658851826"
-    },
-    {
-      "id": 2020980,
-      "name": "Cartel Tycoon - Soundtrack Vol. II",
-      "base_price_rub": 394,
-      "markup_rub": 500,
-      "price_rub": 894,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2020980/header.jpg?t=1658866375"
-    },
-    {
       "id": 2081450,
       "name": "Cartel Tycoon - Lieutenants Pack - Guerilla",
-      "base_price_rub": 217,
+      "base_price_rub": 238,
       "markup_rub": 500,
-      "price_rub": 717,
+      "price_rub": 738,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2081450/header.jpg?t=1660114170"
     },
     {
       "id": 2081480,
       "name": "Cartel Tycoon - Artbook",
-      "base_price_rub": 394,
+      "base_price_rub": 431,
       "markup_rub": 500,
-      "price_rub": 894,
+      "price_rub": 931,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2081480/header.jpg?t=1659084066"
     },
     {
       "id": 2316200,
       "name": "Cartel Tycoon - Lieutenants Pack - La Familia",
-      "base_price_rub": 217,
+      "base_price_rub": 238,
       "markup_rub": 500,
-      "price_rub": 717,
+      "price_rub": 738,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2316200/header.jpg?t=1680537940"
     },
     {
       "id": 2348770,
       "name": "Cartel Tycoon: San Rafaela",
-      "base_price_rub": 569,
+      "base_price_rub": 623,
       "markup_rub": 500,
-      "price_rub": 1069,
+      "price_rub": 1123,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2348770/header.jpg?t=1695404117"
     },
     {
       "id": 2827980,
       "name": "Cartel Tycoon: Content Pack - Diva's Hotel",
-      "base_price_rub": 130,
+      "base_price_rub": 142,
       "markup_rub": 500,
-      "price_rub": 630,
+      "price_rub": 642,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827980/header.jpg?t=1710413974"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-18T19:17:13Z"
+  "updated_at": "2026-09-10T11:04:07Z"
 }
