@@ -14,11 +14,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 142,
+  "base_price_rub": 623,
   "markup_rub": 500,
-  "price_rub": 642,
-  "original_price_rub": 1069,
-  "discount_percent": 75,
+  "price_rub": 1123,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -36,12 +36,12 @@
     {
       "id": 713690,
       "name": "Cook, Serve, Delicious! 2!! Original Soundtrack",
-      "base_price_rub": 54,
+      "base_price_rub": 238,
       "markup_rub": 500,
-      "price_rub": 554,
+      "price_rub": 738,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/713690/header.jpg?t=1581558001"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-18T19:57:14Z"
+  "updated_at": "2026-09-10T16:12:12Z"
 }
