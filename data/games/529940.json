@@ -1,0 +1,35 @@
+{
+  "id": 529940,
+  "title": "ShowdownVR",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/529940/capsule_616x353.jpg",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/529940?t=1477724572",
+  "description": "Test your limits in an atmospheric battle arena by dodging enemy projectiles, scoring points, earning action points with combos and using them to ultimately crush your foes with counter attacks. Enjoy the perks of slowing down time, teleporting around an open world, even taking over and steering a ship in the middle of a mighty ocean!\n\nChoosing between five intensity difficulties and two playing styles offers a wide range of experience with a chance to gradually improve your skills. Compete as an individual while also representing your country and continent on the leaderboards.\n\nShowdownVR is shipping with some of the world’s first technologies used in VR: NVIDIA’s WaveWorks, Multi-Res Shading, Lens Matched Shading with dynamic versions of both (dynamic multires and dynamic lens matched shading), VR SLI. Everything built-in with an extended menu for full customization and benchmarking.Key features:• Immersive virtual reality carnage\n\n• 2 × 2 km wide open world battle arena\n\n• Five difficulty levels\n\n• Two game modes: The One and Dodger\n\n• Fully dynamic world\n\n• Easy to play, hard to master. Comes with manual and master sheet.\n\n• Leaderboards: Continent, Country, Individual\n\n• NVIDIA WaveWorks for real-time ocean simulation\n\n• NVIDIA Multi-Res Shading, Lens Matched Shading with dynamic shading options.\n\n• NVIDIA VR SLI\n\n• Benchmark\n\nHeavily inspired by Matrix, Quake and Doom; fast, intensive, powerful, unforgiving.\n\nSpecific inspirations• Matrix: bullet time, dodging, music style\n\n• Quake: arena, competitive, fast twitch / accurate combat\n\n• Doom: fast, intensive, bloody kills\nGameplayThere is a wide variety of approaches for players to use. The goal is very simple: score the largest amount of points possible in the time given to you. By dodging plasma projectiles you gain points and combos to earn action points. These can be used for the following perks: teleporting, attack, multi-attack, slowing down time. By killing your foes you gain additional time, which enables you to score more points. Enemies can be killed by your projectiles or can get run over by a ship that you can control at any time, even when you're not on it. They can also get knocked out and drown when hit by a larger wave. When you get hit, you don't gain a point and your combo progress decreases. This makes it harder to gain action points that enable the use of player's abilities - which in return enable player to gain more points.Showdown: Virtual reality carnageEvery copy of the game comes bundled with an accompanying piece of work in a form of a book \"Showdown: Virtual reality carnage\". A personalized white paper about the implementation, customization and usage of features in Unreal Engine 4 during the development of virtualy reality game ShowdownVR. It presents a strong practical case of why open source game engines are the future. You can find it in game's directory under \"Bonus content\" folder.GameworksQuick word on using NVIDIA's tech. The exact tech specifications are available in white paper \"Showdown: Virtual reality carnage\", released with the game. There is a very fundemental, objective reason for using these features: it's the best performing piece of code out there. It's important to remember that most problems with GM come with bad implementations. Showdown's water takes about 1ms on CPU and about as much on GPU, no matter the GPU brand! Everything is controlled by us in Unreal's source code, there is no over-tesselation or any similar bottlenecks. Multi-Res Shading, Lens Matched Shading and SLI work only on NVIDIA and are a bonus option.\n\nNejc L.,\nFrontseat Studio",
+  "description_short": "Test yourself in atmospheric battle arena by dodging attacks, scoring, earning action points with combos and using them to ultimately crush your foes with counter attacks. Enjoy the perks of slowing time, teleporting and even taking over and steering a ship in the middle of a mighty ocean!",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 76,
+  "markup_rub": 500,
+  "price_rub": 576,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_12c2f9b59f2d2bcc34773b852aef42def37299d6.1920x1080.jpg?t=1477724572",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_84194c1fbfe205b638e2b19a9e444bb9269bef0e.1920x1080.jpg?t=1477724572",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_bbc5a03ed6f4d47c74ba7a05a1f27f402104e173.1920x1080.jpg?t=1477724572",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_dc98508187fe58704759c2fbc0d80795f27a58f5.1920x1080.jpg?t=1477724572",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_4cae3e38beccd320f723655241ca79894b978127.1920x1080.jpg?t=1477724572",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_e91014811fdae6e976054779548a1c9a27256852.1920x1080.jpg?t=1477724572",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_44bf42ba5134ab1dfee92229508bd55e499a8b79.1920x1080.jpg?t=1477724572",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/529940/ss_c3b73b7564d1ef3f88bc76eba6a8bb36f3d10465.1920x1080.jpg?t=1477724572"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-09-11T21:15:18Z"
+}

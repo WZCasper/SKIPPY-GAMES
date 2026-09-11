@@ -15,34 +15,42 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 1295,
+  "base_price_rub": 1051,
   "markup_rub": 500,
-  "price_rub": 1795,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 1551,
+  "original_price_rub": 1902,
+  "discount_percent": 25,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/491540/13f9ddef5728a598848a7973fe2e75ee84207c41/ss_13f9ddef5728a598848a7973fe2e75ee84207c41.1920x1080.jpg?t=1783669298",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/491540/6c44f347b0ea51f91b17a7ddef259c76a5d868c5/ss_6c44f347b0ea51f91b17a7ddef259c76a5d868c5.1920x1080.jpg?t=1783669298",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/491540/b43315d33fc520ba55f66f34a57477460df0b5bd/ss_b43315d33fc520ba55f66f34a57477460df0b5bd.1920x1080.jpg?t=1783669298",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/491540/e1b083e839877a23dc9eb35d5fd587da0255632a/ss_e1b083e839877a23dc9eb35d5fd587da0255632a.1920x1080.jpg?t=1783669298",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/491540/86e49201fd44b323864b61a3a02ce0f01bf00e4c/ss_86e49201fd44b323864b61a3a02ce0f01bf00e4c.1920x1080.jpg?t=1783669298",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/491540/e545f1e388426b4103816d53f8349c17e80715af/ss_e545f1e388426b4103816d53f8349c17e80715af.1920x1080.jpg?t=1783669298",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/491540/5f41a5df3ed815808b2056e67ed2d7b30194c2c5/ss_5f41a5df3ed815808b2056e67ed2d7b30194c2c5.1920x1080.jpg?t=1783669298",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/491540/5a81b355c53e66b814382cf8835abd7341281154/ss_5a81b355c53e66b814382cf8835abd7341281154.1920x1080.jpg?t=1783669298"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/491540/13f9ddef5728a598848a7973fe2e75ee84207c41/ss_13f9ddef5728a598848a7973fe2e75ee84207c41.1920x1080.jpg?t=1788942896",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/491540/6c44f347b0ea51f91b17a7ddef259c76a5d868c5/ss_6c44f347b0ea51f91b17a7ddef259c76a5d868c5.1920x1080.jpg?t=1788942896",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/491540/b43315d33fc520ba55f66f34a57477460df0b5bd/ss_b43315d33fc520ba55f66f34a57477460df0b5bd.1920x1080.jpg?t=1788942896",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/491540/e1b083e839877a23dc9eb35d5fd587da0255632a/ss_e1b083e839877a23dc9eb35d5fd587da0255632a.1920x1080.jpg?t=1788942896",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/491540/86e49201fd44b323864b61a3a02ce0f01bf00e4c/ss_86e49201fd44b323864b61a3a02ce0f01bf00e4c.1920x1080.jpg?t=1788942896",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/491540/e545f1e388426b4103816d53f8349c17e80715af/ss_e545f1e388426b4103816d53f8349c17e80715af.1920x1080.jpg?t=1788942896",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/491540/5f41a5df3ed815808b2056e67ed2d7b30194c2c5/ss_5f41a5df3ed815808b2056e67ed2d7b30194c2c5.1920x1080.jpg?t=1788942896",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/491540/5a81b355c53e66b814382cf8835abd7341281154/ss_5a81b355c53e66b814382cf8835abd7341281154.1920x1080.jpg?t=1788942896"
   ],
   "upsells": [
     {
       "id": 3544250,
       "name": "The Bus - Hamburg City (by Halycon)",
-      "base_price_rub": 1050,
+      "base_price_rub": 1137,
       "markup_rub": 500,
-      "price_rub": 1550,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3544250/5488cc33d536e110d02f14ccfb16b59f5a3214e7/header.jpg?t=1780914015"
+      "price_rub": 1637,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3544250/5488cc33d536e110d02f14ccfb16b59f5a3214e7/header.jpg?t=1788351833"
+    },
+    {
+      "id": 4656580,
+      "name": "The Bus - Ebus 2.2",
+      "base_price_rub": 635,
+      "markup_rub": 500,
+      "price_rub": 1135,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656580/103fd810444cfa20edb63712d7537e9457eba9a1/header.jpg?t=1788441140"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-19T09:14:43Z"
+  "updated_at": "2026-09-11T21:00:56Z"
 }
