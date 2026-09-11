@@ -16,66 +16,79 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 1312,
+  "base_price_rub": 638,
   "markup_rub": 500,
-  "price_rub": 1812,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 1138,
+  "original_price_rub": 1921,
+  "discount_percent": 55,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": "gKQ8TM-ivkw",
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/ss_aeca664e5f2ca98825effbdeb2fc8e7b54309f7b.1920x1080.jpg?t=1783349979",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/ss_5138b3aae3d3d90cb2d71710bc24ddac8376e8a0.1920x1080.jpg?t=1783349979",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/ss_49ee0fafff2741b959f67f4942d8b3d924f321b9.1920x1080.jpg?t=1783349979",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/ss_cc648ec81eb8aba77271576b155a46cb71eb51b6.1920x1080.jpg?t=1783349979",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/ss_d7f45d7688a5e240387db0b2364fa8776d9281fe.1920x1080.jpg?t=1783349979",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/ss_e9e78b5622dedb5fb59ba2201c44638da46f1b54.1920x1080.jpg?t=1783349979",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/ss_663188e3aa23971ab79b10b42d1631108e7a95a8.1920x1080.jpg?t=1783349979",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/ss_b6bd805861affe4e2f24de1b1a9f6f9cf120bee9.1920x1080.jpg?t=1783349979"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/ss_aeca664e5f2ca98825effbdeb2fc8e7b54309f7b.1920x1080.jpg?t=1788508991",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/3e88a52bb584bc6f2320058cbc7a0919a0769154/ss_3e88a52bb584bc6f2320058cbc7a0919a0769154.1920x1080.jpg?t=1788508991",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/9061bfe76f87221427819ae078a49716eac52b48/ss_9061bfe76f87221427819ae078a49716eac52b48.1920x1080.jpg?t=1788508991",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/e9bc82042ee13bd5cdcc8081dc6315cc4e36c380/ss_e9bc82042ee13bd5cdcc8081dc6315cc4e36c380.1920x1080.jpg?t=1788508991",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1114150/ab5bdb8057692886038d7f5a41900cc289dffa27/ss_ab5bdb8057692886038d7f5a41900cc289dffa27.1920x1080.jpg?t=1788508991"
   ],
   "upsells": [
     {
+      "id": 4997550,
+      "name": "CarX Street - Midnight Rush",
+      "base_price_rub": 246,
+      "markup_rub": 500,
+      "price_rub": 746,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4997550/5e29a44d751b8802c679c6a06e086127d007ac4d/header.jpg?t=1788432877"
+    },
+    {
+      "id": 4962970,
+      "name": "CarX Street – Premium Pass: Stage 1",
+      "base_price_rub": 144,
+      "markup_rub": 500,
+      "price_rub": 644,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4962970/f780bfb8c4e80460f109ccb0e71753c571105947/header.jpg?t=1788432868"
+    },
+    {
       "id": 3153040,
       "name": "CarX Street - DLC Sunset Speedway",
-      "base_price_rub": 700,
+      "base_price_rub": 277,
       "markup_rub": 500,
-      "price_rub": 1200,
+      "price_rub": 777,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3153040/bbf1547c8c8361ff8bcd2264a1983b07f699e0f4/header_russian.jpg?t=1782194312"
+    },
+    {
+      "id": 4209640,
+      "name": "CarX Street - Build Your Car",
+      "base_price_rub": 208,
+      "markup_rub": 500,
+      "price_rub": 708,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209640/b2d60d7e9dc4c75775a602d901c915791316543e/header.jpg?t=1783434104"
     },
     {
       "id": 3028020,
       "name": "CarX Street - Deluxe Cars",
-      "base_price_rub": 700,
+      "base_price_rub": 303,
       "markup_rub": 500,
-      "price_rub": 1200,
+      "price_rub": 803,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3028020/header.jpg?t=1768833241"
     },
     {
       "id": 3285610,
       "name": "CarX Street - Drift Cars",
-      "base_price_rub": 436,
+      "base_price_rub": 87,
       "markup_rub": 500,
-      "price_rub": 936,
+      "price_rub": 587,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3285610/header.jpg?t=1731329665"
     },
     {
       "id": 3480680,
       "name": "CarX Street - Pure Pulse",
-      "base_price_rub": 436,
+      "base_price_rub": 87,
       "markup_rub": 500,
-      "price_rub": 936,
+      "price_rub": 587,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3480680/header.jpg?t=1738340189"
-    },
-    {
-      "id": 4209640,
-      "name": "CarX Street - Build Your Car",
-      "base_price_rub": 628,
-      "markup_rub": 500,
-      "price_rub": 1128,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4209640/b2d60d7e9dc4c75775a602d901c915791316543e/header.jpg?t=1783434104"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-07-19T08:26:25Z"
+  "updated_at": "2026-09-11T10:57:51Z"
 }
