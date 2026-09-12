@@ -110,7 +110,7 @@ TARGET_CATALOG_SIZE = 10000
 MAX_RUNTIME_SECONDS = 55 * 60          # жёсткий потолок одного прогона — 55 минут
 REFRESH_STALE_AFTER_DAYS = 3           # обновлять цену, если старше N дней
 MAX_REFRESH_PER_RUN = 1200             # сколько существующих карточек обновить за прогон
-MAX_NEW_GAMES_PER_RUN = 900            # сколько новых игр добавить за прогон
+MAX_NEW_GAMES_PER_RUN = 600            # сколько новых игр добавить за прогон
 
 RUN_STARTED_AT = time.monotonic()
 
@@ -978,7 +978,7 @@ def main():
 
     log.info("К обновлению (устаревшие): %s из %s карточек в каталоге", len(stale_ids), len(catalog))
 
-    REFRESH_STAGE_TIME_BUDGET = 10 * 60  # не более 20 минут на обновление старых карточек —
+    REFRESH_STAGE_TIME_BUDGET = 20 * 60  # не более 20 минут на обновление старых карточек —
     # раньше этот этап не имел собственного лимита и мог съедать весь 55-минутный
     # бюджет прогона целиком, из-за чего новые игры и Nintendo Switch не успевали
     # обрабатываться НИ РАЗУ, хотя пуш и коммит при этом отрабатывали нормально.
@@ -1056,7 +1056,7 @@ def main():
 
     log.info("Итого кандидатов на добавление: %s", len(candidate_ids))
 
-    NEW_GAMES_STAGE_TIME_BUDGET = 35 * 60  # аналогично — свой лимит, чтобы не съесть весь бюджет
+    NEW_GAMES_STAGE_TIME_BUDGET = 20 * 60  # аналогично — свой лимит, чтобы не съесть весь бюджет
     new_games_stage_started = time.monotonic()
 
     for appid in candidate_ids:
@@ -1081,12 +1081,12 @@ def main():
         time.sleep(REQUEST_DELAY)
 
     # --- Этап 3: Nintendo Switch (eShop) -------------------------------------
-    MAX_NINTENDO_PER_RUN = 500
+    MAX_NINTENDO_PER_RUN = 300
     added_nintendo = 0
     try:
         if time_budget_left() > 180:
             usd_to_rub = fetch_usd_to_rub_rate()
-            nintendo_hits = load_nintendo_hits(max_pages=5)
+            nintendo_hits = load_nintendo_hits(max_pages=3)
             skipped_no_price = 0
             for hit in nintendo_hits:
                 if added_nintendo >= MAX_NINTENDO_PER_RUN:
