@@ -87,14 +87,17 @@ function renderHero(g) {
         hero.innerHTML = `<iframe src="https://www.youtube-nocookie.com/embed/${encodeURIComponent(g.trailer_youtube_id)}?rel=0" title="Трейлер ${escapeHtml(g.title)}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen></iframe>`;
         return;
     }
-    const searchUrl = 'https://www.youtube.com/results?search_query=' + encodeURIComponent(g.title + ' trailer');
+    const query = encodeURIComponent(g.title + ' обзор трейлер gameplay');
+    const searchUrl = 'https://www.youtube.com/results?search_query=' + query;
     hero.innerHTML = `
-        <img src="${escapeHtml(g.hero || g.cover)}" alt="${escapeHtml(g.title)}" style="opacity:.55">
-        <div class="game-hero-grad"></div>
-        <div class="game-hero-fallback" style="position:absolute;inset:0;">
-            <div>🎬 Трейлер не найден автоматически</div>
-            <a href="${searchUrl}" target="_blank" rel="noopener">Искать на YouTube →</a>
-        </div>`;
+        <iframe src="https://www.youtube-nocookie.com/embed?listType=search&list=${query}&rel=0" title="Видео по игре ${escapeHtml(g.title)}" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" allowfullscreen></iframe>`;
+    const openLink = document.createElement('a');
+    openLink.href = searchUrl;
+    openLink.target = '_blank';
+    openLink.rel = 'noopener';
+    openLink.className = 'yt-open-link';
+    openLink.textContent = 'Открыть на YouTube →';
+    hero.appendChild(openLink);
 }
 
 /* =====================================================================

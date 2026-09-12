@@ -201,6 +201,7 @@ footer a:hover{color:var(--cyan);}
 .hero-wish.wished{color:var(--red);border-color:rgba(239,68,68,.5);background:rgba(239,68,68,.12);}
 .game-hero img,.game-hero video{width:100%;height:100%;object-fit:cover;}
 .game-hero iframe{width:100%;height:100%;border:none;}
+.yt-open-link{position:absolute;bottom:.6rem;right:.6rem;background:rgba(6,6,14,.75);color:var(--cyan);font-size:.72rem;font-weight:700;padding:.3rem .7rem;border-radius:8px;text-decoration:none;z-index:2;}
 .game-hero-grad{position:absolute;inset:0;background:linear-gradient(0deg,rgba(6,6,14,.9) 0%,transparent 55%);pointer-events:none;}
 .game-hero-fallback{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:.5rem;height:100%;color:var(--text3);text-align:center;padding:1rem;}
 .game-hero-fallback a{color:var(--cyan);text-decoration:none;font-weight:700;font-size:.85rem;}
@@ -212,7 +213,7 @@ footer a:hover{color:var(--cyan);}
 .g-plat-badge{font-size:.65rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--text2);border:1px solid var(--border);border-radius:6px;padding:.2rem .55rem;display:flex;align-items:center;gap:.3rem;}
 .g-title{font-family:'Orbitron',sans-serif;font-size:1.5rem;font-weight:900;color:var(--text);margin-bottom:.25rem;line-height:1.2;}
 .g-genre{font-size:.85rem;color:var(--text3);margin-bottom:.9rem;}
-.g-desc{font-size:.88rem;color:var(--text2);line-height:1.7;margin-bottom:1.2rem;padding:.85rem 1rem;background:rgba(255,255,255,.03);border-radius:10px;border-left:2px solid var(--border);white-space:pre-line;max-height:340px;overflow-y:auto;scrollbar-width:thin;}
+.g-desc{font-size:.88rem;color:var(--text2);line-height:1.7;margin-bottom:1.2rem;padding:.85rem 1rem;background:rgba(255,255,255,.03);border-radius:10px;border-left:2px solid var(--border);white-space:pre-line;}
 .g-price-card{background:var(--card2);border:1px solid var(--border);border-radius:16px;padding:1.2rem 1.3rem;margin-bottom:1.2rem;}
 .g-price-old-row{display:flex;align-items:center;gap:.5rem;margin-bottom:.15rem;}
 .g-price-old{font-size:.95rem;color:var(--text3);text-decoration:line-through;}
