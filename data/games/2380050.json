@@ -16,56 +16,66 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 321,
+  "base_price_rub": 290,
   "markup_rub": 500,
-  "price_rub": 821,
-  "original_price_rub": 1418,
-  "discount_percent": 65,
+  "price_rub": 790,
+  "original_price_rub": 1471,
+  "discount_percent": 70,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380050/ss_012ce453afaf3adc4962ad4120082d6ee7a6dedb.1920x1080.jpg?t=1780409613",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380050/ss_c3dc6ac40f494e115665a25af4e4dc94fea2d509.1920x1080.jpg?t=1780409613",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380050/ss_fbd29c566c07dbfb68bbe50c9b03902bb0042d19.1920x1080.jpg?t=1780409613",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380050/ss_9ad33bd28c7b671cd76615b1da9accbc14c3ea89.1920x1080.jpg?t=1780409613",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380050/ss_7c557ec275e04160478b15b9bb477dc81c9c5046.1920x1080.jpg?t=1780409613",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380050/ss_6c8f617f2226664889ebbd42a6c3bd0ea99fc6f2.1920x1080.jpg?t=1780409613"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380050/9a9439445a361e260e691ef72eb3b02b68eaf158/ss_9a9439445a361e260e691ef72eb3b02b68eaf158.1920x1080.jpg?t=1788271037",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380050/81cc05caa8f9ed61be2e1ecdf1a1321beeda6cc9/ss_81cc05caa8f9ed61be2e1ecdf1a1321beeda6cc9.1920x1080.jpg?t=1788271037",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380050/2c479b029a91621cd9898e628d34c9c9275f8897/ss_2c479b029a91621cd9898e628d34c9c9275f8897.1920x1080.jpg?t=1788271037",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380050/f268f5579a1ac80e3dec75c3d075a19bb76eaebb/ss_f268f5579a1ac80e3dec75c3d075a19bb76eaebb.1920x1080.jpg?t=1788271037",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380050/c3dc6ac40f494e115665a25af4e4dc94fea2d509/ss_c3dc6ac40f494e115665a25af4e4dc94fea2d509.1920x1080.jpg?t=1788271037",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380050/9ad33bd28c7b671cd76615b1da9accbc14c3ea89/ss_9ad33bd28c7b671cd76615b1da9accbc14c3ea89.1920x1080.jpg?t=1788271037",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380050/4473f292ef6f0a1c4dce91ba051123419a23023e/ss_4473f292ef6f0a1c4dce91ba051123419a23023e.1920x1080.jpg?t=1788271037",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2380050/22c2464bb3b03cadb70a43d5356e58fce23d5481/ss_22c2464bb3b03cadb70a43d5356e58fce23d5481.1920x1080.jpg?t=1788271037"
   ],
   "upsells": [
     {
+      "id": 3617450,
+      "name": "Star Trucker - Cultivation Content Pack",
+      "base_price_rub": 357,
+      "markup_rub": 500,
+      "price_rub": 857,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3617450/13b3754126fbdceaf1d15cd321897190f8be7b34/header.jpg?t=1788274410"
+    },
+    {
       "id": 3088950,
       "name": "Star Trucker – Набор «Тяжелая работа»",
-      "base_price_rub": 91,
+      "base_price_rub": 96,
       "markup_rub": 500,
-      "price_rub": 591,
+      "price_rub": 596,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3088950/header.jpg?t=1733925646"
     },
     {
       "id": 3218640,
       "name": "Star Trucker - Hallow's Eve Pack",
-      "base_price_rub": 91,
+      "base_price_rub": 96,
       "markup_rub": 500,
-      "price_rub": 591,
+      "price_rub": 596,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218640/header.jpg?t=1757096023"
     },
     {
       "id": 2873570,
       "name": "Star Trucker - Amped Customization Pack",
-      "base_price_rub": 91,
+      "base_price_rub": 96,
       "markup_rub": 500,
-      "price_rub": 591,
+      "price_rub": 596,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2873570/header.jpg?t=1725371881"
     },
     {
       "id": 3088930,
       "name": "Star Trucker: официальный саундтрек ",
-      "base_price_rub": 144,
+      "base_price_rub": 153,
       "markup_rub": 500,
-      "price_rub": 644,
+      "price_rub": 653,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3088930/header.jpg?t=1765461613"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-01T03:41:17Z"
+  "updated_at": "2026-09-15T11:24:57Z"
 }
