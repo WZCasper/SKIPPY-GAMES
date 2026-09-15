@@ -21,7 +21,7 @@
   "discount_percent": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": "Ief6LheNC2g",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298610/ss_0b4f8b6cb6e933695a5e002399309510cbbc8ba3.1920x1080.jpg?t=1748946849",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/298610/ss_e9f6c0cb5337e3fc7184aaa74a1782e205defbf4.1920x1080.jpg?t=1748946849",
@@ -36,28 +36,28 @@
     {
       "id": 2904310,
       "name": "Ylands - Supporter Pack",
-      "base_price_rub": 508,
+      "base_price_rub": 538,
       "markup_rub": 500,
-      "price_rub": 1008,
+      "price_rub": 1038,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904310/header.jpg?t=1714040277"
     },
     {
       "id": 2904300,
       "name": "Ylands - Starter Pack",
-      "base_price_rub": 132,
+      "base_price_rub": 140,
       "markup_rub": 500,
-      "price_rub": 632,
+      "price_rub": 640,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2904300/header.jpg?t=1714037868"
     },
     {
       "id": 2848670,
       "name": "Ylands Original Soundtrack",
-      "base_price_rub": 390,
+      "base_price_rub": 413,
       "markup_rub": 500,
-      "price_rub": 890,
+      "price_rub": 913,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2848670/header.jpg?t=1710929874"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-01T08:27:33Z"
+  "updated_at": "2026-09-15T21:04:48Z"
 }
