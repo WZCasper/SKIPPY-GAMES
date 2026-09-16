@@ -14,14 +14,14 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 151,
+  "base_price_rub": 1605,
   "markup_rub": 500,
-  "price_rub": 651,
-  "original_price_rub": 2015,
-  "discount_percent": 90,
+  "price_rub": 2105,
+  "original_price_rub": null,
+  "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "fn6h4lLEpp0",
+  "trailer_youtube_id": null,
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135300/ss_82d5d157a77de3340188a7cd9078c6e4846bfdf2.1920x1080.jpg?t=1784309763",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1135300/ss_7bf60856c846bba0a608895860c0510b940f5f0a.1920x1080.jpg?t=1784309763",
@@ -36,28 +36,28 @@
     {
       "id": 1640381,
       "name": "King's Bounty II - Digital Artbook",
-      "base_price_rub": 141,
+      "base_price_rub": 149,
       "markup_rub": 500,
-      "price_rub": 641,
+      "price_rub": 649,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1640381/header.jpg?t=1669389853"
     },
     {
       "id": 1640382,
       "name": "King's Bounty II - Digital Soundtrack",
-      "base_price_rub": 355,
+      "base_price_rub": 376,
       "markup_rub": 500,
-      "price_rub": 855,
+      "price_rub": 876,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1640382/header.jpg?t=1669389814"
     },
     {
       "id": 1640390,
       "name": "King's Bounty II - Lord's Edition Upgrade",
-      "base_price_rub": 212,
+      "base_price_rub": 225,
       "markup_rub": 500,
-      "price_rub": 712,
+      "price_rub": 725,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1640390/header.jpg?t=1669389850"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-01T08:28:29Z"
+  "updated_at": "2026-09-16T03:46:53Z"
 }

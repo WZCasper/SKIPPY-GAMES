@@ -16,25 +16,42 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 711,
+  "base_price_rub": 753,
   "markup_rub": 500,
-  "price_rub": 1211,
+  "price_rub": 1253,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
-  "trailer_youtube_id": "U9VsbTVsn1A",
+  "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422440/55cdfd7b39b3e1bea00e297c77822666f7936a4d/ss_55cdfd7b39b3e1bea00e297c77822666f7936a4d.1920x1080.jpg?t=1785512074",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422440/df6736b733e8967d77239044e35fcdc48b58323b/ss_df6736b733e8967d77239044e35fcdc48b58323b.1920x1080.jpg?t=1785512074",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422440/892e711ae0dc8d80efd3d438dc45c18f40276c1f/ss_892e711ae0dc8d80efd3d438dc45c18f40276c1f.1920x1080.jpg?t=1785512074",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422440/a8460ce13d64099590f99c6898cfddcb73ff1568/ss_a8460ce13d64099590f99c6898cfddcb73ff1568.1920x1080.jpg?t=1785512074",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422440/cb9b166226a711d1239aecb7076e667f273e30d6/ss_cb9b166226a711d1239aecb7076e667f273e30d6.1920x1080.jpg?t=1785512074",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422440/f0268e55a781e45362dab3d76639e7c077fdab0a/ss_f0268e55a781e45362dab3d76639e7c077fdab0a.1920x1080.jpg?t=1785512074",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422440/949c8979da4327067cd635cd0643f64944ad3660/ss_949c8979da4327067cd635cd0643f64944ad3660.1920x1080.jpg?t=1785512074",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422440/defc2cad63f161830608de0478302f4c2b0a9892/ss_defc2cad63f161830608de0478302f4c2b0a9892.1920x1080.jpg?t=1785512074"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422440/55cdfd7b39b3e1bea00e297c77822666f7936a4d/ss_55cdfd7b39b3e1bea00e297c77822666f7936a4d.1920x1080.jpg?t=1787907309",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422440/df6736b733e8967d77239044e35fcdc48b58323b/ss_df6736b733e8967d77239044e35fcdc48b58323b.1920x1080.jpg?t=1787907309",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422440/892e711ae0dc8d80efd3d438dc45c18f40276c1f/ss_892e711ae0dc8d80efd3d438dc45c18f40276c1f.1920x1080.jpg?t=1787907309",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422440/a8460ce13d64099590f99c6898cfddcb73ff1568/ss_a8460ce13d64099590f99c6898cfddcb73ff1568.1920x1080.jpg?t=1787907309",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422440/cb9b166226a711d1239aecb7076e667f273e30d6/ss_cb9b166226a711d1239aecb7076e667f273e30d6.1920x1080.jpg?t=1787907309",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422440/f0268e55a781e45362dab3d76639e7c077fdab0a/ss_f0268e55a781e45362dab3d76639e7c077fdab0a.1920x1080.jpg?t=1787907309",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422440/949c8979da4327067cd635cd0643f64944ad3660/ss_949c8979da4327067cd635cd0643f64944ad3660.1920x1080.jpg?t=1787907309",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422440/defc2cad63f161830608de0478302f4c2b0a9892/ss_defc2cad63f161830608de0478302f4c2b0a9892.1920x1080.jpg?t=1787907309"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 4396100,
+      "name": "Cataclismo - The Old Kingdom",
+      "base_price_rub": 281,
+      "markup_rub": 500,
+      "price_rub": 781,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4396100/1d6c058926cbf3139640e4c001dc58a7bd39b881/header.jpg?t=1787244905"
+    },
+    {
+      "id": 5001640,
+      "name": "Cataclismo - Supporter Pack",
+      "base_price_rub": 281,
+      "markup_rub": 500,
+      "price_rub": 781,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5001640/4a87a039072c4740ef38bb83b09cfabaace4c47b/header.jpg?t=1787245018"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-08-01T08:28:23Z"
+  "updated_at": "2026-09-16T03:45:19Z"
 }
