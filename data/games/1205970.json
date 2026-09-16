@@ -15,122 +15,122 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 889,
+  "base_price_rub": 942,
   "markup_rub": 500,
-  "price_rub": 1389,
+  "price_rub": 1442,
   "original_price_rub": null,
   "discount_percent": 0,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
   "screenshots": [
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205970/d59e0cc2595382699eabde697137749eb10a6122/ss_d59e0cc2595382699eabde697137749eb10a6122.1920x1080.jpg?t=1781020838",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205970/61590430d0a31bc6bbe4fa0c56b01ec19688947d/ss_61590430d0a31bc6bbe4fa0c56b01ec19688947d.1920x1080.jpg?t=1781020838",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205970/09fd746ed7304c283059bc89e0db96cc099363ed/ss_09fd746ed7304c283059bc89e0db96cc099363ed.1920x1080.jpg?t=1781020838",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205970/ed05009e180871a5518531c07564cb5c83480681/ss_ed05009e180871a5518531c07564cb5c83480681.1920x1080.jpg?t=1781020838",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205970/e784648af01df6e0059abc357bc709d4b6d847d4/ss_e784648af01df6e0059abc357bc709d4b6d847d4.1920x1080.jpg?t=1781020838",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205970/9397b384085a807e27c490aed6a76848229c7b4b/ss_9397b384085a807e27c490aed6a76848229c7b4b.1920x1080.jpg?t=1781020838",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205970/45a55c3a9afbe4cc40e1df9ad1a31975305c1ba6/ss_45a55c3a9afbe4cc40e1df9ad1a31975305c1ba6.1920x1080.jpg?t=1781020838",
-    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205970/a2935683d2e453514279db9706e683dcde3e5a35/ss_a2935683d2e453514279db9706e683dcde3e5a35.1920x1080.jpg?t=1781020838"
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205970/d59e0cc2595382699eabde697137749eb10a6122/ss_d59e0cc2595382699eabde697137749eb10a6122.1920x1080.jpg?t=1785868318",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205970/61590430d0a31bc6bbe4fa0c56b01ec19688947d/ss_61590430d0a31bc6bbe4fa0c56b01ec19688947d.1920x1080.jpg?t=1785868318",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205970/09fd746ed7304c283059bc89e0db96cc099363ed/ss_09fd746ed7304c283059bc89e0db96cc099363ed.1920x1080.jpg?t=1785868318",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205970/ed05009e180871a5518531c07564cb5c83480681/ss_ed05009e180871a5518531c07564cb5c83480681.1920x1080.jpg?t=1785868318",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205970/e784648af01df6e0059abc357bc709d4b6d847d4/ss_e784648af01df6e0059abc357bc709d4b6d847d4.1920x1080.jpg?t=1785868318",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205970/9397b384085a807e27c490aed6a76848229c7b4b/ss_9397b384085a807e27c490aed6a76848229c7b4b.1920x1080.jpg?t=1785868318",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205970/45a55c3a9afbe4cc40e1df9ad1a31975305c1ba6/ss_45a55c3a9afbe4cc40e1df9ad1a31975305c1ba6.1920x1080.jpg?t=1785868318",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205970/a2935683d2e453514279db9706e683dcde3e5a35/ss_a2935683d2e453514279db9706e683dcde3e5a35.1920x1080.jpg?t=1785868318"
   ],
   "upsells": [
     {
+      "id": 4499470,
+      "name": "MX vs ATV Legends - Beta Pack 2026",
+      "base_price_rub": 415,
+      "markup_rub": 500,
+      "price_rub": 915,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499470/e7852c6c4017b2c8770fdf0e3496e0e55a4f3620/header.jpg?t=1785868277"
+    },
+    {
       "id": 4499340,
       "name": "MX vs ATV Legends - Track Pass 2026",
-      "base_price_rub": 1604,
+      "base_price_rub": 1699,
       "markup_rub": 500,
-      "price_rub": 2104,
+      "price_rub": 2199,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499340/7c4106f720c22574ed41d820762e1558ecd65266/header.jpg?t=1781072343"
     },
     {
       "id": 4499360,
       "name": "MX vs ATV Legends - Motocross World Tour",
-      "base_price_rub": 428,
+      "base_price_rub": 453,
       "markup_rub": 500,
-      "price_rub": 928,
+      "price_rub": 953,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499360/1e15de2b282fb9160972faff26d0faffdefeb7f5/header.jpg?t=1781020663"
     },
     {
       "id": 4499450,
       "name": "MX vs ATV Legends - GASGAS Pack 2026",
-      "base_price_rub": 428,
+      "base_price_rub": 453,
       "markup_rub": 500,
-      "price_rub": 928,
+      "price_rub": 953,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499450/47d3a25eacf00accad4713725d41aa8baf0e5784/header.jpg?t=1776783073"
     },
     {
       "id": 4499390,
       "name": "MX vs ATV Legends - Honda Pack 2026",
-      "base_price_rub": 285,
+      "base_price_rub": 302,
       "markup_rub": 500,
-      "price_rub": 785,
+      "price_rub": 802,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499390/bcb78830a9049b127d6587d133591c7d243049ec/header.jpg?t=1776783197"
     },
     {
       "id": 4499440,
       "name": "MX vs ATV Legends - Husqvarna Pack 2026",
-      "base_price_rub": 428,
+      "base_price_rub": 453,
       "markup_rub": 500,
-      "price_rub": 928,
+      "price_rub": 953,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499440/672c65b6e54e4ac124c25c1e869f5c4dc053dba7/header.jpg?t=1776782958"
     },
     {
       "id": 4499410,
       "name": "MX vs ATV Legends - Kawasaki Pack 2026",
-      "base_price_rub": 285,
+      "base_price_rub": 302,
       "markup_rub": 500,
-      "price_rub": 785,
+      "price_rub": 802,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499410/a663e2b36fd0b29beaff219d86f3e70285154e2e/header.jpg?t=1776783228"
     },
     {
       "id": 4499430,
       "name": "MX vs ATV Legends - KTM Pack 2026",
-      "base_price_rub": 428,
+      "base_price_rub": 453,
       "markup_rub": 500,
-      "price_rub": 928,
+      "price_rub": 953,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499430/ec8b0bb2e1074dc3fabad37551288ea6f1c48807/header.jpg?t=1776782853"
     },
     {
       "id": 4499400,
       "name": "MX vs ATV Legends - Suzuki Pack 2026",
-      "base_price_rub": 285,
+      "base_price_rub": 302,
       "markup_rub": 500,
-      "price_rub": 785,
+      "price_rub": 802,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499400/5b6825bf8b09317fd3c6509640cd9371fe3fb1c4/header.jpg?t=1776782989"
     },
     {
       "id": 4499460,
       "name": "MX vs ATV Legends - Triumph Pack 2026",
-      "base_price_rub": 285,
+      "base_price_rub": 302,
       "markup_rub": 500,
-      "price_rub": 785,
+      "price_rub": 802,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499460/c269541ec260281a51d9c52f9988e618c129cd33/header.jpg?t=1776782918"
     },
     {
       "id": 4499420,
       "name": "MX vs ATV Legends - Yamaha Pack 2026",
-      "base_price_rub": 428,
+      "base_price_rub": 453,
       "markup_rub": 500,
-      "price_rub": 928,
+      "price_rub": 953,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499420/4ef1e3358f1fb28c3f2fc43f7dad94661f734dc4/header.jpg?t=1776782888"
     },
     {
       "id": 4499350,
       "name": "MX vs ATV Legends - Daytona Supercross Track Pack",
-      "base_price_rub": 552,
+      "base_price_rub": 585,
       "markup_rub": 500,
-      "price_rub": 1052,
+      "price_rub": 1085,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4499350/39b4ab37159b02ff626dfec4471d31419fe551a7/header.jpg?t=1778062015"
-    },
-    {
-      "id": 3556020,
-      "name": "MX vs ATV Legends - Pastranaland",
-      "base_price_rub": 401,
-      "markup_rub": 500,
-      "price_rub": 901,
-      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3556020/ab4f474746442c5b91243685d549e798dfa1fabf/header.jpg?t=1765904112"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-01T14:05:52Z"
+  "updated_at": "2026-09-16T21:05:20Z"
 }
