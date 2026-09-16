@@ -13,11 +13,11 @@
   "platforms": [
     "PC"
   ],
-  "base_price_rub": 266,
+  "base_price_rub": 111,
   "markup_rub": 500,
-  "price_rub": 766,
-  "original_price_rub": null,
-  "discount_percent": 0,
+  "price_rub": 611,
+  "original_price_rub": 781,
+  "discount_percent": 60,
   "is_free": false,
   "trailer_video": null,
   "trailer_youtube_id": null,
@@ -35,12 +35,12 @@
     {
       "id": 2910030,
       "name": "The Sirena Expedition - Soundtrack",
-      "base_price_rub": 176,
+      "base_price_rub": 74,
       "markup_rub": 500,
-      "price_rub": 676,
+      "price_rub": 574,
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2910030/header.jpg?t=1717668626"
     }
   ],
   "source": "steam",
-  "updated_at": "2026-08-01T09:12:03Z"
+  "updated_at": "2026-09-16T11:09:26Z"
 }
