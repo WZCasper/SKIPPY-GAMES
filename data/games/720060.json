@@ -1,0 +1,34 @@
+{
+  "id": 720060,
+  "title": "Colony",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/720060/capsule_616x353.jpg",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/720060?t=1659649133",
+  "description": "Colony - strategy with elements of the economy about the colony of ants. The player's task is to properly accumulate resources and manage them in order to overcome the colony of the opponent.\n\nBuildings\nA feature of buildings in the game is that they can not be destroyed. Opponents can only destroy each other's units.\n\nAnthill\nThe main building that is displayed on the game map before the game begins. The anthill of the enemy is located symmetrically with respect to the center of the map. You can not put an anthill too close to the center of the game screen and the edges. The collected resources of the ants are placed in an anthill, if there is no more close storehouse. All new ants also appear in an anthill.\n\nLaboratory\nAfter the construction of the laboratory, the study of the sciences and the training of soldiers becomes available. The laboratory is an extension to an anthill and does not require manual positioning.\n\nStock\nThe construction of warehouses can increase the rate of collection of resources. Workers and architects deliver the collected resources to the nearest warehouse, or to their anthill. In total it is possible to build five stocks. The warehouse can be built anywhere, but not too close to the growing resources.\n\nUnits\nAnts are created using the buttons on the \"Build\" panel. Work ants and Architects who do not participate in the collection of resources are displayed in the form of blinking spots on an anthill. Normally ants are not involved when there is no corresponding resource to collect, or they are outside the collection areas.\n\n - Worker\nGathers food. Initially, you can create 40 worker ants and after the construction of each warehouse, this maximum is increased by another 15. Has one unit of health.\n\n - Architect\nEngaged in collecting wood. The maximum number of architects is the same as the maximum number of worker ants.\n\n - Warrior\nDesigned to attack the enemy ants. The health of a warrior greatly exceeds the health of ants of other types and can be increased by studying the science of \"The Might of Warriors\". After studying the science of health, the already created soldiers do not increase. The maximum number of soldiers is not limited.\n\nThe movement speed of ants when attacking an enemy increases by 30% compared to normal speed. Work ants and Architects slow their movement by dragging resources by 30%.\n\nResources\n\n - Food\nFood grows from grains that appear after the growth of the previous group of plants and is collected by workers. If the food has stood untouched for a long time, then it turns into a wood.\n\n - Wood\nThe wood is assembled by architects and is an indispensable resource for building a laboratory and warehouses, as well as for creating warriors and studying certain sciences. The wood appears from a long unassembled meal. To prevent workers from using food, you need to use the option \"forest area\" in the \"order\" panel. The food thickets chosen in this way will not be collected by workers.\n\nAdvice\nDo not delay with the extraction of the wood - the earlier you accumulate the necessary amount for building a laboratory and warehouses, the more powerful your economy may be.\nBuild warehouses in places of large accumulation of resources and away from an anthill - so your workers and architects will more effectively collect resources.\nIf some resources are far from the delivery points, then you can clear or not create the collection zones in which they will be located until you build a warehouse nearby.\nIf you have studied the science of \"resource growth,\" then try to have as many resources as possible to ensure maximum growth, since the increment is measured as a percentage of the current quantity and is limited.\nThe game is a unique example of a strategy where the user only needs to monitor the development of the Colony, and manage it, but not like in the normal RTS.\n\nControl\nManage with the mouse and Hotkey.\n\n('E' - build the worker, 'A' - build the architect, 'W' - build the warrior, '-' - remove the area, '+' - add the area, 's' - add the warehouse, 'f' - the forestry mode, 'b' - add trap, 'l' - build laboratory)",
+  "description_short": "There are 2 colonies on the playing field, one of which you control. You have to improve it, develop it technologically and defeat the enemy.",
+  "genres": [
+    "Технические симуляторы",
+    "Стратегии в реальном времени (RTS)"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 98,
+  "markup_rub": 500,
+  "price_rub": 598,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720060/ss_ee9c983b88b2f7f0f20366152a119fad972eb35b.1920x1080.jpg?t=1659649133",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720060/ss_fcf2ee846684151491ec63c080339b4d531b8574.1920x1080.jpg?t=1659649133",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720060/ss_bc792d43cca12aeb784d6551648a6bbe679da9b9.1920x1080.jpg?t=1659649133",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720060/ss_07d3ae4729fe61f3336d7fc4418b3e3db15d7631.1920x1080.jpg?t=1659649133",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720060/ss_4c31c98015f0cb237e58df65be483f9839b88e88.1920x1080.jpg?t=1659649133",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/720060/ss_b2a51a81e61f04695628eed13bbc9cc06075989d.1920x1080.jpg?t=1659649133"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-09-18T11:13:03Z"
+}
