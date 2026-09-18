@@ -20,7 +20,7 @@
   "discount_percent": 0,
   "is_free": true,
   "trailer_video": null,
-  "trailer_youtube_id": null,
+  "trailer_youtube_id": "ETOmrEXFp10",
   "screenshots": [
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/591960/ss_95ed4ba5d193781e625cdfdd8dec52fc532b7ab5.1920x1080.jpg?t=1738685639",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/591960/ss_308a84365c4a8fea72050d3f3e3b34a47b8450ce.1920x1080.jpg?t=1738685639",
@@ -30,7 +30,16 @@
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/591960/ss_378995016fa8e42eecbf56b81399514078edff97.1920x1080.jpg?t=1738685639",
     "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/591960/ss_c278ccdf0f73b7ec46e97a57160543daa34fad76.1920x1080.jpg?t=1738685639"
   ],
-  "upsells": [],
+  "upsells": [
+    {
+      "id": 648400,
+      "name": "Animation Throwdown - Incredible Bundle",
+      "base_price_rub": 528,
+      "markup_rub": 500,
+      "price_rub": 1028,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648400/header.jpg?t=1777474739"
+    }
+  ],
   "source": "steam",
-  "updated_at": "2026-08-02T09:24:29Z"
+  "updated_at": "2026-09-18T16:01:02Z"
 }
