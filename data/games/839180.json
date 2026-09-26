@@ -1,0 +1,33 @@
+{
+  "id": 839180,
+  "title": "Nine-Slicer",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/839180/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/839180/library_hero.jpg",
+  "description": "Easily reduce the atlas sizes in your games! Optimize large images for your UI by creating sliced versions.\n\r\n\n\r\n1. Mock up your UI in your image editing program (such as Photoshop).\n\r\n2. Export each full-sized UI element from your image editing program as png files.\n\r\n3. Load the full sized UI element png into Nine-Slicer.\n\r\n4. Define your slicing margins.\n\r\n5. Preview the results side-by-side with the original.\n\r\n6. Export the optimized image, along with a text file to remember the margins that were used.\n\r\n7. Use the optimized exported image in an app that supports nine-sliced images.\n\r\n\n\r\nNine-sliced images can be used in various game engines, including Unity.\n\r\nNo more labor-intensive manual slicing work in Photoshop.\n\r\nSpend seconds on what would take several minutes to do manually, on each UI image. The saved time adds up!\n\r\n\n\r\nTo see a full demonstration video, click the \"View the manual\" link on the right.",
+  "description_short": "Reduce your atlas sizes! Optimize large images for your UI by creating sliced versions. Nine-sliced images can be used in various game engines, including Unity. No more labor-intensive manual slicing work in Photoshop. Spend seconds on what would take several minutes to do manually.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 319,
+  "markup_rub": 500,
+  "price_rub": 819,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839180/ss_1c3e75fb758ec6a8679f6a4f70f5a59efb51f7ec.1920x1080.jpg?t=1667000337",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839180/ss_a35a4b1f06659401218603ae4d43807aeb6be191.1920x1080.jpg?t=1667000337",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839180/ss_723c682d16a7c3eb5caaded3506fc376ddea19a0.1920x1080.jpg?t=1667000337",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839180/ss_56009ab75fd4dd225b5fb03426e5d5b8ce2bb95a.1920x1080.jpg?t=1667000337",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839180/ss_9ecd3353f4b80468bf59f09519ccf547d3a50472.1920x1080.jpg?t=1667000337",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839180/ss_46e0471ca5374c235e77c7df696781f6dab158f5.1920x1080.jpg?t=1667000337"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-09-26T04:29:49Z"
+}
