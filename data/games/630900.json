@@ -1,0 +1,35 @@
+{
+  "id": 630900,
+  "title": "Illwinter's Floorplan Generator",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/630900/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/630900/library_hero.jpg",
+  "description": "Illwinter's Floorplan Generator is a grid based dungeon and wilderness floorplan creator. The floorplan generator can be used to quickly draw and print an encounter floorplan for your favorite pen and paper roleplaying game. It is very quick and easy to create a simple floorplan, you just select what terrain type each square should be and the program fixes the rest. E.g. a cave wall next to a rocky ground will automatically create a jagged wall, but the same cave wall next to a marble floor would create a much smoother wall because this is likely to be an indoor room with polished walls.\n\n• About 50 different terrain types to choose from\n\n• Icons included for the most common objects, e.g. doors, stairs, tables, beds, trees, bushes, pentagrams\n\n• Color maps or old school black and white style\n\n• Adjacent terrains interact automatically to create jagged edges, smooth transitions and shadows when necessary\n\n• Random fractals used to create shapes for cave walls, rivers and other non regular terrains\n\n• Create a multi-page pdf with the dungeon divided into pages suitable for printing\n\n• Export dungeon as a single png suitable for Foundry VTT, Roll20, Fantasy Grounds and similar applications\n\n• Export wall data that can be used for dynamic lightning in Foundry VTT or Roll20 (requires roll20 pro subscription)\n\n• Configurable square and paper sizes, (default is 1 inch squares on A4 pages)\n\n• Outdoor and dungeon shadows with configurable strength\n\n• Export to your favorite paint program for finishing touches\n\n• Import your own icons\n\n• Create new terrain types from imported images\n\n• Configurable grid, default is to not draw it on top of walls and with thicker lines between pages\n\n• Grid based, terrain is placed in squares or on square edges (icons can be placed and rotated freely)\n\n• Shortcuts to quickly put a random door, tree or bush in a square\n\n• Dungeon layout can be imported from a simple ASCII text file, like this \n\n• Create random dungeons automatically\n\n• Editor to create rules for your own random dungeon\n\n• Color dungeons can be converted to Black & White style dungeons automatically\n\n• Export with a 3d look\n\n• Steam workshop support",
+  "description_short": "This grid based floorplan generator is ideal to quickly create encounter locations for your favorite RPG. These can then easily be printed or exported to Roll20, Fantasy Grounds and similar applications.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 351,
+  "markup_rub": 500,
+  "price_rub": 851,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "Cgk1u8hjP10",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/630900/ss_d3671c8562e8b8c1fcb9fd3af14ad2df4a4594e0.1920x1080.jpg?t=1714808021",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/630900/ss_a3c03579b273c27dfa8ec07a05e3491568b2e4e7.1920x1080.jpg?t=1714808021",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/630900/ss_c05527508f294cf79590a187b702f75316d96dee.1920x1080.jpg?t=1714808021",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/630900/ss_14af3e7235050a557c2c16e56ab680719952d5e5.1920x1080.jpg?t=1714808021",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/630900/ss_aaa501cfd06e98f05b2547b418986c1d19b2872a.1920x1080.jpg?t=1714808021",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/630900/ss_a3b8ea5e84a9c781980f67646a731e9c08a15b72.1920x1080.jpg?t=1714808021",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/630900/ss_7af1a3027a4ff21ee35bb151b0142522ad1e3a44.1920x1080.jpg?t=1714808021",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/630900/ss_bfb6bc5dbe2d33c851d072816d4d68735a6e205c.1920x1080.jpg?t=1714808021"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-09-28T23:28:10Z"
+}
