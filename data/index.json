@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-28T04:53:34Z",
+  "generated_at": "2026-09-28T13:34:36Z",
   "uah_to_rub_rate": 1.879188,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 20334,
+  "count": 20335,
   "games": [
     {
       "id": 1079330,
@@ -77503,6 +77503,21 @@
       "price_rub": 539,
       "original_price_rub": null,
       "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 4623570,
+      "title": "Deskrawl: Idle ARPG",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4623570/4c1aa677f31f987858b5d88981978bb83b86b519/header.jpg?t=1790596988",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 724,
+      "original_price_rub": 819,
+      "discount_percent": 30,
       "is_free": false
     },
     {
