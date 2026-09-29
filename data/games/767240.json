@@ -1,0 +1,34 @@
+{
+  "id": 767240,
+  "title": "BASIC8",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/767240/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/767240/library_hero.jpg",
+  "description": "SharingShare your creative disks via Workshop using built-in tools, and play others' creations.\n\nRedistributingMake redistributable standalone player for Windows, MacOS and Linux with the Player Maker, and for browsers with the HTML Maker, you'll find them in the workshop.\n\nО программе\nBASIC8 is an integrated Fantasy Computer for game and other program development. You can create, share and play disks in a modern BASIC dialect, with built-in tools for editing sprite, tiles, map, quantized, etc. It's been a while since we used to enjoy coding and playing straightforward after a computer bootup. The goal of BASIC8 is bringing a sense of joy back from retro/vintage computing and gaming, also being quick at getting higher level stuff done for contemporary development for everyone.\n\nClick \"View the manual\" or \"Visit the website\" on the right side of this page to get full details (it's above instead of right side on small mobile screen).READY• Handy sharing via Workshop with built-in tools\n\n• Disk can be made into standalone player with the Player Maker and HTML Maker, you'll find them in the Workshop\n\n• Disk can be saved as \"*.b8\" file, \"*.png\", or text based for sharing\n\n• Programmable in an easy to learn BASIC dialect with both retro and modern syntax\n\n• Easy to use API for graphics, input, audio, and more other facilities\n\n• Visualized built-in tools for editing sprite, tiles, map, quantized, etc.\n\n• Visualized Wave Maker (Workshop) for making sound effect\n\n• Easy to bring your own tools\n\n• More features coming...\nSPECS• Display: 160x128 pixels\n\n• Audio: 2 music channels, 1 MIDI channel, 4 sound effect channels, 1 speech channel\n\n• Code: BASIC (structured/prototype-based/functional)\n\n• Graphics: up to 65535 drawing commands per cycle\n\n• Palette: 16 colors with transparency support\n\n• Sprite: up to 32x32 pixels per frame, up to 512 frames per sprite\n\n• Tiles: 240 cels\n\n• Map: up to 128x64 tiles per layer, up to 4 layers (including a layer of logic mark) per page\n\n• Gamepad: 6 buttons for each pad (D-Pad + A/B), up to 8 players\n\n• Keyboard and mouse: supported\nLANG• Case-insensitive; but no line number in BASIC8\n\n• Built-in LIST and DICT\n\n• Structured sub routine definition with the DEF/ENDDEF statements\n\n• LAMBDA expression enhanced\n\n• Prototype-based CLASS paradigm\n\n• With both manually and automatically dispatched COROUTINE\n\n• Importing multiple source files with the IMPORT statement\n\n• Automatic releasing of referenced objects by GC\n\n• Built-in libraries for File, IO, JSON, Matrix, Network, Web, etc.\n\n• No limitation for file quantity (code, sprites, maps, etc.)\n\n• More advantages to be discovered...",
+  "description_short": "BASIC8 is an integrated Fantasy Computer for game and other program development. You can create, share and play disks in a modern BASIC dialect, with built-in tools for editing sprite, tiles, map, quantized, etc.",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 676,
+  "markup_rub": 500,
+  "price_rub": 1176,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767240/ss_559446534d4616a9506ec72c6c1244ca726e9b5f.1920x1080.jpg?t=1764128397",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767240/ss_6b031018b86cb9421ef2f0ef54a19cbaea52250c.1920x1080.jpg?t=1764128397",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767240/ss_22906cb62ddda12ec1ceb2e50eda7cbfc96f4d25.1920x1080.jpg?t=1764128397",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767240/ss_a88092fefbbe31ecb76837b72db7924b09db0162.1920x1080.jpg?t=1764128397",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767240/ss_081d55083a8db4f01973ffcc1ade4fa00e5fcf45.1920x1080.jpg?t=1764128397",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767240/ss_5b3f590866c42aba54d2a58710acf5662ce52b07.1920x1080.jpg?t=1764128397",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/767240/ss_4137cd1b1b970c90bac2c8b1dd90593882fe1eef.1920x1080.jpg?t=1764128397"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-09-29T12:53:10Z"
+}
