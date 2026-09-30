@@ -1,0 +1,36 @@
+{
+  "id": 2430190,
+  "title": "翻转的梦 FlippedDream",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2430190/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/2430190/library_hero.jpg",
+  "description": "Introduction\nFlippedDream is a physically-based, 3D-platformer and maze-exploring game, developed by Unreal Engine 4.\n\nYou will get into 14 different mazes, trying to find the exit through your exploration.\n\nAt the same time, you can change the direction of the global gravity to go into different channels or avoid obstacles. \n\nWhen the gravity is rotating, your camera is rotating as well, causing the loss of your sense of directions. \n\nAnd this would be your biggest challenge during the gameplay.\n\nFlippedDream is my graduation project, developed on my own, for the first time. It is not perfect indeed, but hopes to become a part of your memories of video games.Control\nA/D: Move left/right.\n\nSpace: Jump.\n\nQ/E：Rotate the global gravity clockwise/counter clockwise, 90 degrees for each time. You can not change it again until it finishes doing so. \n\nEsc: Pause;Levels\nThe game consists of 5 chapters and 14 levels. You will be faced of multiple obstacles too. \n\n1. Simple gravity item\n\nSome items' gravity directions would also change as the global gravity changes, but some would not. They have their unique gravity. \n\n2. Single pendulum\n\nSingle pendulum is an anchor, connected to a \"simple gravity item\" by a cable.\n\n3. Gravity converter\n\nIn charpter 3, the player would not be allowed to change gravity at any time, you can only change it when touching the \"gravity converter\".\n\n4. The fan\n\nThe big fan would be continuesly rotating slowly, blocking the items when contacting them. \n\n5. Diseased cells\n\nDiseased cells and harmful to healthy ones. When a health cell contacts a diseased one, it would get illed and die. So make sure to avoid them in any case. \n\nAdditional notes\n1. No solution\n\nIf an obstacle is stucked in a channel especially which would lead to the exit, you could consider loading the last check point. This would reload the whole level. \n\n2. Adjusting resolution in fullscreen mode causes the app to flicker or stutter\n\nMaybe it is because you have installed NVIDIA Game Ready Driver 461.09 or newer. You could find solutions in NVIDIA SUPPORT.",
+  "description_short": "Changing the direction of global gravity, finding the exit in a number of 3D-platformer mazes.",
+  "genres": [
+    "Головоломки",
+    "Приключения"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 94,
+  "markup_rub": 500,
+  "price_rub": 594,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2430190/ss_9703f4e7e0d55f7be906c0731c0cf1da99ab75da.1920x1080.jpg?t=1768874778",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2430190/ss_927554d6d96b2ccb2db4a8e481e66d354ac7bed3.1920x1080.jpg?t=1768874778",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2430190/ss_4c50e93c890ed29dc178c572b83cdfcc6ca2c398.1920x1080.jpg?t=1768874778",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2430190/ss_115ba14090338d874e533080f6fa76e63ddc6d0e.1920x1080.jpg?t=1768874778",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2430190/ss_7503012056dbf7aef4d19132c8a0f06763127478.1920x1080.jpg?t=1768874778",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2430190/ss_21e96d4ab777a0fcff096dcd0b162fdb358fd882.1920x1080.jpg?t=1768874778",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2430190/ss_d655330706878df9a2c646422005111e997e50f1.1920x1080.jpg?t=1768874778",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2430190/ss_578282cb4ed00f555a7a1805849586640e2fa1fd.1920x1080.jpg?t=1768874778"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-09-30T12:31:36Z"
+}
