@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-01T05:21:50Z",
+  "generated_at": "2026-10-01T13:03:22Z",
   "uah_to_rub_rate": 1.876041,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 20958,
+  "count": 20959,
   "games": [
     {
       "id": 1079330,
@@ -173982,6 +173982,21 @@
         "PC"
       ],
       "price_rub": 2677,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 3634190,
+      "title": "MXGP 26 - The Official Game",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3634190/92e6ac99739bd346ec51d8a02744fe1b8b7e8386/header.jpg?t=1790844728",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 3314,
       "original_price_rub": null,
       "discount_percent": 0,
       "is_free": false
