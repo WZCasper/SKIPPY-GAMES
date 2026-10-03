@@ -1,0 +1,42 @@
+{
+  "id": 1707100,
+  "title": "ヴァジアルサーガ愚民化戦略XX（ダブルエックス）",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1707100/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1707100/library_hero.jpg",
+  "description": "* This game only supports Japanese.\n\nVazial Saga is a simulation game of national strategy.\n\nStrengthen national power in domestic affairs, circulate diplomatic strategies, win battles,\nIf you occupy all the nations, you will be \"world conquered\".\n\n[story]\nAfter the collapse of society due to material civilization, humankind based on its reflection\nGovernance by some politicians \"Following policy\".\n\nThe world was settled by folklore, and the people got their own happiness.\n\nTo make that peace forever\nThe politician manipulates his own genes and becomes an absolute person of immortality.\nThe people worshiped and obeyed the absolute as a \"god\".\n\nFor hundreds of years, perfect order was maintained and all the people lived happily.\nHowever, those who are tired of happiness form a clique and disturb the peace of the country ...\n\nThe \"gods\" of each country organized an army and suppressed it.\nThe slightest turbulence disrupted the over-perfect order, creating greater conflict.\nThe world was once again flooded with death from hatred and justice.\n\nYou exist in this world as the \"god\" of a nation.\nDominate the \"whole world\" and lead all the people to happiness.\n\n* About game settings after purchase.\n There is config.txt in the game installation folder, and you can make the following settings.\n\nWINDOW_SIZE_X=???? ... Specifies the default window size. Y size is calculated automatically. Values range from 200 to X size on the screen.\nALWAYS_RUN=ON ... Runs the game even when inactive.\nDX9=ON ... Now works with older versions of DirectX 9. (For PCs that behave strangely in full screen, etc.)\nDIB=ON ... Draws using the method that does not use DirectX (DIB).\nKEY_UDLR=OFF ... Disable the up / down / left / right keys on the keyboard (for when it responds even though it is not pressed).\nPAD=OFF ... Disable pad operation (for when it reacts even though it is not pressed).",
+  "description_short": "Brainwash the fools, exploit taxes, strengthen your armaments, prosper your descendants, and conquer the world!",
+  "genres": [
+    "Технические симуляторы",
+    "Пошаговые стратегии (TBS)"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 796,
+  "markup_rub": 500,
+  "price_rub": 1296,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "nvF68gwhfsQ",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1707100/ss_78d7a0648c73ddd364bda0da9d1d28949648714d.1920x1080.jpg?t=1630626406",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1707100/ss_80c7b8ba38f96467aedb98ea558193b80f83f609.1920x1080.jpg?t=1630626406",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1707100/ss_3394f5537247a73ac2e63f58cdd992f394c88273.1920x1080.jpg?t=1630626406",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1707100/ss_e276b930e3372c792bd5daed4bbcfe8d091e1a17.1920x1080.jpg?t=1630626406",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1707100/ss_27f86b68db1bb6f1dbbc92f26da95efcd422def8.1920x1080.jpg?t=1630626406"
+  ],
+  "upsells": [
+    {
+      "id": 1709340,
+      "name": "VAZIAL SAGA XX Sound Track",
+      "base_price_rub": 314,
+      "markup_rub": 500,
+      "price_rub": 814,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1709340/header.jpg?t=1630626475"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-10-03T11:41:25Z"
+}
