@@ -1,0 +1,36 @@
+{
+  "id": 1976310,
+  "title": "Riemann's Lens",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1976310/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1976310/library_hero.jpg",
+  "description": "Explore a wormhole!\n\r\n\n\r\nRiemann’s Lens simulates the non-euclidean geometry and strange visual effects associated with a Riemannian wormhole. While it is unknown whether these objects exist in nature, nothing prevents us from investigating their properties and consequences with our computers. \n\r\n\n\r\nRiemann’s Lens is an interactive virtual art display that allows you to fly around and through a wormhole, with simple scenery rendered in the euclidean space on either end. The size and geometry of the wormhole can be adjusted. \n\r\n\n\r\nCustom scenery can be defined with a scripting language.\n\r\n\n\r\nThe simulation uses a compute shader to perform non-euclidean ray-tracing, and relies on the graphics card to perform some heavy computations. It has been developed on a machine with a GeForce GTX 1650, and it manages 2-5 fps. Expect some lag. The graphics card must support OpenGL 4.3+, and compute shaders. It did not run on an Nvidia Quadro K1100M (6 year old laptop).",
+  "description_short": "Explore a wormhole! Riemann's Lens simulates the non-euclidean geometry and strange visual effects associated with a Riemannian wormhole. This interactive virtual art display allows you to fly around and through the wormhole.",
+  "genres": [
+    "Технические симуляторы",
+    "Шутеры от первого лица (FPS)"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 95,
+  "markup_rub": 500,
+  "price_rub": 595,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976310/ss_bec461f5f9f79f9af99ea7ff4de7008b3e2135db.1920x1080.jpg?t=1655731927",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976310/ss_9a0a7c99b676287a030908e761bff00fa2cdfcea.1920x1080.jpg?t=1655731927",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976310/ss_ff4ae1ef72564f1fd7019b2d9710369cc0e1a244.1920x1080.jpg?t=1655731927",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976310/ss_487c31e0b293bbf797ecb4fc5f10e4680396e236.1920x1080.jpg?t=1655731927",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976310/ss_49757dd1b87f37dd6e32d23fa46247c8341c78c1.1920x1080.jpg?t=1655731927",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976310/ss_0850d9017407436af577770d56abf399fa699cb1.1920x1080.jpg?t=1655731927",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976310/ss_b3c9e04070af4c2fa651b081d9f78932929dc0dd.1920x1080.jpg?t=1655731927",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1976310/ss_95f213942211cf6aba6df5f04b3ea16a0a8e8624.1920x1080.jpg?t=1655731927"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-10-11T05:04:54Z"
+}
