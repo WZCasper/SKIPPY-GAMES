@@ -1,0 +1,37 @@
+{
+  "id": 2126600,
+  "title": "Astro VR",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2126600/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/2126600/library_hero.jpg",
+  "description": "EXPLORE A DATA-DRIVEN UNIVERSETravel freely through the Solar System, visit distant stars, and explore thousands of confirmed exoplanets in an interactive astronomy simulation designed for VR but playable on desktop.\n\nSee broad views of planetary systems or stand on individual worlds. Advance or reverse time to watch planets, moons, asteroids, comets, and spacecraft move along their paths.\n\nEvery stellar object has a text or voice description. Take an auto generated tour of stellar objects or create your own.\n\nCONTROL TIME AND SPACESet time moving forward or backward and observe orbital motion throughout the galaxy. Within their supported periods, objects follow stored ephemeris data. Outside those periods, positions may be extrapolated or calculated from published orbital elements.\n\nEvery object can be labeled, searched, selected, and inspected. Information panels show available physical and orbital data, and objects can be compared directly with the Sun, Jupiter, Earth, or the Moon.\n\nIn VR, movement and zoom are controlled with thumbsticks/thumbpad. Adjust viewing distances and scale independently to examine any stellar object in detail or see an entire planetary system at once.\n\nSTARS AND COMPACT OBJECTSStar positions, distances, spectral classifications, temperatures, radii, masses, luminosities, and magnitudes are taken from cataloged observations when available. \n\nMeasured properties determine each star’s position, color, brightness, and dimensions. Multiple-star systems and published stellar orbits are represented where sufficient information exists.\n\nNeutron stars, black holes. Black-hole masses and system properties are drawn from current research, while event horizons, accretion-disk motion, Doppler beaming, and distortion of the background sky are simulated from those properties.\n\nCURRENT DATABASEAstro VR brings together astronomical observations, mission data, and published research. Solar System bodies and exoplanets use measured dimensions, masses, temperatures, rotation rates, axial orientations, and orbital properties wherever available. Solar System positions come primarily from NASA/JPL Horizons ephemerides, supplemented by JPL satellite data and mean orbital elements, NASA NAIF planetary kernels, Minor Planet Center and IAU records, NASA mission results, and peer-reviewed research. Planetary orientations and orbital inclinations are represented relative to the surrounding system and background stars. Real imagery is used where suitable maps exist; less thoroughly observed bodies use representative visualizations informed by their known properties. Exoplanet and host-star information comes primarily from the NASA Exoplanet Archive’s Planetary Systems and Composite Parameters datasets, supplemented by published discoveries and updated research. Available measurements determine orbital periods, distances from host stars, eccentricities, masses, radii, and other characteristics. Exoplanet surfaces and atmospheres are visual interpretations informed by known properties such as size, temperature, stellar radiation, and system age. Astro VR also calculates approximate stellar habitable zones and identifies planets within them. These zones indicate potentially suitable stellar heating; they do not establish that a planet is habitable or supports life. \n\nThe September 2026 database includes:\n\n• 6,859 stellar systems\n\n• 7,555 individual stars\n\n• 6,361 confirmed exoplanets\n\n• 18 black holes\n\n• 8 neutron stars\n\n• 8 Solar System planets\n\n• 472 moons\n\n• 92 asteroids and other minor bodies, including dwarf planets, near-Earth objects, trans-Neptunian objects\n\n• 3 interstellar objects: ʻOumuamua, 2I/Borisov and 3I/ATLAS\n\n• 9 spacecraft\n\nThe astronomical database is expanded and corrected as new observations and improved measurements become available.",
+  "description_short": "Explore the real Solar System and thousands of star systems. Watch Phobos dash through the Martian sky or observe a sunset on a planet with multiple suns. Accelerate time, compare planet sizes, and visit scientifically grounded stars and exoplanets—in VR or on desktop.",
+  "genres": [
+    "Иммерсивные симуляторы (Immersive Sim)",
+    "Казуальные игры",
+    "Технические симуляторы"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 288,
+  "markup_rub": 500,
+  "price_rub": 788,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2126600/6795a30ada2aef87e5c29d66933ab08ca770f5b3/ss_6795a30ada2aef87e5c29d66933ab08ca770f5b3.1920x1080.jpg?t=1790428205",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2126600/be31f1783ee6d83f11fc17661f5f31d83db474c0/ss_be31f1783ee6d83f11fc17661f5f31d83db474c0.1920x1080.jpg?t=1790428205",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2126600/ss_82e059a0b0b9de0abcacf660ce814731fec6da73.1920x1080.jpg?t=1790428205",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2126600/ss_61a47f0084a3448b9ff9a6b514671cb7a053752d.1920x1080.jpg?t=1790428205",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2126600/ss_31337d3e5bc89fb17e91ee0d0334d81e0f63d2c9.1920x1080.jpg?t=1790428205",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2126600/ss_416af828c3985d43ebf281a0abcb18278eab5d91.1920x1080.jpg?t=1790428205",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2126600/ss_dd336e65f723c2c2c7da0772d08891b4da47c685.1920x1080.jpg?t=1790428205",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2126600/8463493e01ed1cfb3d0abc1ce424bd39d3f6af5a/ss_8463493e01ed1cfb3d0abc1ce424bd39d3f6af5a.1920x1080.jpg?t=1790428205"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-10-14T17:22:55Z"
+}
