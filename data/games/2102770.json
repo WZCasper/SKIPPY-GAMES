@@ -1,0 +1,38 @@
+{
+  "id": 2102770,
+  "title": "EvoLife",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2102770/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/2102770/library_hero.jpg",
+  "description": "Genesis\n\nAt the start of the simulation cells with random DNA are spawned. 99% of DNA is not viable so most die pretty quickly.\n\n• Purple gas bubbles, inspired by hydrothermal vents\n\n• White dead cells, inspired by marine snow\n\n• Colorful alive cells, inspired by the diversity of unicellular organisms\n\n• Grey rocks, inspired by rocks, duh\n\nFirst viable cell\n\nAfter a while the first viable cells appear. There is a lot of gas everywhere which can be broken down for energy, so the first cells are pretty simple. An organelle to break down gas and a DNA instruction to multiply is all it takes to conquer the world.\n\nCompetition\n\nAs primitive cells fill the world, competition for gas bubbles increase. Some cells start to break down dead bodies for additional energy. Some grow flagella to fill spaces not accessible by passively riding the water flow.\n\nSwimming upstream\n\nThe simulated physics can present barriers for life. Cells evolve to swim upstream, into the dense gas bubble flow, specializing with smaller body size and a stronger flagellum. Life always finds a way.\n\nStromatolites\n\nFirst the world created physical barriers, now the cells are making them. Some cells release biomaterials that accumulate, much like real stromatolites. These materials can be broken down, but unlike gas bubbles or dead cells, doing so costs energy. As a result, they build up just like stromatolites in nature.\n\n• Biomaterials displayed as colorful circles with a square in the middle\n\nEarly multicellularity\n\nIn a strong current even multiple flagella may not be strong enough. These cells stick together after dividing, relying on each other for support. We are witnessing the birth of multicellularity!\n\n🦠🦠🦠Steam WorkshopEvolution takes a lot of time. I run the simulated worlds for weeks, waiting for evolution to happen. I implemented Steam Workshop support, so you don't have to! Some Workshop Items are not just a simple savefiles, but sequences of savefiles! Download the sequence and use the in-game \"savefile list\" feature, so you can step evolutionary time forward by weeks with one click!\n\nDemoI am just a solo dev, I could test the simulation on an RX 6750 XT, a GT 710 and an NVS 4200M. To remedy this issue I want to provide a free demo you can try out, to check if the game works on your machine. \n\nPlease make sure you have the newest drivers installed for your graphics card.\n\nDemo limitations:\n\n• Only the smallest world size is available\n\n• No DNA editing\n\n• No Steam Workshop access\n\nLore For this simulation my vision was to simulate a whole ecosystem of cells. There are many grid-like simulations, where artificial life exists in a grid. There are many game-like simulations where whole creatures are simulated. Sadly none of these fills the niche I am interested in. \n\nI am specifically interested in the boundary of single celled and multicellular life. How did multicellular life come to be? How cells work together as an organism? How many ways can multicellularity evolve? There are only theories as the answer lies in the un-fossilized past. \n\nTo achieve this I simulate individual cells, and their individual organelles. I do not want to force multicellularity by having dedicated types of cells. Each cell can perform multiple things, can decide which organelles to grow. I want single celled life to be just as feasible and diverse as multicellular. I want the local environment to decide how the most successful life form should look like.\n\nThis simulator is my pet project, 10 years in the making! It is running entirely on the video card. You don't need a supercomputer, just a mid range card to simulate hundreds of thousands of cells. The world in the trailer is the result of running the simulation on my RX 6750 XT for a week. Hopefully the advancement of video cards makes even bigger worlds a possibility!",
+  "description_short": "Create and evolve your own digital lifeforms! Watch or interact as your creations adapt and thrive in a world governed by the laws of physics. Download now and start your own evolutionary journey!",
+  "genres": [
+    "Технические симуляторы",
+    "Песочницы (Sandbox)",
+    "Симуляторы жизни",
+    "Казуальные игры"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 419,
+  "markup_rub": 500,
+  "price_rub": 919,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2102770/ss_eb2e08d9922ee7b51f04386cc2353cf3f9b510a3.1920x1080.jpg?t=1780500190",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2102770/ss_0985265ab00d948472f2cea297e407247b981e9d.1920x1080.jpg?t=1780500190",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2102770/ss_65c590b66720f7819c175a7c9b52e0eadf1b40da.1920x1080.jpg?t=1780500190",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2102770/ss_b5868d971e5868e4194f5287d42feedd940c5df2.1920x1080.jpg?t=1780500190",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2102770/ss_80fdcbe3bfaede4cb9642e82a067ded38b1f5f26.1920x1080.jpg?t=1780500190",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2102770/ss_8edc521066b0d8fe1303087423d8cc3544efb2c3.1920x1080.jpg?t=1780500190",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2102770/ss_ceb792090e6c5545363ea0a06850bec6110cf65a.1920x1080.jpg?t=1780500190",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2102770/ss_e601228f2e2a21529ae78255a030571800aa40f5.1920x1080.jpg?t=1780500190"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-10-16T16:46:07Z"
+}
