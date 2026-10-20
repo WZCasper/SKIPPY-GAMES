@@ -1,0 +1,36 @@
+{
+  "id": 1763830,
+  "title": "My Truck Game",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1763830/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1763830/library_hero.jpg",
+  "description": "• This game is focused on physics based off road truck and bus simulation. \n\n• The main priority is tire deformation and suspension simulation for heavy vehicles.\n\n• At this stage the game contains 25 vehicles and 6 maps.\n\n• At the moment there are transport missions in the game, you can deliver cargo, you can earn money which can be used to buy vehicles and fuel.\n\n• The approach taken to simulating vehicles was to start with simulating a tire using soft body physics in order to be able to deform similarly to how a real life tire would.\n \n• The tire is attached to a solid rim which is attached to a solid axle which is attached to the suspension (leaf springs) and the suspension is attached to the frame.\n\n• On the frame there are other parts attached, truck cabin, drive shafts, dump box, hydraulic cylinder that lifts the dump box and mud flaps.\n\n• The tires, the suspension, the frame use soft body physics and the rest of the parts rigid body physics.\n\n• All the parts have their own mass, they interact with each other and this is what determines the vehicle behavior.",
+  "description_short": "Physics based, off road truck and bus simulation.",
+  "genres": [
+    "Технические симуляторы",
+    "Песочницы (Sandbox)"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 238,
+  "markup_rub": 500,
+  "price_rub": 738,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763830/ss_c6ee62ecea20ca5da94ecbb4252314060cd7758a.1920x1080.jpg?t=1690732377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763830/ss_f8910cb8bb051e6d8a1f4a740b84019ea6d68e56.1920x1080.jpg?t=1690732377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763830/ss_1f885f546cb5b7fe060b479e98adbc0fdeb622f5.1920x1080.jpg?t=1690732377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763830/ss_bdaccdb97ea0e6e14b5ef01a277490a8f67f1938.1920x1080.jpg?t=1690732377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763830/ss_15b2ac7fd7a9157f995f1e333c84b60c885261fd.1920x1080.jpg?t=1690732377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763830/ss_6a56c8aa89925fed320f42f9d31ac5b8b861f581.1920x1080.jpg?t=1690732377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763830/ss_af01c1e3ee57a1848862cc838be906f98be1014e.1920x1080.jpg?t=1690732377",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1763830/ss_f8655cd12cc7155b559ebdaf9202b59461b93a15.1920x1080.jpg?t=1690732377"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-10-20T11:41:55Z"
+}
