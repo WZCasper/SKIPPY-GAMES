@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-21T17:33:10Z",
+  "generated_at": "2026-10-21T21:49:04Z",
   "uah_to_rub_rate": 1.833918,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 25610,
+  "count": 25611,
   "games": [
     {
       "id": 313870,
@@ -53161,6 +53161,21 @@
       "price_rub": 621,
       "original_price_rub": 742,
       "discount_percent": 50,
+      "is_free": false
+    },
+    {
+      "id": 3740090,
+      "title": "Bruisers 2D Boxing",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3740090/96db6e5b79037fd26fd62f0d9bb56419c4caef13/header.jpg?t=1792610782",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1362,
+      "original_price_rub": null,
+      "discount_percent": 0,
       "is_free": false
     },
     {
