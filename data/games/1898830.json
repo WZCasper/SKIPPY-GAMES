@@ -1,0 +1,43 @@
+{
+  "id": 1898830,
+  "title": "VBridger",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1898830/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1898830/library_hero.jpg",
+  "description": "VBridger allows VTubers to use face tracking to it's fullest potential\n\r\n\n\r\nVBridger allows for the augmentation of tracking data, allowing users to combine, mix, and modify live data for use with VTuber Avatars. It comes with several base settings and samples for different types of models. If you have a standard live2D model, you can use our VTS Compatible settings to enhance the tracking quality. If you have a model rigged for ARKit using our parameter guide, you will be able to use our ARKit settings for advanced expression control. If you have an ARKit compatible VRM model, you can use VMC to send tracking data, allowing you to use input curves to tune and calibrate the tracking to better fit your face. \n\r\n\n\r\nWith the VBridger - Editor DLC, riggers can unlock the full potential of VBridger and their rigs by gaining the ability to create new outputs and custom controls for their models. Use your face to toggle VRM exressions via VMC, or create logic based expressions to add flutter to your live2D wings- the possibilities are endless.\n\r\n\n\r\nCurrent available input sources:\n\r\n •Tracking data from the IPhone ARKit FACS based face tracking system from the following apps\n\r\n •ifacialmocap (iPhone)\n\r\n •FaceMotion3D (iPhone)\n\r\n •MeowFace (Android)\n\r\n •VTubeStudio (iPhone)\n\r\n •MediaPipe (Webcam)\n\r\n •NVIDIA (Webcam) *Requires the NVIDIAa webcam DLC from VTube Studio, it's free!\n\r\n •Additionally, use your microphone to generate audio inputs.\n\r\n\n\r\n\n\r\nCurrent available output software:\n\r\n •Vtube Studio via the Vtube Studio API allowing for the control of live2D models.\n\r\n •Virtual Motion Capture (VMC) Protocol allowing for any VMC compatible app to recieve face data from VBridger. As long as an output shares the name of a blendshapeclip on your VRM, you can control it with VBridger.\n\r\n VMC will only work on the facial tracking of the model, it cannot send head rotation, eye rotation, or control the body at the moment.\n\r\n\n\r\nMore on the way!",
+  "description_short": "VBridger is a face tracking plugin designed for Vtube Studio and Live2D, which allows the user to make better use of IphoneX ARKit tracking on their live2D model.",
+  "genres": [
+    "Казуальные игры"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 308,
+  "markup_rub": 500,
+  "price_rub": 808,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "TfhsTBYaCXs",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898830/ss_27d11d9d061f45c4803e3a2926a8e662970b4006.1920x1080.jpg?t=1703621052",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898830/ss_8f8fbd9b8e3f1c528597f480d3a1694aba00afb9.1920x1080.jpg?t=1703621052",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898830/ss_36d33d03436da637ad8117aece296ac5524b1bb1.1920x1080.jpg?t=1703621052",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898830/ss_df56b270cda43fc8b0261679a6f669d33f2d81ba.1920x1080.jpg?t=1703621052",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898830/ss_fe1f04b5befb348c950cff56dcef9811e184231a.1920x1080.jpg?t=1703621052",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898830/ss_7730eaba2c72fe0844aca82cc156ac31a074c558.1920x1080.jpg?t=1703621052",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1898830/ss_817ae9b397ae9eb87ae5f1d99eaf5d88fdcdbb23.1920x1080.jpg?t=1703621052"
+  ],
+  "upsells": [
+    {
+      "id": 1943350,
+      "name": "VBridger - Editor",
+      "base_price_rub": 509,
+      "markup_rub": 500,
+      "price_rub": 1009,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943350/header.jpg?t=1649617294"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-10-22T11:46:01Z"
+}
