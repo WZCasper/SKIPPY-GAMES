@@ -1,0 +1,36 @@
+{
+  "id": 1666090,
+  "title": "Karanos Solitaire",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1666090/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1666090/library_hero.jpg",
+  "description": "Karanos SolitaireKaranos Solitaire is a single-player card game using a traditional deck of cards with an original ruleset, built on grouping cards into best scoring combos. Playtime: 5 minutes per game.Features• Minimal interface\n\n• Relaxing gameplay\n\n• Many cardback options\n\n• Color themes\nRulesYou can play the game using your own deck of cards following the rules detailed below!\n\nGoal\nYour goal is to remove all cards from the game, scoring as many points as possible.\n\nSetup\n• Remove all face cards from the deck, leaving only aces and numerals. 40 cards in total.\n\n• Shuffle the deck, then reveal the top 3 cards placing them next to the deck. Like so:\n\nAvailable Actions\n• Move a card from the bot row to the top row, revealing top deck card into the bot row\n • When the deck has one card left, flip it over, use it as a bottom row card\n\n• Move a card from the top row to the back of the deck\n\n• Remove top row cards matching a valid combo (listed below) from the game\n\n• Remove a top row card from the game\n\nCombos and Points\nWhen a combo is matched and the cards are removed from the game, you gain the number of points the combo is worth. The following are all possible game combos and their point values:\n\n Name Matches Value Pair ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[A+A] or [2+2] or [3+3].. 2 points Chain ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[1+2+3] or [2+3+4] .. or [9+10+A] or [10+A+2] 3 points Flush ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀any 3 cards of the same suit 3 points Royal ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀both chain and flush 7 points Triple ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀[A+A+A] or [2+2+2] or [3+3+3]..⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 8 points \nAdditionally, whenever a single card is moved from the top row, your points are reduced by 1.\nFurthermore, If all cards are used as a part of a combo, gain additional 11 points.\n\nVictory\nThe game can be considered won if you score 40 points or more, but no reason to stop there!",
+  "description_short": "Karanos Solitaire is a relaxing combo-building card game designed for short solo gameplay sessions.",
+  "genres": [
+    "Головоломки",
+    "Казуальные игры"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 107,
+  "markup_rub": 500,
+  "price_rub": 607,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1666090/ss_219e8cf639c3c2a50107139055f187f5cad7fbfb.1920x1080.jpg?t=1664386645",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1666090/ss_9a72dec16da1f68ca114fb5fe1c3d1d84b94f322.1920x1080.jpg?t=1664386645",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1666090/ss_180a218b4ae475a42c7be1296ac77c69785a3c6b.1920x1080.jpg?t=1664386645",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1666090/ss_942ebc61239e0b6884783e80aed9e45ab5b0d2ce.1920x1080.jpg?t=1664386645",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1666090/ss_e4de9d0a5439ab7596ea991caaacefc13146144f.1920x1080.jpg?t=1664386645",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1666090/ss_77c6f50e9566de621f1268505c4bb11979add3da.1920x1080.jpg?t=1664386645",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1666090/ss_4f6af5366704f2622b2f3367ad054c3aa1daa019.1920x1080.jpg?t=1664386645",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1666090/ss_11813643bc2d800c311f8c71cf100fb98a36a615.1920x1080.jpg?t=1664386645"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-10-23T11:46:59Z"
+}
