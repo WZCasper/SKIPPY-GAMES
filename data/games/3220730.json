@@ -1,0 +1,50 @@
+{
+  "id": 3220730,
+  "title": "JAMs",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3220730/header.jpg?t=1791449014",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/3220730/library_hero.jpg",
+  "description": "JAMs — это кликер с предметами Steam на тему искусства и музыки, подаваемыми в банках.\n\nИзначально масштаб игры будет представлять собой довольно простой кликер с предметами, но со временем она превратится в нечто особенное.\n\nИгра бесплатна (free to play), поэтому каждый сможет получать дропы, но с DLC Extra Drops вы будете получать их немного больше. Это будет честное распределение, и в будущем могут появиться особые предметы, доступные только в магазине предметов, но пока что ежедневные дропы — это все, что у нас есть.\n\nГрафик удаления предметов из пула дропов будет надежным и меняться довольно часто, поэтому вам нужно будет оставлять игру включенной в фоновом режиме (idle) все время, чтобы получить все дропы.\n\nИгра посвящена искусству и музыке, поэтому, если вы художник (или просто любите это дело!), обязательно присоединяйтесь к Discord-серверу JAMs и следите за развитием нашего проекта!",
+  "description_short": "JAMs — это игра-кликер с предметами Steam на тему искусства и музыки, которые подаются в банках. Вы можете собрать сотни анимированных предметов инвентаря Steam JAMs!",
+  "genres": [
+    "Психологические хорроры",
+    "Казуальные игры"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 0,
+  "markup_rub": 0,
+  "price_rub": 0,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": "giXFfkrorXs",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3220730/ss_47f18b48eb6de33dcb57daa81bbc4a7ba5dbac79.1920x1080.jpg?t=1791449014",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3220730/ss_e83656d4356f8060d776ddd446590b8f773ddd35.1920x1080.jpg?t=1791449014",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3220730/ss_2a984d83b5bff8fb3f888875ca3793f6c41a4e9c.1920x1080.jpg?t=1791449014",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3220730/ss_54c9a7be0f0bac9880c09adb84ce9220486d728d.1920x1080.jpg?t=1791449014",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3220730/ss_19cc0f8be73b76da916df89a2caaf318258c90df.1920x1080.jpg?t=1791449014"
+  ],
+  "upsells": [
+    {
+      "id": 3263290,
+      "name": "JAMs - Extra Drops",
+      "base_price_rub": 89,
+      "markup_rub": 500,
+      "price_rub": 589,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3263290/header.jpg?t=1791449055"
+    },
+    {
+      "id": 3459270,
+      "name": "JAMs - Auto Clicker",
+      "base_price_rub": 46,
+      "markup_rub": 500,
+      "price_rub": 546,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3459270/header.jpg?t=1791449032"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-10-27T12:11:35Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": 491380,
+  "title": "SteamVR Driver for Razer™ Hydra",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/491380/capsule_616x353.jpg",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/491380/page_bg_raw.jpg?t=1469807458",
+  "description": "UsageButton mapping• Middle button\nMapped to: (Vive) System button\n\n• Button 4\nMapped to: (Vive) Application Menu button\n\n• Bumper button\nMapped to: (Vive) Grip button\n\n• Joystick button\nMapped to: (Vive) Touchpad button\n\n• Joystick\nMapped to: (Vive) Touchpad\n\n• Button 3\n(Compatibility) \"Hold thumbpad\"\n\nО программеThis driver adds support for the Razer Hydra motion controller in SteamVR.IMPORTANT!Before installation, make sure to uninstall \"OpenVR Driver for Razer Hydra\" from your programs list in Windows! Not doing so can lead to unexpected behaviour.Compatibility• To emulate a touch gesture on the Vive's trackpad (e.g. swiping), press and hold BUTTON3 to start \"touching the trackpad\", and then use the joystick to make the gesture.\n\n• UE4 games need to be run in compatibility mode. Check this thread for instructions:",
+  "description_short": "This driver adds support for the Razer Hydra motion controller in SteamVR. If you own an Oculus Rift and a Razer Hydra – you can now play virtually any VIVE VR title on SteamVR!",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 0,
+  "markup_rub": 0,
+  "price_rub": 0,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": true,
+  "trailer_video": null,
+  "trailer_youtube_id": "fPcwXFLAo3M",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/491380/ss_91e0d4f333ae4448d5e87c95bf9b0fbd3dfd2e8c.1920x1080.jpg?t=1469807458",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/491380/ss_5e58415b14760f3e69f46836ae1e8e3913eb9d9f.1920x1080.jpg?t=1469807458",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/491380/ss_1fc77e21fef6c8f6d5e46169271bbe702e0e2900.1920x1080.jpg?t=1469807458"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-10-27T12:12:23Z"
+}
