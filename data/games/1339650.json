@@ -1,0 +1,36 @@
+{
+  "id": 1339650,
+  "title": "CHV: VR Trunk Escape",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1339650/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1339650/library_hero.jpg",
+  "description": "The Car Hacking Village (CHV)'s Trunk Escape experience is based on the real Trunk Escape CTF challenge hosted at DefCon. In the traditional meatspace challenge, contestants would sign up and pick items they wanted in the trunk. We would then bind them and toss them in the trunk with a 30 minute timer to escape. There were flags along the way for additional points.\n\nWe have converted that challenge to a VR Experience. This year, 2020, due to the Covid-19 pandemic we are playing it safe and converting the Defcon Car Hacking Village into a virtual event. This is just one of the challenges for that event. In this game you will pick a loadout for youself and be placed in the back of a van. You will then have to either solve physical puzzles or hack into the CAN bus in order to escape. If played during Defcon, you can connect to the CTF servers to compete against other hackers.\n\nOutside of Defcon these challenges will randomly create new solutions. This will give you additional play even outside of the conference.\n\nDevelopers Note: This is a solo-dev volunteer-time developed game. Please be patient. Occulus should work as I'm using OpenXR but I won't update the steam supported VR headsets until I have had time to fully test it.\n\nDefcon Safemode Release\nDefcon 28 is the initial release and the first VR game (or any game for that matter) that the Car Hacking Village has ever released. It was a 1 person, nights and weekend project so lots of things didn't make the final cut. Some bugs still survived but should be pretty minor (the points on the watch are wrong). Please use the Community forums to let me know what worked, didn't work and what you would like to see in future versions or other game ideas. If you are on the Defcon discord look for [CHV] zombieCraig in #chv-vr-support-text channel.",
+  "description_short": "VR Hacking themed escape room challenge",
+  "genres": [
+    "Технические симуляторы",
+    "Головоломки",
+    "Иммерсивные симуляторы (Immersive Sim)",
+    "Шутеры от первого лица (FPS)",
+    "Казуальные игры"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 104,
+  "markup_rub": 500,
+  "price_rub": 604,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "UoAOvJD9B3Y",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1339650/ss_e6815060b5620cc94b86af3a94d5418249b792c3.1920x1080.jpg?t=1596765745",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1339650/ss_f00d01686d8e613e9b1bf9e9cf294203b34f8e26.1920x1080.jpg?t=1596765745",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1339650/ss_08e5a9968c0097b457e37d85e48307fb9e74accb.1920x1080.jpg?t=1596765745",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1339650/ss_4e22ca6a43527635daa9223713f506149d878c01.1920x1080.jpg?t=1596765745",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1339650/ss_82f2bb6e605a0d514856452b3b0da6d751eac4c3.1920x1080.jpg?t=1596765745"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-10-28T12:46:49Z"
+}
