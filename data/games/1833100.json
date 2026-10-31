@@ -1,0 +1,33 @@
+{
+  "id": 1833100,
+  "title": "FrameFusion Motion Interpolation",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1833100/header.jpg?t=1738022120",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1833100/library_hero.jpg",
+  "description": "FrameFusion Motion Interpolation improve the framerate of any video, gif or group of images by 2X/4X/8X/16X\nThis application that uses neural networks to generate optical flows between two frames of a video. By using these flows, the application merges the frames into a new one, effectively increasing the number of frames in the video output.\n\nThe application allows you to select multiple videos, GIFs, or images in formats like PNG/JPG/BMP for interpolation, producing a new video with a higher FPS than the original.\n\nKey Features:\n• Choose from four different models for interpolation: options for live-action or animation, with the ability to render in high quality or with faster speeds.\n\n• Optimized for Nvidia GPUs with CUDA support but also compatible with AMD GPUs and CPUs.\n\n• Manage a queue of files for batch processing, with a progress bar to track how long each file will take.\n\n• For static images like PNG, you can select a folder of files and manually choose an FPS to use.\n\nExport Options:\n• Export Frames: Generates a .PNG file for each processed frame, including the newly interpolated ones.\n\n• Export Motion Flow: Exports a PNG visualization of the optical flow.\n\n• Export Video Side-By-Side: Exports the original video alongside the interpolated video for comparison.\n\n• Export Video Cut in Half: Exports the left side of the video as the original and the right side as the interpolation, split down the middle for comparison.\n\nVideo Modifications:\n• Perfect Loop Video: Creates new frames between the last frame and the first frame of a video to create a perfect loop.\n\n• Remove Static Frames: Especially useful for animations, this option removes static frames to enhance the fluidity of the final video.\n\n• Skip Scene Changes: Detects scene changes and avoids interpolation to reduce artifacts in these transitions.\n\nSupports frame multipliers, allowing you to output videos with higher FPS. For example, a video with 24fps can be interpolated to: \n• 2X: 48fps\n\n• 4X: 96fps\n\n• 8X: 192fps\n\n• 16X: 384fps",
+  "description_short": "Improve the framerate of any video, gif or group of images by 2X/4X/8X/16X using neural networks generating videos with a high FPS.",
+  "genres": [
+    "Казуальные игры",
+    "Шутеры от первого лица (FPS)"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 289,
+  "markup_rub": 500,
+  "price_rub": 789,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "xkSjTgrVa3w",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1833100/ss_fc1301b32a30bba952f5a73d186d1fb8515c6a4e.1920x1080.jpg?t=1738022120",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1833100/ss_311686a20ba5f9efa82c67cc43289a3cb4506b79.1920x1080.jpg?t=1738022120",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1833100/ss_6e22fc0919939992b3e2ac0157f438e32a217a44.1920x1080.jpg?t=1738022120",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1833100/ss_df045a317ab2fcbf807916cfcb0f6e2644271800.1920x1080.jpg?t=1738022120",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1833100/ss_6131edaafbf0e340a79ab80b13455a7036038796.1920x1080.jpg?t=1738022120"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-10-31T12:16:07Z"
+}
