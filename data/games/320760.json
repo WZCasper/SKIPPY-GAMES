@@ -1,0 +1,44 @@
+{
+  "id": 320760,
+  "title": "Tokyo School Life",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/320760/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/320760/library_hero.jpg",
+  "description": "Patch Notes：　Malus Code Ver 1.02.We enclosed a complete save file for Tokyo School Life in Malus Code Ver 1.02.\r\n\r\nThis is a save file for Tokyo School Life that unlocks all of the content in the Extra menu, meant for those who lost their data due to the bug in Malus Code Ver 1.00.\r\n\r\n・ Do not use this save data for Malus Code.\r\n\r\n・ You will overwrite TSL's save data file (data_000_0000.bin), so please back it up in a safe location first.\r\n\r\n1. Go to\r\nC:\\Users\\(PCname)\\Documents\\M2\\TSL\\savedata\r\n\r\n2. Rename the existing data as follows:\r\n\r\nRename\r\ndata_000_0000.bin\r\nto\r\ndata_000_1111.bin\r\n\r\n3. Locate the following file in the directory you installed Malus Code in (default path shown below):\r\n\r\nC:\\Program Files\\Steam\\SteamApps\\common\\Malus Code\\windata\\tsl_complete_savedata\\fdata_000_0000.bin\r\n\r\nCopy fdata_000_0000.bin to the following folder:\r\n\r\nC:\\Users\\(PCname)\\Documents\\M2\\TSL\\savedata\r\n\r\nThen rename it to\r\n\r\ndata_000_0000.bin\r\n\r\n4. Done!\r\n\r\nNote: This will only effect the content in the Extra menu (music jukebox, gallery), so your save slot usage will remain the same as before.\n\nОб игре\"Tokyo School Life\" is a Visual Novel game on Steam.\r\nThis is the story of your trip as an exchange student in Tokyo and the three girls you meet there. \r\nAlthough you don't make the greatest first impression, you quickly settle into the kind of everyday life you've seen in anime and manga -- filled with laughs and tears. \r\nBy the time you have to head home two months from now, you might find that you've fallen for one of your new friends...\r\n\r\n- Romance visual novel\r\n- Opening song with Japanese vocals\r\n- Fully voiced in Japanese (female characters only)\r\n- Smooth character animations using the E-mote engine\r\n- Text can be displayed in either English, Japanese, hiragana, or romaji (an additional selection can be displayed alongside your main choice)\r\n- Japanese text has furigana (readings for kanji)\r\n\r\nWe have worked together with M2 Co., Ltd. and their E-mote engine to bring you an emotional story told through beautifully animated 2D sprites.\r\n\r\n---Opening Song---\r\n「MOE to Love Yooou!」\r\nLyrics: RyoRca\r\nComposer/Arrangement: Jaelyn Nisperos (chibi-tech)\r\nSinger: Yuki Tedokon\r\nGuitar: Masashi Yano\r\nVocal Recording Engineer: Raito (Transistar)\r\nVocal Director: Meroko. (Transistar)\r\nRecording Studio: Transistar Studio\r\nSong Director: RyoRca\r\n\r\n--YOUTUBE-------------------\r\nDogenzaka Lab official channel\r\nhttp://youtu.be/7TJKc74tdL8\r\n\r\n--Web-------------------NEW\r\nDogenzaka Lab (Please send press inquiries to Dogenzaka Lab.)\r\nhttp://dogenzaka-lab.com/\r\n\r\nM2 Co.,Ltd\r\nhttp://emote.mtwo.co.jp/tsl/\r\n\r\n--SNS-------------------\r\nhttps://twitter.com/Dogenzaka_Lab\r\nhttps://www.facebook.com/DogenzakaLab/",
+  "description_short": "&quot;Tokyo School Life&quot; is the story of your trip as an exchange student in Tokyo and the three girls you meet there. Live the everyday life you love from anime and manga! Vocal opening song/Japanese voices/English text",
+  "genres": [
+    "Визуальные новеллы",
+    "Приключения"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 406,
+  "markup_rub": 500,
+  "price_rub": 906,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320760/ss_6cd7f4e0b07ab411819006c24d96e1adf3654c82.1920x1080.jpg?t=1782116267",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320760/ss_4c001fa82c5bb18d14fbd416792fba168ca24e06.1920x1080.jpg?t=1782116267",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320760/ss_11e2b7165ff878116cb3fa9ee4b823e33d7b43db.1920x1080.jpg?t=1782116267",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320760/ss_48a5bc113486bef2e511d77947b9b2ebdd9aa9cf.1920x1080.jpg?t=1782116267",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320760/ss_49894f469cba0af280184ffeaab8e296b7511ce7.1920x1080.jpg?t=1782116267",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320760/ss_0fc14ad49a284adba64253b5d79e58665ad15fc3.1920x1080.jpg?t=1782116267",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/320760/ss_9a3ed0040178d3e691ed249213b895f986fca067.1920x1080.jpg?t=1782116267"
+  ],
+  "upsells": [
+    {
+      "id": 374880,
+      "name": "Tokyo School Life - Original Soundtrack",
+      "base_price_rub": 105,
+      "markup_rub": 500,
+      "price_rub": 605,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374880/header.jpg?t=1773735075"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-10-31T21:48:18Z"
+}
