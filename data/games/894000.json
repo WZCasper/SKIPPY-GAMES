@@ -1,0 +1,34 @@
+{
+  "id": 894000,
+  "title": "Night of the Blood Moon",
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894000/header.jpg?t=1596836800",
+  "hero": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894000/page_bg_raw.jpg?t=1596836800",
+  "description": "For too long Skeletons have been on the blunt force receiving end. Give them a break and time to recover by embracing the power of the darkness.\nNight of the Blood Moon is a difficult Rogue-lite with unique weapons, and charming manifestations. Become the Nightmare and grow your power, by conquering many imaginative lands, and defeat bosses who will challenge your strategy along side your skill.The Setting of Night of the Blood MoonThe eclipse is coming, and the blood moon is upon us. It is time for the Three Eyed Raven to rise. From Bedrooms to Castles in the Sky you will control a nightmare and it's arsenal of pets, weapons, and skills. In thde land of dreams creatures take on many forms such as; of instruments, wizards, ninjas, and sea monsters, and more.\n\nWeaponsNight of the Blood Moon's weapons are more than guns with different attributes. They will completely change the way you play the game, by how you position yourself, and which enemies pose the most threat. Hookshots, Boomerangs, and Spellbooks are the beginning of a growing inventory. Learn to utilize each weapon to reach the true-end.\n\nThe Dreamy ManifestationsEnemies in Night of the Blood Moon work on an orthogonal structure. They vary with speed and range on a full spectrum. Each level in the game has unique creatures which test you in their own ways. Things aren't always as they seem in our dreams, especially these critters.\nBosses in Night of the Blood Moon are more than just bullet sponges; Each boss has mechanics which can be overcome through trial & error, and understanding.\n\nPetsYou'll come across assistance in your escapades. These pets will give you increased attributes as well as passive support. Pets are dreams consumed by the darkness including bats, dogs, nests, and more.\nDev Note: I plan on adding at least one pet each month of 2019 for Night of the Blood Moon, and am looking forward to getting more creative with more time on my hands.Eclipse ModeThis mode lets you start with nothing, and get stronger until you the engine can't keep up. There are currently no limitations.\nBuy health, ammo, and unleash a flurry of weapons. Eclipse Mode is my way of letting you destroy the game I worked so hard to build whilst having absolute fun.\n\nFor Non-Ubuntu Linux users: GameMaker (the engine used) only supports 32-bit graphics for some reason (which Ubuntu supports out of box). From what I've come to understand here are the required fixes:\ninstall lib32-openssl or openssl:i386 (depend of your system), and Properties -> Set launch options and LD_LIBRARY_PATH=. %command%\n\nNight of the Blood Moon is a game I am incredibly proud of, and excited to share with everyone. Above all I hope you are challenged in a fun and enjoyable way. I'm looking forward to seeing you kick Night of the Blood Moon's butt. Good luck, and have fun.\n-Tyler McDermott, creator and sole developer of Night of the Blood Moon",
+  "description_short": "The darkness of the blood moon is here. Rise from the nightmares and take back the dream realm! Use unique weapons, grow your power, and destroy the charming creatures of the dream realm. Develop your skills, unlock pets, and defeat bosses who will challenge your strategy along side your skill.",
+  "genres": [
+    "Экшен",
+    "Приключения"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 92,
+  "markup_rub": 500,
+  "price_rub": 592,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "yj75b4PtRzo",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894000/ss_918caaed6a74682077e6b03acd8fd59f3f105aac.1920x1080.jpg?t=1596836800",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894000/ss_14c4cffa715d4a8dc8841c838ff964acb8cd2070.1920x1080.jpg?t=1596836800",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894000/ss_ee4604cc6c52ffcb712422674efa3aa31aafc485.1920x1080.jpg?t=1596836800",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894000/ss_92056d136945bf409d5be03db28b055d7f883992.1920x1080.jpg?t=1596836800",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894000/ss_4d5de85567c1acfae47952a053a3a5d74c714ba4.1920x1080.jpg?t=1596836800",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/894000/ss_7f43a78da7b05c4b8c541999cf0095b80cd46e86.1920x1080.jpg?t=1596836800"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-11-03T14:19:06Z"
+}
