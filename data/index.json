@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-06T14:39:13Z",
+  "generated_at": "2026-11-06T23:14:47Z",
   "uah_to_rub_rate": 1.794493,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 29067,
+  "count": 29070,
   "games": [
     {
       "id": 313870,
@@ -131826,6 +131826,21 @@
       "price_rub": 1007,
       "original_price_rub": null,
       "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 4725170,
+      "title": "Elven Huntress: Sunveil",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4725170/a76455e3cba81a03cda09148f164ad06d5505758/header.jpg?t=1793959270",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 981,
+      "original_price_rub": 1101,
+      "discount_percent": 20,
       "is_free": false
     },
     {
@@ -305729,6 +305744,21 @@
       "is_free": true
     },
     {
+      "id": 4834760,
+      "title": "Pool of Radiance: Ruins of Myth Drannor",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4834760/d56eafff9c3c2a6788604850e402c1f02ee4d955/header.jpg?t=1793974605",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1225,
+      "original_price_rub": 1306,
+      "discount_percent": 10,
+      "is_free": false
+    },
+    {
       "id": 3990210,
       "title": "Poolar Bear",
       "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3990210/c538846d324da2291a2c17ced4760864c2592647/header.jpg?t=1785477368",
@@ -351288,6 +351318,21 @@
       ],
       "price_rub": 953,
       "original_price_rub": 1034,
+      "discount_percent": 15,
+      "is_free": false
+    },
+    {
+      "id": 4463730,
+      "title": "Sexpatch: Horny Capes",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4463730/bbb752997cb5d7bcbcaf8194c2f4c25d7e175bba/header_alt_assets_5.jpg?t=1794000361",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 904,
+      "original_price_rub": 976,
       "discount_percent": 15,
       "is_free": false
     },
