@@ -1,0 +1,32 @@
+{
+  "id": 979300,
+  "title": "Allied Nations",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/979300/capsule_616x353.jpg",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/979300?t=1792108777",
+  "description": "Allied Nations is being rebuilt\nDevelopment is continuing on a new version of Allied Nations, known during development as Reborn. It moves the game from BYOND to a custom Godot-based engine and rebuilds the world, settlement simulation and presentation around that foundation.\n\nThe Steam download currently contains the original BYOND version. The Reborn development work described here is not yet available in that download.\n\nRecent development includes a rotatable starting-world globe, physical settlement buildings and storage, travel into neighboring regions, seasonal vegetation and layered water with visible aquatic life. These are development-build systems, and substantial work remains on performance, presentation, long-term simulation and multiplayer.\n\nThe development announcements explain this progress and its limitations. There is no announced release date for the new-engine update or for leaving Early Access.A place to begin. A world to change.\nAllied Nations is a fantasy colony and nation-building simulation about people trying to make a life in a changing world. Begin with a small company, direct individual workers and guards, and turn the resources around you into shelter, equipment and supplies.\n\nThe game is being rebuilt in a new version known as Reborn, using a custom Godot-based engine. The sections below describe that development version. Reborn remains unfinished; the aim is a world that develops its own history alongside the player's settlement.Choose your foothold\nRotate a generated globe, choose a starting region and shape its geography through controls for ocean coverage, climate, rainfall and terrain. Put together a founding company, then begin working with the land and resources around it.Follow the work from tree to settlement\nSelect your people and give them work. Fell a tree and leave physical logs behind. Designate construction, organize stockpiles and move supplies through storage and production. Food, water, tools and equipment are part of the same settlement problem: someone has to obtain them, carry them and make them useful.\n\nNPC settlements are taking physical shape too, with houses, storage halls and upper watch posts. Their routines and longer-term ability to sustain themselves are still being developed.Look beyond the ground beneath your feet\nExplore layered terrain, work above and below the surface, and travel into neighboring regions. Seasonal trees, flowering vegetation, wildlife and visible aquatic life give different places their character. Weather, lighting and water presentation are being developed alongside the simulation behind them.\n\nRecent work also advances trees and wildlife outside the currently viewed region. A fully developed living planet, complete ecosystems and large autonomous societies remain longer-term goals.Built for a shared world\nMultiplayer is part of Allied Nations' design. Reborn's development build uses Valve GameNetworkingSockets for direct-address and LAN connections. Complete multiplayer release support and Steam features such as lobbies, invitations and achievements are still in development plans; they are not included merely by using Valve's networking library.A new engine foundation\nReborn runs on OpenACAI's custom fork of the open-source Godot Engine, with native C++ work and a modern .NET/C# runtime. The engine is being adapted to the game's simulation, world data and rendering needs, with credit to Godot and its contributors.A project with roots\nAllied Nations is designed and developed by Alex Cooper, known online as Godsring, and published by OpenACAI Inc. Its roots run through the Dungeon Master prototype on BYOND and the original Allied Nations. The idea remains personal: a role-playing world that evolves with its inhabitants and the people playing in it.Still in development\nThe rebuild is ongoing. Performance, presentation, deeper settlement routines, broader ecology and Steam integration still need work. Save compatibility can change as systems develop. Spaceflight, a complete stone-to-space progression, full planetary simulation and finished large-scale multiplayer are ambitions, not descriptions of the current build.\n\nFollow the Steam development announcements for concrete progress and information about playable builds.",
+  "description_short": "Lead a small company through a changing fantasy world. Direct your people, build a settlement, gather supplies and face the dangers around you in a colony and nation-building simulation with role-playing roots.",
+  "genres": [
+    "Технические симуляторы"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 1714,
+  "markup_rub": 500,
+  "price_rub": 2214,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": null,
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979300/94efd24fdca67e42cc5426c9dd309d3d736d3d54/ss_94efd24fdca67e42cc5426c9dd309d3d736d3d54.1920x1080.jpg?t=1792108777",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979300/8fc13d61cc4309f8e9a134bd72086df69964b18a/ss_8fc13d61cc4309f8e9a134bd72086df69964b18a.1920x1080.jpg?t=1792108777",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979300/74d631c8b8816661252ca0643a3d4410ec706598/ss_74d631c8b8816661252ca0643a3d4410ec706598.1920x1080.jpg?t=1792108777",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979300/68b2d4457252aea447822b1deffd304d09cb029f/ss_68b2d4457252aea447822b1deffd304d09cb029f.1920x1080.jpg?t=1792108777",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979300/abbe5afdf4b80cade1675b788b879f8f68960e3d/ss_abbe5afdf4b80cade1675b788b879f8f68960e3d.1920x1080.jpg?t=1792108777"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-11-06T14:26:59Z"
+}
