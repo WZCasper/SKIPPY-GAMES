@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-09T05:46:35Z",
+  "generated_at": "2026-11-09T15:53:09Z",
   "uah_to_rub_rate": 1.806252,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 29579,
+  "count": 29580,
   "games": [
     {
       "id": 313870,
@@ -100366,6 +100366,21 @@
       "price_rub": 1294,
       "original_price_rub": null,
       "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 3629430,
+      "title": "DREADMOOR",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629430/5b80c132b3479c69a92c25a5266db523850cfc36/header.jpg?t=1794233002",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 1199,
+      "original_price_rub": 1277,
+      "discount_percent": 10,
       "is_free": false
     },
     {
