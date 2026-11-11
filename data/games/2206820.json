@@ -1,0 +1,35 @@
+{
+  "id": 2206820,
+  "title": "Tokyo Pinball",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2206820/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/2206820/library_hero.jpg",
+  "description": "A game designed to introduce the fun of pinball.\nWhether you have never played pinball before or not, I hope you will enjoy playing it!🔰 Let's Play PinballTo make it easier for beginners to play, automatic slow motion, stamina-based kickback, and nudging are implemented. Tokyo Pinball is a good place to start if you have never played pinball.🎲 FeaturesThe game implements the following features that are familiar to pinball players. \nSuch as Jackpot, Nudging, Kickback, Extra Ball, Hold Bonus, Hurry Up, Score Multipliers, Ball Saver and Game End Bonus🙋 FAQ\nDo you have multi-balls?\nNo. I have tested multiball several times and decided that it is not suitable for this game for the following reasons:\n• the incompatibility of top view 2D pixel art and multiball.\n\n• frequently switch display layers (inside buildings) in the playfield.\n\n• slow motion and pauses occur when the player does not intend to.\n\n• narrow margins of the playfield designed for speedy single-ball play.\n\nAre there multiple levels?\nNo. I believe it is more important for players to play one level repeatedly and feel that their play improves than having multiple levels in this game. If additional levels are implemented, they will be sequels.\n\nMy controller is not responding!\nOnly XInput controllers are supported; you can play with other controllers by emulating keyboard input with a Steam client or other software.\n\nDo you have any information about the game rules or terms of use?\nPlease check the \"README\" and \"GAMERULE\" files in the installation folder, or refer to the \"View the quick reference\" and \"View the manual\" on the store page.",
+  "description_short": "A game designed to introduce the fun of pinball. Whether you have never played pinball before or not, I hope you will enjoy playing it!",
+  "genres": [
+    "Экшен",
+    "Аркадные гонки",
+    "Казуальные игры",
+    "Технические симуляторы"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 134,
+  "markup_rub": 500,
+  "price_rub": 634,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "vOD6A6HvyZ8",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206820/ss_03eb3b5d0d5e82c615770fb6437ca942a0010941.1920x1080.jpg?t=1687774209",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206820/ss_0545161746798849a2312b1b7ee555b6ccd356e5.1920x1080.jpg?t=1687774209",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206820/ss_aaa93837adb030dc6afea225e5e3383ae0051334.1920x1080.jpg?t=1687774209",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206820/ss_d16c960f169edf93223d57d73c7c86fc44f1ad3f.1920x1080.jpg?t=1687774209",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2206820/ss_1eda21a4584d87de51ca71cd8a6d58862fa5baef.1920x1080.jpg?t=1687774209"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-11-11T14:10:45Z"
+}

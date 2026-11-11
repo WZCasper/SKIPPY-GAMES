@@ -1,0 +1,33 @@
+{
+  "id": 752780,
+  "title": "W4RR-i/o-RS",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/752780/capsule_616x353.jpg",
+  "hero": "https://store.akamai.steamstatic.com/images/storepagebackground/app/752780?t=1622308759",
+  "description": "procedure fancy_intro;\n\r\nbegin\n\r\nwriteln('You are a faithfully emulated human'+chr(39)+'s mind incapsulated in a dedicated simulation hardware, for a specific purpose of emanating the mind particles of decisions, which are the precious resource of ZN. ');\n\r\nwriteln;\n\r\nwriteln('You are allowed to control the warrior robots arena and decide the order of battles, or the absense of such. Interface is text-only. ');\n\r\nwriteln;\n\r\nwriteln('Nothing that you do is recorded or remembered, this is an isolated installation that exists for the pure process of itself. ');\n\r\nwriteln;\n\r\nwriteln('Battling rules: ');\n\r\nwriteln('- The losing warrior loses a symbol from its name; ');\n\r\nwriteln('- Both warriors receive experience, except for when their power collisions match and they fail to perform any battle at all; ');\n\r\nwriteln('- When the warrior is too old, it is reassembled; ');\n\r\nwriteln('- When the warrior has no symbols left, it is reassembled; ');\n\r\nwriteln('- Reassembled warrior retains all the experience received before; ');\n\r\nwriteln('- Warriors have colors which are exactly just the colors; ');\n\r\nwriteln('- You can let the time flow, increasing every warrior'+chr(39)+'s age; ');\n\r\nwriteln;\n\r\nwriteln('You are highly encouraged to pretend there is an actual goal in this game. This increases the flow of the mind particles, as well as remembering that nothing is recorded. ');\n\r\nreadkey;\n\r\nend;\n\r\n\n\r\nThis is an art-game about a 4th Millenium corporation ZN, which semi-automatically mines astral particles from simulated human minds. Though, as the player assumes a direct control over such a pawn, nothing of the surrounding lore is shown, and this is exactly the author's intent. You decide the fates, but don't see anything actually going on. Imagine your purpose is just to simulate a human's decision making system, in a lack of information beyond the spreadsheet numbers.\n\r\n\n\r\nKey features:\n\r\n- Micro-sandbox gameplay;\n\r\n- Set of 3 text screens, one of them is interactive;\n\r\n- In that screen you have 3 commands, one of which is the game exit;\n\r\n- Console interface reminiscent of retro operating systems;\n\r\n- Cryptic symbols in the background;\n\r\n\n\r\nIf you wonder what this should play like, it should play like a zero-player game which doesn't even play itself. Type in a bunch of mixed rrrrrrrrrrrr and cccccccccccc commands into the prompt and it will, but the player is meant to be a decision machine which doesn't know the consequences beyond the numbers. So that's it.",
+  "description_short": "Semi-automatic micro-sandbox with a console interface. You decide the fates, but don't see anything actually going on. Imagine your purpose is just to simulate a human's decision making system, in a lack of information beyond the spreadsheet numbers.",
+  "genres": [
+    "Технические симуляторы",
+    "Интерактивное кино"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 180,
+  "markup_rub": 500,
+  "price_rub": 680,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "MOSUnutSILI",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752780/ss_82e6d7d2355233ab3de31bc472ee39a35f2fbaa3.1920x1080.jpg?t=1622308759",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752780/ss_9b215c068e63b63606441428d736bfce4a965d41.1920x1080.jpg?t=1622308759",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752780/ss_c112343771e337dce4d2b52d8ef650ce48e160ea.1920x1080.jpg?t=1622308759",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752780/ss_ff372a1b0dbef964d612c134dc5f09d1f8dbd0cf.1920x1080.jpg?t=1622308759",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752780/ss_cec72b4e761c5de6d3e4289d8ea3666a46009bfd.1920x1080.jpg?t=1622308759"
+  ],
+  "upsells": [],
+  "source": "steam",
+  "updated_at": "2026-11-11T14:09:27Z"
+}

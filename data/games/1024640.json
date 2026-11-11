@@ -1,0 +1,60 @@
+{
+  "id": 1024640,
+  "title": "AppGameKit Studio",
+  "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1024640/capsule_616x353.jpg",
+  "hero": "https://cdn.cloudflare.steamstatic.com/steam/apps/1024640/library_hero.jpg",
+  "description": "AppGameKit Studio is a fully featured game development tool set. We’ve re-imagined the game development user interface with an all-in-one work space. You can now quickly drag & drop assets to visualise your scenes, code with AppGameKit Script, easily browse app media, run live debugging sessions, access online help and lots more.\nAppGameKit Studio allows you, in a few easy clicks, to quickly publish your games to Steam, iOS, Android and a host of other places! Get your apps and games in front of millions of potential players and make yours the next big hit.Features\nIDE\nDesigned and built from the ground up to fully support the AppGameKit Script language - edit multiple projects at any one time and set the layout that suits your workflow\n\nEDITING\nPowerful editing tools help you code fast and efficiently - such as auto complete command help to the handy sandbox mode where you can quickly try out code tests\n\nCOMPILING\nWith a fast development and testing environment, you can code your apps once and then compile them almost instantly for testing on desktop or broadcast over wifi to your mobile devices\n\nHELP\nHelp is always at hand with the new integrated help window. The integrated search makes it a cinch to find the advice you need from the hundreds of documented commands. You can even drag & drop commands from help directly into your source code space!\n\nDEBUGGER\nEasily find and fix bugs by using the new live debugging features and the extensive watch list support\n\nASSET BROWSER\nVisualise and manage your media assets with the asset browser window - view media such as images, 3D models and text files and listen to sound and music files\n\nSHADERS\nDeeper shader integration with editing and testing of shaders within the editor - OpenGL shaders and Vulkan shaders are fully supported\n\nVULKAN\nA new Vulkan rendering graphics engine will bring improved speed performance to your apps and will bring improved speed performance, modernisation and future proofing to your apps\n\nSCENE EDITOR\nWith an integrated Scene Editor, it’s a cinch to drag & drop 2D assets to build up and visualise the scenes in your app. It takes the guess work out of coding and shows you instantly a true representation of how your app will look across multiple device resolutions",
+  "description_short": "With AppGameKit Studio we've re-imagined the game development user interface with an all-in-one work space. You can now quickly drag &amp; drop assets to visualise your scenes, code with AppGameKit script, easily browse app media, run live debugging sessions, access online help and lots more!",
+  "genres": [
+    "Экшен"
+  ],
+  "platforms": [
+    "PC"
+  ],
+  "base_price_rub": 3406,
+  "markup_rub": 500,
+  "price_rub": 3906,
+  "original_price_rub": null,
+  "discount_percent": 0,
+  "is_free": false,
+  "trailer_video": null,
+  "trailer_youtube_id": "MLPd3y58dJw",
+  "screenshots": [
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1024640/ss_6472c2b753f8c87733a9ff2fcfbf1cf7cbb43230.1920x1080.jpg?t=1749910888",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1024640/ss_fbda0ea203ebd1db2c766c965d750fe3509d6199.1920x1080.jpg?t=1749910888",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1024640/ss_f09a495b2a322afe16fd6b37039f7ff0c6b19889.1920x1080.jpg?t=1749910888",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1024640/ss_384c98d16cb2099492455bfb4877f484cb9cf56c.1920x1080.jpg?t=1749910888",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1024640/ss_821ecb02175cfe70b3c311ef5e90cc4e4d310b62.1920x1080.jpg?t=1749910888",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1024640/ss_6fa69df3153005903a855f147a99ef714df9f2f8.1920x1080.jpg?t=1749910888",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1024640/ss_297366bb86b0d10b1aeb0d7206fc2ef5e06196cc.1920x1080.jpg?t=1749910888",
+    "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1024640/ss_df7f30cda10388fadcbb0853db0c0329c0d6170e.1920x1080.jpg?t=1749910888"
+  ],
+  "upsells": [
+    {
+      "id": 1033070,
+      "name": "AppGameKit Studio - Particle Editor",
+      "base_price_rub": 1090,
+      "markup_rub": 500,
+      "price_rub": 1590,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1033070/header.jpg?t=1571922429"
+    },
+    {
+      "id": 1107700,
+      "name": "AppGameKit Studio - MEGA Media Pack",
+      "base_price_rub": 1090,
+      "markup_rub": 500,
+      "price_rub": 1590,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1107700/header.jpg?t=1573498618"
+    },
+    {
+      "id": 2123790,
+      "name": "AppGameKit Studio - The Animation Sheet Editor",
+      "base_price_rub": 590,
+      "markup_rub": 500,
+      "price_rub": 1090,
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2123790/header.jpg?t=1664190290"
+    }
+  ],
+  "source": "steam",
+  "updated_at": "2026-11-11T14:10:54Z"
+}
