@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-13T05:47:48Z",
+  "generated_at": "2026-11-13T14:23:08Z",
   "uah_to_rub_rate": 1.820374,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 30120,
+  "count": 30121,
   "games": [
     {
       "id": 313870,
@@ -124336,6 +124336,21 @@
       "price_rub": 695,
       "original_price_rub": null,
       "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 4045480,
+      "title": "Drawquarium",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045480/84e76865a2649679dfb1687354ba0e5a05f44b0b/header.jpg?t=1794578546",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 900,
+      "original_price_rub": 1001,
+      "discount_percent": 20,
       "is_free": false
     },
     {
