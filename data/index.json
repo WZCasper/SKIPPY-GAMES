@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-23T06:28:24Z",
+  "generated_at": "2026-11-23T23:49:52Z",
   "uah_to_rub_rate": 1.821905,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 30138,
+  "count": 30141,
   "games": [
     {
       "id": 313870,
@@ -211450,6 +211450,21 @@
       "is_free": true
     },
     {
+      "id": 4224490,
+      "title": "Internet Cafe 98",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4224490/eddf44416d47a639d8915d921d7f02433917acd5/header.jpg?t=1795448968",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 779,
+      "original_price_rub": 810,
+      "discount_percent": 10,
+      "is_free": false
+    },
+    {
       "id": 2600600,
       "title": "Internet Cafe Evolution",
       "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/2600600/capsule_616x353.jpg",
@@ -334483,6 +334498,21 @@
       "original_price_rub": 1108,
       "discount_percent": 50,
       "is_free": false
+    },
+    {
+      "id": 4877420,
+      "title": "Rec Room: A New Semester",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4877420/6d88436778cc8e50fd67596e2d97e1e2977e6a5a/header.jpg?t=1789452258",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 0,
+      "original_price_rub": null,
+      "discount_percent": 0,
+      "is_free": true
     },
     {
       "id": 1604440,
@@ -482855,6 +482885,21 @@
       "price_rub": 1239,
       "original_price_rub": null,
       "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 2957880,
+      "title": "Witch Potions - Craft of Lust",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2957880/2e45bfa5518600483d77ff555dadd3c184e79a91/header.jpg?t=1795453916",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 966,
+      "original_price_rub": 1019,
+      "discount_percent": 10,
       "is_free": false
     },
     {
