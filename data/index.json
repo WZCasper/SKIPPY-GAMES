@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-26T07:30:13Z",
-  "uah_to_rub_rate": 1.806789,
+  "generated_at": "2026-11-26T21:21:02Z",
+  "uah_to_rub_rate": 1.817141,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 30148,
+  "count": 30149,
   "games": [
     {
       "id": 313870,
@@ -338226,6 +338226,21 @@
       "price_rub": 810,
       "original_price_rub": null,
       "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 4253570,
+      "title": "Reshine",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4253570/646bb149524f3e9fbe8e294fccf88c6d91247ac2/header_alt_assets_1.jpg?t=1795708896",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 789,
+      "original_price_rub": 862,
+      "discount_percent": 20,
       "is_free": false
     },
     {
