@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-11-27T21:06:43Z",
-  "uah_to_rub_rate": 1.821559,
+  "generated_at": "2026-11-28T06:59:45Z",
+  "uah_to_rub_rate": 1.825553,
   "markup_rub": 500,
   "target_catalog_size": 10000,
-  "count": 30154,
+  "count": 30155,
   "games": [
     {
       "id": 313870,
@@ -371145,6 +371145,21 @@
       "price_rub": 979,
       "original_price_rub": null,
       "discount_percent": 0,
+      "is_free": false
+    },
+    {
+      "id": 5484900,
+      "title": "Sinful States of America",
+      "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5484900/7f9d4fd019343da39bdef7d80a62a8aa8052b699/header.jpg?t=1795783922",
+      "genres": [
+        "Экшен"
+      ],
+      "platforms": [
+        "PC"
+      ],
+      "price_rub": 809,
+      "original_price_rub": 955,
+      "discount_percent": 32,
       "is_free": false
     },
     {
